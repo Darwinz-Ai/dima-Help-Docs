@@ -1,52 +1,110 @@
-// import fs from "fs";
-// import path from "path";
-// import matter from "gray-matter";
-// import { globSync } from "glob";
-// import type { ManifestGroup } from "../utils/types.js";
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import { globSync } from "glob";
 
-// const DOCS_DIR = path.join(process.cwd(), "../docs");
-// const MANIFESTS_DIR = path.join(process.cwd(), "../manifests");
-// const SUPPORTED_LOCALES = ["en", "ar"];
-// const SUPPORTED_SERVICES = ["audience-intelligence", "pr-comms"];
+import type { Manifest, ManifestGroup } from "../utils/types.js";
+import { SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
 
-// const formatLabel = (str: string): string =>
-//     str
-//         .split("-")
-//         .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-//         .join(" ");
+const SUPPORTED_PLATFORMS = ["web", "mobile"];
 
-// function generateManifests() {
-//     SUPPORTED_LOCALES.forEach((locale) => {
+const DOCS_DIR = path.join(process.cwd(), "docs");
+const MANIFESTS_DIR = path.join(process.cwd(), "manifests");
 
-//         SUPPORTED_SERVICES.forEach((service) => {
-//             const serviceDir = path.join(DOCS_DIR, locale, service);
+const formatLabel = (str: string): string =>
+    str
+        .split("-")
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ");
 
-//             if (!fs.existsSync(serviceDir)) return; // it shouldn't happen but just in case
+function generateManifests() {
+    SUPPORTED_LOCALES.forEach((locale) => {
 
-//             const groupsMap = new Map<string, ManifestGroup>();
-//             const files = globSync("**/*.md", { cwd: serviceDir });
+        SUPPORTED_SERVICES.forEach((service) => {
+            const serviceDir = path.join(DOCS_DIR, locale, service);
 
-//             console.log(files);
+            if (!fs.existsSync(serviceDir)) return; // it shouldn't happen but just in case
 
-//             files.forEach((file) => {
-//                 const filePath = path.join(serviceDir, file);
-//                 const fileContent = fs.readFileSync(filePath, "utf-8");
-//                 const { data } = matter(fileContent);
+            const groupsMap = new Map<string, ManifestGroup>();
 
-//                 const pathPaths = file.split("/");
-//                 const cleanPath = `${locale}/${service}/${file}`;
-//                 const slug = file.replace(/\.md$/, "");
-//                 const docLabel = data.label || formatLabel(path.basename(file, ".md"));
+            // Added posix: true to force forward slashes if glob supports it
+            const files = globSync("**/*.md", { cwd: serviceDir, posix: true });
 
-//                 const groupFolder = pathPaths[0];
+            files.forEach((file) => {
+                const normalizedFile = file.replace(/\\/g, '/');
 
-//                 // Initializing groups
-//                 if (!groupsMap.has(groupFolder)) {
+                const filePath = path.join(serviceDir, normalizedFile);
+                const fileContent = fs.readFileSync(filePath, "utf-8");
+                const { data } = matter(fileContent);
 
-//                 }
-//             })
-//         })
-//     })
-// }
+                const pathParts = normalizedFile.split("/");
+                const cleanPath = `${locale}/${service}/${normalizedFile}`;
+                const slug = normalizedFile.replace(/\.md$/, "");
+                const docLabel = data.label || formatLabel(path.basename(normalizedFile, ".md"));
 
-// generateManifests();
+                const groupFolder = pathParts[0] ?? "";
+
+                if (typeof groupFolder !== "string" || groupFolder.length === 0) return;
+
+                // 1. Initialize Group
+                if (!groupsMap.has(groupFolder)) {
+                    groupsMap.set(groupFolder, {
+                        label: formatLabel(groupFolder),
+                        items: [],
+                    });
+                }
+
+                const group = groupsMap.get(groupFolder) as ManifestGroup;
+
+                // 2. Build Hierarchy
+                if (pathParts.length === 2) {
+                    group.items.push({
+                        label: docLabel,
+                        slug,
+                        path: cleanPath,
+                        description: data.description || "",
+                    });
+                } else if (pathParts.length === 3) {
+                    const parentFolder = pathParts[1] ?? "";
+                    const parentSlug = `${groupFolder}/${parentFolder}`;
+
+                    let parentItem = group.items.find((item) => item.slug === parentSlug);
+
+                    if (!parentItem) {
+                        parentItem = {
+                            label: formatLabel(parentFolder),
+                            slug: parentSlug,
+                            children: [],
+                        };
+                        group.items.push(parentItem);
+                    }
+
+                    if (!parentItem.children) parentItem.children = [];
+
+                    parentItem.children.push({
+                        label: docLabel,
+                        slug,
+                        path: cleanPath,
+                        description: data.description || "",
+                    });
+                }
+            });
+
+            const manifest: Manifest = {
+                locale,
+                service,
+                groups: Array.from(groupsMap.values()),
+            };
+
+            const outputFolder = path.join(MANIFESTS_DIR, locale);
+            fs.mkdirSync(outputFolder, { recursive: true });
+
+            const outputFile = path.join(outputFolder, `${service}.json`);
+            fs.writeFileSync(outputFile, JSON.stringify(manifest, null, 2));
+
+            console.log(`✅ Generated manifest: manifests/${locale}/${service}.json`);
+        });
+    });
+}
+
+generateManifests();

@@ -1,5 +1,8 @@
 {
+  "name": "company-docs",
+  "version": "1.0.0",
   "type": "module",
+  "private": true,
   "dependencies": {
     "glob": "^13.0.6",
     "gray-matter": "^4.0.3"
@@ -8,5 +11,9 @@
     "@types/node": "^26.1.2",
     "tsx": "^4.23.5",
     "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "build:manifests": "tsx scripts/sync-docs.ts",
+    "precommit": "npm run build:manifests && git add manifests/"
   }
 }
