@@ -15,4 +15,5 @@ export interface Manifest {
     locale: string;
     service: string;
     groups: ManifestGroup[];
+    platform: string
 }

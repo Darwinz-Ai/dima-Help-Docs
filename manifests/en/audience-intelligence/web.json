@@ -1,0 +1,323 @@
+{
+  "locale": "en",
+  "service": "audience-intelligence",
+  "platform": "web",
+  "groups": [
+    {
+      "label": "Monitor",
+      "items": [
+        {
+          "label": "Sort Posts",
+          "slug": "monitor/sort-posts",
+          "path": "en/audience-intelligence/web/monitor/sort-posts.md",
+          "description": ""
+        },
+        {
+          "label": "Pin Posts",
+          "slug": "monitor/pin-posts",
+          "path": "en/audience-intelligence/web/monitor/pin-posts.md",
+          "description": ""
+        },
+        {
+          "label": "Download Report",
+          "slug": "monitor/download-report",
+          "path": "en/audience-intelligence/web/monitor/download-report.md",
+          "description": ""
+        },
+        {
+          "label": "Delete Posts And Relevancy",
+          "slug": "monitor/delete-posts-and-relevancy",
+          "path": "en/audience-intelligence/web/monitor/delete-posts-and-relevancy.md",
+          "description": ""
+        },
+        {
+          "label": "Bulk Actions",
+          "slug": "monitor/bulk-actions",
+          "path": "en/audience-intelligence/web/monitor/bulk-actions.md",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "label": "Manage",
+      "items": [
+        {
+          "label": "Deleted Posts",
+          "slug": "manage/deleted-posts",
+          "path": "en/audience-intelligence/web/manage/deleted-posts.md",
+          "description": ""
+        },
+        {
+          "label": "User",
+          "slug": "manage/user",
+          "children": [
+            {
+              "label": "Edit",
+              "slug": "manage/user/edit",
+              "path": "en/audience-intelligence/web/manage/user/edit.md",
+              "description": ""
+            },
+            {
+              "label": "Delete",
+              "slug": "manage/user/delete",
+              "path": "en/audience-intelligence/web/manage/user/delete.md",
+              "description": ""
+            },
+            {
+              "label": "Add",
+              "slug": "manage/user/add",
+              "path": "en/audience-intelligence/web/manage/user/add.md",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "label": "Topic",
+          "slug": "manage/topic",
+          "children": [
+            {
+              "label": "Edit",
+              "slug": "manage/topic/edit",
+              "path": "en/audience-intelligence/web/manage/topic/edit.md",
+              "description": ""
+            },
+            {
+              "label": "Delete",
+              "slug": "manage/topic/delete",
+              "path": "en/audience-intelligence/web/manage/topic/delete.md",
+              "description": ""
+            },
+            {
+              "label": "Add",
+              "slug": "manage/topic/add",
+              "path": "en/audience-intelligence/web/manage/topic/add.md",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "label": "Own Page",
+          "slug": "manage/own-page",
+          "children": [
+            {
+              "label": "Edit",
+              "slug": "manage/own-page/edit",
+              "path": "en/audience-intelligence/web/manage/own-page/edit.md",
+              "description": ""
+            },
+            {
+              "label": "Delete",
+              "slug": "manage/own-page/delete",
+              "path": "en/audience-intelligence/web/manage/own-page/delete.md",
+              "description": ""
+            },
+            {
+              "label": "Add",
+              "slug": "manage/own-page/add",
+              "path": "en/audience-intelligence/web/manage/own-page/add.md",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "label": "Location",
+          "slug": "manage/location",
+          "children": [
+            {
+              "label": "Edit",
+              "slug": "manage/location/edit",
+              "path": "en/audience-intelligence/web/manage/location/edit.md",
+              "description": ""
+            },
+            {
+              "label": "Delete",
+              "slug": "manage/location/delete",
+              "path": "en/audience-intelligence/web/manage/location/delete.md",
+              "description": ""
+            },
+            {
+              "label": "Add",
+              "slug": "manage/location/add",
+              "path": "en/audience-intelligence/web/manage/location/add.md",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "label": "Group",
+          "slug": "manage/group",
+          "children": [
+            {
+              "label": "Edit",
+              "slug": "manage/group/edit",
+              "path": "en/audience-intelligence/web/manage/group/edit.md",
+              "description": ""
+            },
+            {
+              "label": "Delete",
+              "slug": "manage/group/delete",
+              "path": "en/audience-intelligence/web/manage/group/delete.md",
+              "description": ""
+            },
+            {
+              "label": "Add",
+              "slug": "manage/group/add",
+              "path": "en/audience-intelligence/web/manage/group/add.md",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "label": "Contact",
+          "slug": "manage/contact",
+          "children": [
+            {
+              "label": "Edit",
+              "slug": "manage/contact/edit",
+              "path": "en/audience-intelligence/web/manage/contact/edit.md",
+              "description": ""
+            },
+            {
+              "label": "Delete",
+              "slug": "manage/contact/delete",
+              "path": "en/audience-intelligence/web/manage/contact/delete.md",
+              "description": ""
+            },
+            {
+              "label": "Add",
+              "slug": "manage/contact/add",
+              "path": "en/audience-intelligence/web/manage/contact/add.md",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Made For You",
+      "items": [
+        {
+          "label": "Create Dashboard And Chart",
+          "slug": "made-for-you/create-dashboard-and-chart",
+          "path": "en/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "label": "Influencer Marketing",
+      "items": [
+        {
+          "label": "Matched",
+          "slug": "influencer-marketing/matched",
+          "path": "en/audience-intelligence/web/influencer-marketing/matched.md",
+          "description": ""
+        },
+        {
+          "label": "Influencers Pool",
+          "slug": "influencer-marketing/influencers-pool",
+          "path": "en/audience-intelligence/web/influencer-marketing/influencers-pool.md",
+          "description": ""
+        },
+        {
+          "label": "Impact Analysis",
+          "slug": "influencer-marketing/impact-analysis",
+          "path": "en/audience-intelligence/web/influencer-marketing/impact-analysis.md",
+          "description": ""
+        },
+        {
+          "label": "Filters",
+          "slug": "influencer-marketing/filters",
+          "path": "en/audience-intelligence/web/influencer-marketing/filters.md",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "label": "Google Reviews",
+      "items": [
+        {
+          "label": "Monitoring",
+          "slug": "google-reviews/monitoring",
+          "path": "en/audience-intelligence/web/google-reviews/monitoring.md",
+          "description": ""
+        },
+        {
+          "label": "Analytics",
+          "slug": "google-reviews/analytics",
+          "path": "en/audience-intelligence/web/google-reviews/analytics.md",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "label": "Conversation Analysis",
+      "items": [
+        {
+          "label": "Monitoring",
+          "slug": "conversation-analysis/monitoring",
+          "path": "en/audience-intelligence/web/conversation-analysis/monitoring.md",
+          "description": ""
+        },
+        {
+          "label": "Filters",
+          "slug": "conversation-analysis/filters",
+          "path": "en/audience-intelligence/web/conversation-analysis/filters.md",
+          "description": ""
+        },
+        {
+          "label": "Analytics",
+          "slug": "conversation-analysis/analytics",
+          "path": "en/audience-intelligence/web/conversation-analysis/analytics.md",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "label": "Brands",
+      "items": [
+        {
+          "label": "Add Company",
+          "slug": "brands/add-company",
+          "path": "en/audience-intelligence/web/brands/add-company.md",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "label": "Audience Intelligence",
+      "items": [
+        {
+          "label": "Quick Brand Switcher",
+          "slug": "audience-intelligence/quick-brand-switcher",
+          "path": "en/audience-intelligence/web/audience-intelligence/quick-brand-switcher.md",
+          "description": ""
+        },
+        {
+          "label": "Filter",
+          "slug": "audience-intelligence/filter",
+          "path": "en/audience-intelligence/web/audience-intelligence/filter.md",
+          "description": ""
+        },
+        {
+          "label": "Export And Save",
+          "slug": "audience-intelligence/export-and-save",
+          "path": "en/audience-intelligence/web/audience-intelligence/export-and-save.md",
+          "description": ""
+        },
+        {
+          "label": "Date Filter",
+          "slug": "audience-intelligence/date-filter",
+          "path": "en/audience-intelligence/web/audience-intelligence/date-filter.md",
+          "description": ""
+        },
+        {
+          "label": "Analytics",
+          "slug": "audience-intelligence/analytics",
+          "path": "en/audience-intelligence/web/audience-intelligence/analytics.md",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

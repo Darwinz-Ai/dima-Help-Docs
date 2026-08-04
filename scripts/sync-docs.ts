@@ -19,90 +19,93 @@ const formatLabel = (str: string): string =>
 
 function generateManifests() {
     SUPPORTED_LOCALES.forEach((locale) => {
-
         SUPPORTED_SERVICES.forEach((service) => {
-            const serviceDir = path.join(DOCS_DIR, locale, service);
+            SUPPORTED_PLATFORMS.forEach((platform) => {
 
-            if (!fs.existsSync(serviceDir)) return; // it shouldn't happen but just in case
+                const targetDir = path.join(DOCS_DIR, locale, service, platform);
 
-            const groupsMap = new Map<string, ManifestGroup>();
+                if (!fs.existsSync(targetDir)) return;
 
-            // Added posix: true to force forward slashes if glob supports it
-            const files = globSync("**/*.md", { cwd: serviceDir, posix: true });
+                const groupsMap = new Map<string, ManifestGroup>();
+                const files = globSync("**/*.md", { cwd: targetDir, posix: true });
 
-            files.forEach((file) => {
-                const normalizedFile = file.replace(/\\/g, '/');
+                files.forEach((file) => {
+                    const normalizedFile = file.replace(/\\/g, '/');
 
-                const filePath = path.join(serviceDir, normalizedFile);
-                const fileContent = fs.readFileSync(filePath, "utf-8");
-                const { data } = matter(fileContent);
+                    const filePath = path.join(targetDir, normalizedFile);
+                    const fileContent = fs.readFileSync(filePath, "utf-8");
+                    const { data } = matter(fileContent);
 
-                const pathParts = normalizedFile.split("/");
-                const cleanPath = `${locale}/${service}/${normalizedFile}`;
-                const slug = normalizedFile.replace(/\.md$/, "");
-                const docLabel = data.label || formatLabel(path.basename(normalizedFile, ".md"));
+                    const pathParts = normalizedFile.split("/");
 
-                const groupFolder = pathParts[0] ?? "";
+                    const cleanPath = `${locale}/${service}/${platform}/${normalizedFile}`;
 
-                if (typeof groupFolder !== "string" || groupFolder.length === 0) return;
+                    const slug = normalizedFile.replace(/\.md$/, "");
+                    const docLabel = data.label || formatLabel(path.basename(normalizedFile, ".md"));
 
-                // 1. Initialize Group
-                if (!groupsMap.has(groupFolder)) {
-                    groupsMap.set(groupFolder, {
-                        label: formatLabel(groupFolder),
-                        items: [],
-                    });
-                }
+                    const groupFolder = pathParts[0] ?? "";
 
-                const group = groupsMap.get(groupFolder) as ManifestGroup;
+                    if (typeof groupFolder !== "string" || groupFolder.length === 0) return;
 
-                // 2. Build Hierarchy
-                if (pathParts.length === 2) {
-                    group.items.push({
-                        label: docLabel,
-                        slug,
-                        path: cleanPath,
-                        description: data.description || "",
-                    });
-                } else if (pathParts.length === 3) {
-                    const parentFolder = pathParts[1] ?? "";
-                    const parentSlug = `${groupFolder}/${parentFolder}`;
-
-                    let parentItem = group.items.find((item) => item.slug === parentSlug);
-
-                    if (!parentItem) {
-                        parentItem = {
-                            label: formatLabel(parentFolder),
-                            slug: parentSlug,
-                            children: [],
-                        };
-                        group.items.push(parentItem);
+                    // Initialize Group
+                    if (!groupsMap.has(groupFolder)) {
+                        groupsMap.set(groupFolder, {
+                            label: formatLabel(groupFolder),
+                            items: [],
+                        });
                     }
 
-                    if (!parentItem.children) parentItem.children = [];
+                    const group = groupsMap.get(groupFolder) as ManifestGroup;
 
-                    parentItem.children.push({
-                        label: docLabel,
-                        slug,
-                        path: cleanPath,
-                        description: data.description || "",
-                    });
-                }
+                    // Build Hierarchy
+                    if (pathParts.length === 2) {
+                        group.items.push({
+                            label: docLabel,
+                            slug,
+                            path: cleanPath,
+                            description: data.description || "",
+                        });
+                    } else if (pathParts.length === 3) {
+                        const parentFolder = pathParts[1] ?? "";
+                        const parentSlug = `${groupFolder}/${parentFolder}`;
+
+                        let parentItem = group.items.find((item) => item.slug === parentSlug);
+
+                        if (!parentItem) {
+                            parentItem = {
+                                label: formatLabel(parentFolder),
+                                slug: parentSlug,
+                                children: [],
+                            };
+                            group.items.push(parentItem);
+                        }
+
+                        if (!parentItem.children) parentItem.children = [];
+
+                        parentItem.children.push({
+                            label: docLabel,
+                            slug,
+                            path: cleanPath,
+                            description: data.description || "",
+                        });
+                    }
+                });
+
+                const manifest: Manifest = {
+                    locale,
+                    service,
+                    platform,
+                    groups: Array.from(groupsMap.values()),
+                };
+
+                const outputFolder = path.join(MANIFESTS_DIR, locale, service);
+                fs.mkdirSync(outputFolder, { recursive: true });
+
+                const outputFile = path.join(outputFolder, `${platform}.json`);
+                fs.writeFileSync(outputFile, JSON.stringify(manifest, null, 2));
+
+                console.log(`✅ Generated manifest: manifests/${locale}/${service}/${platform}.json`);
             });
-
-            const manifest: Manifest = {
-                locale,
-                service,
-                groups: Array.from(groupsMap.values()),
-            };
-
-            const outputFolder = path.join(MANIFESTS_DIR, locale);
-            fs.mkdirSync(outputFolder, { recursive: true });
-
-            const outputFile = path.join(outputFolder, `${service}.json`);
-            fs.writeFileSync(outputFile, JSON.stringify(manifest, null, 2));
-
-            console.log(`✅ Generated manifest: manifests/${locale}/${service}.json`);
         });
     });
 }
