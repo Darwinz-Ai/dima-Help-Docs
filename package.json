@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "glob": "^13.0.6",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.5",
+    "typescript": "^7.0.2"
+  }
+}
