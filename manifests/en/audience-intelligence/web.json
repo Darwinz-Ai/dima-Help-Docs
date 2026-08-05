@@ -130,6 +130,39 @@
       ]
     },
     {
+      "label": "Influencers",
+      "items": [
+        {
+          "label": "Matched Influencers",
+          "slug": "influencers/matched-influencers",
+          "path": "en/audience-intelligence/web/influencers/matched-influencers.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Influencers Pool",
+          "slug": "influencers/influencers-pool",
+          "path": "en/audience-intelligence/web/influencers/influencers-pool.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Impact Analysis",
+          "slug": "influencers/impact-analysis",
+          "path": "en/audience-intelligence/web/influencers/impact-analysis.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Filters",
+          "slug": "influencers/filters",
+          "path": "en/audience-intelligence/web/influencers/filters.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
       "label": "Locations",
       "items": [
         {
@@ -301,39 +334,6 @@
               "description": "Learn how to add a new contact in dima to receive important reports"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Influencers",
-      "items": [
-        {
-          "label": "Matched Influencers",
-          "slug": "influencers/matched-influencers",
-          "path": "en/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Influencers Pool",
-          "slug": "influencers/influencers-pool",
-          "path": "en/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Impact Analysis",
-          "slug": "influencers/impact-analysis",
-          "path": "en/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Filters",
-          "slug": "influencers/filters",
-          "path": "en/audience-intelligence/web/influencers/filters.md",
-          "description": "",
-          "order": 999
         }
       ]
     }

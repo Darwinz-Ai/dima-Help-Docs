@@ -130,6 +130,39 @@
       ]
     },
     {
+      "label": "Influencers",
+      "items": [
+        {
+          "label": "Matched Influencers",
+          "slug": "influencers/matched-influencers",
+          "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Influencers Pool",
+          "slug": "influencers/influencers-pool",
+          "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Impact Analysis",
+          "slug": "influencers/impact-analysis",
+          "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Filters",
+          "slug": "influencers/filters",
+          "path": "ar/audience-intelligence/web/influencers/filters.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
       "label": "Locations",
       "items": [
         {
@@ -283,10 +316,10 @@
           "slug": "manage/contact",
           "children": [
             {
-              "label": "Editing a Contact",
+              "label": "تعديل جهة اتصال",
               "slug": "manage/contact/edit-contact",
               "path": "ar/audience-intelligence/web/manage/contact/edit-contact.md",
-              "description": "Learn how to edit an existing contact in dima to keep information up to date"
+              "description": "تعلم كيف تعدل جهة اتصال موجودة في ديما للحفاظ على تحديث المعلومات"
             },
             {
               "label": "حذف جهة اتصال",
@@ -301,39 +334,6 @@
               "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Influencers",
-      "items": [
-        {
-          "label": "Matched Influencers",
-          "slug": "influencers/matched-influencers",
-          "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Influencers Pool",
-          "slug": "influencers/influencers-pool",
-          "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Impact Analysis",
-          "slug": "influencers/impact-analysis",
-          "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Filters",
-          "slug": "influencers/filters",
-          "path": "ar/audience-intelligence/web/influencers/filters.md",
-          "description": "",
-          "order": 999
         }
       ]
     }
