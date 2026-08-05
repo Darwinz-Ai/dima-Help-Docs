@@ -10,7 +10,7 @@ Analytics (own page/groups/audienceIntelligence)
 
 <video controls=""><source src="https://dubble.so/media/video/c6e11844-36dd-4797-8700-4e49431f954c" type="video/mp4"></video>
 
-### [1\. Go to Own Page/Groups/Audience Intelligence and click on the Analytics tab on the right of the sidebar](https://dimaapp.darwinz.ai/en/own-pages-2?h_aWQ9NjY5)
+### [1\. Go to dima](https://dimaapp.darwinz.ai/en/own-pages-2?h_aWQ9NjY5)
 
 ![](https://dubble-prod-01.s3.amazonaws.com/assets/1092576c-071b-4644-bbe9-7f440b95c674.png?0)
 
@@ -91,7 +91,7 @@ The Words / Hashtags tabs on the left switch between everyday words and hashtags
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/ff301d0d-3d75-48b5-a1d4-ad821099e242/1/58.854166666667/54.027398514421?0)
 
-### [10\. Click on highlight](https://dimaapp.darwinz.ai/en/own-pages-2?h_aWQ9NjY5)
+### [10\. Country and Language Distribution](https://dimaapp.darwinz.ai/en/own-pages-2?h_aWQ9NjY5)
 
 **Country Distribution**
 

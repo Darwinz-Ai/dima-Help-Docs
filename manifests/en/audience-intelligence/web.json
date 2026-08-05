@@ -4,47 +4,12 @@
   "platform": "web",
   "groups": [
     {
-      "label": "Monitor",
-      "items": [
-        {
-          "label": "Sort Posts",
-          "slug": "monitor/sort-posts",
-          "path": "en/audience-intelligence/web/monitor/sort-posts.md",
-          "description": ""
-        },
-        {
-          "label": "Pin Posts",
-          "slug": "monitor/pin-posts",
-          "path": "en/audience-intelligence/web/monitor/pin-posts.md",
-          "description": ""
-        },
-        {
-          "label": "Download Report",
-          "slug": "monitor/download-report",
-          "path": "en/audience-intelligence/web/monitor/download-report.md",
-          "description": ""
-        },
-        {
-          "label": "Delete Posts And Relevancy",
-          "slug": "monitor/delete-posts-and-relevancy",
-          "path": "en/audience-intelligence/web/monitor/delete-posts-and-relevancy.md",
-          "description": ""
-        },
-        {
-          "label": "Bulk Actions",
-          "slug": "monitor/bulk-actions",
-          "path": "en/audience-intelligence/web/monitor/bulk-actions.md",
-          "description": ""
-        }
-      ]
-    },
-    {
       "label": "Manage",
       "items": [
         {
-          "label": "Deleted Posts",
-          "slug": "manage/deleted-posts",
-          "path": "en/audience-intelligence/web/manage/deleted-posts.md",
+          "label": "Restoring Deleted Posts",
+          "slug": "manage/restoring-deleted-posts",
+          "path": "en/audience-intelligence/web/manage/restoring-deleted-posts.md",
           "description": ""
         },
         {
@@ -52,21 +17,21 @@
           "slug": "manage/user",
           "children": [
             {
-              "label": "Edit",
-              "slug": "manage/user/edit",
-              "path": "en/audience-intelligence/web/manage/user/edit.md",
+              "label": "Edit User",
+              "slug": "manage/user/edit-user",
+              "path": "en/audience-intelligence/web/manage/user/edit-user.md",
               "description": ""
             },
             {
-              "label": "Delete",
-              "slug": "manage/user/delete",
-              "path": "en/audience-intelligence/web/manage/user/delete.md",
+              "label": "Delete User",
+              "slug": "manage/user/delete-user",
+              "path": "en/audience-intelligence/web/manage/user/delete-user.md",
               "description": ""
             },
             {
-              "label": "Add",
-              "slug": "manage/user/add",
-              "path": "en/audience-intelligence/web/manage/user/add.md",
+              "label": "Create User",
+              "slug": "manage/user/create-user",
+              "path": "en/audience-intelligence/web/manage/user/create-user.md",
               "description": ""
             }
           ]
@@ -76,21 +41,21 @@
           "slug": "manage/topic",
           "children": [
             {
-              "label": "Edit",
-              "slug": "manage/topic/edit",
-              "path": "en/audience-intelligence/web/manage/topic/edit.md",
+              "label": "Edit Topic",
+              "slug": "manage/topic/edit-topic",
+              "path": "en/audience-intelligence/web/manage/topic/edit-topic.md",
               "description": ""
             },
             {
-              "label": "Delete",
-              "slug": "manage/topic/delete",
-              "path": "en/audience-intelligence/web/manage/topic/delete.md",
+              "label": "Delete Topic",
+              "slug": "manage/topic/delete-topic",
+              "path": "en/audience-intelligence/web/manage/topic/delete-topic.md",
               "description": ""
             },
             {
-              "label": "Add",
-              "slug": "manage/topic/add",
-              "path": "en/audience-intelligence/web/manage/topic/add.md",
+              "label": "Add Topic",
+              "slug": "manage/topic/add-topic",
+              "path": "en/audience-intelligence/web/manage/topic/add-topic.md",
               "description": ""
             }
           ]
@@ -100,21 +65,21 @@
           "slug": "manage/own-page",
           "children": [
             {
-              "label": "Edit",
-              "slug": "manage/own-page/edit",
-              "path": "en/audience-intelligence/web/manage/own-page/edit.md",
+              "label": "Edit Own Page",
+              "slug": "manage/own-page/edit-own-page",
+              "path": "en/audience-intelligence/web/manage/own-page/edit-own-page.md",
               "description": ""
             },
             {
-              "label": "Delete",
-              "slug": "manage/own-page/delete",
-              "path": "en/audience-intelligence/web/manage/own-page/delete.md",
+              "label": "Delete Own Page",
+              "slug": "manage/own-page/delete-own-page",
+              "path": "en/audience-intelligence/web/manage/own-page/delete-own-page.md",
               "description": ""
             },
             {
-              "label": "Add",
-              "slug": "manage/own-page/add",
-              "path": "en/audience-intelligence/web/manage/own-page/add.md",
+              "label": "Add Own Page",
+              "slug": "manage/own-page/add-own-page",
+              "path": "en/audience-intelligence/web/manage/own-page/add-own-page.md",
               "description": ""
             }
           ]
@@ -124,21 +89,21 @@
           "slug": "manage/location",
           "children": [
             {
-              "label": "Edit",
-              "slug": "manage/location/edit",
-              "path": "en/audience-intelligence/web/manage/location/edit.md",
+              "label": "Edit Location",
+              "slug": "manage/location/edit-location",
+              "path": "en/audience-intelligence/web/manage/location/edit-location.md",
               "description": ""
             },
             {
-              "label": "Delete",
-              "slug": "manage/location/delete",
-              "path": "en/audience-intelligence/web/manage/location/delete.md",
+              "label": "Delete Location",
+              "slug": "manage/location/delete-location",
+              "path": "en/audience-intelligence/web/manage/location/delete-location.md",
               "description": ""
             },
             {
-              "label": "Add",
-              "slug": "manage/location/add",
-              "path": "en/audience-intelligence/web/manage/location/add.md",
+              "label": "Add Location",
+              "slug": "manage/location/add-location",
+              "path": "en/audience-intelligence/web/manage/location/add-location.md",
               "description": ""
             }
           ]
@@ -148,21 +113,21 @@
           "slug": "manage/group",
           "children": [
             {
-              "label": "Edit",
-              "slug": "manage/group/edit",
-              "path": "en/audience-intelligence/web/manage/group/edit.md",
+              "label": "Edit Group",
+              "slug": "manage/group/edit-group",
+              "path": "en/audience-intelligence/web/manage/group/edit-group.md",
               "description": ""
             },
             {
-              "label": "Delete",
-              "slug": "manage/group/delete",
-              "path": "en/audience-intelligence/web/manage/group/delete.md",
+              "label": "Delete Group",
+              "slug": "manage/group/delete-group",
+              "path": "en/audience-intelligence/web/manage/group/delete-group.md",
               "description": ""
             },
             {
-              "label": "Add",
-              "slug": "manage/group/add",
-              "path": "en/audience-intelligence/web/manage/group/add.md",
+              "label": "Add Group",
+              "slug": "manage/group/add-group",
+              "path": "en/audience-intelligence/web/manage/group/add-group.md",
               "description": ""
             }
           ]
@@ -172,21 +137,21 @@
           "slug": "manage/contact",
           "children": [
             {
-              "label": "Edit",
-              "slug": "manage/contact/edit",
-              "path": "en/audience-intelligence/web/manage/contact/edit.md",
+              "label": "Edit Contact",
+              "slug": "manage/contact/edit-contact",
+              "path": "en/audience-intelligence/web/manage/contact/edit-contact.md",
               "description": ""
             },
             {
-              "label": "Delete",
-              "slug": "manage/contact/delete",
-              "path": "en/audience-intelligence/web/manage/contact/delete.md",
+              "label": "Delete Contact",
+              "slug": "manage/contact/delete-contact",
+              "path": "en/audience-intelligence/web/manage/contact/delete-contact.md",
               "description": ""
             },
             {
-              "label": "Add",
-              "slug": "manage/contact/add",
-              "path": "en/audience-intelligence/web/manage/contact/add.md",
+              "label": "Add Contact",
+              "slug": "manage/contact/add-contact",
+              "path": "en/audience-intelligence/web/manage/contact/add-contact.md",
               "description": ""
             }
           ]
@@ -205,47 +170,47 @@
       ]
     },
     {
-      "label": "Influencer Marketing",
+      "label": "Locations",
       "items": [
         {
-          "label": "Matched",
-          "slug": "influencer-marketing/matched",
-          "path": "en/audience-intelligence/web/influencer-marketing/matched.md",
+          "label": "Monitoring",
+          "slug": "locations/monitoring",
+          "path": "en/audience-intelligence/web/locations/monitoring.md",
           "description": ""
         },
         {
-          "label": "Influencers Pool",
-          "slug": "influencer-marketing/influencers-pool",
-          "path": "en/audience-intelligence/web/influencer-marketing/influencers-pool.md",
-          "description": ""
-        },
-        {
-          "label": "Impact Analysis",
-          "slug": "influencer-marketing/impact-analysis",
-          "path": "en/audience-intelligence/web/influencer-marketing/impact-analysis.md",
-          "description": ""
-        },
-        {
-          "label": "Filters",
-          "slug": "influencer-marketing/filters",
-          "path": "en/audience-intelligence/web/influencer-marketing/filters.md",
+          "label": "Analytics",
+          "slug": "locations/analytics",
+          "path": "en/audience-intelligence/web/locations/analytics.md",
           "description": ""
         }
       ]
     },
     {
-      "label": "Google Reviews",
+      "label": "Influencers",
       "items": [
         {
-          "label": "Monitoring",
-          "slug": "google-reviews/monitoring",
-          "path": "en/audience-intelligence/web/google-reviews/monitoring.md",
+          "label": "Matched Influencers",
+          "slug": "influencers/matched-influencers",
+          "path": "en/audience-intelligence/web/influencers/matched-influencers.md",
           "description": ""
         },
         {
-          "label": "Analytics",
-          "slug": "google-reviews/analytics",
-          "path": "en/audience-intelligence/web/google-reviews/analytics.md",
+          "label": "Influencers Pool",
+          "slug": "influencers/influencers-pool",
+          "path": "en/audience-intelligence/web/influencers/influencers-pool.md",
+          "description": ""
+        },
+        {
+          "label": "Impact Analysis",
+          "slug": "influencers/impact-analysis",
+          "path": "en/audience-intelligence/web/influencers/impact-analysis.md",
+          "description": ""
+        },
+        {
+          "label": "Filters",
+          "slug": "influencers/filters",
+          "path": "en/audience-intelligence/web/influencers/filters.md",
           "description": ""
         }
       ]
@@ -294,9 +259,9 @@
           "description": ""
         },
         {
-          "label": "Filter",
-          "slug": "audience-intelligence/filter",
-          "path": "en/audience-intelligence/web/audience-intelligence/filter.md",
+          "label": "Filters",
+          "slug": "audience-intelligence/filters",
+          "path": "en/audience-intelligence/web/audience-intelligence/filters.md",
           "description": ""
         },
         {
@@ -316,6 +281,42 @@
           "slug": "audience-intelligence/analytics",
           "path": "en/audience-intelligence/web/audience-intelligence/analytics.md",
           "description": ""
+        },
+        {
+          "label": "Monitor",
+          "slug": "audience-intelligence/monitor",
+          "children": [
+            {
+              "label": "Sorting Posts",
+              "slug": "audience-intelligence/monitor/sorting-posts",
+              "path": "en/audience-intelligence/web/audience-intelligence/monitor/sorting-posts.md",
+              "description": ""
+            },
+            {
+              "label": "Pinning Posts",
+              "slug": "audience-intelligence/monitor/pinning-posts",
+              "path": "en/audience-intelligence/web/audience-intelligence/monitor/pinning-posts.md",
+              "description": ""
+            },
+            {
+              "label": "Download Report",
+              "slug": "audience-intelligence/monitor/download-report",
+              "path": "en/audience-intelligence/web/audience-intelligence/monitor/download-report.md",
+              "description": ""
+            },
+            {
+              "label": "Deleting Posts And Recalibrate Relevancy",
+              "slug": "audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy",
+              "path": "en/audience-intelligence/web/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy.md",
+              "description": ""
+            },
+            {
+              "label": "Bulk Actions",
+              "slug": "audience-intelligence/monitor/bulk-actions",
+              "path": "en/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
+              "description": ""
+            }
+          ]
         }
       ]
     }
