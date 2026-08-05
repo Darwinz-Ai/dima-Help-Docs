@@ -10,7 +10,7 @@ By keeping our documentation in this Git repository, we can serve dynamic, local
 
 To support multiple languages, products, and platforms, this repository strictly follows a **Locale ➔ Service ➔ Platform** hierarchy.
 
-\`\`\`text
+```text
 docs/
 ├── en/ <-- 1. Locale (en, ar)
 │ ├── audience-intelligence/ <-- 2. Service
@@ -25,7 +25,7 @@ docs/
 │ └── web/
 ├── ar/
 │ └── ... (Mirror of 'en' structure)
-\`\`\`
+```
 
 ---
 
