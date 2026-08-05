@@ -89,6 +89,7 @@ function generateManifests() {
                             slug,
                             path: cleanPath,
                             description: data.description || "",
+                            order: docOrder
                         });
                     }
                 });

@@ -1,4 +1,3 @@
-
 # dima© Help Docs
 
 This repository is the single source of truth for all public-facing, end-user documentation across our Web and Mobile apps.
@@ -7,7 +6,7 @@ By keeping our documentation in this Git repository, we can serve dynamic, local
 
 ---
 
-##  Folder Architecture
+## Folder Architecture
 
 To support multiple languages, products, and platforms, this repository strictly follows a **Locale ➔ Service ➔ Platform** hierarchy.
 
@@ -30,7 +29,7 @@ docs/
 
 ---
 
-##  How to Add or Edit a Document
+## How to Add or Edit a Document
 
 ### 1. Naming Conventions (Crucial!)
 
@@ -47,12 +46,14 @@ docs/
 Every Markdown file **must** begin with a YAML frontmatter block. This metadata is parsed by the frontend to display the correct titles and descriptions in the UI, which is especially important for localized titles in Arabic.
 
 **Template:**
+
 ```
 
 ---
 
 label: "Your UI Sidebar Title"
 description: "A brief 1-2 sentence description for SEO and subheadings."
+order: 999
 
 ---
 
@@ -62,12 +63,14 @@ Your markdown content goes here. You can use **bold**, _italics_, and lists.
 ```
 
 **Example (English - `docs/en/.../brands/add-company.md`):**
+
 ```
 
 ---
 
 label: "Add Company"
 description: "Learn how to add a new brand company to your workspace."
+order: 1
 
 ---
 
@@ -77,6 +80,7 @@ To add a company, navigate to the...
 ```
 
 **Example (Arabic - `docs/ar/.../brands/add-company.md`):**
+
 ```
 
 ---
@@ -93,7 +97,7 @@ description: "تعرف على كيفية إضافة شركة جديدة إلى �
 
 ---
 
-##  Local Development & Manifest Generation
+## Local Development & Manifest Generation
 
 Our frontend app does not crawl this repository directly. Instead, they read from JSON manifest files (`manifests/`) that map out the folder structure.
 
@@ -108,6 +112,7 @@ npm install
 ### Generate Manifests
 
 Run this command to crawl the `docs/` folder and generate fresh JSON maps in the `manifests/` folder.
+
 ```bash
 npm run build:manifests
 ```

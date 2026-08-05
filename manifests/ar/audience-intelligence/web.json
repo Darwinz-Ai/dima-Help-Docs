@@ -61,31 +61,36 @@
               "label": "Sorting Posts",
               "slug": "audience-intelligence/monitor/sorting-posts",
               "path": "ar/audience-intelligence/web/audience-intelligence/monitor/sorting-posts.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Pinning Posts",
               "slug": "audience-intelligence/monitor/pinning-posts",
               "path": "ar/audience-intelligence/web/audience-intelligence/monitor/pinning-posts.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Download Report",
               "slug": "audience-intelligence/monitor/download-report",
               "path": "ar/audience-intelligence/web/audience-intelligence/monitor/download-report.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Deleting Posts And Recalibrate Relevancy",
               "slug": "audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy",
               "path": "ar/audience-intelligence/web/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Bulk Actions",
               "slug": "audience-intelligence/monitor/bulk-actions",
               "path": "ar/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
-              "description": ""
+              "description": "",
+              "order": 999
             }
           ]
         }
@@ -199,19 +204,22 @@
               "label": "Edit User",
               "slug": "manage/user/edit-user",
               "path": "ar/audience-intelligence/web/manage/user/edit-user.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Delete User",
               "slug": "manage/user/delete-user",
               "path": "ar/audience-intelligence/web/manage/user/delete-user.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Create User",
               "slug": "manage/user/create-user",
               "path": "ar/audience-intelligence/web/manage/user/create-user.md",
-              "description": ""
+              "description": "",
+              "order": 999
             }
           ]
         },
@@ -223,19 +231,22 @@
               "label": "Edit Topic",
               "slug": "manage/topic/edit-topic",
               "path": "ar/audience-intelligence/web/manage/topic/edit-topic.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Delete Topic",
               "slug": "manage/topic/delete-topic",
               "path": "ar/audience-intelligence/web/manage/topic/delete-topic.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Add Topic",
               "slug": "manage/topic/add-topic",
               "path": "ar/audience-intelligence/web/manage/topic/add-topic.md",
-              "description": ""
+              "description": "",
+              "order": 999
             }
           ]
         },
@@ -247,19 +258,22 @@
               "label": "Edit Own Page",
               "slug": "manage/own-page/edit-own-page",
               "path": "ar/audience-intelligence/web/manage/own-page/edit-own-page.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Delete Own Page",
               "slug": "manage/own-page/delete-own-page",
               "path": "ar/audience-intelligence/web/manage/own-page/delete-own-page.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Add Own Page",
               "slug": "manage/own-page/add-own-page",
               "path": "ar/audience-intelligence/web/manage/own-page/add-own-page.md",
-              "description": ""
+              "description": "",
+              "order": 999
             }
           ]
         },
@@ -271,19 +285,22 @@
               "label": "Edit Location",
               "slug": "manage/location/edit-location",
               "path": "ar/audience-intelligence/web/manage/location/edit-location.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Delete Location",
               "slug": "manage/location/delete-location",
               "path": "ar/audience-intelligence/web/manage/location/delete-location.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Add Location",
               "slug": "manage/location/add-location",
               "path": "ar/audience-intelligence/web/manage/location/add-location.md",
-              "description": ""
+              "description": "",
+              "order": 999
             }
           ]
         },
@@ -295,19 +312,22 @@
               "label": "Edit Group",
               "slug": "manage/group/edit-group",
               "path": "ar/audience-intelligence/web/manage/group/edit-group.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Delete Group",
               "slug": "manage/group/delete-group",
               "path": "ar/audience-intelligence/web/manage/group/delete-group.md",
-              "description": ""
+              "description": "",
+              "order": 999
             },
             {
               "label": "Add Group",
               "slug": "manage/group/add-group",
               "path": "ar/audience-intelligence/web/manage/group/add-group.md",
-              "description": ""
+              "description": "",
+              "order": 999
             }
           ]
         },
@@ -316,22 +336,25 @@
           "slug": "manage/contact",
           "children": [
             {
+              "label": "إضافة جهة اتصال",
+              "slug": "manage/contact/add-contact",
+              "path": "ar/audience-intelligence/web/manage/contact/add-contact.md",
+              "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة",
+              "order": 1
+            },
+            {
               "label": "تعديل جهة اتصال",
               "slug": "manage/contact/edit-contact",
               "path": "ar/audience-intelligence/web/manage/contact/edit-contact.md",
-              "description": "تعلم كيف تعدل جهة اتصال موجودة في ديما للحفاظ على تحديث المعلومات"
+              "description": "تعلم كيف تعدل جهة اتصال موجودة في ديما للحفاظ على تحديث المعلومات",
+              "order": 2
             },
             {
               "label": "حذف جهة اتصال",
               "slug": "manage/contact/delete-contact",
               "path": "ar/audience-intelligence/web/manage/contact/delete-contact.md",
-              "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما"
-            },
-            {
-              "label": "إضافة جهة اتصال",
-              "slug": "manage/contact/add-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/add-contact.md",
-              "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة"
+              "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما",
+              "order": 3
             }
           ]
         }
