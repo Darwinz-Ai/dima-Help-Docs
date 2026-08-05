@@ -4,7 +4,7 @@ import matter from "gray-matter";
 import { globSync } from "glob";
 
 import type { Manifest, ManifestGroup } from "../utils/types.js";
-import { GROUP_ORDER, SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
+import { GROUP_ORDER, GROUP_TRANSLATIONS, SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
 
 const SUPPORTED_PLATFORMS = ["web", "mobile"];
 
@@ -50,8 +50,11 @@ function generateManifests() {
 
                     // Initialize Group
                     if (!groupsMap.has(groupFolder)) {
+                        const defaultLabel = formatLabel(groupFolder);
+                        const localizedLabel = GROUP_TRANSLATIONS[locale]?.[defaultLabel] || defaultLabel;
+
                         groupsMap.set(groupFolder, {
-                            label: formatLabel(groupFolder),
+                            label: localizedLabel,
                             items: [],
                         });
                     }
@@ -74,8 +77,10 @@ function generateManifests() {
                         let parentItem = group.items.find((item) => item.slug === parentSlug);
 
                         if (!parentItem) {
+                            const defaultParentLabel = formatLabel(parentFolder);
+                            const localizedParentLabel = GROUP_TRANSLATIONS[locale]?.[defaultParentLabel] || defaultParentLabel;
                             parentItem = {
-                                label: formatLabel(parentFolder),
+                                label: localizedParentLabel,
                                 slug: parentSlug,
                                 children: [],
                             };

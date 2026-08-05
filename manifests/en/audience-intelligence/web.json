@@ -336,21 +336,21 @@
           "slug": "manage/contact",
           "children": [
             {
-              "label": "Adding a Contact",
+              "label": "Adding Contact",
               "slug": "manage/contact/add-contact",
               "path": "en/audience-intelligence/web/manage/contact/add-contact.md",
               "description": "Learn how to add a new contact in dima to receive important reports",
               "order": 1
             },
             {
-              "label": "Editing a Contact",
+              "label": "Edit Contact",
               "slug": "manage/contact/edit-contact",
               "path": "en/audience-intelligence/web/manage/contact/edit-contact.md",
               "description": "Learn how to edit an existing contact in dima to keep information up to date",
               "order": 2
             },
             {
-              "label": "Deleting a Contact",
+              "label": "Delete Contact",
               "slug": "manage/contact/delete-contact",
               "path": "en/audience-intelligence/web/manage/contact/delete-contact.md",
               "description": "Learn how to remove an existing contact from dima",

@@ -4,7 +4,271 @@
   "platform": "web",
   "groups": [
     {
-      "label": "Brands",
+      "label": "الإدارة",
+      "items": [
+        {
+          "label": "Restoring Deleted Posts",
+          "slug": "manage/restoring-deleted-posts",
+          "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "المستخدمين",
+          "slug": "manage/user",
+          "children": [
+            {
+              "label": "Edit User",
+              "slug": "manage/user/edit-user",
+              "path": "ar/audience-intelligence/web/manage/user/edit-user.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Delete User",
+              "slug": "manage/user/delete-user",
+              "path": "ar/audience-intelligence/web/manage/user/delete-user.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Create User",
+              "slug": "manage/user/create-user",
+              "path": "ar/audience-intelligence/web/manage/user/create-user.md",
+              "description": "",
+              "order": 999
+            }
+          ]
+        },
+        {
+          "label": "المواضيع",
+          "slug": "manage/topic",
+          "children": [
+            {
+              "label": "Edit Topic",
+              "slug": "manage/topic/edit-topic",
+              "path": "ar/audience-intelligence/web/manage/topic/edit-topic.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Delete Topic",
+              "slug": "manage/topic/delete-topic",
+              "path": "ar/audience-intelligence/web/manage/topic/delete-topic.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Add Topic",
+              "slug": "manage/topic/add-topic",
+              "path": "ar/audience-intelligence/web/manage/topic/add-topic.md",
+              "description": "",
+              "order": 999
+            }
+          ]
+        },
+        {
+          "label": "الصفحات الشخصية",
+          "slug": "manage/own-page",
+          "children": [
+            {
+              "label": "Edit Own Page",
+              "slug": "manage/own-page/edit-own-page",
+              "path": "ar/audience-intelligence/web/manage/own-page/edit-own-page.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Delete Own Page",
+              "slug": "manage/own-page/delete-own-page",
+              "path": "ar/audience-intelligence/web/manage/own-page/delete-own-page.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Add Own Page",
+              "slug": "manage/own-page/add-own-page",
+              "path": "ar/audience-intelligence/web/manage/own-page/add-own-page.md",
+              "description": "",
+              "order": 999
+            }
+          ]
+        },
+        {
+          "label": "الموقع",
+          "slug": "manage/location",
+          "children": [
+            {
+              "label": "Edit Location",
+              "slug": "manage/location/edit-location",
+              "path": "ar/audience-intelligence/web/manage/location/edit-location.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Delete Location",
+              "slug": "manage/location/delete-location",
+              "path": "ar/audience-intelligence/web/manage/location/delete-location.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Add Location",
+              "slug": "manage/location/add-location",
+              "path": "ar/audience-intelligence/web/manage/location/add-location.md",
+              "description": "",
+              "order": 999
+            }
+          ]
+        },
+        {
+          "label": "المجموعات",
+          "slug": "manage/group",
+          "children": [
+            {
+              "label": "Edit Group",
+              "slug": "manage/group/edit-group",
+              "path": "ar/audience-intelligence/web/manage/group/edit-group.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Delete Group",
+              "slug": "manage/group/delete-group",
+              "path": "ar/audience-intelligence/web/manage/group/delete-group.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Add Group",
+              "slug": "manage/group/add-group",
+              "path": "ar/audience-intelligence/web/manage/group/add-group.md",
+              "description": "",
+              "order": 999
+            }
+          ]
+        },
+        {
+          "label": "إعدادات وسائل الاتصال",
+          "slug": "manage/contact",
+          "children": [
+            {
+              "label": "إضافة جهة اتصال",
+              "slug": "manage/contact/add-contact",
+              "path": "ar/audience-intelligence/web/manage/contact/add-contact.md",
+              "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة",
+              "order": 1
+            },
+            {
+              "label": "تعديل جهة اتصال",
+              "slug": "manage/contact/edit-contact",
+              "path": "ar/audience-intelligence/web/manage/contact/edit-contact.md",
+              "description": "تعلم كيف تعدل جهة اتصال موجودة في ديما للحفاظ على تحديث المعلومات",
+              "order": 2
+            },
+            {
+              "label": "حذف جهة اتصال",
+              "slug": "manage/contact/delete-contact",
+              "path": "ar/audience-intelligence/web/manage/contact/delete-contact.md",
+              "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما",
+              "order": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "مصنوع لك",
+      "items": [
+        {
+          "label": "Create Dashboard And Chart",
+          "slug": "made-for-you/create-dashboard-and-chart",
+          "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "المواقع",
+      "items": [
+        {
+          "label": "Monitoring",
+          "slug": "locations/monitoring",
+          "path": "ar/audience-intelligence/web/locations/monitoring.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Analytics",
+          "slug": "locations/analytics",
+          "path": "ar/audience-intelligence/web/locations/analytics.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "المؤثرين",
+      "items": [
+        {
+          "label": "Matched Influencers",
+          "slug": "influencers/matched-influencers",
+          "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Influencers Pool",
+          "slug": "influencers/influencers-pool",
+          "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Impact Analysis",
+          "slug": "influencers/impact-analysis",
+          "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Filters",
+          "slug": "influencers/filters",
+          "path": "ar/audience-intelligence/web/influencers/filters.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "تحليل المحادثات",
+      "items": [
+        {
+          "label": "Monitoring",
+          "slug": "conversation-analysis/monitoring",
+          "path": "ar/audience-intelligence/web/conversation-analysis/monitoring.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Filters",
+          "slug": "conversation-analysis/filters",
+          "path": "ar/audience-intelligence/web/conversation-analysis/filters.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Analytics",
+          "slug": "conversation-analysis/analytics",
+          "path": "ar/audience-intelligence/web/conversation-analysis/analytics.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "الجهات",
       "items": [
         {
           "label": "Add Company",
@@ -16,7 +280,7 @@
       ]
     },
     {
-      "label": "Audience Intelligence",
+      "label": "رؤى الجمهور",
       "items": [
         {
           "label": "Quick Brand Switcher",
@@ -54,7 +318,7 @@
           "order": 999
         },
         {
-          "label": "Monitor",
+          "label": "الرصد",
           "slug": "audience-intelligence/monitor",
           "children": [
             {
@@ -91,270 +355,6 @@
               "path": "ar/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
               "description": "",
               "order": 999
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Made For You",
-      "items": [
-        {
-          "label": "Create Dashboard And Chart",
-          "slug": "made-for-you/create-dashboard-and-chart",
-          "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": "",
-          "order": 999
-        }
-      ]
-    },
-    {
-      "label": "Conversation Analysis",
-      "items": [
-        {
-          "label": "Monitoring",
-          "slug": "conversation-analysis/monitoring",
-          "path": "ar/audience-intelligence/web/conversation-analysis/monitoring.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Filters",
-          "slug": "conversation-analysis/filters",
-          "path": "ar/audience-intelligence/web/conversation-analysis/filters.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Analytics",
-          "slug": "conversation-analysis/analytics",
-          "path": "ar/audience-intelligence/web/conversation-analysis/analytics.md",
-          "description": "",
-          "order": 999
-        }
-      ]
-    },
-    {
-      "label": "Influencers",
-      "items": [
-        {
-          "label": "Matched Influencers",
-          "slug": "influencers/matched-influencers",
-          "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Influencers Pool",
-          "slug": "influencers/influencers-pool",
-          "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Impact Analysis",
-          "slug": "influencers/impact-analysis",
-          "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Filters",
-          "slug": "influencers/filters",
-          "path": "ar/audience-intelligence/web/influencers/filters.md",
-          "description": "",
-          "order": 999
-        }
-      ]
-    },
-    {
-      "label": "Locations",
-      "items": [
-        {
-          "label": "Monitoring",
-          "slug": "locations/monitoring",
-          "path": "ar/audience-intelligence/web/locations/monitoring.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Analytics",
-          "slug": "locations/analytics",
-          "path": "ar/audience-intelligence/web/locations/analytics.md",
-          "description": "",
-          "order": 999
-        }
-      ]
-    },
-    {
-      "label": "Manage",
-      "items": [
-        {
-          "label": "Restoring Deleted Posts",
-          "slug": "manage/restoring-deleted-posts",
-          "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "User",
-          "slug": "manage/user",
-          "children": [
-            {
-              "label": "Edit User",
-              "slug": "manage/user/edit-user",
-              "path": "ar/audience-intelligence/web/manage/user/edit-user.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete User",
-              "slug": "manage/user/delete-user",
-              "path": "ar/audience-intelligence/web/manage/user/delete-user.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Create User",
-              "slug": "manage/user/create-user",
-              "path": "ar/audience-intelligence/web/manage/user/create-user.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Topic",
-          "slug": "manage/topic",
-          "children": [
-            {
-              "label": "Edit Topic",
-              "slug": "manage/topic/edit-topic",
-              "path": "ar/audience-intelligence/web/manage/topic/edit-topic.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Topic",
-              "slug": "manage/topic/delete-topic",
-              "path": "ar/audience-intelligence/web/manage/topic/delete-topic.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Topic",
-              "slug": "manage/topic/add-topic",
-              "path": "ar/audience-intelligence/web/manage/topic/add-topic.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Own Page",
-          "slug": "manage/own-page",
-          "children": [
-            {
-              "label": "Edit Own Page",
-              "slug": "manage/own-page/edit-own-page",
-              "path": "ar/audience-intelligence/web/manage/own-page/edit-own-page.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Own Page",
-              "slug": "manage/own-page/delete-own-page",
-              "path": "ar/audience-intelligence/web/manage/own-page/delete-own-page.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Own Page",
-              "slug": "manage/own-page/add-own-page",
-              "path": "ar/audience-intelligence/web/manage/own-page/add-own-page.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Location",
-          "slug": "manage/location",
-          "children": [
-            {
-              "label": "Edit Location",
-              "slug": "manage/location/edit-location",
-              "path": "ar/audience-intelligence/web/manage/location/edit-location.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Location",
-              "slug": "manage/location/delete-location",
-              "path": "ar/audience-intelligence/web/manage/location/delete-location.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Location",
-              "slug": "manage/location/add-location",
-              "path": "ar/audience-intelligence/web/manage/location/add-location.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Group",
-          "slug": "manage/group",
-          "children": [
-            {
-              "label": "Edit Group",
-              "slug": "manage/group/edit-group",
-              "path": "ar/audience-intelligence/web/manage/group/edit-group.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Group",
-              "slug": "manage/group/delete-group",
-              "path": "ar/audience-intelligence/web/manage/group/delete-group.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Group",
-              "slug": "manage/group/add-group",
-              "path": "ar/audience-intelligence/web/manage/group/add-group.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Contact",
-          "slug": "manage/contact",
-          "children": [
-            {
-              "label": "إضافة جهة اتصال",
-              "slug": "manage/contact/add-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/add-contact.md",
-              "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة",
-              "order": 1
-            },
-            {
-              "label": "تعديل جهة اتصال",
-              "slug": "manage/contact/edit-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/edit-contact.md",
-              "description": "تعلم كيف تعدل جهة اتصال موجودة في ديما للحفاظ على تحديث المعلومات",
-              "order": 2
-            },
-            {
-              "label": "حذف جهة اتصال",
-              "slug": "manage/contact/delete-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/delete-contact.md",
-              "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما",
-              "order": 3
             }
           ]
         }

@@ -10,3 +10,24 @@ export const GROUP_ORDER = [
     "Locations",
     "Manage",
 ];
+
+export const GROUP_TRANSLATIONS: Record<string, Record<string, string>> = {
+    ar: {
+        "Brands": "الجهات",
+        "Audience Intelligence": "رؤى الجمهور",
+        "Monitor": "الرصد",
+        "Manage": "الإدارة",
+        "Made For You": "مصنوع لك",
+        "Conversation Analysis": "تحليل المحادثات",
+        "Influencers": "المؤثرين",
+        "Locations": "المواقع",
+
+        // Nested folders
+        "Own Page": "الصفحات الشخصية",
+        "Location": "الموقع",
+        "Contact": "إعدادات وسائل الاتصال",
+        "Group": "المجموعات",
+        "Topic": "المواضيع",
+        "User": "المستخدمين"
+    }
+};
