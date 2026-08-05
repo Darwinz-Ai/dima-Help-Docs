@@ -6,7 +6,7 @@ export const GROUP_ORDER = [
     "Monitor",
     "Made For You",
     "Conversation Analysis",
-    "Influencer Marketing",
+    "Influencers",
     "Locations",
     "Manage",
 ];
