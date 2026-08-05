@@ -1,12 +1,17 @@
-Delete Contact
-==============
+---
+label: "Deleting a Contact"
+description: "Learn how to remove an existing contact from dima"
+order: 3
+---
 
-* * *
+# Delete Contact
 
-*   Created by Hussein El Rayes on 7/15/2026
-*   [Edit original on dubble](https://dubble.so/guides/delete-contact-dbb6cbrpgjh8fjewlnao)
+---
 
-* * *
+- Created by Hussein El Rayes on 7/15/2026
+- [Edit original on dubble](https://dubble.so/guides/delete-contact-dbb6cbrpgjh8fjewlnao)
+
+---
 
 <video controls=""><source src="https://dubble.so/media/video/28751f6d-bcb9-4bda-9f5a-3c325018b2c8" type="video/mp4"></video>
 

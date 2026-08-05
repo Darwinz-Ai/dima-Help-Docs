@@ -4,13 +4,159 @@
   "platform": "web",
   "groups": [
     {
+      "label": "Brands",
+      "items": [
+        {
+          "label": "Add Company",
+          "slug": "brands/add-company",
+          "path": "ar/audience-intelligence/web/brands/add-company.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "Audience Intelligence",
+      "items": [
+        {
+          "label": "Quick Brand Switcher",
+          "slug": "audience-intelligence/quick-brand-switcher",
+          "path": "ar/audience-intelligence/web/audience-intelligence/quick-brand-switcher.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Filters",
+          "slug": "audience-intelligence/filters",
+          "path": "ar/audience-intelligence/web/audience-intelligence/filters.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Export And Save",
+          "slug": "audience-intelligence/export-and-save",
+          "path": "ar/audience-intelligence/web/audience-intelligence/export-and-save.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Date Filter",
+          "slug": "audience-intelligence/date-filter",
+          "path": "ar/audience-intelligence/web/audience-intelligence/date-filter.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Analytics",
+          "slug": "audience-intelligence/analytics",
+          "path": "ar/audience-intelligence/web/audience-intelligence/analytics.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Monitor",
+          "slug": "audience-intelligence/monitor",
+          "children": [
+            {
+              "label": "Sorting Posts",
+              "slug": "audience-intelligence/monitor/sorting-posts",
+              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/sorting-posts.md",
+              "description": ""
+            },
+            {
+              "label": "Pinning Posts",
+              "slug": "audience-intelligence/monitor/pinning-posts",
+              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/pinning-posts.md",
+              "description": ""
+            },
+            {
+              "label": "Download Report",
+              "slug": "audience-intelligence/monitor/download-report",
+              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/download-report.md",
+              "description": ""
+            },
+            {
+              "label": "Deleting Posts And Recalibrate Relevancy",
+              "slug": "audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy",
+              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy.md",
+              "description": ""
+            },
+            {
+              "label": "Bulk Actions",
+              "slug": "audience-intelligence/monitor/bulk-actions",
+              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Made For You",
+      "items": [
+        {
+          "label": "Create Dashboard And Chart",
+          "slug": "made-for-you/create-dashboard-and-chart",
+          "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "Conversation Analysis",
+      "items": [
+        {
+          "label": "Monitoring",
+          "slug": "conversation-analysis/monitoring",
+          "path": "ar/audience-intelligence/web/conversation-analysis/monitoring.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Filters",
+          "slug": "conversation-analysis/filters",
+          "path": "ar/audience-intelligence/web/conversation-analysis/filters.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Analytics",
+          "slug": "conversation-analysis/analytics",
+          "path": "ar/audience-intelligence/web/conversation-analysis/analytics.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "label": "Locations",
+      "items": [
+        {
+          "label": "Monitoring",
+          "slug": "locations/monitoring",
+          "path": "ar/audience-intelligence/web/locations/monitoring.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Analytics",
+          "slug": "locations/analytics",
+          "path": "ar/audience-intelligence/web/locations/analytics.md",
+          "description": "",
+          "order": 999
+        }
+      ]
+    },
+    {
       "label": "Manage",
       "items": [
         {
           "label": "Restoring Deleted Posts",
           "slug": "manage/restoring-deleted-posts",
           "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
-          "description": ""
+          "description": "",
+          "order": 999
         },
         {
           "label": "User",
@@ -137,52 +283,24 @@
           "slug": "manage/contact",
           "children": [
             {
-              "label": "Edit Contact",
+              "label": "Editing a Contact",
               "slug": "manage/contact/edit-contact",
               "path": "ar/audience-intelligence/web/manage/contact/edit-contact.md",
-              "description": ""
+              "description": "Learn how to edit an existing contact in dima to keep information up to date"
             },
             {
-              "label": "Delete Contact",
+              "label": "حذف جهة اتصال",
               "slug": "manage/contact/delete-contact",
               "path": "ar/audience-intelligence/web/manage/contact/delete-contact.md",
-              "description": ""
+              "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما"
             },
             {
-              "label": "Add Contact",
+              "label": "إضافة جهة اتصال",
               "slug": "manage/contact/add-contact",
               "path": "ar/audience-intelligence/web/manage/contact/add-contact.md",
-              "description": ""
+              "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Made For You",
-      "items": [
-        {
-          "label": "Create Dashboard And Chart",
-          "slug": "made-for-you/create-dashboard-and-chart",
-          "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "label": "Locations",
-      "items": [
-        {
-          "label": "Monitoring",
-          "slug": "locations/monitoring",
-          "path": "ar/audience-intelligence/web/locations/monitoring.md",
-          "description": ""
-        },
-        {
-          "label": "Analytics",
-          "slug": "locations/analytics",
-          "path": "ar/audience-intelligence/web/locations/analytics.md",
-          "description": ""
         }
       ]
     },
@@ -193,130 +311,29 @@
           "label": "Matched Influencers",
           "slug": "influencers/matched-influencers",
           "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": ""
+          "description": "",
+          "order": 999
         },
         {
           "label": "Influencers Pool",
           "slug": "influencers/influencers-pool",
           "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": ""
+          "description": "",
+          "order": 999
         },
         {
           "label": "Impact Analysis",
           "slug": "influencers/impact-analysis",
           "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": ""
+          "description": "",
+          "order": 999
         },
         {
           "label": "Filters",
           "slug": "influencers/filters",
           "path": "ar/audience-intelligence/web/influencers/filters.md",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "label": "Conversation Analysis",
-      "items": [
-        {
-          "label": "Monitoring",
-          "slug": "conversation-analysis/monitoring",
-          "path": "ar/audience-intelligence/web/conversation-analysis/monitoring.md",
-          "description": ""
-        },
-        {
-          "label": "Filters",
-          "slug": "conversation-analysis/filters",
-          "path": "ar/audience-intelligence/web/conversation-analysis/filters.md",
-          "description": ""
-        },
-        {
-          "label": "Analytics",
-          "slug": "conversation-analysis/analytics",
-          "path": "ar/audience-intelligence/web/conversation-analysis/analytics.md",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "label": "Brands",
-      "items": [
-        {
-          "label": "Add Company",
-          "slug": "brands/add-company",
-          "path": "ar/audience-intelligence/web/brands/add-company.md",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "label": "Audience Intelligence",
-      "items": [
-        {
-          "label": "Quick Brand Switcher",
-          "slug": "audience-intelligence/quick-brand-switcher",
-          "path": "ar/audience-intelligence/web/audience-intelligence/quick-brand-switcher.md",
-          "description": ""
-        },
-        {
-          "label": "Filters",
-          "slug": "audience-intelligence/filters",
-          "path": "ar/audience-intelligence/web/audience-intelligence/filters.md",
-          "description": ""
-        },
-        {
-          "label": "Export And Save",
-          "slug": "audience-intelligence/export-and-save",
-          "path": "ar/audience-intelligence/web/audience-intelligence/export-and-save.md",
-          "description": ""
-        },
-        {
-          "label": "Date Filter",
-          "slug": "audience-intelligence/date-filter",
-          "path": "ar/audience-intelligence/web/audience-intelligence/date-filter.md",
-          "description": ""
-        },
-        {
-          "label": "Analytics",
-          "slug": "audience-intelligence/analytics",
-          "path": "ar/audience-intelligence/web/audience-intelligence/analytics.md",
-          "description": ""
-        },
-        {
-          "label": "Monitor",
-          "slug": "audience-intelligence/monitor",
-          "children": [
-            {
-              "label": "Sorting Posts",
-              "slug": "audience-intelligence/monitor/sorting-posts",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/sorting-posts.md",
-              "description": ""
-            },
-            {
-              "label": "Pinning Posts",
-              "slug": "audience-intelligence/monitor/pinning-posts",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/pinning-posts.md",
-              "description": ""
-            },
-            {
-              "label": "Download Report",
-              "slug": "audience-intelligence/monitor/download-report",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/download-report.md",
-              "description": ""
-            },
-            {
-              "label": "Deleting Posts And Recalibrate Relevancy",
-              "slug": "audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy.md",
-              "description": ""
-            },
-            {
-              "label": "Bulk Actions",
-              "slug": "audience-intelligence/monitor/bulk-actions",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
-              "description": ""
-            }
-          ]
+          "description": "",
+          "order": 999
         }
       ]
     }

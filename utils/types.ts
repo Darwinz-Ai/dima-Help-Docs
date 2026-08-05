@@ -4,6 +4,7 @@ export interface ManifestItem {
     path?: string;
     description?: string;
     children?: ManifestItem[]
+    order?: number;
 }
 
 export interface ManifestGroup {

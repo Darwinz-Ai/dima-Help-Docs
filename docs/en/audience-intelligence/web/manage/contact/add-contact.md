@@ -1,12 +1,17 @@
-Add Contact
-===========
+---
+label: "Adding a Contact"
+description: "Learn how to add a new contact in dima to receive important reports"
+order: 1
+---
 
-* * *
+# Add Contact
 
-*   Created by Hussein El Rayes on 7/15/2026
-*   [Edit original on dubble](https://dubble.so/guides/add-contact-0wl014ybroiv71mtzwxw)
+---
 
-* * *
+- Created by Hussein El Rayes on 7/15/2026
+- [Edit original on dubble](https://dubble.so/guides/add-contact-0wl014ybroiv71mtzwxw)
+
+---
 
 <video controls=""><source src="https://dubble.so/media/video/0744d950-0c29-47e9-90f4-b03f08a7bf40" type="video/mp4"></video>
 
@@ -39,7 +44,6 @@ to add/edit/delete contacts related with the company chosen from dima's platform
 \[it is located under the "Add Contact" title of the page\]
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/bfe11322-98ac-40aa-8735-5b3cd0dd30a0/1/50.000000993411/35.972603575824?0)
-
 
 ### [6\. Click on the Add Contact button to add the contact to the company on dima's platform](https://dimaapp.darwinz.ai/en/manage/contacts)
 

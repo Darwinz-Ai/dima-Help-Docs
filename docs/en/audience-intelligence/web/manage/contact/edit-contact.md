@@ -1,12 +1,17 @@
-Editing Contact
-===============
+---
+label: "Editing a Contact"
+description: "Learn how to edit an existing contact in dima to keep information up to date"
+order: 2
+---
 
-* * *
+# Editing Contact
 
-*   Created by Hussein El Rayes on 7/15/2026
-*   [Edit original on dubble](https://dubble.so/guides/editing-contact-ysociqmsd6yf2xdy9yuk)
+---
 
-* * *
+- Created by Hussein El Rayes on 7/15/2026
+- [Edit original on dubble](https://dubble.so/guides/editing-contact-ysociqmsd6yf2xdy9yuk)
+
+---
 
 <video controls=""><source src="https://dubble.so/media/video/d3d1b6a1-b773-4b65-8814-089377a17633" type="video/mp4"></video>
 
@@ -37,7 +42,6 @@ a pop-up appears with 2 options "Edit Contact" or "Delete Contact", click on "Ed
 ### [5\. Edit the feilds you want to change: Name, Email, Phone Number](https://dimaapp.darwinz.ai/en/manage/contacts)
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/33318b78-90cf-42e0-ba3e-394e3e4d69cc/1/50.000000993411/35.972603575824?0)
-
 
 ### [6\. Click on the Update Contact button](https://dimaapp.darwinz.ai/en/manage/contacts)
 

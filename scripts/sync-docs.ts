@@ -4,7 +4,7 @@ import matter from "gray-matter";
 import { globSync } from "glob";
 
 import type { Manifest, ManifestGroup } from "../utils/types.js";
-import { SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
+import { GROUP_ORDER, SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
 
 const SUPPORTED_PLATFORMS = ["web", "mobile"];
 
@@ -35,6 +35,7 @@ function generateManifests() {
                     const filePath = path.join(targetDir, normalizedFile);
                     const fileContent = fs.readFileSync(filePath, "utf-8");
                     const { data } = matter(fileContent);
+                    const docOrder = typeof data.order === "number" ? data.order : 999;
 
                     const pathParts = normalizedFile.split("/");
 
@@ -64,6 +65,7 @@ function generateManifests() {
                             slug,
                             path: cleanPath,
                             description: data.description || "",
+                            order: docOrder
                         });
                     } else if (pathParts.length === 3) {
                         const parentFolder = pathParts[1] ?? "";
@@ -91,11 +93,32 @@ function generateManifests() {
                     }
                 });
 
+                const sortedGroups = Array.from(groupsMap.values().map(group => {
+                    // Sort items
+                    group.items.sort((a, b) => (a.order || 999) - (b.order || 999))
+
+                    // Sort nested children
+                    group.items.forEach(item => {
+                        if (item.children) item.children.sort((a, b) => (a.order || 999) - (b.order || 999));
+                    });
+
+                    return group;
+                })).sort((a, b) => {
+                    // Sort main groups based on group order constants
+                    const indexA = GROUP_ORDER.indexOf(a.label);
+                    const indexB = GROUP_ORDER.indexOf(b.label);
+
+                    const posA = indexA !== -1 ? indexA : 999
+                    const posB = indexB !== -1 ? indexB : 999
+
+                    return posA - posB;
+                })
+
                 const manifest: Manifest = {
                     locale,
                     service,
                     platform,
-                    groups: Array.from(groupsMap.values()),
+                    groups: sortedGroups
                 };
 
                 const outputFolder = path.join(MANIFESTS_DIR, locale, service);

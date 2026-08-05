@@ -10,7 +10,8 @@
           "label": "Mentions",
           "slug": "media-monitoring/mentions",
           "path": "ar/pr-comms/web/media-monitoring/mentions.md",
-          "description": ""
+          "description": "",
+          "order": 999
         }
       ]
     },
@@ -21,7 +22,8 @@
           "label": "Overview",
           "slug": "getting-started/overview",
           "path": "ar/pr-comms/web/getting-started/overview.md",
-          "description": ""
+          "description": "",
+          "order": 999
         }
       ]
     }
