@@ -1,5 +1,5 @@
 ---
-label: "Editing a Contact"
+label: "Edit Contact"
 description: "Learn how to edit an existing contact in dima to keep information up to date"
 order: 2
 ---

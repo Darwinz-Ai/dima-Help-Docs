@@ -1,5 +1,5 @@
 ---
-label: "Deleting a Contact"
+label: "Delete Contact"
 description: "Learn how to remove an existing contact from dima"
 order: 3
 ---

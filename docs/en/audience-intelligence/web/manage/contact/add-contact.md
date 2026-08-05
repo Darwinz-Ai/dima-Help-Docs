@@ -1,5 +1,5 @@
 ---
-label: "Adding a Contact"
+label: "Adding Contact"
 description: "Learn how to add a new contact in dima to receive important reports"
 order: 1
 ---
