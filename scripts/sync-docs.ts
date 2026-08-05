@@ -99,7 +99,7 @@ function generateManifests() {
                     }
                 });
 
-                const sortedGroups = Array.from(groupsMap.values().map(group => {
+                const sortedGroups = Array.from(groupsMap.entries()).map(([folderName, group]) => {
                     // Sort items
                     group.items.sort((a, b) => (a.order || 999) - (b.order || 999))
 
@@ -108,17 +108,17 @@ function generateManifests() {
                         if (item.children) item.children.sort((a, b) => (a.order || 999) - (b.order || 999));
                     });
 
-                    return group;
-                })).sort((a, b) => {
+                    return { folderName, group };
+                }).sort((a, b) => {
                     // Sort main groups based on group order constants
-                    const indexA = GROUP_ORDER.indexOf(a.label);
-                    const indexB = GROUP_ORDER.indexOf(b.label);
+                    const indexA = GROUP_ORDER.indexOf(formatLabel(a.folderName));
+                    const indexB = GROUP_ORDER.indexOf(formatLabel(b.folderName));
 
                     const posA = indexA !== -1 ? indexA : 999
                     const posB = indexB !== -1 ? indexB : 999
 
                     return posA - posB;
-                })
+                }).map(item => item.group)
 
                 const manifest: Manifest = {
                     locale,
