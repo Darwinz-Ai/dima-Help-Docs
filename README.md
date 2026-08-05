@@ -1,3 +1,4 @@
+
 # dima© Help Docs
 
 This repository is the single source of truth for all public-facing, end-user documentation across our Web and Mobile apps.
@@ -6,7 +7,7 @@ By keeping our documentation in this Git repository, we can serve dynamic, local
 
 ---
 
-## 🏗 Folder Architecture
+##  Folder Architecture
 
 To support multiple languages, products, and platforms, this repository strictly follows a **Locale ➔ Service ➔ Platform** hierarchy.
 
@@ -29,7 +30,7 @@ docs/
 
 ---
 
-## ✍️ How to Add or Edit a Document
+##  How to Add or Edit a Document
 
 ### 1. Naming Conventions (Crucial!)
 
@@ -46,7 +47,7 @@ docs/
 Every Markdown file **must** begin with a YAML frontmatter block. This metadata is parsed by the frontend to display the correct titles and descriptions in the UI, which is especially important for localized titles in Arabic.
 
 **Template:**
-\`\`\`markdown
+```
 
 ---
 
@@ -58,10 +59,10 @@ description: "A brief 1-2 sentence description for SEO and subheadings."
 # Your H1 Title Here
 
 Your markdown content goes here. You can use **bold**, _italics_, and lists.
-\`\`\`
+```
 
 **Example (English - `docs/en/.../brands/add-company.md`):**
-\`\`\`markdown
+```
 
 ---
 
@@ -73,10 +74,10 @@ description: "Learn how to add a new brand company to your workspace."
 # Adding a Company
 
 To add a company, navigate to the...
-\`\`\`
+```
 
 **Example (Arabic - `docs/ar/.../brands/add-company.md`):**
-\`\`\`markdown
+```
 
 ---
 
@@ -88,11 +89,11 @@ description: "تعرف على كيفية إضافة شركة جديدة إلى �
 # إضافة شركة
 
 لإضافة شركة، انتقل إلى...
-\`\`\`
+```
 
 ---
 
-## 🚀 Local Development & Manifest Generation
+##  Local Development & Manifest Generation
 
 Our frontend app does not crawl this repository directly. Instead, they read from JSON manifest files (`manifests/`) that map out the folder structure.
 
@@ -100,15 +101,15 @@ Whenever you add, rename, or delete a markdown file, you **must** rebuild the ma
 
 ### Setup
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### Generate Manifests
 
 Run this command to crawl the `docs/` folder and generate fresh JSON maps in the `manifests/` folder.
-\`\`\`bash
+```bash
 npm run build:manifests
-\`\`\`
+```
 
 _Note: We have a `precommit` script configured. Running `npm run precommit` will automatically build the manifests and stage them for Git before you push._
