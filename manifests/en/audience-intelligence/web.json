@@ -7,10 +7,17 @@
       "label": "Brands",
       "items": [
         {
-          "label": "Add Company",
+          "label": "Adding a Company",
           "slug": "brands/add-company",
           "path": "en/audience-intelligence/web/brands/add-company.md",
-          "description": "",
+          "description": "Learn how to define a brand or subject matter in dima to start monitoring social media posts.",
+          "order": 1
+        },
+        {
+          "label": "Switching Brands",
+          "slug": "brands/switching-brands",
+          "path": "en/audience-intelligence/web/brands/switching-brands.md",
+          "description": "Learn how to quickly switch your active workspace to view data and reports for a different company.",
           "order": 999
         }
       ]
@@ -18,13 +25,6 @@
     {
       "label": "Audience Intelligence",
       "items": [
-        {
-          "label": "Quick Brand Switcher",
-          "slug": "audience-intelligence/quick-brand-switcher",
-          "path": "en/audience-intelligence/web/audience-intelligence/quick-brand-switcher.md",
-          "description": "",
-          "order": 999
-        },
         {
           "label": "Filters",
           "slug": "audience-intelligence/filters",
