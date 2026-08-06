@@ -12,7 +12,7 @@ A **Company** in dima represents the brand, competitor, or subject matter you wa
 
 Adding a company allows you to define tracking parameters like official page links, topics of interest, and Google Map locations. Once set up, dima will track relevant social media posts, allowing you to generate reports, receive alerts, and discover key insights.
 
-To get started, click the **Add New Company** button located at the first position on the [Brands Page](https://localhost:3000/en/brands).
+To get started, click the **Add New Company** button located at the first position on the [Brands Page](/en/brands).
 
 ---
 
@@ -37,7 +37,7 @@ Once filled out, click **Next** at the bottom-right corner to move to Online Pre
 
 ![Screenshot of the Step 2 Online Presence screen displaying sections for configuring Post Topics, Own Page Links, Google Map Links, and Group Links](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-step-2.png)
 
-> **Note:** Step 2 is _completely optional_. You can always skip this now and configure your company's online presence and links later from the [Manage page](https://localhost:3000/en/docs/manage) at any time.
+> **Note:** Step 2 is _completely optional_. You can always skip this now and configure your company's online presence and links later from the [Manage page](/en/docs/manage) at any time.
 
 This step tells dima exactly where to look for official posts, reviews, and targeted conversations.
 
@@ -49,7 +49,8 @@ Categorize and track specific types of mentions (e.g., tracking complaints vs. p
 
 - Click **Add Topic**.
 - Give your topic a **Name** and a brief **Description** of what it covers (e.g., _"Any feedback or complaints regarding customer service"_).
-- _Note: The "General" topic is a default and cannot be removed._ It serves as a catch-all for mentions that don't fit into your custom topics.
+
+> **Note:** _The "General" topic is a default and cannot be removed._ It serves as a catch-all for mentions that don't fit into your custom topics.
 
 ### Own Page Links
 
@@ -90,7 +91,7 @@ Click **Next** to move to Posts Relevancy.
 
 ![Screenshot of the Step 3 Posts Relevancy screen featuring two main columns to add URLs for Relevant Posts and Irrelevant Posts](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-step-3.png)
 
-> **Note:** Step 3 is _also completely optional_. You can define posts relevancy criteria later in the [Monitor screen](http://localhost:3000/en/docs/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy) if you wish to refine what dima should track or ignore for your company.
+> **Note:** Step 3 is _also completely optional_. You can define posts relevancy criteria later in the [Monitor screen](/en/docs/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy) if you wish to refine what dima should track or ignore for your company.
 
 In this step, you can train dima's AI by providing examples of what you do and do not want to see. This can drastically improve the accuracy of your media monitoring, but it is not required to proceed.
 
