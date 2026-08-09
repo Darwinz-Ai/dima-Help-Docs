@@ -1,7 +1,6 @@
 ---
 label: "Generating & Downloading Reports"
 description: "Learn how to select posts, add them to a collection, and export them as presentations, tables, or emails."
-order: 4
 ---
 
 # Generating & Downloading Reports
