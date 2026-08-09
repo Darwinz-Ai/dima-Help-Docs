@@ -23,73 +23,66 @@
       ]
     },
     {
-      "label": "Audience Intelligence",
+      "label": "Common",
       "items": [
         {
-          "label": "Filters",
-          "slug": "audience-intelligence/filters",
-          "path": "en/audience-intelligence/web/audience-intelligence/filters.md",
-          "description": "",
+          "label": "Using Filters",
+          "slug": "common/filters",
+          "path": "en/audience-intelligence/web/common/filters.md",
+          "description": "Learn how to filter your social and media data by sentiment, demographics, topics, and platforms.",
           "order": 999
         },
         {
-          "label": "Export And Save",
-          "slug": "audience-intelligence/export-and-save",
-          "path": "en/audience-intelligence/web/audience-intelligence/export-and-save.md",
-          "description": "",
+          "label": "Using the Date Filter",
+          "slug": "common/date-filter",
+          "path": "en/audience-intelligence/web/common/date-filter.md",
+          "description": "Learn how to filter your analytics and dashboard data by specific date ranges across various modules.",
           "order": 999
         },
         {
-          "label": "Date Filter",
-          "slug": "audience-intelligence/date-filter",
-          "path": "en/audience-intelligence/web/audience-intelligence/date-filter.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Analytics",
-          "slug": "audience-intelligence/analytics",
-          "path": "en/audience-intelligence/web/audience-intelligence/analytics.md",
-          "description": "",
+          "label": "Analytics Dashboards",
+          "slug": "common/analytics",
+          "path": "en/audience-intelligence/web/common/analytics.md",
+          "description": "Understand the charts and metrics available in the Analytics tab across different modules to track performance, sentiment, and distribution.",
           "order": 999
         },
         {
           "label": "Monitor",
-          "slug": "audience-intelligence/monitor",
+          "slug": "common/monitor",
           "children": [
             {
-              "label": "Sorting Posts",
-              "slug": "audience-intelligence/monitor/sorting-posts",
-              "path": "en/audience-intelligence/web/audience-intelligence/monitor/sorting-posts.md",
-              "description": "",
-              "order": 999
-            },
-            {
               "label": "Pinning Posts",
-              "slug": "audience-intelligence/monitor/pinning-posts",
-              "path": "en/audience-intelligence/web/audience-intelligence/monitor/pinning-posts.md",
-              "description": "",
+              "slug": "common/monitor/pinning-posts",
+              "path": "en/audience-intelligence/web/common/monitor/pinning-posts.md",
+              "description": "Learn how to pin specific posts to the top of your monitoring feed for easy tracking and crisis management.",
+              "order": 10
+            },
+            {
+              "label": "Sorting Posts",
+              "slug": "common/monitor/sorting-posts",
+              "path": "en/audience-intelligence/web/common/monitor/sorting-posts.md",
+              "description": "Learn how to arrange posts in your monitoring feed based on metrics such as likes, comments, views, or follower count.",
               "order": 999
             },
             {
-              "label": "Download Report",
-              "slug": "audience-intelligence/monitor/download-report",
-              "path": "en/audience-intelligence/web/audience-intelligence/monitor/download-report.md",
-              "description": "",
+              "label": "Generating & Downloading Reports",
+              "slug": "common/monitor/download-report",
+              "path": "en/audience-intelligence/web/common/monitor/download-report.md",
+              "description": "Learn how to select posts, add them to a collection, and export them as presentations, tables, or emails.",
               "order": 999
             },
             {
-              "label": "Deleting Posts And Recalibrate Relevancy",
-              "slug": "audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy",
-              "path": "en/audience-intelligence/web/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy.md",
-              "description": "",
+              "label": "Deleting Posts & Recalibrating Relevancy",
+              "slug": "common/monitor/deleting-posts-and-recalibrate-relevancy",
+              "path": "en/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy.md",
+              "description": "Learn how to remove irrelevant posts from your feed and train dima to improve future monitoring accuracy.",
               "order": 999
             },
             {
               "label": "Bulk Actions",
-              "slug": "audience-intelligence/monitor/bulk-actions",
-              "path": "en/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
-              "description": "",
+              "slug": "common/monitor/bulk-actions",
+              "path": "en/audience-intelligence/web/common/monitor/bulk-actions.md",
+              "description": "Learn how to perform collective actions on multiple posts, such as updating sentiment, changing topics, or assigning labels simultaneously.",
               "order": 999
             }
           ]

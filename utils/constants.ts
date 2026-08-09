@@ -2,7 +2,7 @@ export const SUPPORTED_LOCALES = ["en", "ar"];
 export const SUPPORTED_SERVICES = ["audience-intelligence", "pr-comms"];
 export const GROUP_ORDER = [
     "Brands",
-    "Audience Intelligence",
+    "Common",
     "Monitor",
     "Made For You",
     "Conversation Analysis",
@@ -14,7 +14,7 @@ export const GROUP_ORDER = [
 export const GROUP_TRANSLATIONS: Record<string, Record<string, string>> = {
     ar: {
         "Brands": "الجهات",
-        "Audience Intelligence": "رؤى الجمهور",
+        "Common": "شائع",
         "Monitor": "الرصد",
         "Manage": "الإدارة",
         "Made For You": "مصنوع لك",
