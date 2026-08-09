@@ -7,10 +7,17 @@
       "label": "الجهات",
       "items": [
         {
-          "label": "Add Company",
+          "label": "إضافة شركة",
           "slug": "brands/add-company",
           "path": "ar/audience-intelligence/web/brands/add-company.md",
-          "description": "",
+          "description": "تعرف على كيفية تعريف علامة تجارية أو موضوع في ديما للبدء في مراقبة منشورات وسائل التواصل الاجتماعي.",
+          "order": 1
+        },
+        {
+          "label": "التبديل بين العلامات التجارية",
+          "slug": "brands/switching-brands",
+          "path": "ar/audience-intelligence/web/brands/switching-brands.md",
+          "description": "تعرف على كيفية تبديل مساحة عملك النشطة بسرعة لعرض البيانات والتقارير لشركة مختلفة.",
           "order": 999
         }
       ]
@@ -18,13 +25,6 @@
     {
       "label": "رؤى الجمهور",
       "items": [
-        {
-          "label": "Quick Brand Switcher",
-          "slug": "audience-intelligence/quick-brand-switcher",
-          "path": "ar/audience-intelligence/web/audience-intelligence/quick-brand-switcher.md",
-          "description": "",
-          "order": 999
-        },
         {
           "label": "Filters",
           "slug": "audience-intelligence/filters",
