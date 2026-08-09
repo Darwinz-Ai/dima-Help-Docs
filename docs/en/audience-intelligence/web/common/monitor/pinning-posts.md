@@ -1,28 +1,28 @@
-Pinning Posts
-=============
+---
+label: "Pinning Posts"
+description: "Learn how to pin specific posts to the top of your monitoring feed for easy tracking and crisis management."
+order: 10
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/15/2026
-*   [Edit original on dubble](https://dubble.so/guides/pinning-posts-pmmowb67fep16ngvnxke)
-
-* * *
+# Pinning Posts
 
 <video controls=""><source src="https://dubble.so/media/video/59612485-f4fd-45bd-b861-d97802293d8a" type="video/mp4"></video>
 
-Posts can be pinned to track them for crises management, viral posts and company wanting to track specific post/s  
-This can be made via going to Audience Intelligence module and on the monitor tab and just by clicking on the star icon on the bottom right corner of the post, now the post will be pinned to the top of the monitor page regardless of the method of sorting(sorting by views, engagement ...etc) (NB: filters may let pinned posts not appear on the monitor page)
+When you are tracking a viral trend, handling a PR crisis, or simply keeping a close eye on a specific conversation, you can **pin** posts to ensure they are always highly visible.
 
-### [1\. Click on Audience Intelligence icon located in the sidebar on the leftmost section of the page](https://dimaapp.darwinz.ai/en/brands)
+Pinning a post anchors it to the very top of your monitoring page, completely overriding any sorting methods you have applied (such as sorting by views or engagement).
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/d798b415-b2b2-4923-a2d6-8e247372f51d/1/1.9710286209981/16.780821917808?0)
+---
 
-### [2\. Click on Monitor tab which is directly under the "Audience Intelligence" label](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9MzQ1)
+## How to Pin a Post
 
-\[it is labeled with the red arrow\]
+![Screenshot of a post card in the Monitor feed, highlighting the Star icon in the bottom right corner used to pin the post](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/pinning-posts/pin-posts.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/d3e70c85-8d86-4a33-9913-c3f1a2d1118a/1/0/0?0)
+1. Navigate to the **Audience Intelligence** module using the main sidebar.
+2. Open the **Monitor** tab to view your feed of tracked posts.
+3. Locate the specific post you want to track.
+4. Click the **Star** icon located in the bottom right corner of the post card.
 
-### [3\. Once the post is pinned it will be at the top of the monitor page, ie it will be the first post to appear on your feed](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9MzQ1)
+The post is now pinned and will immediately move to the very top of your feed.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/379d9005-41b4-47ee-966d-988c313a39fa/1/42.90771484375/75.342465753425?0)
+> **Important Note on Filters:** While pinned posts ignore _sorting_ rules, they still obey _filtering_ rules. If you apply a filter (such as a specific date range, sentiment, or platform) that the pinned post does not match, it will temporarily disappear from your feed until you clear the filter.
