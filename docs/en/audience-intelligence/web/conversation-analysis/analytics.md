@@ -1,10 +1,10 @@
 ---
-label: "Conversation Analysis Analytics"
+label: "Analytics Dashboard"
 description: "Learn how to analyze the sentiment, emotion, and topics of comments and replies on your official pages."
 order: 13
 ---
 
-# Conversation Analysis Analytics
+# Analytics Dashboard
 
 <video controls=""><source src="https://dubble.so/media/video/6365d5f8-39b6-4a93-887e-e0c25d052efe" type="video/mp4"></video>
 
