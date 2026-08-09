@@ -105,25 +105,25 @@
       "label": "Conversation Analysis",
       "items": [
         {
-          "label": "Monitoring",
+          "label": "Conversation Analysis",
           "slug": "conversation-analysis/monitoring",
           "path": "en/audience-intelligence/web/conversation-analysis/monitoring.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post.",
+          "order": 1
         },
         {
-          "label": "Filters",
+          "label": "Conversation Analysis Filter",
           "slug": "conversation-analysis/filters",
           "path": "en/audience-intelligence/web/conversation-analysis/filters.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies.",
+          "order": 2
         },
         {
-          "label": "Analytics",
+          "label": "Conversation Analysis Analytics",
           "slug": "conversation-analysis/analytics",
           "path": "en/audience-intelligence/web/conversation-analysis/analytics.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to analyze the sentiment, emotion, and topics of comments and replies on your official pages.",
+          "order": 13
         }
       ]
     },
