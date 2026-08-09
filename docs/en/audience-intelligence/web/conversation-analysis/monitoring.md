@@ -1,10 +1,10 @@
 ---
-label: "Conversation Analysis"
+label: "Monitoring Comments"
 description: "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post."
 order: 1
 ---
 
-# Conversation Analysis
+# Monitoring Comments
 
 <video controls=""><source src="https://dubble.so/media/video/fa72e1c5-7be9-45ec-98ae-a3e1465800ef" type="video/mp4"></video>
 
@@ -12,7 +12,7 @@ While tracking top-level posts is crucial, true audience intelligence often lies
 
 ---
 
-## 1. Accessing and Navigating Threads
+## 1. Accessing and Navigating Comments
 
 ![Screenshot of the dima sidebar with the Conversation Analytics tab highlighted, and a post showing pagination controls to view more comments](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-1.png)
 

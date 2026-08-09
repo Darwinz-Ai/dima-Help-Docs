@@ -1,10 +1,10 @@
 ---
-label: "Conversation Analysis Filter"
+label: "Using Filters"
 description: "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies."
 order: 2
 ---
 
-# Conversation Analysis Filter
+# Using Filters
 
 <video controls=""><source src="https://dubble.so/media/video/06042cdb-0368-42d6-9e5d-40e0ce8dcbe3" type="video/mp4"></video>
 
