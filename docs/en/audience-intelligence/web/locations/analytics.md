@@ -1,59 +1,53 @@
-Google Reviews Analytics
-========================
+---
+label: "Locations Analytics"
+description: "Learn how to analyze aggregate Google Review data across all your company's physical locations."
+order: 15
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/26/2026
-*   [Edit original on dubble](https://dubble.so/guides/google-reviews-analytics-apmrpdne70j4xa3a8ujm)
-
-* * *
+# Locations Analytics
 
 <video controls=""><source src="https://dubble.so/media/video/c16b82b1-5b06-475a-a31f-41d207d4d7fc" type="video/mp4"></video>
 
-Dima provides a analytics page on google reviews via gathering peoples' reviews from all company locations providing different charts based on these reviews.
+The Locations module includes a dedicated **Analytics** page that gathers customer reviews from all your connected company branches and visualizes them into easy-to-read charts and metrics.
 
-### [1\. Click on Analytics page to view more detailed analysis of google reviews \[labelled with the arrow\]](https://dimaapp.darwinz.ai/en/google-reviews?h_aWQ9NjY5)
+---
 
-the page contains several statistics including:  
-total locations: total locations belonging to the company  
-total reviews: total amount of reviews  
-average number of reviews across location  
-and other statistics to be shown in the following steps
+## 1. Accessing the Dashboard & Top-Level Stats
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/8e385c71-7ac9-4b5b-9695-5da52c3ba870/1/0/0?0)
+![Screenshot of the Locations Analytics page highlighting the top-level statistics like total locations and total reviews](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics.png)
 
-### [2\. Reviews per Location](https://dimaapp.darwinz.ai/en/google-reviews?h_aWQ9NjY5)
+To view detailed review analysis, click on the **Analytics** tab located at the top of the Locations module (next to the Monitor tab).
 
-Bar Chart showing:  
-Y axis is number of Reviews  
-X axis is each location of the company
+At the very top of this page, you will see a quick summary of your overall performance, including:
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/d184d082-4170-4970-8d0a-347c1bf21c2e/1/99.114584922791/18.410960158257?0)
+- **Total Locations:** The number of physical branches currently tracked for this company.
+- **Total Reviews:** The overall volume of reviews collected across all branches.
+- **Average Reviews:** The average number of reviews received per location.
 
-### [3\. Rating distribution per location](https://dimaapp.darwinz.ai/en/google-reviews?h_aWQ9NjY5)
+---
 
-Bar Chart showing:  
-Y axis is number of Reviews, the bar segments are color-coded by star rating: green = 5, light green = 4, yellow = 3, orange = 2, red = 1.  
-X axis is each location of the company.
+## 2. Breakdown by Location
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/0154f095-c887-44a4-9e9d-c6bc62b4f8a9/1/99.114584922791/18.410960158257?0)
+These bar charts help you compare the volume and quality of reviews between your different physical branches side by side.
 
-### [4\. Average Rating over time: an area chart tracking how the average star rating moves day by day.](https://dimaapp.darwinz.ai/en/google-reviews?h_aWQ9NjY5)
+- **Reviews per Location:** A straightforward bar chart showing the total volume of reviews for each branch. The X-axis represents your individual locations, and the Y-axis represents the total review count.
+- **Rating Distribution per Location:** This chart uses the same layout, but each bar is split into color-coded segments representing specific star ratings (Green = 5 stars, Light Green = 4 stars, Yellow = 3 stars, Orange = 2 stars, Red = 1 star). This allows you to quickly spot which branches are excelling and which are receiving poor feedback.
 
-The graph shows:
+---
 
-Left axis = average rating (0.0 to 5.0)
+## 3. Average Rating Over Time
 
-Bottom axis = dates
+![Screenshot of the Average Rating over time area chart with the time range dropdown highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics-time.png)
 
-The shaded blue area shows the daily average rating, so peaks are good days and dips are bad ones
+This area chart tracks how your average star rating fluctuates day by day across your tracked locations.
 
-Time range dropdown\[located at the top right of the Average Rating Over Time section\], with options: Last 24 hours, last 7 days, last 30 days
+- **Reading the Chart:** The left axis measures the average rating (from **0.0** to **5.0**), and the bottom axis displays the dates. The shaded blue area represents your daily average, making it easy to identify peaks (good days) and dips (bad days).
+- **Time Range Filter:** Use the dropdown menu located at the top right of this specific section to adjust the chart's timeframe. You can toggle between viewing data for the **Last 24 hours**, **Last 7 days**, or **Last 30 days**.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/eefdef81-5d55-4b94-b0ce-e5890e21eedf/1/97.864588101705/48.109590713292?0)
+---
 
-### [5\. Aggregate Topics - word cloud](https://dimaapp.darwinz.ai/en/google-reviews?h_aWQ9NjY5)
+## 4. Aggregate Topics Word Cloud
 
-Shows the word size which reflects how often each topic appears from the reviews — the bigger the word, the more reviewers mentioned it.
+The **Aggregate Topics** section features a word cloud that extracts the most common themes and keywords mentioned by your reviewers.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/a98345c1-80cd-4276-9d35-807d1923073c/1/97.864588101705/48.109590713292?0)
+The visual size of a word reflects its frequency; the larger and bolder the text appears, the more often customers brought that specific topic up in their written feedback.
