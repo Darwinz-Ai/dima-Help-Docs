@@ -66,7 +66,7 @@ If you need to tweak the name or description of an existing category:
 
 1. Locate the specific topic card you want to remove.
 
-2. Click the **three-dot menu (...)** in the top right corner of the card.
+2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
 
 3. Select **Delete Topic** from the dropdown.
 

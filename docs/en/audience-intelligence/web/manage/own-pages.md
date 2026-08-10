@@ -10,7 +10,7 @@ order: 22
 
 **Own Pages** are the official social media profiles or groups owned and managed by your company. By connecting them to dima, you unlock a dedicated analytics module to track every post you publish, analyze performance metrics (like engagement and views), determine your best times to post, and evaluate your content strategy.
 
-You can manage all your connected profiles directly from the Manage module.
+You can manage all your connected profiles directly from the Manage page.
 
 ---
 
@@ -71,7 +71,7 @@ If a URL changes or you need to adjust your tracking preferences:
 
 1. Locate the specific Own Page card you want to remove.
 
-2. Click the **three-dot menu (...)** in the top right corner of the card.
+2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
 
 3. Select **Delete Own Page** from the dropdown menu.
 
