@@ -1,45 +1,41 @@
-influencer filter (pool,matched)
-================================
+---
+label: "Filtering Influencers"
+description: "Learn how to narrow down your influencer pool by size, region, category, and platform to find the perfect match."
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/27/2026
-*   [Edit original on dubble](https://dubble.so/guides/influencer-filter-poolmatched-krs2tphgruldoeljljns)
-
-* * *
+# Filtering Influencers
 
 <video controls=""><source src="https://dubble.so/media/video/1e310746-2259-4118-a390-03d4e896267a" type="video/mp4"></video>
 
-### [1\. Go to influencers tab and click on the Filter \[located at the top right corner of the page\]](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+When searching for the right personalities to represent your brand, dima allows you to filter through the influencer pool using specific criteria. You can easily filter influencers by their audience size, geographic region, content categories, and the platforms they are active on.
 
-![](https://dubble-prod-01.s3.amazonaws.com/assets/07cb488e-f115-4629-89a1-4a5122144ad1.png?0)
+---
 
-### [2\. Click on the desired options under the label "Influencer Size"](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+## 1. Accessing the Filter Menu
 
-you can select one or many options
+![Screenshot of the Influencers page showing the Filter button highlighted in the top right corner](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/filters/access-filters.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/45eb1d29-fb5d-40ad-b571-9a16c17f633a/1/18.281251192093/23.803081773732?0)
+1. Navigate to the **Influencers** page using the main sidebar.
+2. Once in the Influencers module (whether you are looking at the general pool or your matched lists), click the **Filter** button located at the top right corner of the page.
 
-### [3\. Click on the textbox/dropdown labelled "Region"](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+---
 
-you can type in the desired region for narrowing down or select the region by clicking on it  
-you can select one or many options
+## 2. Configuring Your Search Criteria
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/77297481-fb8e-410c-a505-e46701b352f0/1/18.333333730698/35.178084700075?0)
+![Screenshot of the Influencer Filter menu showing options for Influencer Size, Region, Categories, and Platforms](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/filters/filter-options.png)
 
-### [4\. Click on the textbox/dropdown labelled "Categories"](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+The filter menu provides several categories to help you narrow down your search. You can select one or multiple options within each of the following sections:
 
-you can type in the desired category for narrowing down or select the category by clicking on it  
-you can select one or many options
+- **Influencer Size:** Choose the tier of influencer you are looking for based on their following (e.g., Nano, Micro, Macro, Mega). Click on your desired options to select them.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/9cc78065-7c3d-47b3-b30f-674c6cd901ad/1/83.21614585196/37.471746157293?0)
+- **Region:** Use this dropdown menu to target influencers based in specific locations. You can type in the textbox to quickly search for a region, or click to select from the list.
 
-### [5\. Click on desired platforms under the label "Platform"](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+- **Categories:** Narrow down influencers by the topics they cover (e.g., Tech, Fashion, Food). Just like the Region field, you can type to search or click to select your desired categories from the dropdown.
 
-you can select one or many options
+- **Platform:** Select the specific social media channels you want the influencer to be active on (e.g., Instagram, YouTube, TikTok) by clicking the corresponding platform icons.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/00f3a4bd-d1a8-4948-90ce-47fa18d41a9c/1/18.281251192093/45.666095785899?0)
+---
 
-### [6\. Click on the Apply button located at the bottom right corner of the page](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+## 3. Applying the Filter
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c853ff27-90c8-4410-bd7c-d1902fda1e3e/1/81.718751788139/87.648975947132?0)
+Once you have configured all your desired criteria across the different sections, click the **Apply** button located at the bottom right corner of the menu. Your influencer list will instantly update to show only the profiles that match your specific requirements.
