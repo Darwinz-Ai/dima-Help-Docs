@@ -23,6 +23,80 @@
       ]
     },
     {
+      "label": "شائع",
+      "items": [
+        {
+          "label": "Filters",
+          "slug": "common/filters",
+          "path": "ar/audience-intelligence/web/common/filters.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Export And Save",
+          "slug": "common/export-and-save",
+          "path": "ar/audience-intelligence/web/common/export-and-save.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Date Filter",
+          "slug": "common/date-filter",
+          "path": "ar/audience-intelligence/web/common/date-filter.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "Analytics",
+          "slug": "common/analytics",
+          "path": "ar/audience-intelligence/web/common/analytics.md",
+          "description": "",
+          "order": 999
+        },
+        {
+          "label": "الرصد",
+          "slug": "common/monitor",
+          "children": [
+            {
+              "label": "Sorting Posts",
+              "slug": "common/monitor/sorting-posts",
+              "path": "ar/audience-intelligence/web/common/monitor/sorting-posts.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Pinning Posts",
+              "slug": "common/monitor/pinning-posts",
+              "path": "ar/audience-intelligence/web/common/monitor/pinning-posts.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Download Report",
+              "slug": "common/monitor/download-report",
+              "path": "ar/audience-intelligence/web/common/monitor/download-report.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Deleting Posts And Recalibrate Relevancy",
+              "slug": "common/monitor/deleting-posts-and-recalibrate-relevancy",
+              "path": "ar/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy.md",
+              "description": "",
+              "order": 999
+            },
+            {
+              "label": "Bulk Actions",
+              "slug": "common/monitor/bulk-actions",
+              "path": "ar/audience-intelligence/web/common/monitor/bulk-actions.md",
+              "description": "",
+              "order": 999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "مصنوع لك",
       "items": [
         {
@@ -281,80 +355,6 @@
               "path": "ar/audience-intelligence/web/manage/contact/delete-contact.md",
               "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما",
               "order": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Audience Intelligence",
-      "items": [
-        {
-          "label": "Filters",
-          "slug": "audience-intelligence/filters",
-          "path": "ar/audience-intelligence/web/audience-intelligence/filters.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Export And Save",
-          "slug": "audience-intelligence/export-and-save",
-          "path": "ar/audience-intelligence/web/audience-intelligence/export-and-save.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Date Filter",
-          "slug": "audience-intelligence/date-filter",
-          "path": "ar/audience-intelligence/web/audience-intelligence/date-filter.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Analytics",
-          "slug": "audience-intelligence/analytics",
-          "path": "ar/audience-intelligence/web/audience-intelligence/analytics.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "الرصد",
-          "slug": "audience-intelligence/monitor",
-          "children": [
-            {
-              "label": "Sorting Posts",
-              "slug": "audience-intelligence/monitor/sorting-posts",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/sorting-posts.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Pinning Posts",
-              "slug": "audience-intelligence/monitor/pinning-posts",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/pinning-posts.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Download Report",
-              "slug": "audience-intelligence/monitor/download-report",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/download-report.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Deleting Posts And Recalibrate Relevancy",
-              "slug": "audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/deleting-posts-and-recalibrate-relevancy.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Bulk Actions",
-              "slug": "audience-intelligence/monitor/bulk-actions",
-              "path": "ar/audience-intelligence/web/audience-intelligence/monitor/bulk-actions.md",
-              "description": "",
-              "order": 999
             }
           ]
         }

@@ -93,10 +93,10 @@
       "label": "Made For You",
       "items": [
         {
-          "label": "Create Dashboard And Chart",
+          "label": "Under Construction",
           "slug": "made-for-you/create-dashboard-and-chart",
           "path": "en/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": "",
+          "description": "This page is currently being drafted.",
           "order": 999
         }
       ]
@@ -194,24 +194,24 @@
           "slug": "manage/user",
           "children": [
             {
-              "label": "Edit User",
+              "label": "Under Construction",
               "slug": "manage/user/edit-user",
               "path": "en/audience-intelligence/web/manage/user/edit-user.md",
-              "description": "",
+              "description": "This page is currently being drafted.",
               "order": 999
             },
             {
-              "label": "Delete User",
+              "label": "Under Construction",
               "slug": "manage/user/delete-user",
               "path": "en/audience-intelligence/web/manage/user/delete-user.md",
-              "description": "",
+              "description": "This page is currently being drafted.",
               "order": 999
             },
             {
-              "label": "Create User",
+              "label": "Under Construction",
               "slug": "manage/user/create-user",
               "path": "en/audience-intelligence/web/manage/user/create-user.md",
-              "description": "",
+              "description": "This page is currently being drafted.",
               "order": 999
             }
           ]
