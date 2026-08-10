@@ -1,40 +1,73 @@
-Editing Topic
-=============
+---
+label: "Managing Topics"
+description: "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand."
+order: 21
+---
 
-* * *
+# Managing Topics
 
-*   Created by Hussein El Rayes on 7/15/2026
-*   [Edit original on dubble](https://dubble.so/guides/editing-topic-vm8dreweqsfl5qrli5q9)
+<video controls=""><source src="https://dubble.so/media/video/951352ec-e7a9-4140-ba15-19b008bcfd5d" type="video/mp4"></video>
 
-* * *
+A **Topic** is a custom category used to classify incoming posts about your company. For example, you might create topics for "Customer Service," "Marketing Campaigns," or "Product Reviews." Topics allow you to easily filter relevant posts and build targeted reports.
 
-<video controls=""><source src="https://dubble.so/media/video/e9b1e06f-d1f2-4c16-bc1c-a10314be7484" type="video/mp4"></video>
+You can manage all your custom categories directly from the Manage page.
 
-dima allows users to update the topics created by the company to be changed via changing the topic's name and description. The process is by going to the Manage module and selecting the topics tab to select from the desired topic to be edited. Click on the 3 dotted button to edit the topic.
+---
 
-### [1\. Click on the Manage icon to open the Manage page](https://dimaapp.darwinz.ai/en/brands)
+## Accessing the Topics Menu
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c725bda1-5edb-41f7-99a2-079e07a65563/1/1.9710286209981/85.986303042059?0)
+![Screenshot of the Manage module with the Topics tab highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/topics-tab.png)
 
-### [2\. Click on Topics tab, to see the all topics created by the company](https://dimaapp.darwinz.ai/en/manage/own-page)
+All topic management happens in one central location:
 
-\[located to the right of the sidebar under the dima logo\]
+1. Navigate to the main sidebar and click the **Manage** icon.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/9371d65b-2f50-4541-a443-7c40c266f061/1/6.0416668653488/33.534246993391?0)
+2. Select the **Topics** tab located in the secondary menu.
 
-### [3\. Go to the topic you want to edit it's details, then press the 3 dotted button on the top right corner of the box of the desired topic](https://dimaapp.darwinz.ai/en/edit-topics)
+3. Choose the company where you want to manage its topics.
 
-a pop-up appears with 2 options "Edit Topic" or "Delete Topic", click on "Edit Topic"
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/cabc0951-874d-4557-bdd2-b9389a98f18d/2.5/72.656252980232/67.726026561162?0)
+## Adding a Topic
 
-### [4\.Edit the feilds to be changed: Name, Description](https://dimaapp.darwinz.ai/en/edit-topics)
+1. From the Topics tab, click the **Add Topic** button in the top right corner of the page.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/71a0386f-29a4-48be-a349-22e37fa57f10/1/50.000000993411/39.91780738308?0)
+2. A form will appear. Fill in the required fields:
 
+   - **Name:** The title of your category (e.g., "Corporate News").
 
-### [5\. Click on the Update Topic button](https://dimaapp.darwinz.ai/en/edit-topics)
+   - **Description:** A brief explanation of what this topic covers. This helps dima accurately classify incoming posts.
 
-\[located at the bottom right corner of the page\]
+3. Click the **Add Topic** button at the bottom right corner of the form to save your new category.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/abfe3be9-42d9-4056-a798-024175f4e1bb/2.5/90.052085121473/74.767125795965?0)
+---
+
+## Editing a Topic
+
+![Screenshot showing the three-dot menu on a topic card with the Edit Topic and Delete Topic options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/edit-delete-menu.png)
+
+If you need to tweak the name or description of an existing category:
+
+1. Locate the specific topic card you want to update in your list.
+
+2. Click the **vertical three-dot menu ( ⋮ )** in the top right corner of that specific card.
+
+3. Select **Edit Topic** from the dropdown menu.
+
+4. Update the Name or Description fields as needed.
+
+5. Click **Update Topic** in the bottom right corner to save your changes.
+
+---
+
+## Deleting a Topic
+
+> **Warning:** Deleting a topic cannot be undone. If you delete a topic, it will be permanently removed, and any historical posts previously classified under this topic will instantly lose that label.
+
+1. Locate the specific topic card you want to remove.
+
+2. Click the **three-dot menu (...)** in the top right corner of the card.
+
+3. Select **Delete Topic** from the dropdown.
+
+4. A confirmation pop-up will appear to ensure you want to proceed. Click the **Delete** button at the bottom right of the pop-up to finalize the removal.
