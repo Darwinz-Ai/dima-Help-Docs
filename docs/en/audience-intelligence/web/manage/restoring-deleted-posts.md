@@ -1,7 +1,7 @@
 ---
 label: "Restoring Posts"
 description: "Learn how to recover previously deleted posts and bring them back into your monitoring feeds."
-order: 20
+order: 7
 ---
 
 # Restoring Posts
