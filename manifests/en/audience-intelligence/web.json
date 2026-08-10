@@ -183,173 +183,53 @@
       "label": "Manage",
       "items": [
         {
-          "label": "Restoring Deleted Posts",
+          "label": "Managing Own Pages",
+          "slug": "manage/own-pages",
+          "path": "en/audience-intelligence/web/manage/own-pages.md",
+          "description": "Learn how to add, edit, and delete your company's official social media pages for dedicated tracking and analysis.",
+          "order": 1
+        },
+        {
+          "label": "Managing Locations",
+          "slug": "manage/locations",
+          "path": "en/audience-intelligence/web/manage/locations.md",
+          "description": "Learn how to add, edit, and delete physical company locations to track Google Reviews.",
+          "order": 2
+        },
+        {
+          "label": "Managing Contacts",
+          "slug": "manage/contacts",
+          "path": "en/audience-intelligence/web/manage/contacts.md",
+          "description": "Learn how to add, edit, and delete contacts to receive important reports and notifications.",
+          "order": 3
+        },
+        {
+          "label": "Managing Groups",
+          "slug": "manage/groups",
+          "path": "en/audience-intelligence/web/manage/groups.md",
+          "description": "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends.",
+          "order": 4
+        },
+        {
+          "label": "Managing Topics",
+          "slug": "manage/topics",
+          "path": "en/audience-intelligence/web/manage/topics.md",
+          "description": "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand.",
+          "order": 5
+        },
+        {
+          "label": "Restoring Posts",
           "slug": "manage/restoring-deleted-posts",
           "path": "en/audience-intelligence/web/manage/restoring-deleted-posts.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to recover previously deleted posts and bring them back into your monitoring feeds.",
+          "order": 7
         },
         {
-          "label": "User",
+          "label": "Under Construction",
           "slug": "manage/user",
-          "children": [
-            {
-              "label": "Under Construction",
-              "slug": "manage/user/edit-user",
-              "path": "en/audience-intelligence/web/manage/user/edit-user.md",
-              "description": "This page is currently being drafted.",
-              "order": 999
-            },
-            {
-              "label": "Under Construction",
-              "slug": "manage/user/delete-user",
-              "path": "en/audience-intelligence/web/manage/user/delete-user.md",
-              "description": "This page is currently being drafted.",
-              "order": 999
-            },
-            {
-              "label": "Under Construction",
-              "slug": "manage/user/create-user",
-              "path": "en/audience-intelligence/web/manage/user/create-user.md",
-              "description": "This page is currently being drafted.",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Topic",
-          "slug": "manage/topic",
-          "children": [
-            {
-              "label": "Edit Topic",
-              "slug": "manage/topic/edit-topic",
-              "path": "en/audience-intelligence/web/manage/topic/edit-topic.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Topic",
-              "slug": "manage/topic/delete-topic",
-              "path": "en/audience-intelligence/web/manage/topic/delete-topic.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Topic",
-              "slug": "manage/topic/add-topic",
-              "path": "en/audience-intelligence/web/manage/topic/add-topic.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Own Page",
-          "slug": "manage/own-page",
-          "children": [
-            {
-              "label": "Edit Own Page",
-              "slug": "manage/own-page/edit-own-page",
-              "path": "en/audience-intelligence/web/manage/own-page/edit-own-page.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Own Page",
-              "slug": "manage/own-page/delete-own-page",
-              "path": "en/audience-intelligence/web/manage/own-page/delete-own-page.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Own Page",
-              "slug": "manage/own-page/add-own-page",
-              "path": "en/audience-intelligence/web/manage/own-page/add-own-page.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Location",
-          "slug": "manage/location",
-          "children": [
-            {
-              "label": "Edit Location",
-              "slug": "manage/location/edit-location",
-              "path": "en/audience-intelligence/web/manage/location/edit-location.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Location",
-              "slug": "manage/location/delete-location",
-              "path": "en/audience-intelligence/web/manage/location/delete-location.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Location",
-              "slug": "manage/location/add-location",
-              "path": "en/audience-intelligence/web/manage/location/add-location.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Group",
-          "slug": "manage/group",
-          "children": [
-            {
-              "label": "Edit Group",
-              "slug": "manage/group/edit-group",
-              "path": "en/audience-intelligence/web/manage/group/edit-group.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Group",
-              "slug": "manage/group/delete-group",
-              "path": "en/audience-intelligence/web/manage/group/delete-group.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Group",
-              "slug": "manage/group/add-group",
-              "path": "en/audience-intelligence/web/manage/group/add-group.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "Contact",
-          "slug": "manage/contact",
-          "children": [
-            {
-              "label": "Adding Contact",
-              "slug": "manage/contact/add-contact",
-              "path": "en/audience-intelligence/web/manage/contact/add-contact.md",
-              "description": "Learn how to add a new contact in dima to receive important reports",
-              "order": 1
-            },
-            {
-              "label": "Edit Contact",
-              "slug": "manage/contact/edit-contact",
-              "path": "en/audience-intelligence/web/manage/contact/edit-contact.md",
-              "description": "Learn how to edit an existing contact in dima to keep information up to date",
-              "order": 2
-            },
-            {
-              "label": "Delete Contact",
-              "slug": "manage/contact/delete-contact",
-              "path": "en/audience-intelligence/web/manage/contact/delete-contact.md",
-              "description": "Learn how to remove an existing contact from dima",
-              "order": 3
-            }
-          ]
+          "path": "en/audience-intelligence/web/manage/user.md",
+          "description": "This page is currently being drafted.",
+          "order": 999
         }
       ]
     }
