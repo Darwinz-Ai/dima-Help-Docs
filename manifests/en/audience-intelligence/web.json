@@ -131,32 +131,32 @@
       "label": "Influencers",
       "items": [
         {
+          "label": "Evaluating & Matching Influencers",
+          "slug": "influencers/influencers-pool",
+          "path": "en/audience-intelligence/web/influencers/influencers-pool.md",
+          "description": "Learn how to review an influencer's performance, assess risks, and match them with your brand.",
+          "order": 1
+        },
+        {
           "label": "Matched Influencers",
           "slug": "influencers/matched-influencers",
           "path": "en/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to review your matched influencers, track their content, analyze risk assessments, and view posts about your brand.",
+          "order": 2
         },
         {
-          "label": "Influencers Pool",
-          "slug": "influencers/influencers-pool",
-          "path": "en/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Impact Analysis",
-          "slug": "influencers/impact-analysis",
-          "path": "en/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Filters",
+          "label": "Filtering Influencers",
           "slug": "influencers/filters",
           "path": "en/audience-intelligence/web/influencers/filters.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to narrow down your influencer pool by size, region, category, and platform to find the perfect match.",
+          "order": 3
+        },
+        {
+          "label": "Influencer Impact Analytics",
+          "slug": "influencers/impact-analysis",
+          "path": "en/audience-intelligence/web/influencers/impact-analysis.md",
+          "description": "Learn how to analyze influencer performance, compare platforms, and filter impact data.",
+          "order": 19
         }
       ]
     },
@@ -164,18 +164,18 @@
       "label": "Locations",
       "items": [
         {
-          "label": "Monitoring",
+          "label": "Monitoring Locations",
           "slug": "locations/monitoring",
           "path": "en/audience-intelligence/web/locations/monitoring.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to track and filter Google Reviews for your company's physical locations.",
+          "order": 14
         },
         {
-          "label": "Analytics",
+          "label": "Locations Analytics",
           "slug": "locations/analytics",
           "path": "en/audience-intelligence/web/locations/analytics.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to analyze aggregate Google Review data across all your company's physical locations.",
+          "order": 15
         }
       ]
     },
