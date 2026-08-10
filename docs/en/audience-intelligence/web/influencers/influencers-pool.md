@@ -1,5 +1,5 @@
 ---
-label: "Evaluating & Matching Influencers"
+label: "Influencers Pool"
 description: "Learn how to review an influencer's performance, assess risks, and match them with your brand."
 order: 1
 ---

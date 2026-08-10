@@ -24,6 +24,8 @@ The **Matched Influencers** tab displays all the creators from the general influ
    - **Details:** Opens a dedicated, multi-tabbed analytics dashboard for that creator.
    - **Posts About Me:** Displays all tracked posts created by that influencer that specifically mention or relate to your company.
 
+> **Note:** If your matched list is empty, you probably haven't checked or matched any influencers yet. [Learn how to match influencers here.](/en/docs/influencers/influencers-pool)
+
 ---
 
 ## 2. Profile Overview & Quick Actions
