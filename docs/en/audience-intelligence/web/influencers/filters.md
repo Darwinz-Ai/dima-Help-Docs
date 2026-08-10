@@ -1,6 +1,7 @@
 ---
 label: "Filtering Influencers"
 description: "Learn how to narrow down your influencer pool by size, region, category, and platform to find the perfect match."
+order: 3
 ---
 
 # Filtering Influencers

@@ -1,53 +1,53 @@
-checking influencer / matching
-==============================
+---
+label: "Evaluating & Matching Influencers"
+description: "Learn how to review an influencer's performance, assess risks, and match them with your brand."
+order: 1
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/27/2026
-*   [Edit original on dubble](https://dubble.so/guides/checking-influencer-matching-phyfinug0mz2sqtoevc8)
-
-* * *
+# Evaluating & Matching Influencers
 
 <video controls=""><source src="https://dubble.so/media/video/95e73584-f327-465c-8627-f2b3c441a82b" type="video/mp4"></video>
 
-dima allows users to search for influencers and match with them to find if that influencer is relevant to their brand or not, simply go to the Influencers module and select the Influencer Pool tab, from here you can match with desired influencers and know details about them.
+dima allows you to search for influencers, dive deep into their analytics, and check if they are a relevant match for your brand. This evaluation process takes place entirely within the **Influencers Pool** tab.
 
-### [1\. Go to Influencers tab in the sidebar and click on Influencers icon](https://dimaapp.darwinz.ai/en/brands)
+---
 
-![](https://dubble-prod-01.s3.amazonaws.com/assets/f6fd100e-283a-4489-92eb-a452bf4e5da9.png?0)
+## 1. Accessing Influencer Profiles
 
-### [2\. From the Influencers Pool tab select the desired Influencer by click on the influencer's box/card](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+![Screenshot of the Influencer Pool showing a grid of influencer cards being selected](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/select-influencer.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/78876f4b-8d27-468b-b500-094d4646b38c/1/82.281090815862/36.116439610311?0)
+1. Navigate to the **Influencers** page using the main sidebar.
+2. Open the **Influencers Pool** tab to browse the available profiles.
+3. Click on any influencer's card to open their detailed profile panel.
+4. To browse more profiles, scroll down and use the **Next** pagination button located at the bottom center of the page.
 
-### [3\. This will show details regarding the selected influencer including: Performance Intelligence, Risk Assessment, Audience Interest Mapping, Performance Benchmarks](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+---
 
-scroll through the details via the scrollbar labelled with the red arrow
+## 2. Reviewing Influencer Analytics
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/d9995e86-fb75-4910-8c78-dc088b3fdfa7/1/0/0?0)
+![Screenshot of the influencer details panel showing performance metrics and the download report button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/influencers-detail-panel.png)
 
-### [4\. Click on Community Resonance/Stability Floor to see the influencer's posts with the highest/lowest engagement](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+Once you open a profile, a detailed panel will appear with in-depth statistics. Use the scrollbar within this panel to explore the different sections:
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/b3fab4e3-701d-4455-919c-5f1ed7a37ea7/1/95.416669050852/69.150687439801?0)
+- **Performance Intelligence & Benchmarks:** Review the influencer's overall reach, engagement rates, and how they stack up against industry standards.
 
-### [5\. You can also download the selected influencer's details via click on the download report button labelled with the red arrow](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+- **Risk Assessment:** Identify potential red flags or controversies before engaging with the influencer.
 
-\[located at the top right corner of the screen under filters button\]
+- **Audience Interest Mapping:** Understand the demographics and core topics that resonate most with their followers.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/30eaa9d0-0a0c-4cb6-9114-bcc26face5c0/1/95.468751589457/19.068492732636?0)
+- **Community Resonance & Stability Floor:** Click these metrics to view the exact posts that generated the influencer's highest (Resonance) and lowest (Stability Floor) engagement.
 
-### [6\. Click on the icon \[labelled with the arrow and circle\] to match with the selected influencer](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+> **Pro Tip (Exporting Data):** You can easily export this profile data by clicking the **Download Report** button located at the top right corner of the details panel.
 
-this is the same as doing step 7
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/24745717-737b-4009-8d75-b69c899911b6/1/0/0?0)
+## 3. Checking Brand Relevance (Matching)
 
-### [7\. Or click on the Check Brand Relevance button located at the bottom of the Influencer Details section](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+![Screenshot of the Check Brand Relevance button located at the bottom of the Influencer Details section](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/check-brand-relevance.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/f7ab93d8-294a-44b2-9e21-bf5982a77a7c/1/97.031251589457/96.219181426584?0)
+After reviewing the analytics, you can run a targeted check to see how well the influencer aligns with your specific brand and topics.
 
-### [8\. Click on Next to see further influencers from the influencers pool](https://dimaapp.darwinz.ai/en/influencers-2?h_aWQ9NjY4)
+- Scroll to the very bottom of the Influencer Details section and click the **Check Brand Relevance** button.
+- _Alternatively_, you can click the quick **Match** icon directly on their profile header.
 
-\[located at the bottom center of the page\]
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/a66ec2b3-f7ce-4858-862c-4a8c445fc13c/1/44.410808881124/96.54795032658?0)
+dima will then analyze their historical content and audience against your specific brand parameters to determine their compatibility.
