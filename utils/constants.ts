@@ -8,6 +8,7 @@ export const GROUP_ORDER = [
     "Conversation Analysis",
     "Influencers",
     "Locations",
+    "E-Commerce Reviews",
     "Manage",
 ];
 
@@ -21,6 +22,7 @@ export const GROUP_TRANSLATIONS: Record<string, Record<string, string>> = {
         "Conversation Analysis": "تحليل المحادثات",
         "Influencers": "المؤثرين",
         "Locations": "المواقع",
+        "E-Commerce Reviews": "تقييمات التجارة الإلكترونية",
 
         // Nested folders
         "Own Page": "الصفحات الشخصية",
