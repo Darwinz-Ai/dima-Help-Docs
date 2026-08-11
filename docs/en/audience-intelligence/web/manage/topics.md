@@ -1,5 +1,5 @@
 ---
-label: "Managing Topics"
+label: "Topics"
 description: "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand."
 order: 5
 ---

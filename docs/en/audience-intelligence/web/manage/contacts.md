@@ -1,5 +1,5 @@
 ---
-label: "Managing Contacts"
+label: "Contacts"
 description: "Learn how to add, edit, and delete contacts to receive important reports and notifications."
 order: 3
 ---

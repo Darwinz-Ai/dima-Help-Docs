@@ -1,5 +1,5 @@
 ---
-label: "Managing Groups"
+label: "Groups"
 description: "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends."
 order: 4
 ---

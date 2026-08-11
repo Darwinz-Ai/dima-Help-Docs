@@ -1,5 +1,5 @@
 ---
-label: "Managing Own Pages"
+label: "Own Pages"
 description: "Learn how to add, edit, and delete your company's official social media pages for dedicated tracking and analysis."
 order: 1
 ---

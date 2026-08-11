@@ -93,7 +93,7 @@
       "label": "Made For You",
       "items": [
         {
-          "label": "Under Construction",
+          "label": "Create Chart & Dashboard - Under Construction",
           "slug": "made-for-you/create-dashboard-and-chart",
           "path": "en/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
           "description": "This page is currently being drafted.",
@@ -216,35 +216,35 @@
       "label": "Manage",
       "items": [
         {
-          "label": "Managing Own Pages",
+          "label": "Own Pages",
           "slug": "manage/own-pages",
           "path": "en/audience-intelligence/web/manage/own-pages.md",
           "description": "Learn how to add, edit, and delete your company's official social media pages for dedicated tracking and analysis.",
           "order": 1
         },
         {
-          "label": "Managing Locations",
+          "label": "Locations",
           "slug": "manage/locations",
           "path": "en/audience-intelligence/web/manage/locations.md",
           "description": "Learn how to add, edit, and delete physical company locations to track Google Reviews.",
           "order": 2
         },
         {
-          "label": "Managing Contacts",
+          "label": "Contacts",
           "slug": "manage/contacts",
           "path": "en/audience-intelligence/web/manage/contacts.md",
           "description": "Learn how to add, edit, and delete contacts to receive important reports and notifications.",
           "order": 3
         },
         {
-          "label": "Managing Groups",
+          "label": "Groups",
           "slug": "manage/groups",
           "path": "en/audience-intelligence/web/manage/groups.md",
           "description": "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends.",
           "order": 4
         },
         {
-          "label": "Managing Topics",
+          "label": "Topics",
           "slug": "manage/topics",
           "path": "en/audience-intelligence/web/manage/topics.md",
           "description": "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand.",
@@ -258,7 +258,7 @@
           "order": 7
         },
         {
-          "label": "Under Construction",
+          "label": "Users - Under Construction",
           "slug": "manage/user",
           "path": "en/audience-intelligence/web/manage/user.md",
           "description": "This page is currently being drafted.",
