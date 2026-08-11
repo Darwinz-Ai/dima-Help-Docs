@@ -47,6 +47,6 @@ Once you have added posts to your collection, you can review them and choose you
 After selecting your report format, a final **Send confirmation** pop-up will appear.
 
 1. **Select Recipients:** Use the **Contacts** dropdown to choose who should receive the report. You can type an email address in the search box to quickly find someone.
-   > **Note:** If you don't see any contacts available to select, you'll need to create them first. [Learn how to add a contact here.](/en/docs/manage/contact/add-contact)
+   > **Note:** If you don't see any contacts available to select, you'll need to create them first. [Learn how to add a contact here.](/en/docs/manage/contacts)
 2. **Manage Collection:** By default, posts are removed from your collection after the report is sent. If you want to reuse this batch of posts for another report, check the **"Keep posts in collection"** box.
 3. **Finish:** Click the **Send** button at the bottom right corner of the pop-up to generate and distribute the report.
