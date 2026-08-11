@@ -6,6 +6,8 @@ order: 3
 
 # Product Reviews Insights
 
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/product-insights/access-insights.mp4" type="video/mp4"></video>
+
 The **Insights** tab within the E-Commerce Reviews page allows you to ask specific, custom questions about your product reviews and receive AI-generated summaries based on real customer feedback.
 
 ---

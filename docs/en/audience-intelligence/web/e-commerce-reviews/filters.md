@@ -6,6 +6,8 @@ order: 4
 
 # Filtering E-Commerce Reviews
 
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/using-filters/access-filters.mp4" type="video/mp4"></video>
+
 To help you zero in on specific feedback, the E-Commerce Reviews page includes a dedicated **Filters** menu. These filters are persistent, meaning any criteria you select will apply seamlessly across all three tabs: **Reviews**, **Analytics**, and **Insights**.
 
 ---

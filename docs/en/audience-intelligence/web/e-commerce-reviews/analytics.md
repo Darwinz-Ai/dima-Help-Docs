@@ -6,11 +6,13 @@ order: 2
 
 # Product Reviews Analytics
 
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/access-analytics.mp4" type="video/mp4"></video>
+
 To help you identify broader trends in customer feedback, the E-Commerce Reviews page includes a dedicated analytics dashboard. This page visualizes your aggregate review data across all connected platforms, making it easy to spot performance spikes, drops in sentiment, or your most talked-about products.
 
-![Screenshot of the E-Commerce Reviews analytics page showing various data charts](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/review-analytics.png)
-
 ## 1. Sentiment & Volume (Over Time)
+
+![Screenshot of the E-Commerce Reviews analytics page showing various data charts](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/review-analytics.png)
 
 These charts help you track how often customers are reviewing your products and how they feel, broken down by either days or weeks.
 

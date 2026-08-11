@@ -6,13 +6,15 @@ order: 1
 
 # Monitoring Product Reviews
 
-The **E-Commerce Reviews** page allows you to track customer feedback for your company's products across major e-commerce websites. dima automatically aggregates reviews from platforms like Amazon, Noon, Jarir, Nahdi, and Extra into a single, unified feed.
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-reviews-video.mp4" type="video/mp4"></video>
 
-![Screenshot of the main E-Commerce Reviews tab displaying a list of product reviews within the dima web app](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-commerce-reviews.png)
+The **E-Commerce Reviews** page allows you to track customer feedback for your company's products across major e-commerce websites. dima automatically aggregates reviews from platforms like Amazon, Noon, Jarir, Nahdi, and Extra into a single, unified feed.
 
 ---
 
 ## 1. Navigating the Reviews Feed
+
+![Screenshot of the main E-Commerce Reviews tab displaying a list of product reviews within the dima web app](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-commerce-reviews.png)
 
 When you open the **Reviews** tab, you will see a chronological list of customer feedback. Each review card provides a comprehensive snapshot of the interaction and the product it belongs to:
 
