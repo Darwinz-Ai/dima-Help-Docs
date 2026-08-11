@@ -1,5 +1,5 @@
 ---
-label: "Filtering E-Commerce Reviews"
+label: "Using Filters"
 description: "Learn how to narrow down your e-commerce reviews data by platform, review rating, and product rating."
 order: 4
 ---

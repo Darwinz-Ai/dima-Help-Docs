@@ -1,5 +1,5 @@
 ---
-label: "Product Reviews Analytics"
+label: "Analytics Dashboard"
 description: "Learn how to interpret the analytics dashboard to track product sentiment, ratings, and review volume over time."
 order: 2
 ---

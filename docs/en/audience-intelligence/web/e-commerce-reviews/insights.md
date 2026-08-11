@@ -1,5 +1,5 @@
 ---
-label: "Product Reviews Insights"
+label: "Generating Reviews Insights"
 description: "Learn how to use AI-driven insights to ask questions and summarize feedback from your e-commerce product reviews."
 order: 3
 ---
