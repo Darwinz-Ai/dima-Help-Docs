@@ -12,13 +12,13 @@ To support multiple languages, products, and platforms, this repository strictly
 
 ```text
 docs/
-├── en/                             <-- 1. Locale (en, ar)
-│ ├── audience-intelligence/        <-- 2. Service
-│ │ ├── web/                        <-- 3. Platform (web, mobile)
-│ │ │ ├── brands/                   <-- 4. Category Group
-│ │ │ │ └── add-company.md          <-- 5. Markdown Document
+├── en/                        <-- 1. Locale (en, ar)
+│ ├── audience-intelligence/   <-- 2. Service
+│ │ ├── web/                   <-- 3. Platform (web, mobile)
+│ │ │ ├── brands/              <-- 4. Category Group
+│ │ │ │ └── add-company.md     <-- 5. Markdown Document
 │ │ │ └── manage/
-│ │ │ └── own-page/ <-- Nested Category Group
+│ │ │ └── own-page/            <-- Nested Category Group
 │ │ │ └── add.md
 │ │ └── mobile/
 │ └── pr-comms/
@@ -43,23 +43,11 @@ docs/
 
 ### 3. YAML Frontmatter (Required)
 
-Every Markdown file **must** begin with a YAML frontmatter block. This metadata is parsed by our services to map the correct titles and descriptions, which is especially important for localized titles in Arabic.
+Every Markdown file **must** begin with a YAML frontmatter block. This metadata is parsed by our services to map the correct titles and descriptions.
 
-**Template:**
+_Note on `order`: This field is **optional**. If omitted, it defaults to `999` (placing it at the bottom of the list). Use it only when you need to enforce a strict visual order in the UI sidebar._
 
-```markdown
----
-label: "Your UI Sidebar Title"
-description: "A brief 1-2 sentence description for SEO and subheadings."
-order: 1
----
-
-# Your H1 Title Here
-
-Your markdown content goes here. You can use **bold**, _italics_, and lists.
-```
-
-**Example (English - `docs/en/.../brands/add-company.md`):**
+**Example (English with strict ordering):**
 
 ```markdown
 ---
@@ -69,11 +57,9 @@ order: 1
 ---
 
 # Adding a Company
-
-To add a company, navigate to the...
 ```
 
-**Example (Arabic - `docs/ar/.../brands/add-company.md`):**
+**Example (Arabic relying on default order):**
 
 ```markdown
 ---
@@ -82,9 +68,59 @@ description: "تعرف على كيفية إضافة شركة جديدة إلى �
 ---
 
 # إضافة شركة
-
-لإضافة شركة، انتقل إلى...
 ```
+
+---
+
+## Writing Guidelines & Document Structure
+
+For consistency across the platform, all documentation should follow a standardized format.
+
+**The Gold Standard:**
+Please reference `docs/en/audience-intelligence/web/brands/add-company.md` as the primary example of how a document should be structured.
+
+**General Rules:**
+
+- Start with an introductory paragraph summarizing the feature.
+- Whenever possible, include a video tutorial demonstrating how to use the feature described in your documentation.
+- Use a divider (`---`) before diving into the steps.
+- Use sequential `##` headings for each major step.
+- If a step contains multiple sub-sections, use `###` for the sub-headings.
+- Place the relevant image directly under the main or sub-heading, as appropriate.
+
+---
+
+## Image & Media Handling
+
+Do not store raw images directly in this repository to prevent bloating the git history.
+
+All images must be manually uploaded to our Google Cloud Storage bucket: `mediamonitor/dimabothelp/images`.
+
+**The GCS Folder Rule:**
+The folder structure inside GCS must exactly mirror the repository structure, **with one addition:** you must create a final folder named identically to the `.md` file to house its specific images.
+
+- **Repo Path:** `docs/en/audience-intelligence/web/brands/add-company.md`
+- **GCS Path:** `.../images/en/audience-intelligence/web/brands/add-company/add-company-step-1.png`
+
+![GCS Bucket Structure Example](Screenshot 2026-08-11 at 10-55-41 mediamonitor – Bucket details – Cloud Storage – My First Project – Google Cloud console.png)
+
+Once uploaded, grab the public URL from GCS and reference it in your markdown:
+
+```markdown
+![Description for screen readers & chatbot](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-step-1.png)
+```
+
+---
+
+## How to Contribute
+
+To maintain a clean and functioning documentation pipeline, please follow this strict workflow:
+
+1. **Branch Out:** Create a new branch originating from the `development` branch.
+2. **Make Changes:** Add or edit your markdown files and upload any necessary images to GCS.
+3. **Build Manifests:** Run `npm run precommit` in your terminal. This will automatically crawl your changes, generate the updated JSON manifest files, and stage them.
+4. **Push to Dev:** Commit your changes and push them to the `development` branch.
+5. **Review & Stage:** If everything looks good and functions correctly in the dev environment, push your changes to the `staging` branch for final review.
 
 ---
 
@@ -92,29 +128,23 @@ description: "تعرف على كيفية إضافة شركة جديدة إلى �
 
 Consuming applications do not crawl this repository directly. Instead, they read from JSON manifest files (`manifests/`) that map out the folder structure.
 
-Whenever you add, rename, or delete a markdown file, you **must** rebuild the manifests.
-
 ### Setup
 
 ```bash
 npm install
 ```
 
-### Generate Manifests
+### Generate Manifests (Manual)
 
-Run this command to crawl the `docs/` folder and generate fresh JSON maps in the `manifests/` folder.
+If you need to manually rebuild the JSON maps without committing:
 
 ```bash
 npm run build:manifests
 ```
 
-_Note: We have a `precommit` script configured. Running `npm run precommit` will automatically build the manifests and stage them for Git before you push._
-
 ---
 
 ## Integration & Data Fetching
-
-Because this is a public repository, any client or service can fetch documentation files directly from GitHub's raw content servers.
 
 We use environment variables to ensure consuming applications fetch from the correct branch depending on the environment (Development, Staging, or Main/Production).
 
@@ -123,7 +153,6 @@ We use environment variables to ensure consuming applications fetch from the cor
 Ensure your application's `.env` configuration includes the base URL pointing to the correct branch:
 
 ```env
-
 # Example for Development environment
 
 DOCS_GITHUB_BASE_URL="https://raw.githubusercontent.com/Darwinz-Ai/dima-Help-Docs/development"
@@ -131,26 +160,22 @@ DOCS_GITHUB_BASE_URL="https://raw.githubusercontent.com/Darwinz-Ai/dima-Help-Doc
 
 ### Fetching the Data
 
-To fetch the correct files, concatenate the base URL with the requested file path.
-
 **1. Fetching a Manifest:**
-Construct the URL using the locale, service, and platform.
 
 ```typescript
 const DOCS_BASE_URL = process.env.NEXT_PUBLIC_DOCS_GITHUB_BASE_URL;
-const manifestUrl = \`\${DOCS_BASE_URL}/manifests/\${locale}/\${service}/\${platform}.json\`;
+const manifestUrl = `${DOCS_BASE_URL}/manifests/${locale}/${service}/${platform}.json`;
 
 const response = await fetch(manifestUrl);
 const manifest = await response.json();
 ```
 
 **2. Fetching a Document:**
-The manifest objects contain a \`path\` property for every document (e.g., \`en/audience-intelligence/web/brands/add-company.md\`). Append this path directly to the base URL and the \`/docs/\` folder.
 
 ```typescript
 const DOCS_BASE_URL = process.env.NEXT_PUBLIC_DOCS_GITHUB_BASE_URL;
-// doc.path comes from the fetched manifest item
-const docUrl = \`\${DOCS_BASE_URL}/docs/\${doc.path}\`;
+// doc.path comes from the fetched manifest item (e.g., en/.../add-company.md)
+const docUrl = `${DOCS_BASE_URL}/docs/${doc.path}`;
 
 const response = await fetch(docUrl);
 const markdownText = await response.text();
