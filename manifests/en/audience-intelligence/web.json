@@ -180,6 +180,39 @@
       ]
     },
     {
+      "label": "E Commerce Reviews",
+      "items": [
+        {
+          "label": "Monitoring Product Reviews",
+          "slug": "e-commerce-reviews/reviews",
+          "path": "en/audience-intelligence/web/e-commerce-reviews/reviews.md",
+          "description": "Learn how to track and analyze customer feedback for your products across major e-commerce platforms.",
+          "order": 1
+        },
+        {
+          "label": "Product Reviews Analytics",
+          "slug": "e-commerce-reviews/analytics",
+          "path": "en/audience-intelligence/web/e-commerce-reviews/analytics.md",
+          "description": "Learn how to interpret the analytics dashboard to track product sentiment, ratings, and review volume over time.",
+          "order": 2
+        },
+        {
+          "label": "Product Reviews Insights",
+          "slug": "e-commerce-reviews/insights",
+          "path": "en/audience-intelligence/web/e-commerce-reviews/insights.md",
+          "description": "Learn how to use AI-driven insights to ask questions and summarize feedback from your e-commerce product reviews.",
+          "order": 3
+        },
+        {
+          "label": "Filtering E-Commerce Reviews",
+          "slug": "e-commerce-reviews/filters",
+          "path": "en/audience-intelligence/web/e-commerce-reviews/filters.md",
+          "description": "Learn how to narrow down your e-commerce reviews data by platform, review rating, and product rating.",
+          "order": 4
+        }
+      ]
+    },
+    {
       "label": "Manage",
       "items": [
         {
