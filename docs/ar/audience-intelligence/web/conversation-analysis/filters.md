@@ -1,49 +1,60 @@
-Conversation Analysis Filter
-============================
+---
+label: "Using Filters"
+description: "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies."
+order: 2
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/26/2026
-*   [Edit original on dubble](https://dubble.so/guides/conversation-analysis-filter-56dxs6rjksdgfzbx0ea9)
-
-* * *
+# Using Filters
 
 <video controls=""><source src="https://dubble.so/media/video/06042cdb-0368-42d6-9e5d-40e0ce8dcbe3" type="video/mp4"></video>
 
-dima allows users to easily filter the posts and their replies via the Conversation Analysis Filter, this filter only applies on the Conversation Analysis module. Simply click on filters button when on the Conversation Analysis module and select the desired options to filter out on posts.
+Because the **Conversation Analysis** module focuses on threads and comments, it features a specialized filtering system. Unlike standard filters, this system allows you to cross-reference data; meaning you can filter based on the attributes of the original post _and_ the attributes of the replies underneath it (e.g., finding a post with a "Positive" sentiment that generated "Negative" replies).
 
-### [1\. Go to Conversation Analysis tab on the sidebar and click on the Conversation Analysis icon](https://dimaapp.darwinz.ai/en/brands)
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/babb8bcf-d178-473f-a610-bb3ebca42e2c/1/1.9710286209981/63.383563316032?0)
+## 1. Accessing the Filter
 
-### [2\. Click on Filters button](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+![Screenshot of the Conversation Analysis feed with the Filters button highlighted in the top right corner](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-filters.png)
 
-\[located at the top right corner of the page under the company's logo\]
+1. Navigate to the **Conversation Analytics** tab using the main sidebar.
+2. Click the **Filters** button located at the top right corner of the page (just below the company logo).
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/8bdb640f-078f-447a-9dd9-de612136c965/1/98.333334922791/10.082191571797?0)
+---
 
-### [3\. In Filters tab, the tab is split into 2 sections: General and Content](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+## 2. Configuring the Filter Categories
 
-General and Content are each split into further sections  
-General is split into: post emotion, reply emotion, post sentiment, reply sentiment and post type.  
-Content is split into: post topics, reply topics, post labels, post types.
+![Screenshot of the Conversation Analysis filter menu showing the General tab with Post Emotion, Reply Emotion, and Sentiment options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-general-filters.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/e717bb83-49e6-4e16-a7ed-a020346bf9e6/1/14.114583532015/30.378424239485?0)
+The Conversation Analysis filter menu is divided into two main sections: **General** and **Content**. You can select one or multiple options across both tabs.
 
-### [4\. Click on desired options: Post Emotion,Post Sentiment, Reply Sentiment, Post Type](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+### The General Tab
 
-you can select more than one option
+This tab focuses on the mood and origin of the interaction. You can filter by:
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/8983bb1e-d499-4eb3-9847-24acad767f6c/1/32.122395435969/75.748289970502?0)
+- **Post Sentiment & Emotion:** The overall mood of the original top-level post.
+- **Reply Sentiment & Emotion:** The mood of the specific comments reacting to the post.
+- **Post Type:** The nature of the post (e.g., Public, Owned).
 
+### The Content Tab
 
+This tab focuses on the categorization of the text itself. You can filter by:
 
-### [5\. Select on desired type of post](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+- **Post Topics & Labels:** The subjects and custom tags assigned to the original post.
+- **Reply Topics:** The subjects being discussed within the comment section itself.
 
-In post types you can select one or many options, if public group option is the only selection then dima will further request from you to enter in the Facebook group's link same concept with the private group option. Same idea also when selecting own page option only.
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c761ce5f-99b2-43c5-9bd4-a048cd9a4db2/1/14.114583532015/51.035958120268?0)
+## 3. Dynamic Post Type Rules
 
-### [6\. Click on the Apply Filters button \[located on the bottom right corner of the page\]](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+When configuring your filters, pay special attention to the **Post Types** category, as it behaves dynamically based on your selections:
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/3e30759d-a343-4a38-bf5d-a86a8034582d/1/85.885418454806/87.648975947132?0)
+> **Important Note:**
+>
+> - If you select **Public Group** or **Private Group** as your _only_ Post Type option, dima will automatically prompt you to enter the specific Facebook Group link you want to filter by.
+> - Similarly, if you select **Own Page** as your _only_ option, you will be prompted to select which specific connected page you want to view.
+
+---
+
+## 4. Applying the Filter
+
+Once you have configured your desired criteria across the General and Content tabs, click the **Apply Filters** button located at the bottom right corner of the menu to update your conversation feed.

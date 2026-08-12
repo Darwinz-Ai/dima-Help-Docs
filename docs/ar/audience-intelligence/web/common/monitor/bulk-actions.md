@@ -1,61 +1,64 @@
-Bulk Actions
-============
+---
+label: "Bulk Actions"
+description: "Learn how to perform collective actions on multiple posts, such as updating sentiment, changing topics, or assigning labels simultaneously."
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/26/2026
-*   [Edit original on dubble](https://dubble.so/guides/bulk-actions-btmy47xyo3vnfnddqttg)
-
-* * *
+# Using Bulk Actions
 
 <video controls=""><source src="https://dubble.so/media/video/3d4e8573-6442-4900-9c6c-379a1b26838f" type="video/mp4"></video>
 
-When you select multiple posts, you could want to do a collective action on all posts selected, this is where you use the bulk actions button. It allows you to assign or remove labels, change sentiment, topic or emotions, or delete multiple posts at the same time.
+When managing a large volume of data in dima, you may want to apply the same change to several posts at once. The **Bulk Actions** feature allows you to simultaneously assign or remove labels, change sentiments and emotions, update topics, or even delete multiple posts.
 
-### [1\. Select the company you want to add to bulk, click on the photo of the company, this will direct you to the audience intelligence page](https://dimaapp.darwinz.ai/en/brands)
+---
 
+## 1. Selecting Posts
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/45755f20-5110-4078-9a93-d9983403e432/1/99.166665474574/8.8767127468161?0)
+![Screenshot showing multiple posts selected using the checkboxes in the top right corner of each post card](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-1.png)
 
-### [2\. To add posts to bulk, simply click on the checkbox \[located at the top right most corner of the post\]](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+Before applying a bulk action, you first need to select the posts you wish to modify.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/4d46f9bd-697c-43ae-8281-95755aedaf84/1/43.29833984375/37.808219178082?0)
+1. Navigate to the **Audience Intelligence** page (or any other module displaying a feed of posts).
+2. Click the **checkbox** located in the top-right corner of each post you want to include in your bulk update.
 
-### [3\. Once post/s is/are selected then several icons will appear including the Bulk Actions icon which resembles as a 3 dotted button, click on the button](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/5572a773-e8d3-4a14-ab23-b7505b5d894d/1/27.578125397364/25.863014116679?0)
+## 2. Using the Bulk Actions Menu
 
-### [4\. Now the user may edit the posts by changing the: Sentiment, Emotion, Label, Topic via opening each tab and selecting from it the things you want to change about the post/s](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+![Screenshot of the Bulk Actions menu showing tabs to change Sentiment, Emotion, Label, and Topic](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-2.png)
 
-just click on the option desired
+Once at least one post is selected, a new set of action icons will appear above your feed.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/073f902b-c06e-4f14-aeec-9220a2da3042/1/53.922528028488/21.369863013699?0)
+1. Locate and click the **Bulk Actions** icon (represented by three vertical dots `⋮`).
+2. A menu will appear with tabs for the different attributes you can modify: **Sentiment**, **Emotion**, **Topic**, and **Label**.
+3. Click through the tabs and select the new values you want to apply to your selected posts.
 
+---
 
-### [5\. Click on Assign Labels then click on the dropdown menu labelled "Select Labels" which will show all created labels by company](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+## 3. Creating and Assigning New Labels
 
-if you want to add a label click on the plus on the right of the dropdown menu, you can also type in the dropdown menu to narrow down on the desired label
+![Screenshot of the Add Label pop-up with the Name text field and the Add button highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-3.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/9a58bdc1-085f-4277-9d0e-065343bb6f54/1/52.360026041667/45.589043604185?0)
+While in the Bulk Actions menu, you can easily apply existing labels or create brand new ones on the fly.
 
-### [5\. Write in the textbox labelled "Name" in the pop-up named "Add Label"](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+To create or assign labels to your selected posts in bulk:
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/02a6239c-aae3-4bdf-938f-44df6baa9b21/1/49.999999006589/50.30137153521?0)
+**A. Assigning Existing Labels**
 
-### [6\. Click on the Add button to add a new label](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+- In the Bulk Actions menu, go to the **Label as** tab.
+- Click **Assign Labels**.
+- Open the "Select Labels" dropdown and choose one or more labels from your company's list to apply them to all selected posts.
 
-\[located on the bottom right corner of the pop-up\]
+**B. Creating a New Label**
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c0611158-3a48-486b-8105-bf72fc437933/1/65.052082637946/63.561643835616?0)
+- In the same "Select Labels" dropdown, click the **+ (Plus)** icon to the right.
+- An "Add Label" pop-up will appear. Enter your desired label name in the **Name** textbox.
+- Click the **Add** button at the bottom right to create the label.
+- Your new label now appears in the dropdown and can be immediately selected and assigned.
 
-### [7\. Click on the dropdown to select the label](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
+This organized menu lets you quickly apply any combination of new and existing labels during the bulk action process.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/ce698b2e-3e8e-4951-aec0-a6e30d858fbb/1/78.281251589457/46.575342465753?0)
+---
 
+## 4. Applying Your Changes
 
-
-### [8\. Click on Apply button to apply the different selections from the tabs onto the selected posts](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9Njc2JnRhYj1tb25pdG9y)
-
-\[located at the bottom right of the page\]
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/01cc59cc-ba5d-41ae-aa85-a0b247b27bc5/1/39.894207318624/21.369863013699?0)
+Once you have configured all your desired changes across the Sentiment, Emotion, Topic, or Label tabs, click the **Apply** button located at the bottom right of the page. dima will instantly process the update and apply your chosen criteria to all selected posts.

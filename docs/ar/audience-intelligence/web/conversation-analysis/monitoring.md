@@ -1,33 +1,40 @@
-Conversation Analysis Monitoring
-================================
+---
+label: "Monitoring Comments"
+description: "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post."
+order: 1
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/27/2026
-*   [Edit original on dubble](https://dubble.so/guides/conversation-analysis-monitoring-adeh1w418ax5n4ylhoxz)
-
-* * *
+# Monitoring Comments
 
 <video controls=""><source src="https://dubble.so/media/video/fa72e1c5-7be9-45ec-98ae-a3e1465800ef" type="video/mp4"></video>
 
-Dima allows user to track and analyze comments and replies on posts.
+While tracking top-level posts is crucial, true audience intelligence often lies in the comment section. dima's **Conversation Analysis** module allows you to dive deep into comment threads and replies to analyze how the community is actually reacting.
 
-### [1\. Go to Conversation Analytics tab](https://dimaapp.darwinz.ai/en/brands)
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/06c816a3-4a3d-4ad9-a45e-ea484970364d/1/1.5804036209981/64.205481124251?0)
+## 1. Accessing and Navigating Comments
 
-### [2\. Click on the number to see the rest of the comments](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+![Screenshot of the dima sidebar with the Conversation Analytics tab highlighted, and a post showing pagination controls to view more comments](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-1.png)
 
-\[it is labelled with the red arrow\]
+To get started, navigate to your main sidebar and click on the **Conversation Analytics** tab. This will open a dedicated feed displaying tracked posts alongside their top-level comments and replies.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c9cc6050-2eb3-453c-ad3c-0b606e994845/1/0/0?0)
+When browsing the Conversation Analysis feed, you will see a preview of the comments attached to each post:
 
-### [3\. Click on a comment/reply of a post to see further information](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+- **To see more replies:** Use the **pagination controls** located below the visible replies to navigate through the rest of the comment thread.
+- **To inspect a specific interaction:** Simply click anywhere on a **comment or reply card**. This will open a detailed information panel.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/d4ee7b1a-84b5-4447-923d-7e3bc3c8ec10/1/52.604168156783/54.410957963499?0)
+---
 
-### [4\. this is the icon of the platform which the comment and post are from in thsi case instagram](https://dimaapp.darwinz.ai/en/conversation-analysis?h_aWQ9NjY4)
+## 2. The Detailed View
 
-as you can see Dima shows the user the post itself with it's caption and the likes, comments, shares, views and how many saved the post in addition to the post's URL along with the top replies, topic name, sentiment and emotion
+![Screenshot of the detailed Conversation Analysis panel showing the platform icon, original post caption, engagement metrics, and AI sentiment analysis](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-2.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/54d54d8d-5efe-4f0c-960e-5d87f2615ffd/1/39.283041159312/41.013697794039?0)
+Clicking on a comment opens a comprehensive view that gives you the full context of that specific interaction, including its origin and AI-driven insights.
+
+The detailed view panel includes:
+
+- **Platform Origin:** An icon at the top (e.g., Instagram, Twitter) showing exactly where the conversation is taking place.
+- **Original Post Context:** The full caption of the original parent post, along with its direct URL.
+- **Engagement Metrics:** The current performance of the parent post, including likes, comments, shares, views, and saves.
+- **Top Replies:** The specific comment threads branching off the interaction.
+- **AI Insights:** dima's automated analysis for the specific comment, displaying its **Topic**, **Sentiment**, and **Emotion**.

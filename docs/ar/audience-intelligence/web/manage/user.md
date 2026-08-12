@@ -1,5 +1,5 @@
 ---
-label: "Create Chart & Dashboard - Under Construction"
+label: "Users - Under Construction"
 description: "This page is currently being drafted."
 ---
 

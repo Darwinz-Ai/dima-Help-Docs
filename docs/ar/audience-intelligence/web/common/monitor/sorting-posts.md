@@ -1,31 +1,23 @@
-sorting posts
-=============
+---
+label: "Sorting Posts"
+description: "Learn how to arrange posts in your monitoring feed based on metrics such as likes, comments, views, or follower count."
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/26/2026
-*   [Edit original on dubble](https://dubble.so/guides/sorting-posts-k6ncn16nzd8jffl14mm9)
-
-* * *
+# Sorting Posts
 
 <video controls=""><source src="https://dubble.so/media/video/23f31a48-569d-43d6-9464-acc80cf2a29c" type="video/mp4"></video>
 
-You can use the sort button to arrange the posts in monitoring page on dima with the order you like (e.g. most likes first, most comments first, least views first, by most followers etc.)
+When reviewing large amounts of data in your monitoring feeds, you may want to prioritize certain posts. dima allows you to dynamically sort your feed by key metrics including date, likes, comments, shares, and views.
 
-### [1\. Go to any of the tabs mentioned above and click on the icon labeled with a red arrow](https://dimaapp.darwinz.ai/en/brands)
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/62f4ceff-7a17-42ae-abf1-21337e7561cc/1/0/0?0)
+## How to Sort Your Feed
 
-### [2\. Click on the factors you want to sort with, you can select more than one](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9NjY4JnRhYj1tb25pdG9y)
+![Screenshot of the Sort menu in dima, showing selected sorting factors, the ascending/descending toggle arrows, and the Apply Sort button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/sorting-posts/sort-menu.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/8d5867ed-da43-408c-8174-f13cb0281df0/1/23.593749602636/47.068493986783?0)
-
-### [3\. Click on the ascending/descending icon to see posts in a particular order](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9NjY4JnRhYj1tb25pdG9y)
-
-\[located at the right of each selected factor\]
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/670beb18-bcc2-475f-be5a-19e2643b57b6/1/35.989582538605/47.068493986783?0)
-
-### [4\. Click on Apply Sort \[located at the bottom of the pop-up\]](https://dimaapp.darwinz.ai/en/audience-intelligence-2?h_aWQ9NjY4JnRhYj1tb25pdG9y)
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/7382fde9-3d5b-492c-89d7-ef3387d822ab/1/23.072916269302/63.917809055276?0)
+1. **Open the Sort Menu:** While on any monitoring page (such as Audience Intelligence, Groups, or Own Page), locate and click the **Sort** icon above the posts feed.
+2. **Choose Sorting Factors:** A menu will appear listing the available metrics. Click on the factor(s) you want to use to sort your posts. You can select more than one factor if you want to establish primary and secondary sorting rules.
+3. **Set the Order (Ascending/Descending):** Once a factor is selected, an arrow icon will appear to its right. Click this icon to toggle the sorting direction:
+   - **Descending (Arrow Down):** Shows the highest numbers first (e.g., most likes to least likes).
+   - **Ascending (Arrow Up):** Shows the lowest numbers first (e.g., fewest views to most views).
+4. **Apply Your Sort:** After configuring your desired factors and order, click the **Apply Sort** button at the bottom of the pop-up menu. Your feed will immediately reload in the new arrangement.

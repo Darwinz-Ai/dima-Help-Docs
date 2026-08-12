@@ -1,46 +1,32 @@
-Restoring Post/s
-================
+---
+label: "Restoring Posts"
+description: "Learn how to recover previously deleted posts and bring them back into your monitoring feeds."
+order: 7
+---
 
-* * *
-
-*   Created by Hussein El Rayes on 7/26/2026
-*   [Edit original on dubble](https://dubble.so/guides/restoring-posts-iyosc4thrsemfhnpoejd)
-
-* * *
+# Restoring Posts
 
 <video controls=""><source src="https://dubble.so/media/video/13cda758-b862-4bbb-8366-712f2a1bbf0b" type="video/mp4"></video>
 
-On dima's platform after gathering posts, the user might delete irrelevant posts and later on these posts might be relevant. dima offers the solution by allowing the user to restore the deleted posts. Simply go to the Manage module then select the deleted posts tab then restore the desired posts.
+As you curate your data, you might delete a post only to realize later that it is actually relevant to your brand. dima keeps a secure archive of your removed content, allowing you to easily recover and restore any deleted posts.
 
-### [1\. Click on the Manage icon to open the Manage page](https://dimaapp.darwinz.ai/en/brands)
+---
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/7d46ea18-c830-44a6-b03f-bcc91a6b2223/1/4.6744793653488/39.347603157775?0)
+## 1. Selecting Deleted Posts
 
-### [2\. Click on desired Company to recover deleted posts from](https://dimaapp.darwinz.ai/en/manage/own-page)
+![Screenshot of the Deleted Posts feed showing checkboxes on individual posts and the Select All checkbox next to the Restore icon](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/select-posts.png)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/ae291eba-c211-450f-b3db-f9830ab35de7/1/19.375000397364/19.506850569216?0)
+To recover deleted posts, first navigate to the main sidebar and click on the **Manage** icon. Then, select the **Deleted Posts** tab in the secondary menu.
 
-### [3\. Click on Deleted Posts tab](https://dimaapp.darwinz.ai/en/manage/own-page)
+You will now see a feed of all previously removed content for that company, just like in the screenshot above.
 
-\[located in between the list of companies and the sidebar\]
+- **Select Individual Posts:** Click the small checkbox in the top left corner of each post card to select specific posts you want to recover.
+- **Select All Posts:** To recover every post on the current page, click the main checkbox at the top left of the feed, next to the Restore Posts icon.
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/79dfaa02-88c5-4f4c-b1fa-644d18595b1c/1/6.0416668653488/40.10959154939?0)
+## 2. Finalizing the Restoration
 
-### [4\. Click on the small checkbox \[located on the top left corner for each post\] to select the post you want to recover](https://dimaapp.darwinz.ai/en/manage/deleted-posts)
+![Screenshot of the confirmation pop-up with the Restore button highlighted at the bottom right](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/confirm-restore.png)
 
-You can select one of many posts to recover at once,
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/3fbbc5ae-1d45-45f4-9b16-dd50ceddecde/1/19.635417064031/64.000001672196?0)
-
-### [5\. Click on the Restore Posts icon](https://dimaapp.darwinz.ai/en/manage/deleted-posts)
-
-\[located under the search bar on the top left corner of the screen\]  
-you can also select all deleted posts via the checkbox next to the Restore Posts icon \[left to the icon\]
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/9be90fa0-c426-430d-b52c-46dac4f735dd/1/23.020833730698/16.657534037551?0)
-
-### [6\. Click on the Restore button to restore the selected posts](https://dimaapp.darwinz.ai/en/manage/deleted-posts)
-
-\[the button is located on the bottom right corner of the pop-up\]
-
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c752f98d-0305-4928-943e-75fad246ed2d/1/65.052085121473/58.657535918771?0)
+1. After selecting your desired posts, click the **Restore Posts** icon (located just below the search bar at the top left of the screen).
+2. A confirmation pop-up will appear.
+3. Click the **Restore** button in the bottom right corner of the pop-up to immediately send the posts back to your active monitoring feeds.

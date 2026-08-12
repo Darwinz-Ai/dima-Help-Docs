@@ -37,7 +37,7 @@ Once filled out, click **Next** at the bottom-right corner to move to Online Pre
 
 ![Screenshot of the Step 2 Online Presence screen displaying sections for configuring Post Topics, Own Page Links, Google Map Links, and Group Links](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-step-2.png)
 
-> **Note:** Step 2 is _completely optional_. You can always skip this now and configure your company's online presence and links later from the [Manage page](/en/guides/manage) at any time.
+> **Note:** Step 2 is _completely optional_. You may skip this for now. You can learn how to manage your company's online presence and links [here](/en/guides/manage) at any time.
 
 This step tells dima exactly where to look for official posts, reviews, and targeted conversations.
 
@@ -91,7 +91,7 @@ Click **Next** to move to Posts Relevancy.
 
 ![Screenshot of the Step 3 Posts Relevancy screen featuring two main columns to add URLs for Relevant Posts and Irrelevant Posts](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-step-3.png)
 
-> **Note:** Step 3 is _also completely optional_. You can define posts relevancy criteria later in the [Monitor screen](/en/guides/common/monitor/deleting-posts-and-recalibrate-relevancy) if you wish to refine what dima should track or ignore for your company.
+> **Note:** Step 3 is _also completely optional_. You can learn more about defining posts relevancy criteria [here](/en/guides/common/monitor/deleting-posts-and-recalibrate-relevancy) if you want to refine what dima should track or ignore for your company.
 
 In this step, you can train dima's AI by providing examples of what you do and do not want to see. This can drastically improve the accuracy of your media monitoring, but it is not required to proceed.
 
