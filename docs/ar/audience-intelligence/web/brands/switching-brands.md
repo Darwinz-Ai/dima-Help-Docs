@@ -1,20 +1,20 @@
 ---
-label: "Switching Brands"
-description: "Learn how to quickly switch your active workspace to view data and reports for a different company."
+label: "تبديل العلامات التجارية"
+description: "تعرف على كيفية التبديل السريع لمساحة العمل النشطة الخاصة بك لعرض البيانات والتقارير لشركة مختلفة."
 ---
 
-# Switching Between Brands
+# التبديل بين العلامات التجارية
 
 <video controls=""><source src="https://dubble.so/media/video/45b34218-3012-42fa-a7f7-eb4fd6bf75a4" type="video/mp4"></video>
 
-If you are monitoring multiple companies, dima allows you to easily jump between them without leaving your current page. Changing your active brand updates your dashboard, reports, and settings to reflect the selected company's data.
+إذا كنت تراقب شركات متعددة، تتيح لك ديما التنقل بسهولة بينها دون مغادرة صفحتك الحالية. يؤدي تغيير علامتك التجارية النشطة إلى تحديث لوحة المعلومات، والتقارير، والإعدادات الخاصة بك لتعكس بيانات الشركة المحددة.
 
-## How to Switch Your Active Brand
+## كيفية التبديل بين علامتك التجارية النشطة
 
-![Screenshot of the dima sidebar showing the brand switcher menu open at the bottom left, featuring a search bar and a list of available companies](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/switching-brands/brand-switcher-menu.png)
+![لقطة شاشة للشريط الجانبي في ديما تعرض قائمة مبدل العلامات التجارية مفتوحة في أسفل اليسار، وتتميز بشريط بحث وقائمة بالشركات المتاحة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/brands/switching-brands/brand-switcher-menu.png)
 
-You can switch brands from anywhere in the app using the main navigation sidebar.
+يمكنك التبديل بين العلامات التجارية من أي مكان في التطبيق باستخدام شريط التنقل الجانبي الرئيسي.
 
-1. **Open the Switcher:** Locate and click your current company's icon at the very bottom-left corner of the sidebar.
-2. **Select a Brand:** A menu will appear showing all the companies you have access to. Click the desired brand from the list to switch immediately.
-3. **Search (Optional):** If you manage a large number of brands, type the company's name into the search bar at the top of the menu to find it quickly.
+1. **فتح المبدل:** حدد موقع أيقونة شركتك الحالية وانقر عليها في الزاوية السفلية اليمنى من الشريط الجانبي.
+2. **تحديد علامة تجارية:** ستظهر قائمة تعرض جميع الشركات التي يمكنك الوصول إليها. انقر على العلامة التجارية المطلوبة من القائمة للتبديل فورًا.
+3. **البحث (اختياري):** إذا كنت تدير عددًا كبيرًا من العلامات التجارية، فاكتب اسم الشركة في شريط البحث أعلى القائمة للعثور عليها بسرعة.
