@@ -1,64 +1,64 @@
 ---
-label: "Bulk Actions"
-description: "Learn how to perform collective actions on multiple posts, such as updating sentiment, changing topics, or assigning labels simultaneously."
+label: "الإجراءات المجمعة"
+description: "تعرف على كيفية تنفيذ إجراءات جماعية على منشورات متعددة، مثل تحديث الانطباع أو تغيير المواضيع أو تعيين تصنيفات في وقت واحد."
 ---
 
-# Using Bulk Actions
+# استخدام الإجراءات المجمعة
 
 <video controls=""><source src="https://dubble.so/media/video/3d4e8573-6442-4900-9c6c-379a1b26838f" type="video/mp4"></video>
 
-When managing a large volume of data in dima, you may want to apply the same change to several posts at once. The **Bulk Actions** feature allows you to simultaneously assign or remove labels, change sentiments and emotions, update topics, or even delete multiple posts.
+عند إدارة حجم كبير من البيانات في ديما، قد ترغب في تطبيق نفس التغيير على عدة منشورات في وقت واحد. تتيح لك ميزة **الإجراءات المجمعة** تعيين تصنيفات أو إزالتها، وتغيير الانطباعات والمشاعر، وتحديث المواضيع، أو حتى حذف منشورات متعددة في نفس الوقت.
 
 ---
 
-## 1. Selecting Posts
+## 1. تحديد المنشورات
 
-![Screenshot showing multiple posts selected using the checkboxes in the top right corner of each post card](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-1.png)
+![لقطة شاشة توضح تحديد منشورات متعددة باستخدام مربعات الاختيار في الزاوية العلوية اليسرى لكل بطاقة منشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-1.png)
 
-Before applying a bulk action, you first need to select the posts you wish to modify.
+قبل تطبيق إجراء مجمع، تحتاج أولاً إلى تحديد المنشورات التي ترغب في تعديلها.
 
-1. Navigate to the **Audience Intelligence** page (or any other module displaying a feed of posts).
-2. Click the **checkbox** located in the top-right corner of each post you want to include in your bulk update.
-
----
-
-## 2. Using the Bulk Actions Menu
-
-![Screenshot of the Bulk Actions menu showing tabs to change Sentiment, Emotion, Label, and Topic](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-2.png)
-
-Once at least one post is selected, a new set of action icons will appear above your feed.
-
-1. Locate and click the **Bulk Actions** icon (represented by three vertical dots `⋮`).
-2. A menu will appear with tabs for the different attributes you can modify: **Sentiment**, **Emotion**, **Topic**, and **Label**.
-3. Click through the tabs and select the new values you want to apply to your selected posts.
+1. انتقل إلى صفحة **رؤي الجمهور** (أو أي وحدة أخرى تعرض موجزًا للمنشورات).
+2. انقر على **مربع الاختيار** الموجود في الزاوية العلوية اليسرى لكل منشور تريد تضمينه في التحديث المجمع.
 
 ---
 
-## 3. Creating and Assigning New Labels
+## 2. استخدام قائمة الإجراءات المجمعة
 
-![Screenshot of the Add Label pop-up with the Name text field and the Add button highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-3.png)
+![لقطة شاشة لقائمة الإجراءات المجمعة تعرض علامات تبويب لتغيير الانطباع والمشاعر والتصنيف والموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-2.png)
 
-While in the Bulk Actions menu, you can easily apply existing labels or create brand new ones on the fly.
+بمجرد تحديد منشور واحد على الأقل، ستظهر مجموعة جديدة من أيقونات الإجراءات أعلى الموجز الخاص بك.
 
-To create or assign labels to your selected posts in bulk:
-
-**A. Assigning Existing Labels**
-
-- In the Bulk Actions menu, go to the **Label as** tab.
-- Click **Assign Labels**.
-- Open the "Select Labels" dropdown and choose one or more labels from your company's list to apply them to all selected posts.
-
-**B. Creating a New Label**
-
-- In the same "Select Labels" dropdown, click the **+ (Plus)** icon to the right.
-- An "Add Label" pop-up will appear. Enter your desired label name in the **Name** textbox.
-- Click the **Add** button at the bottom right to create the label.
-- Your new label now appears in the dropdown and can be immediately selected and assigned.
-
-This organized menu lets you quickly apply any combination of new and existing labels during the bulk action process.
+1. حدد موقع وانقر على أيقونة **الإجراءات المجمعة** (ممثلة بثلاث نقاط عمودية `⋮`).
+2. ستظهر قائمة تحتوي على علامات تبويب للسمات المختلفة التي يمكنك تعديلها: **الانطباع**، **المشاعر**، **الموضوع**، و**التصنيف**.
+3. انقر عبر علامات التبويب وحدد القيم الجديدة التي تريد تطبيقها على منشوراتك المحددة.
 
 ---
 
-## 4. Applying Your Changes
+## 3. إنشاء وتعيين تصنيفات جديدة
 
-Once you have configured all your desired changes across the Sentiment, Emotion, Topic, or Label tabs, click the **Apply** button located at the bottom right of the page. dima will instantly process the update and apply your chosen criteria to all selected posts.
+![لقطة شاشة للنافذة المنبثقة لإضافة تصنيف مع إبراز حقل نص الاسم وزر الإضافة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-3.png)
+
+أثناء وجودك في قائمة الإجراءات المجمعة، يمكنك بسهولة تطبيق التصنيفات الحالية أو إنشاء تصنيفات جديدة تمامًا على الفور.
+
+لإنشاء تصنيفات أو تعيينها لمنشوراتك المحددة بشكل مجمع:
+
+**أ. تعيين التصنيفات الحالية**
+
+- في قائمة الإجراءات المجمعة، انتقل إلى علامة التبويب **تصنيف كـ**.
+- انقر على **تعيين التصنيفات**.
+- افتح القائمة المنسدلة "تحديد التصنيفات" واختر تصنيفًا واحدًا أو أكثر من قائمة شركتك لتطبيقها على جميع المنشورات المحددة.
+
+**ب. إنشاء تصنيف جديد**
+
+- في نفس القائمة المنسدلة "تحديد التصنيفات"، انقر على أيقونة **+ (زائد)** الموجودة على اليسار.
+- ستظهر نافذة منبثقة "إضافة تصنيف". أدخل اسم التصنيف المطلوب في مربع النص **الاسم**.
+- انقر على زر **إضافة** في أسفل اليسار لإنشاء التصنيف.
+- يظهر تصنيفك الجديد الآن في القائمة المنسدلة ويمكن تحديده وتعيينه فورًا.
+
+تتيح لك هذه القائمة المنظمة تطبيق أي مجموعة من التصنيفات الجديدة والحالية بسرعة أثناء عملية الإجراءات المجمعة.
+
+---
+
+## 4. تطبيق تغييراتك
+
+بمجرد تكوين جميع التغييرات المطلوبة عبر علامات تبويب الانطباع أو المشاعر أو الموضوع أو التصنيف، انقر على زر **تطبيق** الموجود في الزاوية السفلية اليسرى من الصفحة. ستقوم ديما بمعالجة التحديث فورًا وتطبيق المعايير التي اخترتها على جميع المنشورات المحددة.
