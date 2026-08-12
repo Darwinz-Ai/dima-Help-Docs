@@ -1,73 +1,85 @@
 ---
-label: "Analytics Dashboard"
-description: "Learn how to analyze the sentiment, emotion, and topics of comments and replies on your official pages."
+label: "لوحة معلومات التحليلات"
+description: "تعرف على كيفية تحليل الانطباع والمشاعر ومواضيع التعليقات والردود على صفحاتك الرسمية."
 order: 13
 ---
 
-# Analytics Dashboard
+# لوحة معلومات التحليلات
 
 <video controls=""><source src="https://dubble.so/media/video/6365d5f8-39b6-4a93-887e-e0c25d052efe" type="video/mp4"></video>
 
-The Conversation Analysis module includes a dedicated **Analytics** dashboard that focuses entirely on the comment sections of your official pages. Here, you can analyze the sentiment, emotion, and volume of community replies over a given period.
+تتضمن وحدة تحليل المحادثات لوحة معلومات **التحليلات** المخصصة التي تركز بالكامل على أقسام التعليقات في صفحاتك الرسمية. هنا، يمكنك تحليل الانطباع والمشاعر وحجم ردود المجتمع خلال فترة زمنية محددة.
 
 ---
 
-## 1. Accessing the Analytics Dashboard
+## 1. الوصول إلى لوحة معلومات التحليلات
 
-![Screenshot of the Conversation Analytics feed with the Analytics tab highlighted at the top right](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/analytics/conversation-analysis-analytics.png)
+![لقطة شاشة لموجز تحليلات المحادثات مع إبراز علامة تبويب التحليلات في أعلى اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/analytics/conversation-analysis-analytics.png)
 
-1. Navigate to the **Conversation Analytics** tab using the main sidebar.
-2. Click on the **Analytics** tab located at the top right of the page, just below the Filters button.
-
----
-
-## 2. Reply Sentiment and Emotion (Over Time)
-
-These charts track the mood of your audience's replies on a day-by-day basis.
-
-- **Stacked Percentage Bars:** Each vertical bar represents one day and is split into colored segments that always add up to **100%**. For example, the Sentiment bar is made of green (Positive), red (Negative), and orange (Neutral). The left Y-axis (**0–100%**) measures these percentages.
-- **Total Volume Line:** The blue line tracks the actual number of replies that day, completely separate from the percentages. It is measured by the right Y-axis.
-- **Volume vs. Engagement Toggle:** Use the top-right toggle button to switch what the blue line represents (raw reply volume vs. total engagement).
-- **Interactive Breakdown:** Hover over any bar to see the exact numerical breakdown for that specific day.
-
-> **AI Integration:** dima can provide deeper insights on any graph. Simply hover over the graph you want to analyze and click the **Add to chat** icon that appears in the corner to add it to dima for further exploration.
+1. انتقل إلى علامة تبويب **تقييمات
+   التجارة الإلكترونية** باستخدام الشريط الجانبي الرئيسي.
+2. انقر على علامة تبويب **التحليلات** الموجودة في أعلى يسار الصفحة، أسفل زر الفلاتر مباشرة.
 
 ---
 
-## 3. The Reply Word Cloud & Stop Words
+## 2. انطباع ومشاعر الردود (بمرور الوقت)
 
-The Reply Word Cloud displays the words or hashtags that appear most often in your comment sections. Larger, bolder text means the word is mentioned more frequently.
+تتتبع هذه المخططات الحالة المزاجية لردود جمهورك على أساس يومي.
 
-- **Words vs. Hashtags:** Use the top-left toggle to switch between analyzing everyday words or specific hashtags.
-- **Color Coding:** Use the top-right buttons to change the coloring:
-  - **Normal:** A neutral, standard color scheme.
-  - **Sentiment / Emotion:** Colors each word based on whether it is associated with a positive/negative reaction or a specific emotional tone.
+- **أشرطة النسبة المئوية المكدسة:** يمثل كل شريط عمودي يومًا واحدًا وينقسم إلى شرائح ملونة تصل دائمًا في مجموعها إلى **100%**. على سبيل المثال، يتكون شريط الانطباع من اللون الأخضر (إيجابي)، والأحمر (سلبي)، والبرتقالي (محايد). يقيس المحور الصادي الأيمن (**0-100%**) هذه النسب المئوية.
 
-### Filtering Out Stop Words
+- **خط الحجم الإجمالي:** يتتبع الخط الأزرق العدد الفعلي للردود في ذلك اليوم، وهو منفصل تمامًا عن النسب المئوية. يتم قياسه بواسطة المحور الصادي الأيسر.
 
-If you want to exclude common or unwanted words (like "the" or "and") from your Word Cloud, you can use the Stop Words feature:
+- **تبديل الحجم مقابل التفاعل:** استخدم زر التبديل الموجود في أعلى اليسار لتبديل ما يمثله الخط الأزرق (حجم الردود الأولي مقابل إجمالي التفاعل).
 
-1. Click the **Stop Words** button at the top right of the Reply Word Cloud section.
-2. Click **Add Stop Word**.
-3. Type the exact word you want dima to ignore into the text box.
-4. Click **Add** to save it, then click the **X** to close the pop-up.
+- **التفصيل التفاعلي:** مرر مؤشر الماوس فوق أي شريط لرؤية التفصيل الرقمي الدقيق لذلك اليوم المحدد.
+
+> **تكامل الذكاء الاصطناعي:** يمكن لديما تقديم رؤى أعمق حول أي رسم بياني. ما عليك سوى تمرير مؤشر الماوس فوق الرسم البياني الذي تريد تحليله والنقر على أيقونة **الإضافة إلى المحادثة** التي تظهر في الزاوية لإضافته إلى ديما لمزيد من الاستكشاف.
 
 ---
 
-## 4. Reply Distribution by Topic
+## 3. سحابة كلمات الردود وكلمات التوقف
 
-The **Reply Sentiment/Emotion per Topic** charts allow you to filter your analysis down to a single subject to see how people feel about specific aspects of your business.
+تعرض سحابة كلمات الردود الكلمات أو الوسوم (الهاشتاجات) التي تظهر غالبًا في أقسام التعليقات الخاصة بك. النص الأكبر والأكثر وضوحًا يعني أن الكلمة تُذكر بشكل متكرر.
 
-- **Topic Selection:** Use the dropdown at the top-left (e.g., "Smartphones" or "Consumer Financing") to filter the chart. It will update to show the sentiment or emotion _only_ for replies related to that specific topic.
-- **Actual Counts:** Each slice of the pie shows a specific category, and the number inside the slice represents the actual count of replies, not a percentage.
-- **View Toggles:** Use the icons in the top-right corner to switch seamlessly between a Pie chart view and a Bar/Column chart view.
+- **الكلمات مقابل الوسوم:** استخدم مفتاح التبديل الموجود في أعلى اليمين للتبديل بين تحليل الكلمات اليومية أو وسوم محددة.
+
+- **الترميز اللوني:** استخدم الأزرار الموجودة في أعلى اليسار لتغيير التلوين:
+  - **عادي:** نظام ألوان محايد وقياسي.
+  - **الانطباع / المشاعر:** يلون كل كلمة بناءً على ما إذا كانت مرتبطة برد فعل إيجابي/سلبي أو نبرة مشاعر معينة.
+
+### تصفية كلمات التوقف
+
+إذا كنت ترغب في استبعاد الكلمات الشائعة أو غير المرغوب فيها (مثل "في" أو "و") من سحابة الكلمات الخاصة بك، يمكنك استخدام ميزة كلمات التوقف:
+
+1. انقر على زر **كلمات التوقف** في أعلى يسار قسم سحابة كلمات الردود.
+
+2. انقر على **إضافة كلمة توقف**.
+
+3. اكتب الكلمة الدقيقة التي تريد أن تتجاهلها ديما في مربع النص.
+
+4. انقر على **إضافة** لحفظها، ثم انقر على **X** لإغلاق النافذة المنبثقة.
 
 ---
 
-## 5. Overall Reply Distribution
+## 4. توزيع الردود حسب الموضوع
 
-These charts give you the big picture of your comment sections at a glance, without breaking it down day-by-day.
+تتيح لك مخططات **انطباع/مشاعر الردود لكل موضوع** تصفية تحليلك وصولاً إلى موضوع واحد لمعرفة شعور الأشخاص تجاه جوانب معينة من عملك.
 
-- **Reply Sentiment Distribution:** Sorts all replies into Positive, Negative, and Neutral groups to show the overall reaction.
-- **Reply Emotion Distribution:** Breaks the same replies down into specific granular emotions (e.g., Joy, Trust, Anticipation, Surprise, Sadness, Anger, Disgust, and Fear) so you can see exactly what people were feeling.
-- **Chart Views:** Like the Topic charts, these display actual reply counts rather than percentages, and you can toggle between Pie and Bar views using the icons in the top-right corner. The legend below each chart lists every category with its color and count for easy reference.
+- **اختيار الموضوع:** استخدم القائمة المنسدلة في أعلى اليمين (مثل، "الهواتف الذكية" أو "تمويل المستهلك") لتصفية المخطط. سيتم تحديثه لإظهار الانطباع أو المشاعر للردود المتعلقة بهذا الموضوع المحدد _فقط_.
+
+- **الأعداد الفعلية:** تعرض كل شريحة من المخطط الدائري فئة معينة، ويمثل الرقم الموجود داخل الشريحة العدد الفعلي للردود، وليس نسبة مئوية.
+
+- **تبديل العرض:** استخدم الأيقونات الموجودة في الزاوية العلوية اليسرى للتبديل بسلاسة بين عرض المخطط الدائري وعرض المخطط الشريطي/العمودي.
+
+---
+
+## 5. التوزيع العام للردود
+
+تمنحك هذه المخططات الصورة الكبيرة لأقسام التعليقات الخاصة بك في لمحة، دون تقسيمها يومًا بيوم.
+
+- **توزيع انطباع الردود:** يفرز جميع الردود إلى مجموعات إيجابية وسلبية ومحايدة لإظهار رد الفعل العام.
+
+- **توزيع مشاعر الردود:** يقسم نفس الردود إلى مشاعر دقيقة ومحددة (مثل الفرح، الثقة، الترقب، المفاجأة، الحزن، الغضب، الاشمئزاز، والخوف) حتى تتمكن من رؤية ما يشعر به الناس بالضبط.
+
+- **طرق عرض المخطط:** مثل مخططات المواضيع، تعرض هذه المخططات أعداد الردود الفعلية بدلاً من النسب المئوية، ويمكنك التبديل بين عروض المخطط الدائري والشريطي باستخدام الأيقونات الموجودة في الزاوية العلوية اليسرى. يسرد مفتاح الخريطة أسفل كل مخطط كل فئة بلونها وعددها لسهولة الرجوع إليها.
