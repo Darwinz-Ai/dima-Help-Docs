@@ -1,35 +1,35 @@
 ---
-label: "Generating Reviews Insights"
-description: "Learn how to use AI-driven insights to ask questions and summarize feedback from your e-commerce product reviews."
+label: "إنشاء رؤى التقييمات"
+description: "تعرف على كيفية استخدام الرؤى المدعومة بالذكاء الاصطناعي لطرح أسئلة وتلخيص الملاحظات من تقييمات منتجات التجارة الإلكترونية الخاصة بك."
 order: 3
 ---
 
-# Product Reviews Insights
+# رؤى تقييمات المنتجات
 
 <video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/product-insights/access-insights.mp4" type="video/mp4"></video>
 
-The **Insights** tab within the E-Commerce Reviews page allows you to ask specific, custom questions about your product reviews and receive AI-generated summaries based on real customer feedback.
+تتيح لك علامة تبويب **الرؤى** داخل صفحة تقييمات التجارة الإلكترونية طرح أسئلة محددة ومخصصة حول تقييمات منتجاتك وتلقي ملخصات تم إنشاؤها بواسطة الذكاء الاصطناعي بناءً على ملاحظات العملاء الحقيقية.
 
 ---
 
-## 1. Generating Custom Insights
+## 1. إنشاء رؤى مخصصة
 
-![Screenshot of the Insights tab showing an inquiry and the generated result](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/product-insights/access-insights.png)
+![لقطة شاشة لعلامة تبويب الرؤى تعرض استفسارًا والنتيجة التي تم إنشاؤها](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/product-insights/access-insights.png)
 
-Instead of reading through hundreds of individual reviews, you can ask dima to do the heavy lifting for you:
+بدلاً من قراءة مئات التقييمات الفردية، يمكنك أن تطلب من ديما القيام بالعمل الشاق نيابة عنك:
 
-1. **Navigate to the Insights Tab:** Within the E-Commerce Reviews page, click on the **Insights** tab located at the top of the page (next to Reviews and Analytics).
+1. **الانتقال إلى علامة تبويب الرؤى:** داخل صفحة تقييمات التجارة الإلكترونية، انقر على علامة تبويب **الرؤى** الموجودة في أعلى الصفحة (بجوار التقييمات والتحليلات).
 
-2. **Enter Your Inquiry:** In the **Inquiry** text box, type your specific question or prompt. For example, you can ask dima to _"Summarize the most common complaints about product quality."_
+2. **إدخال استفسارك:** في مربع نص **الاستفسار**، اكتب سؤالك أو طلبك المحدد. على سبيل المثال، يمكنك أن تطلب من ديما _"تلخيص الشكاوى الأكثر شيوعًا حول جودة المنتج."_
 
-3. **Generate:** Click the blue **Generate Insights** button located just below the text field on the right side.
+3. **الإنشاء:** انقر على زر **إنشاء الرؤى** الأزرق الموجود أسفل حقل النص مباشرة على الجانب الأيسر.
 
 ---
 
-## 2. Reviewing Results and Sources
+## 2. مراجعة النتائج والمصادر
 
-Once dima processes your request, the AI-generated analysis will appear in the **Result** box below.
+بمجرد أن تعالج ديما طلبك، سيظهر التحليل المُنشأ بواسطة الذكاء الاصطناعي في مربع **النتيجة** أدناه.
 
-- **Comprehensive Summary:** The result will provide a detailed, easy-to-read answer based directly on the collected feedback from your customers.
+- **ملخص شامل:** ستوفر النتيجة إجابة مفصلة وسهلة القراءة تعتمد مباشرة على الملاحظات المجمعة من عملائك.
 
-- **Source Citations:** Throughout the generated text, you will notice small bracketed numbers (e.g., `[4]`, `[12]`). These are direct source links to the referring URLs. You can click on these numbers to trace the AI's claims back to the exact customer reviews that were used to generate the response, ensuring complete transparency and verifiability.
+- **استشهادات المصادر:** عبر النص المُنشأ، ستلاحظ أرقامًا صغيرة بين قوسين (مثل، `[4]`، `[12]`). هذه روابط مصادر مباشرة لعناوين URL المرجعية. يمكنك النقر على هذه الأرقام لتتبع ادعاءات الذكاء الاصطناعي والرجوع إلى تقييمات العملاء الدقيقة التي تم استخدامها لإنشاء الرد، مما يضمن الشفافية الكاملة وقابلية التحقق.
