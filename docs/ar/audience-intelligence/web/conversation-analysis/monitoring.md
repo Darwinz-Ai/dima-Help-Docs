@@ -1,40 +1,44 @@
 ---
-label: "Monitoring Comments"
-description: "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post."
+label: "مراقبة التعليقات"
+description: "تعرف على كيفية تتبع التعليقات والردود وتحليلها لفهم انطباع المجتمع بما يتجاوز المنشور الأصلي."
 order: 1
 ---
 
-# Monitoring Comments
+# مراقبة التعليقات
 
 <video controls=""><source src="https://dubble.so/media/video/fa72e1c5-7be9-45ec-98ae-a3e1465800ef" type="video/mp4"></video>
 
-While tracking top-level posts is crucial, true audience intelligence often lies in the comment section. dima's **Conversation Analysis** module allows you to dive deep into comment threads and replies to analyze how the community is actually reacting.
+بينما يعد تتبع المنشورات الأصلية أمرًا بالغ الأهمية، فإن رؤي الجمهور الحقيقية تكمن غالبًا في قسم التعليقات. تتيح لك وحدة **تحليل المحادثات** في ديما التعمق في سلاسل التعليقات والردود لتحليل كيفية تفاعل المجتمع فعليًا.
 
 ---
 
-## 1. Accessing and Navigating Comments
+## 1. الوصول إلى التعليقات والتنقل فيها
 
-![Screenshot of the dima sidebar with the Conversation Analytics tab highlighted, and a post showing pagination controls to view more comments](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-1.png)
+![لقطة شاشة للشريط الجانبي في ديما مع إبراز علامة تبويب تحليلات المحادثات، ومنشور يعرض عناصر تحكم ترقيم الصفحات لعرض المزيد من التعليقات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-1.png)
 
-To get started, navigate to your main sidebar and click on the **Conversation Analytics** tab. This will open a dedicated feed displaying tracked posts alongside their top-level comments and replies.
+للبدء، انتقل إلى الشريط الجانبي الرئيسي وانقر على علامة تبويب **تحليلات المحادثات**. سيؤدي هذا إلى فتح موجز مخصص يعرض المنشورات المتتبعة إلى جانب تعليقاتها وردودها الرئيسية.
 
-When browsing the Conversation Analysis feed, you will see a preview of the comments attached to each post:
+عند تصفح موجز تحليل المحادثات، سترى معاينة للتعليقات المرفقة بكل منشور:
 
-- **To see more replies:** Use the **pagination controls** located below the visible replies to navigate through the rest of the comment thread.
-- **To inspect a specific interaction:** Simply click anywhere on a **comment or reply card**. This will open a detailed information panel.
+- **لرؤية المزيد من الردود:** استخدم **عناصر تحكم ترقيم الصفحات** الموجودة أسفل الردود المرئية للتنقل عبر بقية سلسلة التعليقات.
+- **لفحص تفاعل معين:** ما عليك سوى النقر في أي مكان على **بطاقة تعليق أو رد**. سيؤدي هذا إلى فتح لوحة معلومات مفصلة.
 
 ---
 
-## 2. The Detailed View
+## 2. العرض المفصل
 
-![Screenshot of the detailed Conversation Analysis panel showing the platform icon, original post caption, engagement metrics, and AI sentiment analysis](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-2.png)
+![لقطة شاشة للوحة تحليل المحادثات المفصلة تعرض أيقونة المنصة، وتعليق المنشور الأصلي، ومقاييس التفاعل، وتحليل الذكاء الاصطناعي للانطباع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-2.png)
 
-Clicking on a comment opens a comprehensive view that gives you the full context of that specific interaction, including its origin and AI-driven insights.
+يؤدي النقر على تعليق إلى فتح عرض شامل يمنحك السياق الكامل لذلك التفاعل المعين، بما في ذلك مصدره والرؤى المدعومة بالذكاء الاصطناعي.
 
-The detailed view panel includes:
+تتضمن لوحة العرض المفصل ما يلي:
 
-- **Platform Origin:** An icon at the top (e.g., Instagram, Twitter) showing exactly where the conversation is taking place.
-- **Original Post Context:** The full caption of the original parent post, along with its direct URL.
-- **Engagement Metrics:** The current performance of the parent post, including likes, comments, shares, views, and saves.
-- **Top Replies:** The specific comment threads branching off the interaction.
-- **AI Insights:** dima's automated analysis for the specific comment, displaying its **Topic**, **Sentiment**, and **Emotion**.
+- **مصدر المنصة:** أيقونة في الأعلى (مثل إنستغرام، تويتر) توضح بالضبط مكان حدوث المحادثة.
+
+- **سياق المنشور الأصلي:** التعليق الكامل للمنشور الأصلي، إلى جانب الرابط المباشر (URL) الخاص به.
+
+- **مقاييس التفاعل:** الأداء الحالي للمنشور الأصلي، بما في ذلك الإعجابات والتعليقات والمشاركات والمشاهدات وعمليات الحفظ.
+
+- **أهم الردود:** سلاسل التعليقات المحددة المتفرعة من التفاعل.
+
+- **رؤى الذكاء الاصطناعي:** التحليل الآلي لديما للتعليق المحدد، والذي يعرض **الموضوع** و**الانطباع** و**المشاعر** الخاصة به.
