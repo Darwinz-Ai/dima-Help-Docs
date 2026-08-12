@@ -1,40 +1,40 @@
 ---
-label: "Monitoring Product Reviews"
-description: "Learn how to track and analyze customer feedback for your products across major e-commerce platforms."
+label: "مراقبة تقييمات المنتجات"
+description: "تعرف على كيفية تتبع وتحليل ملاحظات العملاء لمنتجاتك عبر منصات التجارة الإلكترونية الكبرى."
 order: 1
 ---
 
-# Monitoring Product Reviews
+# مراقبة تقييمات المنتجات
 
 <video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-reviews-video.mp4" type="video/mp4"></video>
 
-The **E-Commerce Reviews** page allows you to track customer feedback for your company's products across major e-commerce websites. dima automatically aggregates reviews from platforms like Amazon, Noon, Jarir, Nahdi, and Extra into a single, unified feed.
+تتيح لك صفحة **تقييمات التجارة الإلكترونية** تتبع ملاحظات العملاء لمنتجات شركتك عبر مواقع التجارة الإلكترونية الكبرى. تقوم ديما تلقائيًا بتجميع التقييمات من منصات مثل أمازون، ونون، وجرير، والنهدي، وإكسترا في موجز واحد موحد.
 
 ---
 
-## 1. Navigating the Reviews Feed
+## 1. تصفح موجز التقييمات
 
-![Screenshot of the main E-Commerce Reviews tab displaying a list of product reviews within the dima web app](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-commerce-reviews.png)
+![لقطة شاشة لعلامة التبويب الرئيسية لتقييمات التجارة الإلكترونية تعرض قائمة بتقييمات المنتجات داخل تطبيق الويب ديما](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-commerce-reviews.png)
 
-When you open the **Reviews** tab, you will see a chronological list of customer feedback. Each review card provides a comprehensive snapshot of the interaction and the product it belongs to:
+عند فتح علامة تبويب **التقييمات**، سترى قائمة زمنية بملاحظات العملاء. توفر كل بطاقة مراجعة لقطة شاملة للتفاعل والمنتج الذي تنتمي إليه:
 
-- **Product Information:** The product's name, thumbnail image, and its overall average star rating on the platform.
-- **E-commerce Platform:** The specific website where the review was posted (e.g., Amazon, Noon).
-- **Reviewer Details:** The name of the customer who left the review.
-- **Review Content:** The specific star rating given by the reviewer, the exact text of their review, and the date it was posted.
+- **معلومات المنتج:** اسم المنتج، والصورة المصغرة، ومتوسط التقييم الإجمالي بالنجوم على المنصة.
+- **منصة التجارة الإلكترونية:** الموقع المحدد الذي تم نشر المراجعة فيه (مثل أمازون، نون).
+- **تفاصيل المراجع:** اسم العميل الذي ترك المراجعة.
+- **محتوى المراجعة:** التقييم المحدد بالنجوم الذي قدمه المراجع، والنص الدقيق لمراجعته، وتاريخ نشرها.
 
-> **Quick Link:** Clicking directly on the **product's name** will instantly redirect you to the live e-commerce listing for that product in a new tab.
+> **رابط سريع:** سيؤدي النقر مباشرة على **اسم المنتج** إلى إعادة توجيهك فورًا إلى قائمة التجارة الإلكترونية المباشرة لذلك المنتج في علامة تبويب جديدة.
 
 ---
 
-## 2. Viewing Related Reviews
+## 2. عرض التقييمات ذات الصلة
 
-![Screenshot showing the review detailed panel open on the right side, displaying the selected review's details and other aggregated reviews for that product](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/review-detailed-panel.png)
+![لقطة شاشة توضح لوحة المراجعة المفصلة مفتوحة على الجانب الأيسر، وتعرض تفاصيل المراجعة المحددة والتقييمات المجمعة الأخرى لذلك المنتج](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/review-detailed-panel.png)
 
-If you want to dive deeper into a specific product's feedback without leaving the platform:
+إذا كنت ترغب في التعمق أكثر في ملاحظات منتج معين دون مغادرة المنصة:
 
-1. Click anywhere on a specific **review card** from your main feed.
+1. انقر في أي مكان على **بطاقة مراجعة** محددة من موجزك الرئيسي.
 
-2. A detailed panel will slide out from the right side of your screen.
+2. ستنزلق لوحة مفصلة من الجانب الأيسر لشاشتك.
 
-3. This panel displays the full details of the review you clicked, while also aggregating **other reviews for that exact same product**. This allows you to quickly gauge overall customer sentiment and identify recurring themes for a specific item in one place.
+3. تعرض هذه اللوحة التفاصيل الكاملة للمراجعة التي نقرت عليها، بينما تقوم أيضًا بتجميع **تقييمات أخرى لنفس المنتج بالضبط**. يتيح لك ذلك قياس انطباع العملاء العام بسرعة وتحديد المواضيع المتكررة لعنصر معين في مكان واحد.
