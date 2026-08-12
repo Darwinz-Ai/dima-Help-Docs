@@ -1,37 +1,40 @@
 ---
-label: "Using Filters"
-description: "Learn how to filter your social and media data by sentiment, demographics, topics, and platforms."
+label: "استخدام الفلاتر"
+description: "تعرف على كيفية تصفية بياناتك على وسائل التواصل الاجتماعي ووسائل الإعلام حسب الانطباع والتركيبة السكانية والمواضيع والمنصات."
 ---
 
-# Filtering Data
+# تصفية البيانات
 
 <video controls=""><source src="https://dubble.so/media/video/05f1feac-4ba3-4ae3-8019-7a8e02eb5bae" type="video/mp4"></video>
 
-When viewing data in the **Own Page**, **Groups**, or **Audience Intelligence** modules, dima provides a powerful filtering system to help you narrow down your posts.
+عند عرض البيانات في وحدات **الصفحة الشخصية** أو **المجموعات** أو **رؤي الجمهور**، توفر ديما نظام تصفية قوي لمساعدتك على تضييق نطاق منشوراتك.
 
-You can filter data using a variety of factors, including sentiment, emotion, topic, platform, language, and demographics.
+يمكنك تصفية البيانات باستخدام مجموعة متنوعة من العوامل، بما في ذلك الانطباع والمشاعر والموضوع والمنصة واللغة والتركيبة السكانية.
 
-## 1. Using the Filter Modal
+## 1. استخدام نافذة الفلتر
 
-![Screenshot of the standard Filter modal in dima, showing the Sentiment & Emotion tab selected](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/filters/filter-standard-menu.png)
+![لقطة شاشة لنافذة الفلتر القياسية في ديما، توضح تحديد علامة تبويب الانطباع والمشاعر](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/filters/filter-standard-menu.png)
 
-To access the standard filters, click the **Filter** button located at the top right corner of the page. This opens a modal divided into four tabs:
+للوصول إلى الفلاتر القياسية، انقر على زر **الفلتر** الموجود في الزاوية العلوية اليسرى من الصفحة. سيؤدي هذا إلى فتح نافذة مقسمة إلى أربع علامات تبويب:
 
-- **Sentiment & Emotion:** Select one or more options to view posts with specific positive/negative sentiments or emotional tones.
-- **Topics & Labels:** Type or select specific Topics and Labels from the dropdown menus to find categorized posts.
-- **Platforms & Post Type:** Filter posts by their origin platform (e.g., Twitter, Facebook).
-- **Demographic:** Narrow down the audience by selecting one or more Languages, Regions, or Genders.
+- **الانطباع والمشاعر:** حدد خيارًا أو أكثر لعرض المنشورات ذات انطباعات إيجابية/سلبية أو نبرات مشاعر محددة.
 
-> **Note on Dynamic Filters:** The available fields in the _Platforms_ tab will change depending on which page you are currently viewing. If you are on the Own Pages tab, you can select specific Own Pages. If you are on the Groups tab, you can enter specific Facebook Group links.
+- **المواضيع والتصنيفات:** اكتب أو حدد مواضيع وتصنيفات معينة من القوائم المنسدلة للعثور على المنشورات المصنفة.
 
-Once you have configured your desired criteria across any of the tabs, click the **Apply** button at the bottom right of the menu.
+- **المنصات ونوع المنشور:** قم بتصفية المنشورات حسب منصتها الأصلية (مثل تويتر، فيسبوك).
 
-## 2. Using the In-Page Expanded View
+- **التركيبة السكانية:** قم بتضييق نطاق الجمهور عن طريق تحديد لغة أو منطقة أو جنس أو أكثر.
 
-![Screenshot of the Expanded Filter view in dima, showing all filter categories rendered directly on the page as button toggles](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/filters/filter-expanded-view.png)
+> **ملاحظة حول الفلاتر الديناميكية:** ستتغير الحقول المتوفرة في علامة تبويب _المنصات_ بناءً على الصفحة التي تعرضها حاليًا. إذا كنت في علامة تبويب الصفحة الشخصية، فيمكنك تحديد الصفحة الشخصية المحددة. وإذا كنت في علامة تبويب المجموعات، فيمكنك إدخال روابط مجموعات فيسبوك محددة.
 
-If you prefer to see all your filtering options at a glance without clicking through a tabbed modal, dima offers an expanded in-page view.
+بمجرد تكوين المعايير المطلوبة عبر أي من علامات التبويب، انقر على زر **تطبيق** في أسفل يسار القائمة.
 
-1. Look for the expand icon located between the **Filter** and **Download Report** buttons at the top right corner of the page.
-2. Click this icon to toggle the **Expanded Filter** view.
-3. Instead of opening a popup, all the filtering criteria mentioned above will render directly on the page as accessible button toggles.
+## 2. استخدام العرض الموسع داخل الصفحة
+
+![لقطة شاشة لعرض الفلتر الموسع في ديما، تظهر جميع فئات الفلاتر معروضة مباشرة على الصفحة كأزرار تبديل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/filters/filter-expanded-view.png)
+
+إذا كنت تفضل رؤية جميع خيارات التصفية الخاصة بك في لمحة دون النقر عبر نافذة مبوبة، فإن ديما توفر عرضًا موسعًا داخل الصفحة.
+
+1. ابحث عن أيقونة التوسيع الموجودة بين زري **الفلتر** و**تنزيل التقرير** في الزاوية العلوية اليسرى من الصفحة.
+2. انقر على هذه الأيقونة لتبديل عرض **الفلتر الموسع**.
+3. بدلاً من فتح نافذة منبثقة، سيتم عرض جميع معايير التصفية المذكورة أعلاه مباشرةً على الصفحة كأزرار تبديل يسهل الوصول إليها.
