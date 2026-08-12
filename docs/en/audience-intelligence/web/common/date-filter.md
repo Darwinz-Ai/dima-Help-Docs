@@ -17,7 +17,7 @@ This filter is available across most modules, including:
 - **Made For You** (When opening an already-created dashboard)
 - **Conversation Analysis**
 - **Influencers**
-- **Google Reviews**
+- **Locations**
 - **Manage** (Deleted Posts)
 
 ---
