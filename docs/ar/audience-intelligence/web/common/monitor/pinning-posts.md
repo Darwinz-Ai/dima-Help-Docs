@@ -1,28 +1,28 @@
 ---
-label: "Pinning Posts"
-description: "Learn how to pin specific posts to the top of your monitoring feed for easy tracking and crisis management."
+label: "تثبيت المنشورات"
+description: "تعرف على كيفية تثبيت منشورات معينة في أعلى موجز المراقبة الخاص بك لسهولة التتبع وإدارة الأزمات."
 order: 10
 ---
 
-# Pinning Posts
+# تثبيت المنشورات
 
 <video controls=""><source src="https://dubble.so/media/video/59612485-f4fd-45bd-b861-d97802293d8a" type="video/mp4"></video>
 
-When you are tracking a viral trend, handling a PR crisis, or simply keeping a close eye on a specific conversation, you can **pin** posts to ensure they are always highly visible.
+عندما تتتبع اتجاهًا واسع الانتشار، أو تتعامل مع أزمة علاقات عامة، أو تراقب ببساطة محادثة معينة عن كثب، يمكنك **تثبيت** المنشورات لضمان رؤيتها بوضوح دائمًا.
 
-Pinning a post anchors it to the very top of your monitoring page, completely overriding any sorting methods you have applied (such as sorting by views or engagement).
+يؤدي تثبيت المنشور إلى إبقائه في أعلى صفحة المراقبة الخاصة بك، متجاوزًا تمامًا أي طرق فرز قمت بتطبيقها (مثل الفرز حسب المشاهدات أو التفاعل).
 
 ---
 
-## How to Pin a Post
+## كيفية تثبيت منشور
 
-![Screenshot of a post card in the Monitor feed, highlighting the Star icon in the bottom right corner used to pin the post](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/pinning-posts/pin-posts.png)
+![لقطة شاشة لبطاقة منشور في موجز المراقبة، تبرز أيقونة النجمة في الزاوية السفلية اليسرى المستخدمة لتثبيت المنشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/pinning-posts/pin-posts.png)
 
-1. Navigate to the **Audience Intelligence** module using the main sidebar.
-2. Open the **Monitor** tab to view your feed of tracked posts.
-3. Locate the specific post you want to track.
-4. Click the **Star** icon located in the bottom right corner of the post card.
+1. انتقل إلى وحدة **رؤي الجمهور** باستخدام الشريط الجانبي الرئيسي.
+2. افتح علامة تبويب **المراقبة** لعرض موجز المنشورات المتتبعة.
+3. حدد موقع المنشور المعين الذي تريد تتبعه.
+4. انقر على أيقونة **النجمة** الموجودة في الزاوية السفلية اليسرى من بطاقة المنشور.
 
-The post is now pinned and will immediately move to the very top of your feed.
+تم الآن تثبيت المنشور وسينتقل فورًا إلى أعلى الموجز الخاص بك.
 
-> **Important Note on Filters:** While pinned posts ignore _sorting_ rules, they still obey _filtering_ rules. If you apply a filter (such as a specific date range, sentiment, or platform) that the pinned post does not match, it will temporarily disappear from your feed until you clear the filter.
+> **ملاحظة هامة حول الفلاتر:** بينما تتجاهل المنشورات المثبتة قواعد _الفرز_، فإنها لا تزال تخضع لقواعد _التصفية_. إذا قمت بتطبيق فلتر (مثل نطاق زمني معين، أو انطباع، أو منصة) لا يتطابق معه المنشور المثبت، فسيختفي مؤقتًا من الموجز الخاص بك حتى تقوم بمسح الفلتر.
