@@ -1,60 +1,60 @@
 ---
-label: "Using Filters"
-description: "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies."
+label: "استخدام الفلاتر"
+description: "تعرف على كيفية تصفية سلاسل التعليقات بناءً على كل من سمات المنشور الأصلي والسمات المحددة للردود."
 order: 2
 ---
 
-# Using Filters
+# استخدام الفلاتر
 
 <video controls=""><source src="https://dubble.so/media/video/06042cdb-0368-42d6-9e5d-40e0ce8dcbe3" type="video/mp4"></video>
 
-Because the **Conversation Analysis** module focuses on threads and comments, it features a specialized filtering system. Unlike standard filters, this system allows you to cross-reference data; meaning you can filter based on the attributes of the original post _and_ the attributes of the replies underneath it (e.g., finding a post with a "Positive" sentiment that generated "Negative" replies).
+نظرًا لأن وحدة **تحليل المحادثات** تركز على السلاسل والتعليقات، فإنها تتميز بنظام تصفية متخصص. على عكس الفلاتر القياسية، يتيح لك هذا النظام إجراء إحالة مرجعية للبيانات؛ مما يعني أنه يمكنك التصفية بناءً على سمات المنشور الأصلي *و*سمات الردود الموجودة أسفله (على سبيل المثال، العثور على منشور ذي انطباع "إيجابي" أدى إلى إنشاء ردود "سلبية").
 
 ---
 
-## 1. Accessing the Filter
+## 1. الوصول إلى الفلتر
 
-![Screenshot of the Conversation Analysis feed with the Filters button highlighted in the top right corner](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-filters.png)
+![لقطة شاشة لموجز تحليل المحادثات مع إبراز زر الفلاتر في الزاوية العلوية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-filters.png)
 
-1. Navigate to the **Conversation Analytics** tab using the main sidebar.
-2. Click the **Filters** button located at the top right corner of the page (just below the company logo).
-
----
-
-## 2. Configuring the Filter Categories
-
-![Screenshot of the Conversation Analysis filter menu showing the General tab with Post Emotion, Reply Emotion, and Sentiment options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-general-filters.png)
-
-The Conversation Analysis filter menu is divided into two main sections: **General** and **Content**. You can select one or multiple options across both tabs.
-
-### The General Tab
-
-This tab focuses on the mood and origin of the interaction. You can filter by:
-
-- **Post Sentiment & Emotion:** The overall mood of the original top-level post.
-- **Reply Sentiment & Emotion:** The mood of the specific comments reacting to the post.
-- **Post Type:** The nature of the post (e.g., Public, Owned).
-
-### The Content Tab
-
-This tab focuses on the categorization of the text itself. You can filter by:
-
-- **Post Topics & Labels:** The subjects and custom tags assigned to the original post.
-- **Reply Topics:** The subjects being discussed within the comment section itself.
+1. انتقل إلى علامة تبويب **تحليلات المحادثات** باستخدام الشريط الجانبي الرئيسي.
+2. انقر على زر **الفلاتر** الموجود في الزاوية العلوية اليسرى من الصفحة (أسفل شعار الشركة مباشرة).
 
 ---
 
-## 3. Dynamic Post Type Rules
+## 2. تكوين فئات الفلتر
 
-When configuring your filters, pay special attention to the **Post Types** category, as it behaves dynamically based on your selections:
+![لقطة شاشة لقائمة فلتر تحليل المحادثات توضح علامة التبويب "عام" مع خيارات مشاعر المنشور، ومشاعر الردود، والانطباع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-general-filters.png)
 
-> **Important Note:**
+تنقسم قائمة فلتر تحليل المحادثات إلى قسمين رئيسيين: **عام** و**المحتوى**. يمكنك تحديد خيار واحد أو خيارات متعددة عبر كلتا علامتي التبويب.
+
+### علامة التبويب عام
+
+تركز علامة التبويب هذه على الحالة المزاجية ومصدر التفاعل. يمكنك التصفية حسب:
+
+- **انطباع ومشاعر المنشور:** الحالة المزاجية العامة للمنشور الأصلي عالي المستوى.
+- **انطباع ومشاعر الردود:** الحالة المزاجية للتعليقات المحددة التي تتفاعل مع المنشور.
+- **نوع المنشور:** طبيعة المنشور (مثل عام، مملوك).
+
+### علامة تبويب المحتوى
+
+تركز علامة التبويب هذه على تصنيف النص نفسه. يمكنك التصفية حسب:
+
+- **مواضيع وتصنيفات المنشور:** الموضوعات والعلامات المخصصة المعينة للمنشور الأصلي.
+- **مواضيع الردود:** الموضوعات التي تتم مناقشتها داخل قسم التعليقات نفسه.
+
+---
+
+## 3. قواعد نوع المنشور الديناميكية
+
+عند تكوين فلاترك، انتبه بشكل خاص لفئة **أنواع المنشورات**، حيث تتصرف بشكل ديناميكي بناءً على اختياراتك:
+
+> **ملاحظة هامة:**
 >
-> - If you select **Public Group** or **Private Group** as your _only_ Post Type option, dima will automatically prompt you to enter the specific Facebook Group link you want to filter by.
-> - Similarly, if you select **Own Page** as your _only_ option, you will be prompted to select which specific connected page you want to view.
+> - إذا قمت بتحديد **مجموعة عامة** أو **مجموعة خاصة** كخيار نوع المنشور _الوحيد_، فستطالبك ديما تلقائيًا بإدخال رابط مجموعة فيسبوك المحدد الذي تريد التصفية بناءً عليه.
+> - وبالمثل، إذا قمت بتحديد **الصفحة الشخصية** كخيار _وحيد_ لك، فستُطالب بتحديد الصفحة الشخصية المحددة التي تريد عرضها.
 
 ---
 
-## 4. Applying the Filter
+## 4. تطبيق الفلتر
 
-Once you have configured your desired criteria across the General and Content tabs, click the **Apply Filters** button located at the bottom right corner of the menu to update your conversation feed.
+بمجرد تكوين المعايير المطلوبة عبر علامتي التبويب "عام" و"المحتوى"، انقر على زر **تطبيق الفلاتر** الموجود في الزاوية السفلية اليسرى من القائمة لتحديث موجز المحادثات الخاص بك.

@@ -16,8 +16,8 @@ order: 13
 
 ![لقطة شاشة لموجز تحليلات المحادثات مع إبراز علامة تبويب التحليلات في أعلى اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/analytics/conversation-analysis-analytics.png)
 
-1. انتقل إلى علامة تبويب **تقييمات
-   التجارة الإلكترونية** باستخدام الشريط الجانبي الرئيسي.
+1. انتقل إلى علامة تبويب **تحليل
+   المحادثات** باستخدام الشريط الجانبي الرئيسي.
 2. انقر على علامة تبويب **التحليلات** الموجودة في أعلى يسار الصفحة، أسفل زر الفلاتر مباشرة.
 
 ---
