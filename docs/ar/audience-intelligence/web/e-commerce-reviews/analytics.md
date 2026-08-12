@@ -1,53 +1,53 @@
 ---
-label: "Analytics Dashboard"
-description: "Learn how to interpret the analytics dashboard to track product sentiment, ratings, and review volume over time."
+label: "لوحة معلومات التحليلات"
+description: "تعرف على كيفية تفسير لوحة معلومات التحليلات لتتبع انطباع المنتج والتقييمات وحجم التقييمات بمرور الوقت."
 order: 2
 ---
 
-# Product Reviews Analytics
+# تحليلات تقييمات التجارة الإلكترونية
 
 <video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/access-analytics.mp4" type="video/mp4"></video>
 
-To help you identify broader trends in customer feedback, the E-Commerce Reviews page includes a dedicated analytics dashboard. This page visualizes your aggregate review data across all connected platforms, making it easy to spot performance spikes, drops in sentiment, or your most talked-about products.
+لمساعدتك في تحديد الاتجاهات الأوسع في ملاحظات العملاء، تتضمن صفحة تقييمات التجارة الإلكترونية لوحة معلومات مخصصة للتحليلات. تتصور هذه الصفحة بيانات التقييمات المجمعة عبر جميع المنصات المتصلة، مما يسهل رصد طفرات الأداء أو الانخفاض في الانطباع أو المنتجات الأكثر تداولاً.
 
-## 1. Sentiment & Volume (Over Time)
+## 1. الانطباع والحجم (بمرور الوقت)
 
-![Screenshot of the E-Commerce Reviews analytics page showing various data charts](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/review-analytics.png)
+![لقطة شاشة لصفحة تحليلات تقييمات التجارة الإلكترونية تعرض مخططات بيانات مختلفة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/review-analytics.png)
 
-These charts help you track how often customers are reviewing your products and how they feel, broken down by either days or weeks.
+تساعدك هذه المخططات على تتبع مدى تكرار مراجعة العملاء لمنتجاتك وكيف يشعرون، مقسمة إما بالأيام أو الأسابيع.
 
-- **Daily & Weekly Sentiment & Volume:** These are combination charts.
+- **الانطباع والحجم اليومي والأسبوعي:** هذه مخططات مجمعة.
 
-  - The **stacked bar charts** display the sentiment distribution (Positive, Neutral, Negative) of the reviews received during that specific day or week.
+  - تعرض **المخططات الشريطية المكدسة** توزيع الانطباع (إيجابي، محايد، سلبي) للتقييمات المستلمة خلال ذلك اليوم أو الأسبوع المحدد.
 
-  - The **blue line graph** layered over the bars tracks the total volume of reviews published in that same timeframe.
-
----
-
-## 2. Ratings & Platform Breakdown
-
-Understand your overall product scores and find out where your customers are the most vocal.
-
-- **Weekly Average Rating:** This chart tracks your overall average star rating on a week-by-week basis, allowing you to easily spot if product satisfaction is trending upwards or downwards over time.
-
-- **Reviews by Platform:** A straightforward chart that counts the total number of reviews aggregated from each specific e-commerce website (e.g., Amazon, Noon, Jarir). This helps you determine which storefront generates the most customer engagement.
+  - يتتبع **الرسم البياني الخطي الأزرق** الموضوع فوق الأشرطة الحجم الإجمالي للتقييمات المنشورة في نفس الإطار الزمني.
 
 ---
 
-## 3. Top Performing Products
+## 2. تفصيل التقييمات والمنصات
 
-This bar chart highlights the products that are generating the most buzz and feedback.
+افهم درجات منتجاتك الإجمالية واكتشف أين يكون عملاؤك أكثر تفاعلاً.
 
-- **Review Volume & Star Breakdown:** The overall height of each bar represents the total number of reviews a specific product has received.
+- **متوسط التقييم الأسبوعي:** يتتبع هذا المخطط متوسط التقييم بالنجوم الإجمالي على أساس أسبوعي، مما يتيح لك رصد ما إذا كان رضا المنتج يتجه صعودًا أو هبوطًا بمرور الوقت بسهولة.
 
-- **Stacked Star Ratings:** Each bar is further divided into color-coded segments that represent the exact breakdown of 5, 4, 3, 2, and 1-star ratings making up that total volume. This makes it instantly clear whether a highly reviewed product is popular for good or bad reasons.
+- **التقييمات حسب المنصة:** مخطط مباشر يحسب العدد الإجمالي للتقييمات المجمعة من كل موقع تجارة إلكترونية محدد (مثل أمازون، نون، جرير). يساعدك هذا في تحديد واجهة المتجر التي تولد أكبر قدر من تفاعل العملاء.
 
 ---
 
-## 4. The Review Word Cloud
+## 3. المنتجات الأفضل أداءً
 
-The Word Cloud extracts the most frequently used terms from your customers' written reviews. The larger the word appears, the more often it was mentioned.
+يسلط هذا المخطط الشريطي الضوء على المنتجات التي تولد أكبر قدر من التفاعل والملاحظات.
 
-- **View Toggles:** You can switch the word cloud from a **Normal** view (neutral coloring) to a **Sentiment** view.
+- **حجم التقييمات وتفصيل النجوم:** يمثل الارتفاع الإجمالي لكل شريط العدد الإجمالي للتقييمات التي تلقاها منتج معين.
 
-- **Sentiment Coloring:** When the sentiment view is activated, every word in the cloud is automatically color-coded to reflect its context: **Green** (Positive), **Orange** (Neutral), or **Red** (Negative).
+- **تقييمات النجوم المكدسة:** يتم تقسيم كل شريط أيضًا إلى شرائح مخصصة بألوان تمثل التفصيل الدقيق لتقييمات 5 و 4 و 3 و 2 و 1 نجمة والتي تشكل هذا الحجم الإجمالي. يوضح هذا على الفور ما إذا كان المنتج الذي تمت مراجعته بشدة يحظى بشعبية لأسباب جيدة أو سيئة.
+
+---
+
+## 4. سحابة كلمات التقييمات
+
+تستخرج سحابة الكلمات المصطلحات الأكثر استخدامًا من التقييمات المكتوبة لعملائك. كلما كانت الكلمة أكبر، زاد معدل استخدامها.
+
+- **أزرار تبديل العرض:** يمكنك تبديل سحابة الكلمات من عرض **عادي** (تلوين محايد) إلى عرض **الانطباع**.
+
+- **تلوين الانطباع:** عند تنشيط عرض الانطباع، يتم ترميز كل كلمة في السحابة تلقائيًا بلون يعكس سياقها: **أخضر** (إيجابي)، أو **برتقالي** (محايد)، أو **أحمر** (سلبي).
