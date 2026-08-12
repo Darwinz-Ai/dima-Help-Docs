@@ -1,52 +1,59 @@
 ---
-label: "Generating & Downloading Reports"
-description: "Learn how to select posts, add them to a collection, and export them as presentations, tables, or emails."
+label: "إنشاء وتنزيل التقارير"
+description: "تعرف على كيفية تحديد المنشورات، وإضافتها إلى مجموعة، وتصديرها كعروض تقديمية أو جداول أو رسائل بريد إلكتروني."
 ---
 
-# Generating & Downloading Reports
+# إنشاء وتنزيل التقارير
 
 <video controls=""><source src="https://dubble.so/media/video/327cdcee-0347-4525-9280-92742be74959" type="video/mp4"></video>
 
-dima allows you to handpick specific posts and compile them into a customized report for analytical purposes. You can export these reports in several formats including Table, Presentation, and Email which you can send them directly to your contacts.
+تتيح لك ديما اختيار منشورات محددة وتجميعها في تقرير مخصص لأغراض التحليل. يمكنك تصدير هذه التقارير بتنسيقات متعددة بما في ذلك الجداول، والعروض التقديمية، ورسائل البريد الإلكتروني والتي يمكنك إرسالها مباشرة إلى جهات الاتصال الخاصة بك.
 
-This reporting feature is available across the **Audience Intelligence**, **Groups**, and **Own Page** modules.
-
----
-
-## 1. Adding Posts to Your Report Collection
-
-![Screenshot showing the posts feed with individual post checkboxes selected and the Add selection to Report icon highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-1.png)
-
-Before you can download or send a report, you first need to select the posts you want to include.
-
-1. **Select Individual Posts:** Hover over the post you want to include, then click the checkbox that appears at the top right corner.
-2. **Select All Posts (Optional):** To bulk-select, use the **Select All** icon (or its neighboring dropdown) located above the posts feed.
-3. **Add to Collection:** Once your posts are selected, click the **Add selected to Report** icon (the download arrow icon located between the posts' statistics and the posts themselves).
+تتوفر ميزة إعداد التقارير هذه عبر وحدات **رؤي الجمهور**، و**المجموعات**، و**الصفحة الشخصية**.
 
 ---
 
-## 2. Reviewing and Formatting the Report
+## 1. إضافة المنشورات إلى مجموعة تقاريرك
 
-![Screenshot of the Download Report pop-up showing the list of collected posts, the trash icon for removal, and the report format options at the bottom right](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-2.png)
+![لقطة شاشة تعرض موجز المنشورات مع تحديد مربعات اختيار المنشورات الفردية وإبراز أيقونة إضافة المحدد إلى التقرير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-1.png)
 
-Once you have added posts to your collection, you can review them and choose your export format.
+قبل أن تتمكن من تنزيل تقرير أو إرساله، تحتاج أولاً إلى تحديد المنشورات التي تريد تضمينها.
 
-1. Click the **Download Report** button located at the top right corner of the page (just below the company logo).
-2. A pop-up will appear displaying all the posts currently in your report collection.
-3. **Refine your list:** If you need to remove a post from the report, hover over it and click the **Trash** icon next to the post's URL. You can also click **Clear All** at the bottom left to empty the entire collection.
-4. **Choose a Format:** At the bottom right corner of the pop-up, click on your desired report type (e.g., Table, Presentation, Email).
+1. **تحديد المنشورات الفردية:** مرر مؤشر الماوس فوق المنشور الذي تريد تضمينه، ثم انقر على مربع الاختيار الذي يظهر في الزاوية العلوية اليسرى.
 
-> **Pro Tip (Quick Export):** If you don't need to review your posts, you can skip the review pop-up entirely by clicking the dropdown arrow directly _next_ to the "Download Report" button and selecting your template from there.
+2. **تحديد جميع المنشورات (اختياري):** للتحديد المجمع، استخدم أيقونة **تحديد الكل** (أو القائمة المنسدلة المجاورة لها) الموجودة أعلى موجز المنشورات.
+
+3. **الإضافة إلى المجموعة:** بمجرد تحديد منشوراتك، انقر على أيقونة **إضافة المحدد إلى التقرير** (أيقونة سهم التنزيل الموجودة بين إحصائيات المنشورات والمنشورات نفسها).
 
 ---
 
-## 3. Sending and Downloading
+## 2. مراجعة التقرير وتنسيقه
 
-![Screenshot of the Send confirmation pop-up showing the Contacts dropdown field and the Keep posts in collection checkbox](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-3.png)
+![لقطة شاشة للنافذة المنبثقة لتنزيل التقرير تعرض قائمة المنشورات المجمعة، وأيقونة سلة المهملات للإزالة، وخيارات تنسيق التقرير في أسفل اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-2.png)
 
-After selecting your report format, a final **Send confirmation** pop-up will appear.
+بمجرد إضافة المنشورات إلى مجموعتك، يمكنك مراجعتها واختيار تنسيق التصدير الخاص بك.
 
-1. **Select Recipients:** Use the **Contacts** dropdown to choose who should receive the report. You can type an email address in the search box to quickly find someone.
-   > **Note:** If you don't see any contacts available to select, you'll need to create them first. [Learn how to add a contact here.](/en/guides/manage/contacts)
-2. **Manage Collection:** By default, posts are removed from your collection after the report is sent. If you want to reuse this batch of posts for another report, check the **"Keep posts in collection"** box.
-3. **Finish:** Click the **Send** button at the bottom right corner of the pop-up to generate and distribute the report.
+1. انقر على زر **تنزيل التقرير** الموجود في الزاوية العلوية اليسرى من الصفحة (أسفل شعار الشركة مباشرة).
+
+2. ستظهر نافذة منبثقة تعرض جميع المنشورات الموجودة حاليًا في مجموعة تقاريرك.
+
+3. **تحسين قائمتك:** إذا كنت بحاجة إلى إزالة منشور من التقرير، فمرر مؤشر الماوس فوقه وانقر على أيقونة **سلة المهملات** بجوار عنوان URL للمنشور. يمكنك أيضًا النقر على **مسح الكل** في أسفل اليمين لإفراغ المجموعة بأكملها.
+
+4. **اختيار التنسيق:** في الزاوية السفلية اليسرى من النافذة المنبثقة، انقر على نوع التقرير المطلوب (مثل جدول، عرض تقديمي، بريد إلكتروني).
+
+> **نصيحة احترافية (تصدير سريع):** إذا لم تكن بحاجة إلى مراجعة منشوراتك، يمكنك تخطي النافذة المنبثقة للمراجعة تمامًا عن طريق النقر على سهم القائمة المنسدلة الموجود _بجوار_ زر "تنزيل التقرير" مباشرة وتحديد قالبك من هناك.
+
+---
+
+## 3. الإرسال والتنزيل
+
+![لقطة شاشة للنافذة المنبثقة لتأكيد الإرسال توضح حقل القائمة المنسدلة لجهات الاتصال ومربع اختيار الاحتفاظ بالمنشورات في المجموعة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-3.png)
+
+بعد تحديد تنسيق التقرير الخاص بك، ستظهر نافذة منبثقة أخيرة لـ **تأكيد الإرسال**.
+
+1. **تحديد المستلمين:** استخدم القائمة المنسدلة لـ **جهات الاتصال** لاختيار من يجب أن يتلقى التقرير. يمكنك كتابة عنوان بريد إلكتروني في مربع البحث للعثور على شخص ما بسرعة.
+
+   > **ملاحظة:** إذا كنت لا ترى أي جهات اتصال متاحة للتحديد، فستحتاج إلى إنشائها أولاً. [تعرف على كيفية إضافة جهة اتصال هنا.](/en/guides/manage/contacts)
+
+2. **إدارة المجموعة:** بشكل افتراضي، تتم إزالة المنشورات من مجموعتك بعد إرسال التقرير. إذا كنت ترغب في إعادة استخدام هذه الدفعة من المنشورات لتقرير آخر، فحدد مربع **"الاحتفاظ بالمنشورات في المجموعة"**.
+3. **الانتهاء:** انقر على زر **إرسال** في الزاوية السفلية اليسرى من النافذة المنبثقة لإنشاء التقرير وتوزيعه.
