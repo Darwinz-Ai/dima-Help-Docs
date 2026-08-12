@@ -10,14 +10,14 @@
           "label": "إضافة شركة",
           "slug": "brands/add-company",
           "path": "ar/audience-intelligence/web/brands/add-company.md",
-          "description": "تعرف على كيفية تعريف علامة تجارية أو موضوع في ديما للبدء في مراقبة منشورات وسائل التواصل الاجتماعي.",
+          "description": "تعرف على كيفية تحديد علامة تجارية أو موضوع في ديما لبدء رصد منشورات وسائل التواصل الاجتماعي.",
           "order": 1
         },
         {
-          "label": "التبديل بين العلامات التجارية",
+          "label": "تبديل العلامات التجارية",
           "slug": "brands/switching-brands",
           "path": "ar/audience-intelligence/web/brands/switching-brands.md",
-          "description": "تعرف على كيفية تبديل مساحة عملك النشطة بسرعة لعرض البيانات والتقارير لشركة مختلفة.",
+          "description": "تعرف على كيفية التبديل السريع لمساحة العمل النشطة الخاصة بك لعرض البيانات والتقارير لشركة مختلفة.",
           "order": 999
         }
       ]
@@ -26,31 +26,24 @@
       "label": "شائع",
       "items": [
         {
-          "label": "Filters",
+          "label": "استخدام الفلاتر",
           "slug": "common/filters",
           "path": "ar/audience-intelligence/web/common/filters.md",
-          "description": "",
+          "description": "تعرف على كيفية تصفية بياناتك على وسائل التواصل الاجتماعي ووسائل الإعلام حسب الانطباع والتركيبة السكانية والمواضيع والمنصات.",
           "order": 999
         },
         {
-          "label": "Export And Save",
-          "slug": "common/export-and-save",
-          "path": "ar/audience-intelligence/web/common/export-and-save.md",
-          "description": "",
-          "order": 999
-        },
-        {
-          "label": "Date Filter",
+          "label": "استخدام فلتر التاريخ",
           "slug": "common/date-filter",
           "path": "ar/audience-intelligence/web/common/date-filter.md",
-          "description": "",
+          "description": "تعرف على كيفية تصفية بيانات التحليلات ولوحات المعلومات الخاصة بك حسب نطاقات زمنية محددة عبر الوحدات المختلفة.",
           "order": 999
         },
         {
-          "label": "Analytics",
+          "label": "لوحات معلومات التحليلات",
           "slug": "common/analytics",
           "path": "ar/audience-intelligence/web/common/analytics.md",
-          "description": "",
+          "description": "افهم المخططات والمقاييس المتوفرة في علامة التبويب 'التحليلات' عبر الوحدات المختلفة لتتبع الأداء والمشاعر والتوزيع.",
           "order": 999
         },
         {
@@ -58,38 +51,38 @@
           "slug": "common/monitor",
           "children": [
             {
-              "label": "Sorting Posts",
-              "slug": "common/monitor/sorting-posts",
-              "path": "ar/audience-intelligence/web/common/monitor/sorting-posts.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Pinning Posts",
+              "label": "تثبيت المنشورات",
               "slug": "common/monitor/pinning-posts",
               "path": "ar/audience-intelligence/web/common/monitor/pinning-posts.md",
-              "description": "",
+              "description": "تعرف على كيفية تثبيت منشورات معينة في أعلى موجز المراقبة الخاص بك لسهولة التتبع وإدارة الأزمات.",
+              "order": 10
+            },
+            {
+              "label": "فرز المنشورات",
+              "slug": "common/monitor/sorting-posts",
+              "path": "ar/audience-intelligence/web/common/monitor/sorting-posts.md",
+              "description": "تعرف على كيفية ترتيب المنشورات في موجز المراقبة الخاص بك بناءً على مقاييس مثل الإعجابات أو التعليقات أو المشاهدات أو عدد المتابعين.",
               "order": 999
             },
             {
-              "label": "Download Report",
+              "label": "إنشاء وتنزيل التقارير",
               "slug": "common/monitor/download-report",
               "path": "ar/audience-intelligence/web/common/monitor/download-report.md",
-              "description": "",
+              "description": "تعرف على كيفية تحديد المنشورات، وإضافتها إلى مجموعة، وتصديرها كعروض تقديمية أو جداول أو رسائل بريد إلكتروني.",
               "order": 999
             },
             {
-              "label": "Deleting Posts And Recalibrate Relevancy",
+              "label": "حذف المنشورات وإعادة معايرة مدى الصلة",
               "slug": "common/monitor/deleting-posts-and-recalibrate-relevancy",
               "path": "ar/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy.md",
-              "description": "",
+              "description": "تعرف على كيفية إزالة المنشورات غير ذات الصلة من الموجز الخاص بك وتدريب ديما لتحسين دقة المراقبة في المستقبل.",
               "order": 999
             },
             {
-              "label": "Bulk Actions",
+              "label": "الإجراءات المجمعة",
               "slug": "common/monitor/bulk-actions",
               "path": "ar/audience-intelligence/web/common/monitor/bulk-actions.md",
-              "description": "",
+              "description": "تعرف على كيفية تنفيذ إجراءات جماعية على منشورات متعددة، مثل تحديث الانطباع أو تغيير المواضيع أو تعيين تصنيفات في وقت واحد.",
               "order": 999
             }
           ]
@@ -100,10 +93,10 @@
       "label": "مصنوع لك",
       "items": [
         {
-          "label": "Create Dashboard And Chart",
+          "label": "Create Chart & Dashboard - Under Construction",
           "slug": "made-for-you/create-dashboard-and-chart",
           "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": "",
+          "description": "This page is currently being drafted.",
           "order": 999
         }
       ]
@@ -112,25 +105,25 @@
       "label": "تحليل المحادثات",
       "items": [
         {
-          "label": "Monitoring",
+          "label": "Monitoring Comments",
           "slug": "conversation-analysis/monitoring",
           "path": "ar/audience-intelligence/web/conversation-analysis/monitoring.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post.",
+          "order": 1
         },
         {
-          "label": "Filters",
+          "label": "Using Filters",
           "slug": "conversation-analysis/filters",
           "path": "ar/audience-intelligence/web/conversation-analysis/filters.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies.",
+          "order": 2
         },
         {
-          "label": "Analytics",
+          "label": "Analytics Dashboard",
           "slug": "conversation-analysis/analytics",
           "path": "ar/audience-intelligence/web/conversation-analysis/analytics.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to analyze the sentiment, emotion, and topics of comments and replies on your official pages.",
+          "order": 13
         }
       ]
     },
@@ -138,32 +131,32 @@
       "label": "المؤثرين",
       "items": [
         {
-          "label": "Matched Influencers",
-          "slug": "influencers/matched-influencers",
-          "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "",
-          "order": 999
-        },
-        {
           "label": "Influencers Pool",
           "slug": "influencers/influencers-pool",
           "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to review an influencer's performance, assess risks, and match them with your brand.",
+          "order": 1
         },
         {
-          "label": "Impact Analysis",
-          "slug": "influencers/impact-analysis",
-          "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "",
-          "order": 999
+          "label": "Matched Influencers",
+          "slug": "influencers/matched-influencers",
+          "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
+          "description": "Learn how to review your matched influencers, track their content, analyze risk assessments, and view posts about your brand.",
+          "order": 2
         },
         {
-          "label": "Filters",
+          "label": "Filtering Influencers",
           "slug": "influencers/filters",
           "path": "ar/audience-intelligence/web/influencers/filters.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to narrow down your influencer pool by size, region, category, and platform to find the perfect match.",
+          "order": 3
+        },
+        {
+          "label": "Influencer Impact Analytics",
+          "slug": "influencers/impact-analysis",
+          "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
+          "description": "Learn how to analyze influencer performance, compare platforms, and filter impact data.",
+          "order": 19
         }
       ]
     },
@@ -171,18 +164,51 @@
       "label": "المواقع",
       "items": [
         {
-          "label": "Monitoring",
+          "label": "Monitoring Locations",
           "slug": "locations/monitoring",
           "path": "ar/audience-intelligence/web/locations/monitoring.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to track and filter Google Reviews for your company's physical locations.",
+          "order": 14
         },
         {
-          "label": "Analytics",
+          "label": "Locations Analytics",
           "slug": "locations/analytics",
           "path": "ar/audience-intelligence/web/locations/analytics.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to analyze aggregate Google Review data across all your company's physical locations.",
+          "order": 15
+        }
+      ]
+    },
+    {
+      "label": "تقييمات التجارة الإلكترونية",
+      "items": [
+        {
+          "label": "Monitoring Product Reviews",
+          "slug": "e-commerce-reviews/reviews",
+          "path": "ar/audience-intelligence/web/e-commerce-reviews/reviews.md",
+          "description": "Learn how to track and analyze customer feedback for your products across major e-commerce platforms.",
+          "order": 1
+        },
+        {
+          "label": "Analytics Dashboard",
+          "slug": "e-commerce-reviews/analytics",
+          "path": "ar/audience-intelligence/web/e-commerce-reviews/analytics.md",
+          "description": "Learn how to interpret the analytics dashboard to track product sentiment, ratings, and review volume over time.",
+          "order": 2
+        },
+        {
+          "label": "Generating Reviews Insights",
+          "slug": "e-commerce-reviews/insights",
+          "path": "ar/audience-intelligence/web/e-commerce-reviews/insights.md",
+          "description": "Learn how to use AI-driven insights to ask questions and summarize feedback from your e-commerce product reviews.",
+          "order": 3
+        },
+        {
+          "label": "Using Filters",
+          "slug": "e-commerce-reviews/filters",
+          "path": "ar/audience-intelligence/web/e-commerce-reviews/filters.md",
+          "description": "Learn how to narrow down your e-commerce reviews data by platform, review rating, and product rating.",
+          "order": 4
         }
       ]
     },
@@ -190,173 +216,53 @@
       "label": "الإدارة",
       "items": [
         {
-          "label": "Restoring Deleted Posts",
+          "label": "Own Pages",
+          "slug": "manage/own-pages",
+          "path": "ar/audience-intelligence/web/manage/own-pages.md",
+          "description": "Learn how to add, edit, and delete your company's official social media pages for dedicated tracking and analysis.",
+          "order": 1
+        },
+        {
+          "label": "Locations",
+          "slug": "manage/locations",
+          "path": "ar/audience-intelligence/web/manage/locations.md",
+          "description": "Learn how to add, edit, and delete physical company locations to track Google Reviews.",
+          "order": 2
+        },
+        {
+          "label": "Contacts",
+          "slug": "manage/contacts",
+          "path": "ar/audience-intelligence/web/manage/contacts.md",
+          "description": "Learn how to add, edit, and delete contacts to receive important reports and notifications.",
+          "order": 3
+        },
+        {
+          "label": "Groups",
+          "slug": "manage/groups",
+          "path": "ar/audience-intelligence/web/manage/groups.md",
+          "description": "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends.",
+          "order": 4
+        },
+        {
+          "label": "Topics",
+          "slug": "manage/topics",
+          "path": "ar/audience-intelligence/web/manage/topics.md",
+          "description": "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand.",
+          "order": 5
+        },
+        {
+          "label": "Restoring Posts",
           "slug": "manage/restoring-deleted-posts",
           "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
-          "description": "",
-          "order": 999
+          "description": "Learn how to recover previously deleted posts and bring them back into your monitoring feeds.",
+          "order": 7
         },
         {
-          "label": "المستخدمين",
+          "label": "Users - Under Construction",
           "slug": "manage/user",
-          "children": [
-            {
-              "label": "Edit User",
-              "slug": "manage/user/edit-user",
-              "path": "ar/audience-intelligence/web/manage/user/edit-user.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete User",
-              "slug": "manage/user/delete-user",
-              "path": "ar/audience-intelligence/web/manage/user/delete-user.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Create User",
-              "slug": "manage/user/create-user",
-              "path": "ar/audience-intelligence/web/manage/user/create-user.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "المواضيع",
-          "slug": "manage/topic",
-          "children": [
-            {
-              "label": "Edit Topic",
-              "slug": "manage/topic/edit-topic",
-              "path": "ar/audience-intelligence/web/manage/topic/edit-topic.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Topic",
-              "slug": "manage/topic/delete-topic",
-              "path": "ar/audience-intelligence/web/manage/topic/delete-topic.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Topic",
-              "slug": "manage/topic/add-topic",
-              "path": "ar/audience-intelligence/web/manage/topic/add-topic.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "الصفحات الشخصية",
-          "slug": "manage/own-page",
-          "children": [
-            {
-              "label": "Edit Own Page",
-              "slug": "manage/own-page/edit-own-page",
-              "path": "ar/audience-intelligence/web/manage/own-page/edit-own-page.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Own Page",
-              "slug": "manage/own-page/delete-own-page",
-              "path": "ar/audience-intelligence/web/manage/own-page/delete-own-page.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Own Page",
-              "slug": "manage/own-page/add-own-page",
-              "path": "ar/audience-intelligence/web/manage/own-page/add-own-page.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "الموقع",
-          "slug": "manage/location",
-          "children": [
-            {
-              "label": "Edit Location",
-              "slug": "manage/location/edit-location",
-              "path": "ar/audience-intelligence/web/manage/location/edit-location.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Location",
-              "slug": "manage/location/delete-location",
-              "path": "ar/audience-intelligence/web/manage/location/delete-location.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Location",
-              "slug": "manage/location/add-location",
-              "path": "ar/audience-intelligence/web/manage/location/add-location.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "المجموعات",
-          "slug": "manage/group",
-          "children": [
-            {
-              "label": "Edit Group",
-              "slug": "manage/group/edit-group",
-              "path": "ar/audience-intelligence/web/manage/group/edit-group.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Delete Group",
-              "slug": "manage/group/delete-group",
-              "path": "ar/audience-intelligence/web/manage/group/delete-group.md",
-              "description": "",
-              "order": 999
-            },
-            {
-              "label": "Add Group",
-              "slug": "manage/group/add-group",
-              "path": "ar/audience-intelligence/web/manage/group/add-group.md",
-              "description": "",
-              "order": 999
-            }
-          ]
-        },
-        {
-          "label": "إعدادات وسائل الاتصال",
-          "slug": "manage/contact",
-          "children": [
-            {
-              "label": "إضافة جهة اتصال",
-              "slug": "manage/contact/add-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/add-contact.md",
-              "description": "تعلم كيفية إضافة جهة اتصال جديدة في ديما لاستلام التقارير الهامة",
-              "order": 1
-            },
-            {
-              "label": "تعديل جهة اتصال",
-              "slug": "manage/contact/edit-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/edit-contact.md",
-              "description": "تعلم كيف تعدل جهة اتصال موجودة في ديما للحفاظ على تحديث المعلومات",
-              "order": 2
-            },
-            {
-              "label": "حذف جهة اتصال",
-              "slug": "manage/contact/delete-contact",
-              "path": "ar/audience-intelligence/web/manage/contact/delete-contact.md",
-              "description": "تعلم كيفية إزالة جهة اتصال موجودة من ديما",
-              "order": 3
-            }
-          ]
+          "path": "ar/audience-intelligence/web/manage/user.md",
+          "description": "This page is currently being drafted.",
+          "order": 999
         }
       ]
     }

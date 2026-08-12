@@ -1,23 +1,27 @@
 ---
-label: "Sorting Posts"
-description: "Learn how to arrange posts in your monitoring feed based on metrics such as likes, comments, views, or follower count."
+label: "فرز المنشورات"
+description: "تعرف على كيفية ترتيب المنشورات في موجز المراقبة الخاص بك بناءً على مقاييس مثل الإعجابات أو التعليقات أو المشاهدات أو عدد المتابعين."
 ---
 
-# Sorting Posts
+# فرز المنشورات
 
 <video controls=""><source src="https://dubble.so/media/video/23f31a48-569d-43d6-9464-acc80cf2a29c" type="video/mp4"></video>
 
-When reviewing large amounts of data in your monitoring feeds, you may want to prioritize certain posts. dima allows you to dynamically sort your feed by key metrics including date, likes, comments, shares, and views.
+عند مراجعة كميات كبيرة من البيانات في موجز المراقبة الخاص بك، قد ترغب في تحديد أولويات منشورات معينة. تتيح لك ديما فرز الموجز ديناميكيًا حسب المقاييس الرئيسية بما في ذلك التاريخ والإعجابات والتعليقات والمشاركات والمشاهدات.
 
 ---
 
-## How to Sort Your Feed
+## كيفية فرز الموجز الخاص بك
 
-![Screenshot of the Sort menu in dima, showing selected sorting factors, the ascending/descending toggle arrows, and the Apply Sort button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/sorting-posts/sort-menu.png)
+![لقطة شاشة لقائمة الفرز في ديما، تعرض عوامل الفرز المحددة، وأسهم التبديل التصاعدي/التنازلي، وزر تطبيق الفرز](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/sorting-posts/sort-menu.png)
 
-1. **Open the Sort Menu:** While on any monitoring page (such as Audience Intelligence, Groups, or Own Page), locate and click the **Sort** icon above the posts feed.
-2. **Choose Sorting Factors:** A menu will appear listing the available metrics. Click on the factor(s) you want to use to sort your posts. You can select more than one factor if you want to establish primary and secondary sorting rules.
-3. **Set the Order (Ascending/Descending):** Once a factor is selected, an arrow icon will appear to its right. Click this icon to toggle the sorting direction:
-   - **Descending (Arrow Down):** Shows the highest numbers first (e.g., most likes to least likes).
-   - **Ascending (Arrow Up):** Shows the lowest numbers first (e.g., fewest views to most views).
-4. **Apply Your Sort:** After configuring your desired factors and order, click the **Apply Sort** button at the bottom of the pop-up menu. Your feed will immediately reload in the new arrangement.
+1. **فتح قائمة الفرز:** أثناء وجودك في أي صفحة مراقبة (مثل رؤي الجمهور أو المجموعات أو الصفحة الشخصية)، حدد موقع وانقر على أيقونة **الفرز** أعلى موجز المنشورات.
+
+2. **اختيار عوامل الفرز:** ستظهر قائمة تسرد المقاييس المتاحة. انقر على العامل (أو العوامل) الذي تريد استخدامه لفرز منشوراتك. يمكنك تحديد أكثر من عامل إذا كنت تريد إنشاء قواعد فرز أساسية وثانوية.
+
+3. **تعيين الترتيب (تصاعدي/تنازلي):** بمجرد تحديد عامل، ستظهر أيقونة سهم إلى يساره. انقر على هذه الأيقونة لتبديل اتجاه الفرز:
+
+   - **تنازلي (سهم لأسفل):** يعرض الأرقام الأعلى أولاً (مثل، من الأكثر إعجابًا إلى الأقل إعجابًا).
+   - **تصاعدي (سهم لأعلى):** يعرض الأرقام الأقل أولاً (مثل، من الأقل مشاهدة إلى الأكثر مشاهدة).
+
+4. **تطبيق الفرز:** بعد تكوين العوامل والترتيب المطلوبين، انقر على زر **تطبيق الفرز** في أسفل القائمة المنبثقة. سيتم إعادة تحميل الموجز الخاص بك فورًا بالترتيب الجديد.
