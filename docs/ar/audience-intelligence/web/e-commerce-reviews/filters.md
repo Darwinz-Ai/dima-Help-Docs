@@ -1,32 +1,31 @@
 ---
-label: "Using Filters"
-description: "Learn how to narrow down your e-commerce reviews data by platform, review rating, and product rating."
+label: "استخدام الفلاتر"
+description: "تعرف على كيفية تضييق نطاق بيانات تقييمات التجارة الإلكترونية الخاصة بك حسب المنصة وتقييم المراجعة وتقييم المنتج."
 order: 4
 ---
 
-# Filtering E-Commerce Reviews
+# تصفية تقييمات التجارة الإلكترونية
 
 <video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/using-filters/access-filters.mp4" type="video/mp4"></video>
 
-To help you zero in on specific feedback, the E-Commerce Reviews page includes a dedicated **Filters** menu. These filters are persistent, meaning any criteria you select will apply seamlessly across all three tabs: **Reviews**, **Analytics**, and **Insights**.
+لمساعدتك في التركيز على ملاحظات محددة، تتضمن صفحة تقييمات التجارة الإلكترونية قائمة **فلاتر** مخصصة. هذه الفلاتر ثابتة، مما يعني أن أي معايير تحددها سيتم تطبيقها بسلاسة عبر جميع علامات التبويب الثلاث: **التقييمات**، و**التحليلات**، و**الرؤى**.
 
 ---
 
-## 1. Filter Categories
+## 1. فئات الفلتر
 
-![Screenshot of the E-Commerce Reviews filter menu showing options for Platform, Review Rating, and Product Rating](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/using-filters/using-filters.png)
+![لقطة شاشة لقائمة فلاتر تقييمات التجارة الإلكترونية تعرض خيارات للمنصة وتقييم المراجعة وتقييم المنتج](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/using-filters/using-filters.png)
 
-When you open the Filters menu, you can narrow down your data using the following criteria:
+عند فتح قائمة الفلاتر، يمكنك تضييق نطاق بياناتك باستخدام المعايير التالية:
 
-- **Platform:** Select one or multiple specific e-commerce storefronts to view data exclusively from those sources. Available platforms include Amazon, Noon, Nahdi, Jarir, and Extra.
-- **Review Rating:** Filter the feed based on the specific star rating a customer left on their individual review (from 1 to 5 stars).
-- **Product Rating:** Filter the feed based on the overall, cumulative average star rating of the products being reviewed.
+- **المنصة:** حدد واجهة متجر واحدة أو واجهات متاجر تجارة إلكترونية متعددة لعرض البيانات حصريًا من تلك المصادر. تشمل المنصات المتاحة أمازون ونون والنهدي وجرير وإكسترا.
+- **تقييم المراجعة:** قم بتصفية الموجز بناءً على التقييم المحدد بالنجوم الذي تركه العميل في مراجعته الفردية (من 1 إلى 5 نجوم).
+- **تقييم المنتج:** قم بتصفية الموجز بناءً على متوسط التقييم التراكمي الإجمالي بالنجوم للمنتجات التي تتم مراجعتها.
 
 ---
 
-## 2. Applying Your Filters
+## 2. تطبيق فلاترك
 
-- Check the boxes next to the criteria you want to use.
-- Click the blue **Apply** button at the bottom right of the menu to update your dashboard and feed.
-- If you want to clear your current selections and start over, click the **Reset** button
-  next to Apply.
+- حدد المربعات الموجودة بجوار المعايير التي تريد استخدامها.
+- انقر على زر **تطبيق** الأزرق في أسفل يسار القائمة لتحديث لوحة المعلومات والموجز الخاصين بك.
+- إذا كنت تريد مسح تحديداتك الحالية والبدء من جديد، فانقر على زر **إعادة تعيين** بجوار تطبيق.
