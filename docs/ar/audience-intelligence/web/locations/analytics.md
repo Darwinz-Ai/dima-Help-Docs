@@ -1,53 +1,53 @@
 ---
-label: "Locations Analytics"
-description: "Learn how to analyze aggregate Google Review data across all your company's physical locations."
+label: "تحليلات المواقع"
+description: "تعرف على كيفية تحليل بيانات التقييمات جوجل المجمعة عبر جميع المواقع الفعلية لشركتك."
 order: 15
 ---
 
-# Locations Analytics
+# تحليلات المواقع
 
 <video controls=""><source src="https://dubble.so/media/video/c16b82b1-5b06-475a-a31f-41d207d4d7fc" type="video/mp4"></video>
 
-The Locations module includes a dedicated **Analytics** page that gathers customer reviews from all your connected company branches and visualizes them into easy-to-read charts and metrics.
+تتضمن وحدة المواقع صفحة **تحليلات** مخصصة تجمع تقييمات العملاء من جميع فروع شركتك المتصلة وتعرضها في مخططات ومقاييس سهلة القراءة.
 
 ---
 
-## 1. Accessing the Dashboard & Top-Level Stats
+## 1. الوصول إلى لوحة المعلومات والإحصائيات رفيعة المستوى
 
-![Screenshot of the Locations Analytics page highlighting the top-level statistics like total locations and total reviews](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics.png)
+![لقطة شاشة لصفحة تحليلات المواقع تبرز الإحصائيات رفيعة المستوى مثل إجمالي المواقع وإجمالي التقييمات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics.png)
 
-To view detailed review analysis, click on the **Analytics** tab located at the top of the Locations module (next to the Monitor tab).
+لعرض تحليل التقييمات المفصل، انقر على علامة تبويب **التحليلات** الموجودة في أعلى وحدة المواقع (بجوار علامة تبويب المراقبة).
 
-At the very top of this page, you will see a quick summary of your overall performance, including:
+في أعلى هذه الصفحة، سترى ملخصًا سريعًا لأدائك العام، بما في ذلك:
 
-- **Total Locations:** The number of physical branches currently tracked for this company.
-- **Total Reviews:** The overall volume of reviews collected across all branches.
-- **Average Reviews:** The average number of reviews received per location.
-
----
-
-## 2. Breakdown by Location
-
-These bar charts help you compare the volume and quality of reviews between your different physical branches side by side.
-
-- **Reviews per Location:** A straightforward bar chart showing the total volume of reviews for each branch. The X-axis represents your individual locations, and the Y-axis represents the total review count.
-- **Rating Distribution per Location:** This chart uses the same layout, but each bar is split into color-coded segments representing specific star ratings (Green = 5 stars, Light Green = 4 stars, Yellow = 3 stars, Orange = 2 stars, Red = 1 star). This allows you to quickly spot which branches are excelling and which are receiving poor feedback.
+- **عدد المواقع:** عدد الفروع الفعلية التي يتم تتبعها حاليًا لهذه الشركة.
+- **عدد التقييمات:** الحجم الكلي للتقييمات المجمعة عبر جميع الفروع.
+- **متوسط التقييمات:** متوسط عدد التقييمات المستلمة لكل موقع.
 
 ---
 
-## 3. Average Rating Over Time
+## 2. التفصيل حسب الموقع
 
-![Screenshot of the Average Rating over time area chart with the time range dropdown highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics-time.png)
+تساعدك هذه المخططات الشريطية على مقارنة حجم وجودة التقييمات بين فروعك الفعلية المختلفة جنبًا إلى جنب.
 
-This area chart tracks how your average star rating fluctuates day by day across your tracked locations.
-
-- **Reading the Chart:** The left axis measures the average rating (from **0.0** to **5.0**), and the bottom axis displays the dates. The shaded blue area represents your daily average, making it easy to identify peaks (good days) and dips (bad days).
-- **Time Range Filter:** Use the dropdown menu located at the top right of this specific section to adjust the chart's timeframe. You can toggle between viewing data for the **Last 24 hours**, **Last 7 days**, or **Last 30 days**.
+- **التقييمات لكل موقع:** مخطط شريطي مباشر يوضح الحجم الإجمالي للتقييمات لكل فرع. يمثل المحور السيني مواقعك الفردية، ويمثل المحور الصادي إجمالي عدد التقييمات.
+- **توزيع التقييم لكل موقع:** يستخدم هذا المخطط نفس التصميم، ولكن ينقسم كل شريط إلى شرائح مخصصة بألوان تمثل تقييمات نجوم محددة (أخضر = 5 نجوم، أخضر فاتح = 4 نجوم، أصفر = 3 نجوم، برتقالي = نجمتان، أحمر = نجمة واحدة). يتيح لك ذلك تحديد الفروع التي تتفوق وتلك التي تتلقى ملاحظات سيئة بسرعة.
 
 ---
 
-## 4. Aggregate Topics Word Cloud
+## 3. متوسط التقييم بمرور الوقت
 
-The **Aggregate Topics** section features a word cloud that extracts the most common themes and keywords mentioned by your reviewers.
+![لقطة شاشة لمخطط منطقة متوسط التقييم بمرور الوقت مع إبراز القائمة المنسدلة للنطاق الزمني](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics-time.png)
 
-The visual size of a word reflects its frequency; the larger and bolder the text appears, the more often customers brought that specific topic up in their written feedback.
+يتتبع مخطط المنطقة هذا كيف يتقلب متوسط التقييم بالنجوم يومًا بعد يوم عبر مواقعك المتتبعة.
+
+- **قراءة المخطط:** يقيس المحور الأيمن متوسط التقييم (من **0.0** إلى **5.0**)، ويعرض المحور السفلي التواريخ. تمثل المنطقة الزرقاء المظللة المتوسط اليومي الخاص بك، مما يسهل تحديد الذروة (الأيام الجيدة) والانخفاضات (الأيام السيئة).
+- **فلتر النطاق الزمني:** استخدم القائمة المنسدلة الموجودة في أعلى يسار هذا القسم المحدد لتعديل الإطار الزمني للمخطط. يمكنك التبديل بين عرض البيانات لـ **آخر 24 ساعة**، أو **آخر 7 أيام**، أو **آخر 30 يومًا**.
+
+---
+
+## 4. سحابة كلمات المواضيع المجمعة
+
+يتميز قسم **المواضيع المجمعة** بسحابة كلمات تستخرج أكثر المواضيع والكلمات الرئيسية شيوعًا التي ذكرها المقيمون.
+
+يعكس الحجم المرئي للكلمة مدى تكرارها؛ فكلما ظهر النص أكبر وأكثر وضوحًا، زاد تكرار طرح العملاء لهذا الموضوع المحدد في ملاحظاتهم المكتوبة.
