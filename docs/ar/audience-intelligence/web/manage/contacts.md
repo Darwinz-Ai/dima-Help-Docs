@@ -1,73 +1,73 @@
 ---
-label: "Contacts"
-description: "Learn how to add, edit, and delete contacts to receive important reports and notifications."
+label: "إعدادات وسائل الاتصال"
+description: "تعرف على كيفية إضافة إعدادات وسائل الاتصال وتحريرها وحذفها لتلقي التقارير والإشعارات الهامة."
 order: 3
 ---
 
-# Managing Contacts
+# إدارة إعدادات وسائل الاتصال
 
 <video controls=""><source src="https://dubble.so/media/video/0744d950-0c29-47e9-90f4-b03f08a7bf40" type="video/mp4"></video>
 
-A **Contact** is a designated email address and mobile phone number where you want to receive reports and alerts from dima. You can assign multiple contacts to different companies to ensure the right team members always receive scheduled reports and updates.
+**وسيلة الاتصال** هي عنوان بريد إلكتروني ورقم هاتف محمول مخصصان حيث ترغب في تلقي التقارير والتنبيهات من ديما. يمكنك تعيين إعدادات وسائل اتصال متعددة لشركات مختلفة لضمان تلقي أعضاء الفريق المناسبين دائمًا للتقارير المجدولة والتحديثات.
 
-You can manage your notification roster directly from the Manage page.
-
----
-
-## Accessing the Contacts Menu
-
-![Screenshot of the Manage module showing the company selection list and the Contacts tab](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/contacts/access-contacts.png)
-
-All contact management for a specific brand happens in one central location:
-
-1. Navigate to the main sidebar and click the **Manage** icon.
-
-2. Select the specific **Company** you want to manage from your connected brands list.
-
-3. Click the **Contacts** tab located in the secondary menu.
+يمكنك إدارة قائمة الإشعارات الخاصة بك مباشرة من صفحة الإدارة.
 
 ---
 
-## Adding a Contact
+## الوصول إلى قائمة إعدادات وسائل الاتصال
 
-1. From the Contacts tab, click the **Add Contact** button in the top right corner of the page.
+![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب إعدادات وسائل الاتصال](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/contacts/access-contacts.png)
 
-2. A form will appear. Fill in the required fields:
+تتم جميع عمليات إدارة وسائل الاتصال لعلامة تجارية معينة في مكان مركزي واحد:
 
-   - **Name:** The full name of the team member or stakeholder.
-   - **Email:** The address where reports and updates should be sent.
-   - **Phone Number:** The mobile number for the contact.
+1. انتقل إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة**.
 
-3. Click the **Add Contact** button at the bottom right corner of the form to save the new team member to your list.
+2. حدد **الشركة** المحددة التي تريد إدارتها من قائمة علاماتك التجارية المتصلة.
 
----
-
-## Editing a Contact
-
-![Screenshot showing the three-dot menu on a Contact card with the Edit and Delete options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/contacts/edit-delete-menu.png)
-
-If a team member's email or phone number changes:
-
-1. Locate the specific contact card you want to update.
-
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of that specific card.
-
-3. Select **Edit Contact** from the dropdown menu.
-
-4. Update the Name, Email, or Phone Number fields as needed.
-
-5. Click **Update Contact** in the bottom right corner to save your changes. A success message will appear at the bottom right of the screen confirming the update.
+3. انقر على علامة تبويب **إعدادات وسائل الاتصال** الموجودة في القائمة الثانوية.
 
 ---
 
-## Deleting a Contact
+## إضافة وسيلة اتصال
 
-If someone leaves the team or no longer needs to receive scheduled reports, you can safely remove them:
+1. من علامة تبويب إعدادات وسائل الاتصال، انقر على زر **إضافة جهة اتصال** في الزاوية العلوية اليسرى من الصفحة.
 
-1. Locate the specific contact card you want to remove.
+2. سيظهر نموذج. املأ الحقول المطلوبة:
 
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
+   - **الاسم:** الاسم الكامل لعضو الفريق أو صاحب المصلحة.
+   - **البريد الإلكتروني:** العنوان الذي يجب إرسال التقارير والتحديثات إليه.
+   - **رقم الهاتف:** رقم الهاتف المحمول لوسيلة الاتصال.
 
-3. Select **Delete Contact** (written in red) from the dropdown menu.
+3. انقر على زر **إضافة جهة اتصال** في الزاوية السفلية اليسرى من النموذج لحفظ عضو الفريق الجديد في قائمتك.
 
-4. A confirmation pop-up will appear to ensure you want to proceed. Click the **Delete** button at the bottom right of the pop-up to permanently remove the contact.
+---
+
+## تحرير وسيلة اتصال
+
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة وسيلة اتصال مع خياري التحرير والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/contacts/edit-delete-menu.png)
+
+إذا تغير البريد الإلكتروني أو رقم هاتف عضو الفريق:
+
+1. حدد موقع بطاقة وسيلة الاتصال المحددة التي تريد تحديثها.
+
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من تلك البطاقة المحددة.
+
+3. حدد **تحرير وسيلة اتصال** من القائمة المنسدلة.
+
+4. قم بتحديث حقول الاسم أو البريد الإلكتروني أو رقم الهاتف حسب الحاجة.
+
+5. انقر على **تحديث وسيلة الاتصال** في الزاوية السفلية اليسرى لحفظ تغييراتك. ستظهر رسالة نجاح في أسفل يسار الشاشة تؤكد التحديث.
+
+---
+
+## حذف وسيلة اتصال
+
+إذا غادر شخص ما الفريق أو لم يعد بحاجة إلى تلقي التقارير المجدولة، يمكنك إزالته بأمان:
+
+1. حدد موقع بطاقة وسيلة الاتصال المحددة التي تريد إزالتها.
+
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من البطاقة.
+
+3. حدد **حذف وسيلة اتصال** (مكتوبة باللون الأحمر) من القائمة المنسدلة.
+
+4. ستظهر نافذة منبثقة للتأكيد لضمان رغبتك في المتابعة. انقر على زر **حذف** في أسفل يسار النافذة المنبثقة لإزالة وسيلة الاتصال نهائيًا.
