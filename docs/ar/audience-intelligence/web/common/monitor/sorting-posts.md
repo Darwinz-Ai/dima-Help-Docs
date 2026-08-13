@@ -5,7 +5,7 @@ description: "تعرف على كيفية ترتيب المنشورات في مو
 
 # فرز المنشورات
 
-<video controls=""><source src="https://dubble.so/media/video/23f31a48-569d-43d6-9464-acc80cf2a29c" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/sorting-posts/common-monitor-sorting-posts.mp4" type="video/mp4"></video>
 
 عند مراجعة كميات كبيرة من البيانات في موجز المراقبة الخاص بك، قد ترغب في تحديد أولويات منشورات معينة. تتيح لك ديما فرز الموجز ديناميكيًا حسب المقاييس الرئيسية بما في ذلك التاريخ والإعجابات والتعليقات والمشاركات والمشاهدات.
 
@@ -13,7 +13,7 @@ description: "تعرف على كيفية ترتيب المنشورات في مو
 
 ## كيفية فرز الموجز الخاص بك
 
-![لقطة شاشة لقائمة الفرز في ديما، تعرض عوامل الفرز المحددة، وأسهم التبديل التصاعدي/التنازلي، وزر تطبيق الفرز](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/sorting-posts/sort-menu.png)
+![لقطة شاشة لقائمة الفرز في ديما، تعرض عوامل الفرز المحددة، وأسهم التبديل التصاعدي/التنازلي، وزر تطبيق الفرز](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/sorting-posts/sorting-posts.png)
 
 1. **فتح قائمة الفرز:** أثناء وجودك في أي صفحة مراقبة (مثل رؤي الجمهور أو المجموعات أو الصفحة الشخصية)، حدد موقع وانقر على أيقونة **الفرز** أعلى موجز المنشورات.
 

@@ -6,7 +6,7 @@ order: 10
 
 # تثبيت المنشورات
 
-<video controls=""><source src="https://dubble.so/media/video/59612485-f4fd-45bd-b861-d97802293d8a" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/pinning-posts/common-monitor-pin-posts.mp4" type="video/mp4"></video>
 
 عندما تتتبع اتجاهًا واسع الانتشار، أو تتعامل مع أزمة علاقات عامة، أو تراقب ببساطة محادثة معينة عن كثب، يمكنك **تثبيت** المنشورات لضمان رؤيتها بوضوح دائمًا.
 
@@ -16,7 +16,7 @@ order: 10
 
 ## كيفية تثبيت منشور
 
-![لقطة شاشة لبطاقة منشور في موجز المراقبة، تبرز أيقونة النجمة في الزاوية السفلية اليسرى المستخدمة لتثبيت المنشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/pinning-posts/pin-posts.png)
+![لقطة شاشة لبطاقة منشور في موجز المراقبة، تبرز أيقونة النجمة في الزاوية السفلية اليسرى المستخدمة لتثبيت المنشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/pinning-posts/pinning-posts.pngg)
 
 1. انتقل إلى وحدة **رؤي الجمهور** باستخدام الشريط الجانبي الرئيسي.
 2. افتح علامة تبويب **المراقبة** لعرض موجز المنشورات المتتبعة.

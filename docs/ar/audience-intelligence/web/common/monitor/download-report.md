@@ -5,7 +5,7 @@ description: "تعرف على كيفية تحديد المنشورات، وإض�
 
 # إنشاء وتنزيل التقارير
 
-<video controls=""><source src="https://dubble.so/media/video/327cdcee-0347-4525-9280-92742be74959" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/download-report/common-monitor-download-report.mp4" type="video/mp4"></video>
 
 تتيح لك ديما اختيار منشورات محددة وتجميعها في تقرير مخصص لأغراض التحليل. يمكنك تصدير هذه التقارير بتنسيقات متعددة بما في ذلك الجداول، والعروض التقديمية، ورسائل البريد الإلكتروني والتي يمكنك إرسالها مباشرة إلى جهات الاتصال الخاصة بك.
 
@@ -15,7 +15,7 @@ description: "تعرف على كيفية تحديد المنشورات، وإض�
 
 ## 1. إضافة المنشورات إلى مجموعة تقاريرك
 
-![لقطة شاشة تعرض موجز المنشورات مع تحديد مربعات اختيار المنشورات الفردية وإبراز أيقونة إضافة المحدد إلى التقرير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-1.png)
+![لقطة شاشة تعرض موجز المنشورات مع تحديد مربعات اختيار المنشورات الفردية وإبراز أيقونة إضافة المحدد إلى التقرير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/download-report/download-report-1.png)
 
 قبل أن تتمكن من تنزيل تقرير أو إرساله، تحتاج أولاً إلى تحديد المنشورات التي تريد تضمينها.
 
@@ -29,7 +29,7 @@ description: "تعرف على كيفية تحديد المنشورات، وإض�
 
 ## 2. مراجعة التقرير وتنسيقه
 
-![لقطة شاشة للنافذة المنبثقة لتنزيل التقرير تعرض قائمة المنشورات المجمعة، وأيقونة سلة المهملات للإزالة، وخيارات تنسيق التقرير في أسفل اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-2.png)
+![لقطة شاشة للنافذة المنبثقة لتنزيل التقرير تعرض قائمة المنشورات المجمعة، وأيقونة سلة المهملات للإزالة، وخيارات تنسيق التقرير في أسفل اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/download-report/download-report-2.png)
 
 بمجرد إضافة المنشورات إلى مجموعتك، يمكنك مراجعتها واختيار تنسيق التصدير الخاص بك.
 
@@ -47,7 +47,7 @@ description: "تعرف على كيفية تحديد المنشورات، وإض�
 
 ## 3. الإرسال والتنزيل
 
-![لقطة شاشة للنافذة المنبثقة لتأكيد الإرسال توضح حقل القائمة المنسدلة لجهات الاتصال ومربع اختيار الاحتفاظ بالمنشورات في المجموعة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/download-report/download-report-step-3.png)
+![لقطة شاشة للنافذة المنبثقة لتأكيد الإرسال توضح حقل القائمة المنسدلة لجهات الاتصال ومربع اختيار الاحتفاظ بالمنشورات في المجموعة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/download-report/dowload-report-3.png)
 
 بعد تحديد تنسيق التقرير الخاص بك، ستظهر نافذة منبثقة أخيرة لـ **تأكيد الإرسال**.
 

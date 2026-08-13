@@ -5,7 +5,7 @@ description: "افهم المخططات والمقاييس المتوفرة في
 
 # فهم لوحات معلومات التحليلات
 
-<video controls=""><source src="https://dubble.so/media/video/c6e11844-36dd-4797-8700-4e49431f954c" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/analytics/common-analytics.mp4" type="video/mp4"></video>
 
 توفر صفحة **التحليلات** في ديما مجموعة من المخططات لمساعدتك على فهم أداء بياناتك ومشاعرها وتوزيع جمهورها. تتوفر هذه المخططات في وحدات **الصفحات الشخصية**، و**المجموعات**، و**رؤى الجمهور**.
 

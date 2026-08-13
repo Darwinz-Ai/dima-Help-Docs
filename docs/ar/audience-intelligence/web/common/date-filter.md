@@ -5,7 +5,7 @@ description: "تعرف على كيفية تصفية بيانات التحليل�
 
 # استخدام فلتر التاريخ
 
-<video controls=""><source src="https://dubble.so/media/video/843f17b7-6d60-4569-95c1-04664df10e12" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/date-filter/common-date-filter.mp4" type="video/mp4"></video>
 
 كلما قمت بفتح صفحة تحليلات في ديما، يتم تحميلها بنطاق زمني افتراضي مُطبق. يتيح لك "فلتر التاريخ" تعديل هذا النطاق للعثور على منشورات، أو مؤثرين، أو مراجعات، أو بيانات مخططات معينة لإطار زمني محدد.
 
@@ -28,7 +28,7 @@ description: "تعرف على كيفية تصفية بيانات التحليل�
 
 سيؤدي النقر عليه إلى فتح قائمة منتقي التاريخ، والتي تقدم عدة طرق لتحديد نطاق جديد.
 
-![لقطة شاشة لمنتقي التاريخ في ديما مفتوحًا، يعرض عمود النطاقات السريعة، وعرض التقويم لشهرين، ومربعات إدخال التاريخ يدويًا في الأسفل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/date-filter/date-picker-menu.png)
+![لقطة شاشة لمنتقي التاريخ في ديما مفتوحًا، يعرض عمود النطاقات السريعة، وعرض التقويم لشهرين، ومربعات إدخال التاريخ يدويًا في الأسفل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/date-filter/date-picker-menu.png)
 
 ---
 

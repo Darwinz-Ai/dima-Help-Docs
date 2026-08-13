@@ -5,7 +5,7 @@ description: "تعرف على كيفية إزالة المنشورات غير ذ
 
 # حذف المنشورات وإعادة معايرة مدى الصلة
 
-<video controls=""><source src="https://dubble.so/media/video/196a5a7f-0d56-4679-80cb-0868f9a19f59" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy/common-monitor-recalibrate-relevancy.mp4" type="video/mp4"></video>
 
 في بعض الأحيان، قد تجلب ديما منشورًا يحتوي على كلماتك الرئيسية التي يتم تتبعها ولكنه غير مرتبط تمامًا بعلامتك التجارية الفعلية أو مجالك. يمكنك بسهولة حذف هذه المنشورات غير ذات الصلة من الموجز الخاص بك.
 
@@ -15,7 +15,7 @@ description: "تعرف على كيفية إزالة المنشورات غير ذ
 
 ## 1. حذف المنشورات غير ذات الصلة
 
-![لقطة شاشة لموجز المراقبة تعرض بطاقات المنشورات المحددة وأيقونة سلة المهملات للحذف مميزة في شريط الأدوات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy/delete-posts.png)
+![لقطة شاشة لموجز المراقبة تعرض بطاقات المنشورات المحددة وأيقونة سلة المهملات للحذف مميزة في شريط الأدوات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy/recalibrate-relevancy-1.png)
 
 يمكنك حذف المنشورات وبدء عملية إعادة معايرة الذكاء الاصطناعي مباشرة من صفحة الرصد.
 
@@ -29,7 +29,7 @@ description: "تعرف على كيفية إزالة المنشورات غير ذ
 
 ## 2. إعادة معايرة الذكاء الاصطناعي لديما
 
-![لقطة شاشة لمربع حوار إعادة معايرة مدى الصلة يوضح مدخلات عنوان URL للمنشورات غير ذات الصلة ومربع نص تعديل مدى الصلة المطلوب](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy/recalibrate-dialog.png)
+![لقطة شاشة لمربع حوار إعادة معايرة مدى الصلة يوضح مدخلات عنوان URL للمنشورات غير ذات الصلة ومربع نص تعديل مدى الصلة المطلوب](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/deleting-posts-and-recalibrate-relevancy/recalibrate-relevancy-2.png)
 
 بعد إزالة المنشورات، سيتم فتح مربع حوار **إعادة معايرة مدى الصلة** تلقائيًا. هذا هو المكان الذي تخبر فيه ديما بالضبط بما يجب عليها تجاهله للمضي قدمًا.
 

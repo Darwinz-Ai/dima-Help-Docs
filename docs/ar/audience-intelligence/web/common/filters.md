@@ -5,7 +5,7 @@ description: "تعرف على كيفية تصفية بياناتك على وسا
 
 # تصفية البيانات
 
-<video controls=""><source src="https://dubble.so/media/video/05f1feac-4ba3-4ae3-8019-7a8e02eb5bae" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/filters/common-filters.mp4" type="video/mp4"></video>
 
 عند عرض البيانات في وحدات **الصفحة الشخصية** أو **المجموعات** أو **رؤي الجمهور**، توفر ديما نظام تصفية قوي لمساعدتك على تضييق نطاق منشوراتك.
 
@@ -13,7 +13,7 @@ description: "تعرف على كيفية تصفية بياناتك على وسا
 
 ## 1. استخدام نافذة الفلتر
 
-![لقطة شاشة لنافذة الفلتر القياسية في ديما، توضح تحديد علامة تبويب الانطباع والمشاعر](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/filters/filter-standard-menu.png)
+![لقطة شاشة لنافذة الفلتر القياسية في ديما، توضح تحديد علامة تبويب الانطباع والمشاعر](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/filters/filter-standard-menu.png)
 
 للوصول إلى الفلاتر القياسية، انقر على زر **الفلتر** الموجود في الزاوية العلوية اليسرى من الصفحة. سيؤدي هذا إلى فتح نافذة مقسمة إلى أربع علامات تبويب:
 
@@ -31,7 +31,7 @@ description: "تعرف على كيفية تصفية بياناتك على وسا
 
 ## 2. استخدام العرض الموسع داخل الصفحة
 
-![لقطة شاشة لعرض الفلتر الموسع في ديما، تظهر جميع فئات الفلاتر معروضة مباشرة على الصفحة كأزرار تبديل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/filters/filter-expanded-view.png)
+![لقطة شاشة لعرض الفلتر الموسع في ديما، تظهر جميع فئات الفلاتر معروضة مباشرة على الصفحة كأزرار تبديل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/filters/filter-expanded-view.png)
 
 إذا كنت تفضل رؤية جميع خيارات التصفية الخاصة بك في لمحة دون النقر عبر نافذة مبوبة، فإن ديما توفر عرضًا موسعًا داخل الصفحة.
 

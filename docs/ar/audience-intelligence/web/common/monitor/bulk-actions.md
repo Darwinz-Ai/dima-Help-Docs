@@ -5,7 +5,7 @@ description: "تعرف على كيفية تنفيذ إجراءات جماعية 
 
 # استخدام الإجراءات المجمعة
 
-<video controls=""><source src="https://dubble.so/media/video/3d4e8573-6442-4900-9c6c-379a1b26838f" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/bulk-actions/common-monitor-bulk-actions.mp4" type="video/mp4"></video>
 
 عند إدارة حجم كبير من البيانات في ديما، قد ترغب في تطبيق نفس التغيير على عدة منشورات في وقت واحد. تتيح لك ميزة **الإجراءات المجمعة** تعيين تصنيفات أو إزالتها، وتغيير الانطباعات والمشاعر، وتحديث المواضيع، أو حتى حذف منشورات متعددة في نفس الوقت.
 
@@ -13,7 +13,7 @@ description: "تعرف على كيفية تنفيذ إجراءات جماعية 
 
 ## 1. تحديد المنشورات
 
-![لقطة شاشة توضح تحديد منشورات متعددة باستخدام مربعات الاختيار في الزاوية العلوية اليسرى لكل بطاقة منشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-1.png)
+![لقطة شاشة توضح تحديد منشورات متعددة باستخدام مربعات الاختيار في الزاوية العلوية اليسرى لكل بطاقة منشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step1.png)
 
 قبل تطبيق إجراء مجمع، تحتاج أولاً إلى تحديد المنشورات التي ترغب في تعديلها.
 
@@ -24,7 +24,7 @@ description: "تعرف على كيفية تنفيذ إجراءات جماعية 
 
 ## 2. استخدام قائمة الإجراءات المجمعة
 
-![لقطة شاشة لقائمة الإجراءات المجمعة تعرض علامات تبويب لتغيير الانطباع والمشاعر والتصنيف والموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-2.png)
+![لقطة شاشة لقائمة الإجراءات المجمعة تعرض علامات تبويب لتغيير الانطباع والمشاعر والتصنيف والموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step2.png)
 
 بمجرد تحديد منشور واحد على الأقل، ستظهر مجموعة جديدة من أيقونات الإجراءات أعلى الموجز الخاص بك.
 
@@ -36,7 +36,7 @@ description: "تعرف على كيفية تنفيذ إجراءات جماعية 
 
 ## 3. إنشاء وتعيين تصنيفات جديدة
 
-![لقطة شاشة للنافذة المنبثقة لإضافة تصنيف مع إبراز حقل نص الاسم وزر الإضافة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step-3.png)
+![لقطة شاشة للنافذة المنبثقة لإضافة تصنيف مع إبراز حقل نص الاسم وزر الإضافة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/bulk-actions/bulk-actions-step3.png)
 
 أثناء وجودك في قائمة الإجراءات المجمعة، يمكنك بسهولة تطبيق التصنيفات الحالية أو إنشاء تصنيفات جديدة تمامًا على الفور.
 
