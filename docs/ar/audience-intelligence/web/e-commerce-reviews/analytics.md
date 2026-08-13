@@ -6,13 +6,13 @@ order: 2
 
 # تحليلات تقييمات التجارة الإلكترونية
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/access-analytics.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/review-analytics/reviews-analytics.mp4" type="video/mp4"></video>
 
 لمساعدتك في تحديد الاتجاهات الأوسع في ملاحظات العملاء، تتضمن صفحة تقييمات التجارة الإلكترونية لوحة معلومات مخصصة للتحليلات. تتصور هذه الصفحة بيانات التقييمات المجمعة عبر جميع المنصات المتصلة، مما يسهل رصد طفرات الأداء أو الانخفاض في الانطباع أو المنتجات الأكثر تداولاً.
 
 ## 1. الانطباع والحجم (بمرور الوقت)
 
-![لقطة شاشة لصفحة تحليلات تقييمات التجارة الإلكترونية تعرض مخططات بيانات مختلفة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/review-analytics/review-analytics.png)
+![لقطة شاشة لصفحة تحليلات تقييمات التجارة الإلكترونية تعرض مخططات بيانات مختلفة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/review-analytics/reviews-analytics.png)
 
 تساعدك هذه المخططات على تتبع مدى تكرار مراجعة العملاء لمنتجاتك وكيف يشعرون، مقسمة إما بالأيام أو الأسابيع.
 

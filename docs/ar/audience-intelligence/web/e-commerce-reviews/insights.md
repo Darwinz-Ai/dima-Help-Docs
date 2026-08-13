@@ -6,7 +6,7 @@ order: 3
 
 # رؤى تقييمات المنتجات
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/product-insights/access-insights.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/product-insights/reviews-insights.mp4" type="video/mp4"></video>
 
 تتيح لك علامة تبويب **الرؤى** داخل صفحة تقييمات التجارة الإلكترونية طرح أسئلة محددة ومخصصة حول تقييمات منتجاتك وتلقي ملخصات تم إنشاؤها بواسطة الذكاء الاصطناعي بناءً على ملاحظات العملاء الحقيقية.
 
@@ -14,7 +14,7 @@ order: 3
 
 ## 1. إنشاء رؤى مخصصة
 
-![لقطة شاشة لعلامة تبويب الرؤى تعرض استفسارًا والنتيجة التي تم إنشاؤها](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/product-insights/access-insights.png)
+![لقطة شاشة لعلامة تبويب الرؤى تعرض استفسارًا والنتيجة التي تم إنشاؤها](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/product-insights/review-insights.png)
 
 بدلاً من قراءة مئات التقييمات الفردية، يمكنك أن تطلب من ديما القيام بالعمل الشاق نيابة عنك:
 

@@ -6,7 +6,7 @@ order: 4
 
 # تصفية تقييمات التجارة الإلكترونية
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/using-filters/access-filters.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/using-filters/reviews-filters.mp4" type="video/mp4"></video>
 
 لمساعدتك في التركيز على ملاحظات محددة، تتضمن صفحة تقييمات التجارة الإلكترونية قائمة **فلاتر** مخصصة. هذه الفلاتر ثابتة، مما يعني أن أي معايير تحددها سيتم تطبيقها بسلاسة عبر جميع علامات التبويب الثلاث: **التقييمات**، و**التحليلات**، و**الرؤى**.
 
@@ -14,7 +14,7 @@ order: 4
 
 ## 1. فئات الفلتر
 
-![لقطة شاشة لقائمة فلاتر تقييمات التجارة الإلكترونية تعرض خيارات للمنصة وتقييم المراجعة وتقييم المنتج](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/using-filters/using-filters.png)
+![لقطة شاشة لقائمة فلاتر تقييمات التجارة الإلكترونية تعرض خيارات للمنصة وتقييم المراجعة وتقييم المنتج](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/using-filters/reviews-filters.png)
 
 عند فتح قائمة الفلاتر، يمكنك تضييق نطاق بياناتك باستخدام المعايير التالية:
 

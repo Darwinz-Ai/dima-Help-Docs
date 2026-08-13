@@ -6,7 +6,7 @@ order: 1
 
 # مراقبة تقييمات المنتجات
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-reviews-video.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/monitor-reviews/monitor-reviews.mp4" type="video/mp4"></video>
 
 تتيح لك صفحة **تقييمات التجارة الإلكترونية** تتبع ملاحظات العملاء لمنتجات شركتك عبر مواقع التجارة الإلكترونية الكبرى. تقوم ديما تلقائيًا بتجميع التقييمات من منصات مثل أمازون، ونون، وجرير، والنهدي، وإكسترا في موجز واحد موحد.
 
@@ -14,7 +14,7 @@ order: 1
 
 ## 1. تصفح موجز التقييمات
 
-![لقطة شاشة لعلامة التبويب الرئيسية لتقييمات التجارة الإلكترونية تعرض قائمة بتقييمات المنتجات داخل تطبيق الويب ديما](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/access-commerce-reviews.png)
+![لقطة شاشة لعلامة التبويب الرئيسية لتقييمات التجارة الإلكترونية تعرض قائمة بتقييمات المنتجات داخل تطبيق الويب ديما](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/monitor-reviews/reviews-monitor-1.png)
 
 عند فتح علامة تبويب **التقييمات**، سترى قائمة زمنية بملاحظات العملاء. توفر كل بطاقة مراجعة لقطة شاملة للتفاعل والمنتج الذي تنتمي إليه:
 
@@ -29,8 +29,7 @@ order: 1
 
 ## 2. عرض التقييمات ذات الصلة
 
-![لقطة شاشة توضح لوحة المراجعة المفصلة مفتوحة على الجانب الأيسر، وتعرض تفاصيل المراجعة المحددة والتقييمات المجمعة الأخرى لذلك المنتج](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/e-commerce-reviews/monitor-reviews/review-detailed-panel.png)
-
+![لقطة شاشة توضح لوحة المراجعة المفصلة مفتوحة على الجانب الأيسر، وتعرض تفاصيل المراجعة المحددة والتقييمات المجمعة الأخرى لذلك المنتج](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/e-commerce-reviews/monitor-reviews/reviews-monitor-2.png)
 إذا كنت ترغب في التعمق أكثر في ملاحظات منتج معين دون مغادرة المنصة:
 
 1. انقر في أي مكان على **بطاقة مراجعة** محددة من موجزك الرئيسي.
