@@ -1,39 +1,39 @@
 ---
-label: "Monitoring Locations"
-description: "Learn how to track and filter Google Reviews for your company's physical locations."
+label: "مراقبة المواقع"
+description: "تعرف على كيفية تتبع وتصفية مراجعات جوجل للمواقع الفعلية لشركتك."
 order: 14
 ---
 
-# Monitoring Locations
+# مراقبة المواقع
 
 <video controls=""><source src="https://dubble.so/media/video/a1713625-aeea-4c1e-9f5d-b7e4a6f63822" type="video/mp4"></video>
 
-dima automatically extracts and tracks Google Reviews for all the physical company locations you have connected to your account. This allows you to monitor customer feedback and location performance directly from the platform.
+تستخرج ديما مراجعات جوجل وتتتبعها تلقائيًا لجميع مواقع الشركة الفعلية التي قمت بربطها بحسابك. يتيح لك ذلك مراقبة ملاحظات العملاء وأداء الموقع مباشرة من المنصة.
 
 ---
 
-## 1. Navigating the Monitor Page
+## 1. تصفح صفحة المراقبة
 
-![Screenshot of the Locations Monitor page showing the search bar, Monitor and Analysis tabs, and a list of locations with star ratings](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/monitoring/monitor-page.png)
+![لقطة شاشة لصفحة مراقبة المواقع تعرض شريط البحث، وعلامتي تبويب المراقبة والتحليل، وقائمة بالمواقع مع تقييمات النجوم](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/monitoring/monitor-page.png)
 
-The Locations module is split into two main sections: **Monitor** and **Analysis**, which can be accessed via the tabs under the top search bar.
+تنقسم وحدة المواقع إلى قسمين رئيسيين: **المراقبة** و**التحليل**، والتي يمكن الوصول إليها عبر علامات التبويب الموجودة أسفل شريط البحث العلوي.
 
-- **Search for a Location:** Use the search bar at the top of the page (under the dima logo) to look up a specific company location.
-- **View All Locations:** The Monitor page displays all of your company's connected locations alongside their overall star ratings.
-- **Read Recent Reviews:** Click on any specific location card to open its detailed view. This section displays the "Recent Reviews" from different users.
-- **Review Details:** Each individual review includes the user's name, the date it was posted, the text of the review, and the star rating given.
-- **Quick Filter:** You can click directly on the star icons in the summary to quickly filter and see only the users who left that specific rating.
+- **البحث عن موقع:** استخدم شريط البحث في أعلى الصفحة (أسفل شعار ديما) للبحث عن موقع شركة محدد.
+- **عرض جميع المواقع:** تعرض صفحة المراقبة جميع مواقع شركتك المتصلة إلى جانب تقييماتها الإجمالية بالنجوم.
+- **قراءة المراجعات الأخيرة:** انقر على أي بطاقة موقع محددة لفتح عرضها المفصل. يعرض هذا القسم "المراجعات الأخيرة" من مستخدمين مختلفين.
+- **تفاصيل المراجعة:** تتضمن كل مراجعة فردية اسم المستخدم، وتاريخ نشرها، ونص المراجعة، والتقييم بالنجوم المقدم.
+- **فلتر سريع:** يمكنك النقر مباشرة على أيقونات النجوم في الملخص للتصفية السريعة ورؤية المستخدمين الذين تركوا هذا التقييم المحدد فقط.
 
 ---
 
-## 2. Using Advanced Filters
+## 2. استخدام الفلاتر المتقدمة
 
-![Screenshot of the Locations filter menu showing sliders for Filtering Range and Number of Reviews, along with a list of locations](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/monitoring/filters-menu.png)
+![لقطة شاشة لقائمة فلاتر المواقع تعرض أشرطة تمرير لنطاق التصفية وعدد المراجعات، بالإضافة إلى قائمة بالمواقع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/monitoring/filters-menu.png)
 
-For more granular control over what you are viewing, you can use the dedicated Filters menu.
+للحصول على تحكم أدق فيما تعرضه، يمكنك استخدام قائمة الفلاتر المخصصة.
 
-1.  Click the **Filters** button located at the top right corner of the page.
-2.  **Filtering Range (Stars):** Use the drag handles on the left and right of this slider to set the minimum and maximum star ratings you want to see.
-3.  **Number of Reviews:** Use this slider to narrow down your search to locations that have a specific volume of reviews.
-4.  **Locations List:** Scroll to the bottom of the filter page to see a list of all locations associated with the company. You can select one or multiple specific locations to focus on.
-5.  Click the **Apply Filters** button at the bottom right of the page to execute your search and update your feed.
+1. انقر على زر **الفلاتر** الموجود في الزاوية العلوية اليسرى من الصفحة.
+2. **نطاق التصفية (النجوم):** استخدم مقابض السحب على يمين ويسار شريط التمرير هذا لتعيين الحد الأدنى والحد الأقصى لتقييمات النجوم التي تريد رؤيتها.
+3. **عدد المراجعات:** استخدم شريط التمرير هذا لتضييق نطاق بحثك ليشمل المواقع التي تحتوي على حجم محدد من المراجعات.
+4. **قائمة المواقع:** قم بالتمرير إلى أسفل صفحة الفلتر لرؤية قائمة بجميع المواقع المرتبطة بالشركة. يمكنك تحديد موقع واحد أو مواقع متعددة للتركيز عليها.
+5. انقر على زر **تطبيق الفلاتر** في أسفل يسار الصفحة لتنفيذ بحثك وتحديث الموجز الخاص بك.
