@@ -6,6 +6,25 @@ By keeping our documentation in this Git repository, we can serve dynamic, local
 
 ---
 
+## Table of Contents
+
+- [Folder Architecture](#folder-architecture)
+- [How to Add or Edit a Document](#how-to-add-or-edit-a-document)
+  - [Naming Conventions (Crucial!)](#1-naming-conventions-crucial)
+  - [File Placement & Nesting](#2-file-placement--nesting)
+  - [YAML Frontmatter (Required)](#3-yaml-frontmatter-required)
+- [Writing Guidelines & Guide Structure](#writing-guidelines--guide-structure)
+- [Image & Media Handling](#image--media-handling)
+- [How to Contribute](#how-to-contribute)
+- [Local Development & Manifest Generation](#local-development--manifest-generation)
+  - [Setup](#setup)
+  - [Generate Manifests (Manual)](#generate-manifests-manual)
+- [Integration & Data Fetching](#integration--data-fetching)
+  - [Environment Variables](#environment-variables)
+  - [Fetching the Data](#fetching-the-data)
+
+---
+
 ## Folder Architecture
 
 To support multiple languages, products, and platforms, this repository strictly follows a **Locale ➔ Service ➔ Platform** hierarchy.
@@ -72,7 +91,7 @@ description: "تعرف على كيفية إضافة شركة جديدة إلى �
 
 ---
 
-## Writing Guidelines & Document Structure
+## Writing Guidelines & Guide Structure
 
 For consistency across the platform, all documentation should follow a standardized format.
 
