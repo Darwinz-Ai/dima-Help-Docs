@@ -6,7 +6,7 @@ order: 1
 
 # مراقبة التعليقات
 
-<video controls=""><source src="https://dubble.so/media/video/fa72e1c5-7be9-45ec-98ae-a3e1465800ef" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/monitoring/convo-analysis-monitoring.mp4" type="video/mp4"></video>
 
 بينما يعد تتبع المنشورات الأصلية أمرًا بالغ الأهمية، فإن رؤي الجمهور الحقيقية تكمن غالبًا في قسم التعليقات. تتيح لك وحدة **تحليل المحادثات** في ديما التعمق في سلاسل التعليقات والردود لتحليل كيفية تفاعل المجتمع فعليًا.
 
@@ -14,7 +14,7 @@ order: 1
 
 ## 1. الوصول إلى التعليقات والتنقل فيها
 
-![لقطة شاشة للشريط الجانبي في ديما مع إبراز علامة تبويب تحليلات المحادثات، ومنشور يعرض عناصر تحكم ترقيم الصفحات لعرض المزيد من التعليقات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-1.png)
+![لقطة شاشة للشريط الجانبي في ديما مع إبراز علامة تبويب تحليلات المحادثات، ومنشور يعرض عناصر تحكم ترقيم الصفحات لعرض المزيد من التعليقات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/monitoring/convo-analysis-monitoring-1.png)
 
 للبدء، انتقل إلى الشريط الجانبي الرئيسي وانقر على علامة تبويب **تحليلات المحادثات**. سيؤدي هذا إلى فتح موجز مخصص يعرض المنشورات المتتبعة إلى جانب تعليقاتها وردودها الرئيسية.
 
@@ -27,7 +27,7 @@ order: 1
 
 ## 2. العرض المفصل
 
-![لقطة شاشة للوحة تحليل المحادثات المفصلة تعرض أيقونة المنصة، وتعليق المنشور الأصلي، ومقاييس التفاعل، وتحليل الذكاء الاصطناعي للانطباع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/monitoring/conversation-analysis-monitor-2.png)
+![لقطة شاشة للوحة تحليل المحادثات المفصلة تعرض أيقونة المنصة، وتعليق المنشور الأصلي، ومقاييس التفاعل، وتحليل الذكاء الاصطناعي للانطباع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/monitoring/convo-analysis-monitoring-2.png)
 
 يؤدي النقر على تعليق إلى فتح عرض شامل يمنحك السياق الكامل لذلك التفاعل المعين، بما في ذلك مصدره والرؤى المدعومة بالذكاء الاصطناعي.
 

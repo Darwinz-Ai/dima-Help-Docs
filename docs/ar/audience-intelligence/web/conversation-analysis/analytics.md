@@ -6,7 +6,7 @@ order: 13
 
 # لوحة معلومات التحليلات
 
-<video controls=""><source src="https://dubble.so/media/video/6365d5f8-39b6-4a93-887e-e0c25d052efe" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/analytics/convo-analysis-analytics.mp4" type="video/mp4"></video>
 
 تتضمن وحدة تحليل المحادثات لوحة معلومات **التحليلات** المخصصة التي تركز بالكامل على أقسام التعليقات في صفحاتك الرسمية. هنا، يمكنك تحليل الانطباع والمشاعر وحجم ردود المجتمع خلال فترة زمنية محددة.
 
@@ -14,7 +14,7 @@ order: 13
 
 ## 1. الوصول إلى لوحة معلومات التحليلات
 
-![لقطة شاشة لموجز تحليلات المحادثات مع إبراز علامة تبويب التحليلات في أعلى اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/analytics/conversation-analysis-analytics.png)
+![لقطة شاشة لموجز تحليلات المحادثات مع إبراز علامة تبويب التحليلات في أعلى اليسار](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/analytics/convo-analysis-analytics.png)
 
 1. انتقل إلى علامة تبويب **تحليل
    المحادثات** باستخدام الشريط الجانبي الرئيسي.

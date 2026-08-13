@@ -6,7 +6,7 @@ order: 2
 
 # استخدام الفلاتر
 
-<video controls=""><source src="https://dubble.so/media/video/06042cdb-0368-42d6-9e5d-40e0ce8dcbe3" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/filters/convo-analysis-filters.mp4" type="video/mp4"></video>
 
 نظرًا لأن وحدة **تحليل المحادثات** تركز على السلاسل والتعليقات، فإنها تتميز بنظام تصفية متخصص. على عكس الفلاتر القياسية، يتيح لك هذا النظام إجراء إحالة مرجعية للبيانات؛ مما يعني أنه يمكنك التصفية بناءً على سمات المنشور الأصلي *و*سمات الردود الموجودة أسفله (على سبيل المثال، العثور على منشور ذي انطباع "إيجابي" أدى إلى إنشاء ردود "سلبية").
 
@@ -14,7 +14,7 @@ order: 2
 
 ## 1. الوصول إلى الفلتر
 
-![لقطة شاشة لموجز تحليل المحادثات مع إبراز زر الفلاتر في الزاوية العلوية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-filters.png)
+![لقطة شاشة لموجز تحليل المحادثات مع إبراز زر الفلاتر في الزاوية العلوية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/filters/convo-analysis-1.png)
 
 1. انتقل إلى علامة تبويب **تحليلات المحادثات** باستخدام الشريط الجانبي الرئيسي.
 2. انقر على زر **الفلاتر** الموجود في الزاوية العلوية اليسرى من الصفحة (أسفل شعار الشركة مباشرة).
@@ -23,7 +23,7 @@ order: 2
 
 ## 2. تكوين فئات الفلتر
 
-![لقطة شاشة لقائمة فلتر تحليل المحادثات توضح علامة التبويب "عام" مع خيارات مشاعر المنشور، ومشاعر الردود، والانطباع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/conversation-analysis/filters/conversation-analysis-general-filters.png)
+![لقطة شاشة لقائمة فلتر تحليل المحادثات توضح علامة التبويب "عام" مع خيارات مشاعر المنشور، ومشاعر الردود، والانطباع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/conversation-analysis/filters/convo-analysis-2.png)
 
 تنقسم قائمة فلتر تحليل المحادثات إلى قسمين رئيسيين: **عام** و**المحتوى**. يمكنك تحديد خيار واحد أو خيارات متعددة عبر كلتا علامتي التبويب.
 
