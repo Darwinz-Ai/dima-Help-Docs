@@ -5,7 +5,7 @@ description: "تعرف على كيفية التبديل السريع لمساح�
 
 # التبديل بين العلامات التجارية
 
-<video controls=""><source src="https://dubble.so/media/video/45b34218-3012-42fa-a7f7-eb4fd6bf75a4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/brands/switching-brands/switch-brands.mp4" type="video/mp4"></video>
 
 إذا كنت تراقب شركات متعددة، تتيح لك ديما التنقل بسهولة بينها دون مغادرة صفحتك الحالية. يؤدي تغيير علامتك التجارية النشطة إلى تحديث لوحة المعلومات، والتقارير، والإعدادات الخاصة بك لتعكس بيانات الشركة المحددة.
 

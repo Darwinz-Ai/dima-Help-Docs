@@ -6,7 +6,7 @@ order: 1
 
 # إضافة شركة
 
-<video controls=""><source src="https://dubble.so/media/video/01b7c4e3-7454-41da-b3e2-998b69e08706" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/brands/add-company/add-company.mp4" type="video/mp4"></video>
 
 تمثل **الشركة** في ديما العلامة التجارية، أو المنافس، أو الموضوع الذي ترغب في رصده (مثل، _تسلا_ أو _صناعة السيارات في المملكة العربية السعودية_).
 
