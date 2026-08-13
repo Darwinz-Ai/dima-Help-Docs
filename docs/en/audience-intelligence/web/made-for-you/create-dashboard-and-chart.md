@@ -3,8 +3,10 @@ label: "Create Chart & Dashboard - Under Construction"
 description: "This page is currently being drafted."
 ---
 
-# 🚧 Under Construction 🚧
+# 🚧 Guide Under Construction 🚧
 
-> **Note for QA:** Please ignore this page for now! The documentation here is currently a work in progress and is not yet ready for review or testing.
+> **Pardon our dust!** We are currently working on this section.
 
-Check back later for the completed guide!
+The step-by-step guide for this topic is currently being drafted. We are working hard to put together the most accurate and helpful information possible.
+
+Please check back soon for the complete walkthrough. Thank you for your patience!

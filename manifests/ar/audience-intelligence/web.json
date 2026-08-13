@@ -93,10 +93,10 @@
       "label": "مصنوع لك",
       "items": [
         {
-          "label": "Create Chart & Dashboard - Under Construction",
+          "label": "إنشاء مخطط ولوحة معلومات - قيد الإنشاء",
           "slug": "made-for-you/create-dashboard-and-chart",
           "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": "This page is currently being drafted.",
+          "description": "تتم صياغة هذه الصفحة حاليًا.",
           "order": 999
         }
       ]
@@ -105,24 +105,24 @@
       "label": "تحليل المحادثات",
       "items": [
         {
-          "label": "Monitoring Comments",
+          "label": "مراقبة التعليقات",
           "slug": "conversation-analysis/monitoring",
           "path": "ar/audience-intelligence/web/conversation-analysis/monitoring.md",
-          "description": "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post.",
+          "description": "تعرف على كيفية تتبع التعليقات والردود وتحليلها لفهم انطباع المجتمع بما يتجاوز المنشور الأصلي.",
           "order": 1
         },
         {
-          "label": "Using Filters",
+          "label": "استخدام الفلاتر",
           "slug": "conversation-analysis/filters",
           "path": "ar/audience-intelligence/web/conversation-analysis/filters.md",
-          "description": "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies.",
+          "description": "تعرف على كيفية تصفية سلاسل التعليقات بناءً على كل من سمات المنشور الأصلي والسمات المحددة للردود.",
           "order": 2
         },
         {
-          "label": "Analytics Dashboard",
+          "label": "لوحة معلومات التحليلات",
           "slug": "conversation-analysis/analytics",
           "path": "ar/audience-intelligence/web/conversation-analysis/analytics.md",
-          "description": "Learn how to analyze the sentiment, emotion, and topics of comments and replies on your official pages.",
+          "description": "تعرف على كيفية تحليل الانطباع والمشاعر ومواضيع التعليقات والردود على صفحاتك الرسمية.",
           "order": 13
         }
       ]
@@ -131,31 +131,31 @@
       "label": "المؤثرين",
       "items": [
         {
-          "label": "Influencers Pool",
+          "label": "مجموعة المؤثرين",
           "slug": "influencers/influencers-pool",
           "path": "ar/audience-intelligence/web/influencers/influencers-pool.md",
-          "description": "Learn how to review an influencer's performance, assess risks, and match them with your brand.",
+          "description": "تعرف على كيفية مراجعة أداء المؤثر وتقييم المخاطر وتحديد المؤثّرين المتوافقين مع علامتك التجارية.",
           "order": 1
         },
         {
-          "label": "Matched Influencers",
+          "label": "المؤثّرون المتوافقون",
           "slug": "influencers/matched-influencers",
           "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "Learn how to review your matched influencers, track their content, analyze risk assessments, and view posts about your brand.",
+          "description": "تعرف على كيفية مراجعة المؤثّرين المتوافقين معك، وتتبع محتواهم، وتحليل تقييمات المخاطر، وعرض المنشورات حول علامتك التجارية.",
           "order": 2
         },
         {
-          "label": "Filtering Influencers",
+          "label": "تصفية المؤثرين",
           "slug": "influencers/filters",
           "path": "ar/audience-intelligence/web/influencers/filters.md",
-          "description": "Learn how to narrow down your influencer pool by size, region, category, and platform to find the perfect match.",
+          "description": "تعرف على كيفية تضييق نطاق مجموعة المؤثرين الخاصة بك حسب الحجم والمنطقة والفئة والمنصة للعثور على التطابق المثالي.",
           "order": 3
         },
         {
-          "label": "Influencer Impact Analytics",
+          "label": "تحليلات تأثير المؤثرين",
           "slug": "influencers/impact-analysis",
           "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "Learn how to analyze influencer performance, compare platforms, and filter impact data.",
+          "description": "تعرف على كيفية تحليل أداء المؤثرين ومقارنة المنصات وتصفية بيانات التأثير.",
           "order": 19
         }
       ]
@@ -164,17 +164,17 @@
       "label": "المواقع",
       "items": [
         {
-          "label": "Monitoring Locations",
+          "label": "مراقبة المواقع",
           "slug": "locations/monitoring",
           "path": "ar/audience-intelligence/web/locations/monitoring.md",
-          "description": "Learn how to track and filter Google Reviews for your company's physical locations.",
+          "description": "تعرف على كيفية تتبع وتصفية مراجعات جوجل للمواقع الفعلية لشركتك.",
           "order": 14
         },
         {
-          "label": "Locations Analytics",
+          "label": "تحليلات المواقع",
           "slug": "locations/analytics",
           "path": "ar/audience-intelligence/web/locations/analytics.md",
-          "description": "Learn how to analyze aggregate Google Review data across all your company's physical locations.",
+          "description": "تعرف على كيفية تحليل بيانات التقييمات جوجل المجمعة عبر جميع المواقع الفعلية لشركتك.",
           "order": 15
         }
       ]
@@ -183,31 +183,31 @@
       "label": "تقييمات التجارة الإلكترونية",
       "items": [
         {
-          "label": "Monitoring Product Reviews",
+          "label": "مراقبة تقييمات المنتجات",
           "slug": "e-commerce-reviews/reviews",
           "path": "ar/audience-intelligence/web/e-commerce-reviews/reviews.md",
-          "description": "Learn how to track and analyze customer feedback for your products across major e-commerce platforms.",
+          "description": "تعرف على كيفية تتبع وتحليل ملاحظات العملاء لمنتجاتك عبر منصات التجارة الإلكترونية الكبرى.",
           "order": 1
         },
         {
-          "label": "Analytics Dashboard",
+          "label": "لوحة معلومات التحليلات",
           "slug": "e-commerce-reviews/analytics",
           "path": "ar/audience-intelligence/web/e-commerce-reviews/analytics.md",
-          "description": "Learn how to interpret the analytics dashboard to track product sentiment, ratings, and review volume over time.",
+          "description": "تعرف على كيفية تفسير لوحة معلومات التحليلات لتتبع انطباع المنتج والتقييمات وحجم التقييمات بمرور الوقت.",
           "order": 2
         },
         {
-          "label": "Generating Reviews Insights",
+          "label": "إنشاء رؤى التقييمات",
           "slug": "e-commerce-reviews/insights",
           "path": "ar/audience-intelligence/web/e-commerce-reviews/insights.md",
-          "description": "Learn how to use AI-driven insights to ask questions and summarize feedback from your e-commerce product reviews.",
+          "description": "تعرف على كيفية استخدام الرؤى المدعومة بالذكاء الاصطناعي لطرح أسئلة وتلخيص الملاحظات من تقييمات منتجات التجارة الإلكترونية الخاصة بك.",
           "order": 3
         },
         {
-          "label": "Using Filters",
+          "label": "استخدام الفلاتر",
           "slug": "e-commerce-reviews/filters",
           "path": "ar/audience-intelligence/web/e-commerce-reviews/filters.md",
-          "description": "Learn how to narrow down your e-commerce reviews data by platform, review rating, and product rating.",
+          "description": "تعرف على كيفية تضييق نطاق بيانات تقييمات التجارة الإلكترونية الخاصة بك حسب المنصة وتقييم المراجعة وتقييم المنتج.",
           "order": 4
         }
       ]
@@ -216,52 +216,52 @@
       "label": "الإدارة",
       "items": [
         {
-          "label": "Own Pages",
+          "label": "الصفحات الشخصية",
           "slug": "manage/own-pages",
           "path": "ar/audience-intelligence/web/manage/own-pages.md",
-          "description": "Learn how to add, edit, and delete your company's official social media pages for dedicated tracking and analysis.",
+          "description": "تعرف على كيفية إضافة وتعديل وحذف صفحات وسائل التواصل الاجتماعي الرسمية لشركتك لتتبعها وتحليلها بشكل مخصص.",
           "order": 1
         },
         {
-          "label": "Locations",
+          "label": "المواقع",
           "slug": "manage/locations",
           "path": "ar/audience-intelligence/web/manage/locations.md",
-          "description": "Learn how to add, edit, and delete physical company locations to track Google Reviews.",
+          "description": "تعرف على كيفية إضافة وتعديل وحذف المواقع الفعلية للشركة لتتبع مراجعات جوجل.",
           "order": 2
         },
         {
-          "label": "Contacts",
+          "label": "إعدادات وسائل الاتصال",
           "slug": "manage/contacts",
           "path": "ar/audience-intelligence/web/manage/contacts.md",
-          "description": "Learn how to add, edit, and delete contacts to receive important reports and notifications.",
+          "description": "تعرف على كيفية إضافة إعدادات وسائل الاتصال وتعديلها وحذفها لتلقي التقارير والإشعارات الهامة.",
           "order": 3
         },
         {
-          "label": "Groups",
+          "label": "المجموعات",
           "slug": "manage/groups",
           "path": "ar/audience-intelligence/web/manage/groups.md",
-          "description": "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends.",
+          "description": "تعرف على كيفية إضافة وتعديل وحذف مجموعات فيسبوك لمراقبة نقاشات واتجاهات المجتمع.",
           "order": 4
         },
         {
-          "label": "Topics",
+          "label": "المواضيع",
           "slug": "manage/topics",
           "path": "ar/audience-intelligence/web/manage/topics.md",
-          "description": "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand.",
+          "description": "تعرف على كيفية إضافة وتعديل وحذف المواضيع المخصصة لتصنيف المنشورات الواردة لعلامتك التجارية.",
           "order": 5
         },
         {
-          "label": "Restoring Posts",
+          "label": "استعادة المنشورات",
           "slug": "manage/restoring-deleted-posts",
           "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
-          "description": "Learn how to recover previously deleted posts and bring them back into your monitoring feeds.",
+          "description": "تعرف على كيفية استرداد المنشورات المحذوفة مسبقًا وإعادتها إلى موجزات الرصد الخاصة بك.",
           "order": 7
         },
         {
-          "label": "Users - Under Construction",
+          "label": "المستخدمون - قيد الإنشاء",
           "slug": "manage/user",
           "path": "ar/audience-intelligence/web/manage/user.md",
-          "description": "This page is currently being drafted.",
+          "description": "تتم صياغة هذه الصفحة حاليًا.",
           "order": 999
         }
       ]

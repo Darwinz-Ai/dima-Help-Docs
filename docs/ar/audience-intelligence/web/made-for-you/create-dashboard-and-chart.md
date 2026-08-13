@@ -1,10 +1,12 @@
 ---
-label: "Create Chart & Dashboard - Under Construction"
-description: "This page is currently being drafted."
+label: "إنشاء مخطط ولوحة معلومات - قيد الإنشاء"
+description: "تتم صياغة هذه الصفحة حاليًا."
 ---
 
-# 🚧 Under Construction 🚧
+# 🚧 الدليل قيد الإنشاء 🚧
 
-> **Note for QA:** Please ignore this page for now! The documentation here is currently a work in progress and is not yet ready for review or testing.
+> **عذرًا على الإزعاج!** نحن نعمل حاليًا على هذا القسم.
 
-Check back later for the completed guide!
+تتم حاليًا صياغة الدليل التفصيلي خطوة بخطوة لهذا الموضوع. نحن نعمل بجد لتجميع أدق المعلومات وأكثرها فائدة ممكنة.
+
+يرجى التحقق مرة أخرى قريبًا للحصول على الدليل الكامل. شكرًا لصبرك!
