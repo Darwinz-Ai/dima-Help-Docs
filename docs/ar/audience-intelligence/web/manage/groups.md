@@ -1,77 +1,77 @@
 ---
-label: "Groups"
-description: "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends."
+label: "المجموعات"
+description: "تعرف على كيفية إضافة وتحرير وحذف مجموعات فيسبوك لمراقبة نقاشات واتجاهات المجتمع."
 order: 4
 ---
 
-# Managing Groups
+# إدارة المجموعات
 
 <video controls=""><source src="https://dubble.so/media/video/9e917698-58b2-4c42-8b11-07419a4f3f5a" type="video/mp4"></video>
 
-In dima, a **Group** specifically refers to a public Facebook Group. Since Facebook Groups act as open social communities centered around specific themes, locations, or interests, tracking them allows you to monitor what users are actively discussing within these dedicated communities.
+في ديما، يشير مصطلح **المجموعة** تحديدًا إلى مجموعة عامة على فيسبوك. نظرًا لأن مجموعات فيسبوك تعمل كمجتمعات اجتماعية مفتوحة تتمحور حول مواضيع أو مواقع أو اهتمامات محددة، فإن تتبعها يتيح لك مراقبة ما يناقشه المستخدمون بنشاط داخل هذه المجتمعات المخصصة.
 
-You can manage the specific groups you want to track directly from the Manage page.
-
----
-
-## Accessing the Groups Menu
-
-![Screenshot of the Manage module with the Groups tab highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/groups/access-groups.png)
-
-All management actions for your tracked Facebook Groups take place here:
-
-1. Navigate to the main sidebar and click the **Manage** icon.
-
-2. Select the specific **Company** you want to manage from your list.
-
-3. Click the **Groups** tab in the secondary menu.
+يمكنك إدارة المجموعات المحددة التي تريد تتبعها مباشرة من صفحة الإدارة.
 
 ---
 
-## Adding a Group
+## الوصول إلى قائمة المجموعات
 
-1. From the Groups tab, click the **Add Group** button in the top right corner of the page.
+![لقطة شاشة لوحدة الإدارة مع إبراز علامة تبويب المجموعات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/groups/access-groups.png)
 
-2. A form will appear. Fill in the required basic information:
+تتم جميع إجراءات الإدارة لمجموعات فيسبوك المتتبعة الخاصة بك هنا:
 
-   - **Name:** An internal name to identify the group.
-   - **URL:** Paste the direct link to the public Facebook Group.
+1. انتقل إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة**.
 
-3. **Tracking Preferences:** By default, dima tracks everything via the **"Track all posts in this group?"** checkbox.
+2. حدد **الشركة** المحددة التي تريد إدارتها من قائمتك.
 
-   - If you _only_ want to track specific types of posts, uncheck this box.
-   - A **Comment** textbox will appear. Use this box to describe exactly what types of posts dima should track from this community (e.g., "Only fetch posts that mention our brand").
-
-4. Click the **Add Group** button at the bottom right corner of the form to save it and begin monitoring.
+3. انقر على علامة تبويب **المجموعات** في القائمة الثانوية.
 
 ---
 
-## Editing a Group
+## إضافة مجموعة
 
-![Screenshot showing the three-dot menu on a Group card with the Edit Group and Delete Group options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/groups/edit-delete-menu.png)
+1. من علامة تبويب المجموعات، انقر على زر **إضافة مجموعة** في الزاوية العلوية اليسرى من الصفحة.
 
-If you need to update a URL or adjust your tracking preferences:
+2. سيظهر نموذج. املأ المعلومات الأساسية المطلوبة:
 
-1. Locate the specific group card you want to update in your list.
+   - **الاسم:** اسم داخلي لتعريف المجموعة.
+   - **الرابط (URL):** الصق الرابط المباشر لمجموعة فيسبوك العامة.
 
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of that specific card.
+3. **تفضيلات التتبع:** افتراضيًا، تتتبع ديما كل شيء عبر مربع اختيار **"متابعة جميع المنشورات في هذه المجموعة؟"**.
 
-3. Select **Edit Group** from the dropdown menu.
+   - إذا كنت تريد _فقط_ تتبع أنواع محددة من المنشورات، فقم بإلغاء تحديد هذا المربع.
+   - سيظهر مربع نص **تعليق**. استخدم هذا المربع لوصف أنواع المنشورات التي يجب على ديما تتبعها بدقة من هذا المجتمع (مثل "جلب المنشورات التي تذكر علامتنا التجارية فقط").
 
-4. Update the Name, URL, or tracking checkboxes as needed.
-
-5. Click **Update Group** in the bottom right corner to save your changes.
+4. انقر على زر **إضافة مجموعة** في الزاوية السفلية اليسرى من النموذج لحفظها والبدء في المراقبة.
 
 ---
 
-## Deleting a Group
+## تحرير مجموعة
 
-> **Warning:** Deleting a group will completely remove it from your tracking list, and dima will stop fetching new community discussions from that URL.
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة مجموعة مع خياري تحرير المجموعة وحذف المجموعة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/groups/edit-delete-menu.png)
 
-1. Locate the specific group card you want to remove.
+إذا كنت بحاجة إلى تحديث رابط (URL) أو تعديل تفضيلات التتبع الخاصة بك:
 
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
+1. حدد موقع بطاقة المجموعة المحددة التي تريد تحديثها في قائمتك.
 
-3. Select **Delete Group** from the dropdown menu.
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من تلك البطاقة المحددة.
 
-4. A confirmation pop-up will appear to ensure you want to proceed. Click the **Delete** button at the bottom right to finalize the removal.
+3. حدد **تحرير المجموعة** من القائمة المنسدلة.
+
+4. قم بتحديث حقول الاسم أو الرابط (URL) أو مربعات اختيار التتبع حسب الحاجة.
+
+5. انقر على **تحديث المجموعة** في الزاوية السفلية اليسرى لحفظ تغييراتك.
+
+---
+
+## حذف مجموعة
+
+> **تحذير:** سيؤدي حذف مجموعة إلى إزالتها تمامًا من قائمة التتبع الخاصة بك، وستتوقف ديما عن جلب نقاشات المجتمع الجديدة من هذا الرابط.
+
+1. حدد موقع بطاقة المجموعة المحددة التي تريد إزالتها.
+
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من البطاقة.
+
+3. حدد **حذف المجموعة** من القائمة المنسدلة.
+
+4. ستظهر نافذة منبثقة للتأكيد لضمان رغبتك في المتابعة. انقر على زر **حذف** في أسفل يسار النافذة لإكمال الإزالة.
