@@ -6,7 +6,7 @@ order: 14
 
 # مراقبة المواقع
 
-<video controls=""><source src="https://dubble.so/media/video/a1713625-aeea-4c1e-9f5d-b7e4a6f63822" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/locations/monitoring/locations-monitoring.mp4" type="video/mp4"></video>
 
 تستخرج ديما مراجعات جوجل وتتتبعها تلقائيًا لجميع مواقع الشركة الفعلية التي قمت بربطها بحسابك. يتيح لك ذلك مراقبة ملاحظات العملاء وأداء الموقع مباشرة من المنصة.
 
@@ -14,7 +14,7 @@ order: 14
 
 ## 1. تصفح صفحة المراقبة
 
-![لقطة شاشة لصفحة مراقبة المواقع تعرض شريط البحث، وعلامتي تبويب المراقبة والتحليل، وقائمة بالمواقع مع تقييمات النجوم](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/monitoring/monitor-page.png)
+![لقطة شاشة لصفحة مراقبة المواقع تعرض شريط البحث، وعلامتي تبويب المراقبة والتحليل، وقائمة بالمواقع مع تقييمات النجوم](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/locations/monitoring/locations-monitoring-1.png)
 
 تنقسم وحدة المواقع إلى قسمين رئيسيين: **المراقبة** و**التحليل**، والتي يمكن الوصول إليها عبر علامات التبويب الموجودة أسفل شريط البحث العلوي.
 
@@ -28,7 +28,7 @@ order: 14
 
 ## 2. استخدام الفلاتر المتقدمة
 
-![لقطة شاشة لقائمة فلاتر المواقع تعرض أشرطة تمرير لنطاق التصفية وعدد المراجعات، بالإضافة إلى قائمة بالمواقع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/monitoring/filters-menu.png)
+![لقطة شاشة لقائمة فلاتر المواقع تعرض أشرطة تمرير لنطاق التصفية وعدد المراجعات، بالإضافة إلى قائمة بالمواقع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/locations/monitoring/locations-monitoring-2.png)
 
 للحصول على تحكم أدق فيما تعرضه، يمكنك استخدام قائمة الفلاتر المخصصة.
 

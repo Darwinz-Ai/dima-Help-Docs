@@ -6,7 +6,7 @@ order: 15
 
 # تحليلات المواقع
 
-<video controls=""><source src="https://dubble.so/media/video/c16b82b1-5b06-475a-a31f-41d207d4d7fc" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/locations/analytics/locations-analytics.mp4" type="video/mp4"></video>
 
 تتضمن وحدة المواقع صفحة **تحليلات** مخصصة تجمع تقييمات العملاء من جميع فروع شركتك المتصلة وتعرضها في مخططات ومقاييس سهلة القراءة.
 
@@ -14,7 +14,7 @@ order: 15
 
 ## 1. الوصول إلى لوحة المعلومات والإحصائيات رفيعة المستوى
 
-![لقطة شاشة لصفحة تحليلات المواقع تبرز الإحصائيات رفيعة المستوى مثل إجمالي المواقع وإجمالي التقييمات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics.png)
+![لقطة شاشة لصفحة تحليلات المواقع تبرز الإحصائيات رفيعة المستوى مثل إجمالي المواقع وإجمالي التقييمات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/locations/analytics/locations-analytics-1.png)
 
 لعرض تحليل التقييمات المفصل، انقر على علامة تبويب **التحليلات** الموجودة في أعلى وحدة المواقع (بجوار علامة تبويب المراقبة).
 
@@ -37,7 +37,7 @@ order: 15
 
 ## 3. متوسط التقييم بمرور الوقت
 
-![لقطة شاشة لمخطط منطقة متوسط التقييم بمرور الوقت مع إبراز القائمة المنسدلة للنطاق الزمني](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/locations/analytics/locations-analytics-time.png)
+![لقطة شاشة لمخطط منطقة متوسط التقييم بمرور الوقت مع إبراز القائمة المنسدلة للنطاق الزمني](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/locations/analytics/locations-analytics-2.png)
 
 يتتبع مخطط المنطقة هذا كيف يتقلب متوسط التقييم بالنجوم يومًا بعد يوم عبر مواقعك المتتبعة.
 
