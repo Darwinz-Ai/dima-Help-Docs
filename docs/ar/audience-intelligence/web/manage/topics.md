@@ -1,73 +1,73 @@
 ---
-label: "Topics"
-description: "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand."
+label: "المواضيع"
+description: "تعرف على كيفية إضافة وتعديل وحذف المواضيع المخصصة لتصنيف المنشورات الواردة لعلامتك التجارية."
 order: 5
 ---
 
-# Managing Topics
+# إدارة المواضيع
 
 <video controls=""><source src="https://dubble.so/media/video/951352ec-e7a9-4140-ba15-19b008bcfd5d" type="video/mp4"></video>
 
-A **Topic** is a custom category used to classify incoming posts about your company. For example, you might create topics for "Customer Service," "Marketing Campaigns," or "Product Reviews." Topics allow you to easily filter relevant posts and build targeted reports.
+**الموضوع** هو فئة مخصصة تُستخدم لتصنيف المنشورات الواردة حول شركتك. على سبيل المثال، يمكنك إنشاء مواضيع لـ "خدمة العملاء"، أو "الحملات التسويقية"، أو "مراجعات المنتجات". تتيح لك المواضيع تصفية المنشورات ذات الصلة بسهولة وإنشاء تقارير مستهدفة.
 
-You can manage all your custom categories directly from the Manage page.
-
----
-
-## Accessing the Topics Menu
-
-![Screenshot of the Manage module with the Topics tab highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/topics-tab.png)
-
-All topic management happens in one central location:
-
-1. Navigate to the main sidebar and click the **Manage** icon.
-
-2. Select the **Topics** tab located in the secondary menu.
-
-3. Choose the company where you want to manage its topics.
+يمكنك إدارة جميع فئاتك المخصصة مباشرة من صفحة الإدارة.
 
 ---
 
-## Adding a Topic
+## الوصول إلى قائمة المواضيع
 
-1. From the Topics tab, click the **Add Topic** button in the top right corner of the page.
+![لقطة شاشة لوحدة الإدارة مع إبراز علامة تبويب المواضيع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/topics-tab.png)
 
-2. A form will appear. Fill in the required fields:
+تتم جميع عمليات إدارة المواضيع في مكان مركزي واحد:
 
-   - **Name:** The title of your category (e.g., "Corporate News").
+1. انتقل إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة**.
 
-   - **Description:** A brief explanation of what this topic covers. This helps dima accurately classify incoming posts.
+2. حدد علامة تبويب **المواضيع** الموجودة في القائمة الثانوية.
 
-3. Click the **Add Topic** button at the bottom right corner of the form to save your new category.
-
----
-
-## Editing a Topic
-
-![Screenshot showing the three-dot menu on a topic card with the Edit Topic and Delete Topic options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/edit-delete-menu.png)
-
-If you need to tweak the name or description of an existing category:
-
-1. Locate the specific topic card you want to update in your list.
-
-2. Click the **vertical three-dot menu ( ⋮ )** in the top right corner of that specific card.
-
-3. Select **Edit Topic** from the dropdown menu.
-
-4. Update the Name or Description fields as needed.
-
-5. Click **Update Topic** in the bottom right corner to save your changes.
+3. اختر الشركة التي تريد إدارة مواضيعها.
 
 ---
 
-## Deleting a Topic
+## إضافة موضوع
 
-> **Warning:** Deleting a topic cannot be undone. If you delete a topic, it will be permanently removed, and any historical posts previously classified under this topic will instantly lose that label.
+1. من علامة تبويب المواضيع، انقر على زر **إضافة موضوع** في الزاوية العلوية اليسرى من الصفحة.
 
-1. Locate the specific topic card you want to remove.
+2. سيظهر نموذج. املأ الحقول المطلوبة:
 
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
+   - **الاسم:** عنوان فئتك (مثل "أخبار الشركة").
 
-3. Select **Delete Topic** from the dropdown.
+   - **الوصف:** شرح موجز لما يغطيه هذا الموضوع. يساعد هذا ديما في تصنيف المنشورات الواردة بدقة.
 
-4. A confirmation pop-up will appear to ensure you want to proceed. Click the **Delete** button at the bottom right of the pop-up to finalize the removal.
+3. انقر على زر **إضافة موضوع** في الزاوية السفلية اليسرى من النموذج لحفظ فئتك الجديدة.
+
+---
+
+## تعديل موضوع
+
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة موضوع مع خياري تعديل الموضوع وحذف الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/edit-delete-menu.png)
+
+إذا كنت بحاجة إلى تعديل اسم أو وصف فئة حالية:
+
+1. حدد موقع بطاقة الموضوع المحددة التي تريد تحديثها في قائمتك.
+
+2. انقر على **قائمة النقاط الثلاث العمودية ( ⋮ )** في الزاوية العلوية اليسرى من تلك البطاقة المحددة.
+
+3. حدد **تعديل الموضوع** من القائمة المنسدلة.
+
+4. قم بتحديث حقول الاسم أو الوصف حسب الحاجة.
+
+5. انقر على **تحديث الموضوع** في الزاوية السفلية اليسرى لحفظ تغييراتك.
+
+---
+
+## حذف موضوع
+
+> **تحذير:** لا يمكن التراجع عن حذف موضوع. إذا قمت بحذف موضوع، فستتم إزالته نهائيًا، وأي منشورات تاريخية تم تصنيفها مسبقًا ضمن هذا الموضوع ستفقد هذه العلامة على الفور.
+
+1. حدد موقع بطاقة الموضوع المحددة التي تريد إزالتها.
+
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من البطاقة.
+
+3. حدد **حذف الموضوع** من القائمة المنسدلة.
+
+4. ستظهر نافذة منبثقة للتأكيد لضمان رغبتك في المتابعة. انقر على زر **حذف** في أسفل يسار النافذة المنبثقة لإكمال الإزالة.
