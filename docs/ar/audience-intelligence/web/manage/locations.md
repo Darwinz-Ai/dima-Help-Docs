@@ -1,72 +1,72 @@
 ---
-label: "Locations"
-description: "Learn how to add, edit, and delete physical company locations to track Google Reviews."
+label: "المواقع"
+description: "تعرف على كيفية إضافة وتعديل وحذف المواقع الفعلية للشركة لتتبع مراجعات جوجل."
 order: 2
 ---
 
-# Managing Locations
+# إدارة المواقع
 
 <video controls=""><source src="https://dubble.so/media/video/a3beb1f1-0cd2-483a-a6d5-af1d925e8bcf" type="video/mp4"></video>
 
-A **Location** in dima represents a physical company branch linked to a Google Maps place. By adding a location, dima will automatically fetch and monitor all Google Reviews for that specific branch.
+يمثل **الموقع** في ديما فرعًا فعليًا للشركة مرتبطًا بمكان على خرائط جوجل. من خلال إضافة موقع، ستقوم ديما تلقائيًا بجلب ومراقبة جميع مراجعات جوجل لهذا الفرع المحدد.
 
-You can manage all your connected physical locations directly from the Manage page.
-
----
-
-## Accessing the Locations Menu
-
-![Screenshot of the Manage module showing the company selection list and the Company Locations tab](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/locations/access-locations.png)
-
-All management actions for your physical branches take place in one central location:
-
-1. Navigate to the main sidebar and click the **Manage** icon (the settings gear icon).
-
-2. Select the specific **Company** you want to manage from the list. You can use the search bar at the top to quickly find it.
-
-3. Click on the **Locations** tab in the secondary menu.
+يمكنك إدارة جميع مواقعك الفعلية المتصلة مباشرة من صفحة الإدارة.
 
 ---
 
-## Adding a Location
+## الوصول إلى قائمة المواقع
 
-1. From the Locations tab, click the **Add Location** button in the top right corner of the screen.
+![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب مواقع الشركة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/locations/access-locations.png)
 
-2. A form will appear. Fill in the required fields:
+تتم جميع إجراءات الإدارة لفروعك الفعلية في مكان مركزي واحد:
 
-   - **Name:** Type in the internal name of the location (e.g., "Downtown Branch").
-   - **URL:** Paste the direct Google Maps URL for this specific physical place.
+1. انتقل إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة** (أيقونة ترس الإعدادات).
 
-3. Click the **Add Location** button at the bottom right corner of the form. dima will now begin fetching Google Reviews for this spot.
+2. حدد **الشركة** المحددة التي تريد إدارتها من القائمة. يمكنك استخدام شريط البحث في الأعلى للعثور عليها بسرعة.
 
----
-
-## Editing a Location
-
-![Screenshot showing the three-dot menu on a Company Location card with the Edit and Delete options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/locations/edit-delete-menu.png)
-
-If a location's details or Google Maps link changes:
-
-1. Locate the specific location card you want to update.
-
-2. Click the **vertical three-dot menu ( ⋮ )** in the top right corner of that specific card.
-
-3. Select **Edit Company Location** from the dropdown menu.
-
-4. Update the Name or URL fields as needed.
-
-5. Click **Update Company Location** in the bottom right corner to save your changes.
+3. انقر على علامة تبويب **المواقع** في القائمة الثانوية.
 
 ---
 
-## Deleting a Location
+## إضافة موقع
 
-> **Warning:** Deleting a location will remove it from your tracked locations list, and dima will stop fetching new reviews for that branch.
+1. من علامة تبويب المواقع، انقر على زر **إضافة موقع** في الزاوية العلوية اليسرى من الشاشة.
 
-1. Locate the specific location card you want to remove.
+2. سيظهر نموذج. املأ الحقول المطلوبة:
 
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
+   - **الاسم:** اكتب الاسم الداخلي للموقع (مثل "فرع وسط البلد").
+   - **الرابط (URL):** الصق رابط خرائط جوجل المباشر لهذا المكان الفعلي المحدد.
 
-3. Select **Delete Company Location** from the dropdown menu.
+3. انقر على زر **إضافة موقع** في الزاوية السفلية اليسرى من النموذج. ستبدأ ديما الآن في جلب مراجعات جوجل لهذا المكان.
 
-4. A confirmation pop-up will appear to ensure you want to proceed. Click the **Delete** button at the bottom right to finalize the removal.
+---
+
+## تعديل موقع
+
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة موقع الشركة مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/locations/edit-delete-menu.png)
+
+إذا تغيرت تفاصيل موقع أو رابط خرائط جوجل:
+
+1. حدد موقع بطاقة الموقع المحددة التي تريد تحديثها.
+
+2. انقر على **قائمة النقاط الثلاث العمودية ( ⋮ )** في الزاوية العلوية اليسرى من تلك البطاقة المحددة.
+
+3. حدد **تعديل موقع الشركة** من القائمة المنسدلة.
+
+4. قم بتحديث حقلي الاسم أو الرابط (URL) حسب الحاجة.
+
+5. انقر على **تحديث موقع الشركة** في الزاوية السفلية اليسرى لحفظ تغييراتك.
+
+---
+
+## حذف موقع
+
+> **تحذير:** سيؤدي حذف موقع إلى إزالته من قائمة مواقعك المتتبعة، وستتوقف ديما عن جلب مراجعات جديدة لذلك الفرع.
+
+1. حدد موقع بطاقة الموقع المحددة التي تريد إزالتها.
+
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من البطاقة.
+
+3. حدد **حذف موقع الشركة** من القائمة المنسدلة.
+
+4. ستظهر نافذة منبثقة للتأكيد لضمان رغبتك في المتابعة. انقر على زر **حذف** في أسفل يسار النافذة لإكمال الإزالة.
