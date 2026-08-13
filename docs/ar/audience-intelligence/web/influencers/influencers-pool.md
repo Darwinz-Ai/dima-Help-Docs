@@ -1,53 +1,53 @@
 ---
-label: "Influencers Pool"
-description: "Learn how to review an influencer's performance, assess risks, and match them with your brand."
+label: "مجموعة المؤثرين"
+description: "تعرف على كيفية مراجعة أداء المؤثر وتقييم المخاطر وتحديد المؤثّرين المتوافقين مع علامتك التجارية."
 order: 1
 ---
 
-# Evaluating & Matching Influencers
+# تقييم وتحديد المؤثّرين المتوافقين
 
 <video controls=""><source src="https://dubble.so/media/video/95e73584-f327-465c-8627-f2b3c441a82b" type="video/mp4"></video>
 
-dima allows you to search for influencers, dive deep into their analytics, and check if they are a relevant match for your brand. This evaluation process takes place entirely within the **Influencers Pool** tab.
+تتيح لك ديما البحث عن المؤثرين، والتعمق في تحليلاتهم، والتحقق مما إذا كانوا من المؤثّرين المتوافقين بشكل مناسب مع علامتك التجارية. تتم عملية التقييم هذه بالكامل داخل علامة تبويب **مجموعة المؤثرين**.
 
 ---
 
-## 1. Accessing Influencer Profiles
+## 1. الوصول إلى ملفات تعريف المؤثرين
 
-![Screenshot of the Influencer Pool showing a grid of influencer cards being selected](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/select-influencer.png)
+![لقطة شاشة لمجموعة المؤثرين تعرض شبكة من بطاقات المؤثرين المحددة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/select-influencer.png)
 
-1. Navigate to the **Influencers** page using the main sidebar.
-2. Open the **Influencers Pool** tab to browse the available profiles.
-3. Click on any influencer's card to open their detailed profile panel.
-4. To browse more profiles, scroll down and use the **Next** pagination button located at the bottom center of the page.
-
----
-
-## 2. Reviewing Influencer Analytics
-
-![Screenshot of the influencer details panel showing performance metrics and the download report button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/influencers-detail-panel.png)
-
-Once you open a profile, a detailed panel will appear with in-depth statistics. Use the scrollbar within this panel to explore the different sections:
-
-- **Performance Intelligence & Benchmarks:** Review the influencer's overall reach, engagement rates, and how they stack up against industry standards.
-
-- **Risk Assessment:** Identify potential red flags or controversies before engaging with the influencer.
-
-- **Audience Interest Mapping:** Understand the demographics and core topics that resonate most with their followers.
-
-- **Community Resonance & Stability Floor:** Click these metrics to view the exact posts that generated the influencer's highest (Resonance) and lowest (Stability Floor) engagement.
-
-> **Pro Tip (Exporting Data):** You can easily export this profile data by clicking the **Download Report** button located at the top right corner of the details panel.
+1. انتقل إلى صفحة **المؤثرين** باستخدام الشريط الجانبي الرئيسي.
+2. افتح علامة تبويب **مجموعة المؤثرين** لتصفح الملفات الشخصية المتاحة.
+3. انقر على بطاقة أي مؤثر لفتح لوحة ملفه الشخصي المفصلة.
+4. لتصفح المزيد من الملفات الشخصية، قم بالتمرير لأسفل واستخدم زر ترقيم الصفحات **التالي** الموجود في أسفل وسط الصفحة.
 
 ---
 
-## 3. Checking Brand Relevance (Matching)
+## 2. مراجعة تحليلات المؤثرين
 
-![Screenshot of the Check Brand Relevance button located at the bottom of the Influencer Details section](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/check-brand-relevance.png)
+![لقطة شاشة للوحة تفاصيل المؤثر تعرض مقاييس الأداء وزر تنزيل التقرير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/influencers-detail-panel.png)
 
-After reviewing the analytics, you can run a targeted check to see how well the influencer aligns with your specific brand and topics.
+بمجرد فتح ملف شخصي، ستظهر لوحة مفصلة بإحصائيات متعمقة. استخدم شريط التمرير داخل هذه اللوحة لاستكشاف الأقسام المختلفة:
 
-- Scroll to the very bottom of the Influencer Details section and click the **Check Brand Relevance** button.
-- _Alternatively_, you can click the quick **Match** icon directly on their profile header.
+- **ذكاء الأداء والمعايير المرجعية:** راجع الوصول العام للمؤثر، ومعدلات التفاعل، وكيفية مقارنته بمعايير الصناعة.
 
-dima will then analyze their historical content and audience against your specific brand parameters to determine their compatibility.
+- **تقييم المخاطر:** حدد العلامات التحذيرية المحتملة أو الخلافات قبل التعامل مع المؤثر.
+
+- **تخطيط اهتمامات الجمهور:** افهم التركيبة السكانية والمواضيع الأساسية التي تلقى صدى أكبر لدى متابعيهم.
+
+- **صدى المجتمع وأرضية الاستقرار:** انقر على هذه المقاييس لعرض المنشورات الدقيقة التي ولّدت أعلى تفاعل للمؤثر (الصدى) وأدنى تفاعل (أرضية الاستقرار).
+
+> **نصيحة احترافية (تصدير البيانات):** يمكنك تصدير بيانات هذا الملف الشخصي بسهولة عن طريق النقر على زر **تنزيل التقرير** الموجود في الزاوية العلوية اليسرى من لوحة التفاصيل.
+
+---
+
+## 3. التحقق من صلة العلامة التجارية (المؤثّرون المتوافقون)
+
+![لقطة شاشة لزر التحقق من صلة العلامة التجارية الموجود في أسفل قسم تفاصيل المؤثر](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/check-brand-relevance.png)
+
+بعد مراجعة التحليلات، يمكنك إجراء فحص مستهدف لمعرفة مدى توافق المؤثر مع علامتك التجارية ومواضيعك المحددة.
+
+- قم بالتمرير إلى أسفل قسم تفاصيل المؤثر وانقر على زر **التحقق من ملاءمة العلامة التجارية**.
+- _بدلاً من ذلك_، يمكنك النقر على أيقونة **المؤثّرون المتوافقون** السريعة مباشرة في ترويسة ملفهم الشخصي.
+
+ستقوم ديما بعد ذلك بتحليل محتواهم التاريخي وجمهورهم مقابل معايير علامتك التجارية المحددة لتحديد مدى توافقهم.
