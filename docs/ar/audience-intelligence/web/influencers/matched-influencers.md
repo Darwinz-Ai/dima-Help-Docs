@@ -1,71 +1,71 @@
 ---
-label: "Matched Influencers"
-description: "Learn how to review your matched influencers, track their content, analyze risk assessments, and view posts about your brand."
+label: "المؤثّرون المتوافقون"
+description: "تعرف على كيفية مراجعة المؤثّرين المتوافقين معك، وتتبع محتواهم، وتحليل تقييمات المخاطر، وعرض المنشورات حول علامتك التجارية."
 order: 2
 ---
 
-# Matched Influencers
+# المؤثّرون المتوافقون
 
 <video controls=""><source src="https://dubble.so/media/video/0e28695e-5153-445d-82bb-272fd12b2f23" type="video/mp4"></video>
 
-The **Matched Influencers** tab displays all the creators from the general influencer pool that have been checked and matched against your company. Here, you can evaluate their brand fit, track their ongoing content, review detailed performance benchmarks, and see posts they have created about your brand.
+تعرض علامة تبويب **المؤثّرين المتوافقين** جميع صناع المحتوى من مجموعة المؤثرين العامة الذين تم التحقق منهم ومطابقتهم مع شركتك. هنا، يمكنك تقييم مدى ملاءمتهم للعلامة التجارية، وتتبع محتواهم المستمر، ومراجعة معايير الأداء المفصلة، ورؤية المنشورات التي أنشؤوها حول علامتك التجارية.
 
 ---
 
-## 1. Accessing Your Matched List
+## 1. الوصول إلى قائمتك المتوافقة
 
-![Screenshot of the Influencers module with the Matched Influencers tab highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-list.png)
+![لقطة شاشة لوحدة المؤثرين مع إبراز علامة تبويب المؤثّرين المتوافقين](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-list.png)
 
-1. Navigate to the **Influencers** page using the main sidebar.
+1. انتقل إلى صفحة **المؤثرين** باستخدام الشريط الجانبي الرئيسي.
 
-2. Click on the **Matched Influencers** tab
+2. انقر على علامة تبويب **المؤثّرين المتوافقين**.
 
-3. Each matched influencer card displays a high-level summary along with two primary actions:
-   - **Details:** Opens a dedicated, multi-tabbed analytics dashboard for that creator.
-   - **Posts About Me:** Displays all tracked posts created by that influencer that specifically mention or relate to your company.
+3. تعرض كل بطاقة مؤثر متوافق ملخصًا عالي المستوى إلى جانب إجراءين أساسيين:
+   - **التفاصيل:** يفتح لوحة معلومات تحليلات مخصصة ومتعددة علامات التبويب لصانع المحتوى هذا.
+   - **منشورات عني:** يعرض جميع المنشورات المتتبعة التي أنشأها هذا المؤثر والتي تذكر شركتك أو تتعلق بها تحديدًا.
 
-> **Note:** If your matched list is empty, you probably haven't checked or matched any influencers yet. [Learn how to match influencers here.](/en/guides/influencers/influencers-pool)
-
----
-
-## 2. Profile Overview & Quick Actions
-
-![Screenshot of an influencer's detailed profile overview showing social links, tracking toggle, bio, and brand relevance score](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-influencer-details.png)
-
-Clicking the **Details** button opens the creator's full profile page. The top header section includes several key controls:
-
-- **Social Profile Links:** Quick links to open the influencer's official social media profiles (e.g., TikTok).
-
-- **Start Tracking (Eye Icon):** Click the **Start Tracking** button to begin actively monitoring the creator. Once enabled, dima will automatically fetch and index their new posts moving forward.
-
-- **Full Bio:** Click **Show More** to expand and read the creator's complete channel biography.
-
-- **Brand Relevance Score:** A circular progress bar representing how closely the creator's content and audience align with your company parameters.
+> **ملاحظة:** إذا كانت قائمتك المتوافقة فارغة، فمن المحتمل أنك لم تقم بالتحقق من أي مؤثرين أو تحديدهم كمؤثّرين متوافقين بعد. [تعرف على كيفية تحديد المؤثّرين المتوافقين هنا.](/en/guides/influencers/influencers-pool)
 
 ---
 
-## 3. Deep-Dive Profile Tabs
+## 2. نظرة عامة على الملف الشخصي والإجراءات السريعة
 
-From the influencer details page, you can navigate through four main analysis tabs:
+![لقطة شاشة لنظرة عامة مفصلة على الملف الشخصي لمؤثر تعرض الروابط الاجتماعية، ومفتاح تبديل التتبع، والسيرة الذاتية، ودرجة صلة العلامة التجارية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-influencer-details.png)
 
-### Content
+يؤدي النقر على زر **التفاصيل** إلى فتح صفحة الملف الشخصي الكاملة لصانع المحتوى. يتضمن قسم الترويسة العلوي عدة عناصر تحكم رئيسية:
 
-View the creator's major posts broken down by performance and topic. This includes their **highest-performing posts**, **lowest-performing posts**, and top content grouped by industry category (e.g., _Lifestyle_, _Entertainment & Pop Culture_).
+- **روابط الملفات الشخصية الاجتماعية:** روابط سريعة لفتح الملفات الشخصية الرسمية لصانع المحتوى على وسائل التواصل الاجتماعي (مثل تيك توك).
 
-### Risk Assessment
+- **بدء التتبع (أيقونة العين):** انقر على زر **بدء التتبع** للبدء في مراقبة صانع المحتوى بنشاط. بمجرد تمكين ذلك، ستقوم ديما تلقائيًا بجلب منشوراته الجديدة وفهرستها للمضي قدمًا.
 
-The Risk Assessment tab flags public incidents, legal issues, or controversies associated with the influencer that could impact your brand reputation:
+- **السيرة الذاتية الكاملة:** انقر على **عرض المزيد** لتوسيع وقراءة السيرة الذاتية الكاملة لقناة صانع المحتوى.
 
-- **Plain Language Summaries:** Clear explanations detailing what happened and what role the influencer played in the event (e.g., whether they were the _responsible party_, the _affected party_, or _resolved the issue_).
+- **درجة صلة العلامة التجارية:** شريط تقدم دائري يمثل مدى توافق محتوى صانع المحتوى وجمهوره مع معايير شركتك.
 
-- **Source Citation Links:** Bracketed numbers (e.g., `[1]`) link directly to the news articles or official reports where the information originated.
+---
 
-### Post Insights
+## 3. علامات تبويب الملف الشخصي المتعمقة
 
-Review detailed charts analyzing creator engagement across various content categories:
+من صفحة تفاصيل المؤثر، يمكنك التنقل عبر أربع علامات تبويب رئيسية للتحليل:
 
-- **Engagement Rate by Followers:** Measures audience interactions (likes, comments, shares) relative to their total follower count.
+### المحتوى
 
-- **Engagement Rate by Views:** Measures interactions against actual view counts to show true audience engagement per post.
+عرض المنشورات الرئيسية لصانع المحتوى مقسمة حسب الأداء والموضوع. يتضمن ذلك **المنشورات الأفضل أداءً**، و**المنشورات الأسوأ أداءً**، وأفضل المحتويات المجمعة حسب فئة الصناعة (مثل _أسلوب الحياة_، _الترفيه والثقافة الشعبية_).
 
-- **Average Engagement Per Category:** Bar charts displaying the average volume of interactions across different content subjects. Hover over any bar to view the exact interaction numbers.
+### تقييم المخاطر
+
+تحدد علامة تبويب تقييم المخاطر الحوادث العامة، أو المشكلات القانونية، أو الخلافات المرتبطة بالمؤثر والتي قد تؤثر على سمعة علامتك التجارية:
+
+- **ملخصات بلغة بسيطة:** تفسيرات واضحة تفصل ما حدث والدور الذي لعبه المؤثر في الحدث (على سبيل المثال، ما إذا كان هو _الطرف المسؤول_، أو _الطرف المتضرر_، أو _من حل المشكلة_).
+
+- **روابط الاستشهاد بالمصادر:** ترتبط الأرقام الموجودة بين قوسين (مثل `[1]`) مباشرة بالمقالات الإخبارية أو التقارير الرسمية التي نشأت منها المعلومات.
+
+### رؤى المنشور
+
+راجع مخططات مفصلة تحلل تفاعل صانع المحتوى عبر فئات المحتوى المختلفة:
+
+- **معدل التفاعل حسب المتابعين:** يقيس تفاعلات الجمهور (الإعجابات، التعليقات، المشاركات) مقارنة بإجمالي عدد متابعيه.
+
+- **معدل التفاعل حسب المشاهدات:** يقيس التفاعلات مقابل أعداد المشاهدات الفعلية لإظهار تفاعل الجمهور الحقيقي لكل منشور.
+
+- **متوسط التفاعل لكل فئة:** مخططات شريطية تعرض متوسط حجم التفاعلات عبر مواضيع المحتوى المختلفة. مرر مؤشر الماوس فوق أي شريط لعرض أرقام التفاعل الدقيقة.
