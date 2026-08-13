@@ -1,32 +1,32 @@
 ---
-label: "Restoring Posts"
-description: "Learn how to recover previously deleted posts and bring them back into your monitoring feeds."
+label: "استعادة المنشورات"
+description: "تعرف على كيفية استرداد المنشورات المحذوفة مسبقًا وإعادتها إلى موجزات الرصد الخاصة بك."
 order: 7
 ---
 
-# Restoring Posts
+# استعادة المنشورات
 
 <video controls=""><source src="https://dubble.so/media/video/13cda758-b862-4bbb-8366-712f2a1bbf0b" type="video/mp4"></video>
 
-As you curate your data, you might delete a post only to realize later that it is actually relevant to your brand. dima keeps a secure archive of your removed content, allowing you to easily recover and restore any deleted posts.
+أثناء تنظيمك لبياناتك، قد تقوم بحذف منشور لتدرك لاحقًا أنه ذو صلة بالفعل بعلامتك التجارية. تحتفظ ديما بأرشيف آمن لمحتواك المُزال، مما يتيح لك استرداد واستعادة أي منشورات محذوفة بسهولة.
 
 ---
 
-## 1. Selecting Deleted Posts
+## 1. تحديد المنشورات المحذوفة
 
-![Screenshot of the Deleted Posts feed showing checkboxes on individual posts and the Select All checkbox next to the Restore icon](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/select-posts.png)
+![لقطة شاشة لموجز المنشورات المحذوفة تعرض مربعات اختيار على المنشورات الفردية ومربع اختيار "تحديد الكل" بجوار أيقونة الاستعادة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/select-posts.png)
 
-To recover deleted posts, first navigate to the main sidebar and click on the **Manage** icon. Then, select the **Deleted Posts** tab in the secondary menu.
+لاسترداد المنشورات المحذوفة، انتقل أولاً إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة**. بعد ذلك، حدد علامة تبويب **المنشورات المحذوفة** في القائمة الثانوية.
 
-You will now see a feed of all previously removed content for that company, just like in the screenshot above.
+سترى الآن موجزًا بجميع المحتويات المُزالة مسبقًا لتلك الشركة، تمامًا كما في لقطة الشاشة أعلاه.
 
-- **Select Individual Posts:** Click the small checkbox in the top left corner of each post card to select specific posts you want to recover.
-- **Select All Posts:** To recover every post on the current page, click the main checkbox at the top left of the feed, next to the Restore Posts icon.
+- **تحديد منشورات فردية:** انقر على مربع الاختيار الصغير في الزاوية العلوية اليمنى من كل بطاقة منشور لتحديد منشورات محددة تريد استردادها.
+- **تحديد جميع المنشورات:** لاسترداد كل منشور في الصفحة الحالية، انقر على مربع الاختيار الرئيسي في أعلى يمين الموجز، بجوار أيقونة "استعادة المنشورات".
 
-## 2. Finalizing the Restoration
+## 2. إكمال الاستعادة
 
-![Screenshot of the confirmation pop-up with the Restore button highlighted at the bottom right](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/confirm-restore.png)
+![لقطة شاشة للنافذة المنبثقة للتأكيد مع إبراز زر استعادة في الزاوية السفلية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/confirm-restore.png)
 
-1. After selecting your desired posts, click the **Restore Posts** icon (located just below the search bar at the top left of the screen).
-2. A confirmation pop-up will appear.
-3. Click the **Restore** button in the bottom right corner of the pop-up to immediately send the posts back to your active monitoring feeds.
+1. بعد تحديد منشوراتك المطلوبة، انقر على أيقونة **استعادة المنشورات** (الموجودة أسفل شريط البحث مباشرة في أعلى يمين الشاشة).
+2. ستظهر نافذة منبثقة للتأكيد.
+3. انقر على زر **استعادة** في الزاوية السفلية اليسرى من النافذة المنبثقة لإرسال المنشورات فورًا مرة أخرى إلى موجزات الرصد النشطة الخاصة بك.
