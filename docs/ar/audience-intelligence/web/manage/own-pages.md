@@ -1,80 +1,81 @@
 ---
-label: "Own Pages"
-description: "Learn how to add, edit, and delete your company's official social media pages for dedicated tracking and analysis."
+label: "الصفحات الشخصية"
+description: "تعرف على كيفية إضافة وتعديل وحذف صفحات وسائل التواصل الاجتماعي الرسمية لشركتك لتتبعها وتحليلها بشكل مخصص."
 order: 1
 ---
 
-# Managing Own Pages
+# إدارة الصفحات الشخصية
 
 <video controls=""><source src="https://dubble.so/media/video/9ce44bc2-1d45-44b7-891c-b09829783ac2" type="video/mp4"></video>
 
-**Own Pages** are the official social media profiles or groups owned and managed by your company. By connecting them to dima, you unlock a dedicated analytics module to track every post you publish, analyze performance metrics (like engagement and views), determine your best times to post, and evaluate your content strategy.
+**الصفحات الشخصية** هي ملفات تعريف أو مجموعات وسائل التواصل الاجتماعي الرسمية التي تملكها وتديرها شركتك. من خلال ربطها بديما، يمكنك فتح وحدة تحليلات مخصصة لتتبع كل منشور تنشره، وتحليل مقاييس الأداء (مثل التفاعل والمشاهدات)، وتحديد أفضل أوقات النشر، وتقييم استراتيجية المحتوى الخاصة بك.
 
-You can manage all your connected profiles directly from the Manage page.
-
----
-
-## Accessing the Own Pages Menu
-
-![Screenshot of the Manage module showing the company selection list and the Own Pages tab](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/own-pages/access-own-page.png)
-
-All management actions for your official pages take place in one central location:
-
-1. Navigate to the main sidebar and click the **Manage** icon.
-
-2. Select the specific **Company** you want to manage from the list. Use the search bar at the top to quickly find it if you have multiple brands.
-
-3. Ensure you are on the **Own Pages** tab.
+يمكنك إدارة جميع ملفاتك الشخصية المتصلة مباشرة من صفحة الإدارة.
 
 ---
 
-## Adding an Own Page
+## الوصول إلى قائمة الصفحات الشخصية
 
-1. From the Own Pages tab, click the button **Add Own Page** button located at the top right.
+![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب الصفحات الشخصية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/own-pages/access-own-page.png)
 
-2. A form will appear. Fill in the required basic information:
+تتم جميع إجراءات الإدارة لصفحاتك الرسمية في مكان مركزي واحد:
 
-   - **Name:** The internal name you want to use for this page.
-   - **Platform:** Select the social media network (e.g., Facebook, Instagram, X).
-   - **URL:** Paste the direct link to the page or profile.
+1. انتقل إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة**.
 
-3. **Tracking Preferences:** By default, dima tracks everything via the **"Track all posts on this page?"** checkbox.
+2. حدد **الشركة** المحددة التي تريد إدارتها من القائمة. استخدم شريط البحث في الأعلى للعثور عليها بسرعة إذا كان لديك علامات تجارية متعددة.
 
-   - If you _only_ want to track specific types of posts, uncheck this box.
-   - A new **Comment** textbox will appear. Use this box to describe exactly what types of posts dima should track (e.g., "Only track posts about our summer campaign").
-
-4. Click the **Add Own Page** button at the bottom right corner of the form to save the profile.
+3. تأكد من أنك في علامة تبويب **الصفحات الشخصية**.
 
 ---
 
-## Editing an Own Page
+## إضافة صفحة شخصية
 
-![Screenshot showing the three-dot menu on an Own Page card with the Edit and Delete options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/own-pages/edit-delete-menu.png)
+1. من علامة تبويب الصفحات الشخصية، انقر على زر **إضافة صفحة شخصية** الموجود في الزاوية العلوية اليسرى.
 
-If a URL changes or you need to adjust your tracking preferences:
+2. سيظهر نموذج. املأ المعلومات الأساسية المطلوبة:
 
-1. Locate the specific Own Page card you want to update.
+   - **الاسم:** الاسم الداخلي الذي تريد استخدامه لهذه الصفحة.
+   - **المنصة:** حدد شبكة التواصل الاجتماعي (مثل فيسبوك، إنستغرام، إكس).
+   - **الرابط (URL):** الصق الرابط المباشر للصفحة أو الملف الشخصي.
 
-2. Click the **vertical three-dot menu ( ⋮ )** in the top right corner of that specific card.
+3. **تفضيلات التتبع:** افتراضيًا، تتتبع ديما كل شيء عبر مربع اختيار **"الرابط
+   متابعة جميع المنشورات على هذه الصفحة؟"**.
 
-3. Select **Edit Own Page** from the dropdown menu.
+   - إذا كنت تريد _فقط_ تتبع أنواع محددة من المنشورات، فقم بإلغاء تحديد هذا المربع.
+   - سيظهر مربع نص **تعليق** جديد. استخدم هذا المربع لوصف أنواع المنشورات التي يجب على ديما تتبعها بدقة (مثل "تتبع المنشورات المتعلقة بحملتنا الصيفية فقط").
 
-4. Update the Name, Platform, URL, or tracking checkboxes as needed.
-
-5. Click **Update Own Page** in the bottom right corner to save your changes.
+4. انقر على زر **إضافة صفحة شخصية** في الزاوية السفلية اليسرى من النموذج لحفظ الملف الشخصي.
 
 ---
 
-## Deleting an Own Page
+## تعديل صفحة شخصية
 
-> **Warning:** Deleting an Own Page will completely remove it from the company's tracked pages and halt all active monitoring for that specific profile.
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة صفحة شخصية مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/own-pages/edit-delete-menu.png)
 
-1. Locate the specific Own Page card you want to remove.
+إذا تغير الرابط (URL) أو احتجت إلى تعديل تفضيلات التتبع الخاصة بك:
 
-2. Click the **three-dot menu ( ⋮ )** in the top right corner of the card.
+1. حدد موقع بطاقة الصفحة الشخصية المحددة التي تريد تحديثها.
 
-3. Select **Delete Own Page** from the dropdown menu.
+2. انقر على **قائمة النقاط الثلاث العمودية ( ⋮ )** في الزاوية العلوية اليسرى من تلك البطاقة المحددة.
 
-4. A secondary prompt will appear. Click **Delete Own Page** again.
+3. حدد **تعديل الصفحة الشخصية** من القائمة المنسدلة.
 
-5. A final confirmation pop-up will appear to ensure you want to proceed. Click the **Delete** button at the bottom right to finalize the removal.
+4. قم بتحديث حقول الاسم أو المنصة أو الرابط (URL) أو مربعات اختيار التتبع حسب الحاجة.
+
+5. انقر على **تحديث الصفحة الشخصية** في الزاوية السفلية اليسرى لحفظ تغييراتك.
+
+---
+
+## حذف صفحة شخصية
+
+> **تحذير:** سيؤدي حذف صفحة شخصية إلى إزالتها تمامًا من صفحات الشركة المتتبعة وإيقاف جميع عمليات المراقبة النشطة لذلك الملف الشخصي المحدد.
+
+1. حدد موقع بطاقة الصفحة الشخصية المحددة التي تريد إزالتها.
+
+2. انقر على **قائمة النقاط الثلاث ( ⋮ )** في الزاوية العلوية اليسرى من البطاقة.
+
+3. حدد **حذف الصفحة الشخصية** من القائمة المنسدلة.
+
+4. ستظهر رسالة مطالبة ثانوية. انقر على **حذف الصفحة الشخصية** مرة أخرى.
+
+5. ستظهر نافذة منبثقة نهائية للتأكيد لضمان رغبتك في المتابعة. انقر على زر **حذف** في أسفل يسار النافذة لإكمال الإزالة.
