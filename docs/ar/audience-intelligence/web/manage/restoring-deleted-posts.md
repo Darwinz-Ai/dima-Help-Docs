@@ -6,7 +6,7 @@ order: 7
 
 # استعادة المنشورات
 
-<video controls=""><source src="https://dubble.so/media/video/13cda758-b862-4bbb-8366-712f2a1bbf0b" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/restoring-posts/restoring-posts.mp4" type="video/mp4"></video>
 
 أثناء تنظيمك لبياناتك، قد تقوم بحذف منشور لتدرك لاحقًا أنه ذو صلة بالفعل بعلامتك التجارية. تحتفظ ديما بأرشيف آمن لمحتواك المُزال، مما يتيح لك استرداد واستعادة أي منشورات محذوفة بسهولة.
 
@@ -14,7 +14,7 @@ order: 7
 
 ## 1. تحديد المنشورات المحذوفة
 
-![لقطة شاشة لموجز المنشورات المحذوفة تعرض مربعات اختيار على المنشورات الفردية ومربع اختيار "تحديد الكل" بجوار أيقونة الاستعادة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/select-posts.png)
+![لقطة شاشة لموجز المنشورات المحذوفة تعرض مربعات اختيار على المنشورات الفردية ومربع اختيار "تحديد الكل" بجوار أيقونة الاستعادة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/restoring-posts/select-posts.png)
 
 لاسترداد المنشورات المحذوفة، انتقل أولاً إلى الشريط الجانبي الرئيسي وانقر على أيقونة **الإدارة**. بعد ذلك، حدد علامة تبويب **المنشورات المحذوفة** في القائمة الثانوية.
 
@@ -25,7 +25,7 @@ order: 7
 
 ## 2. إكمال الاستعادة
 
-![لقطة شاشة للنافذة المنبثقة للتأكيد مع إبراز زر استعادة في الزاوية السفلية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/restoring-posts/confirm-restore.png)
+![لقطة شاشة للنافذة المنبثقة للتأكيد مع إبراز زر استعادة في الزاوية السفلية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/restoring-posts/confirm-restore.png)
 
 1. بعد تحديد منشوراتك المطلوبة، انقر على أيقونة **استعادة المنشورات** (الموجودة أسفل شريط البحث مباشرة في أعلى يمين الشاشة).
 2. ستظهر نافذة منبثقة للتأكيد.

@@ -6,7 +6,7 @@ order: 3
 
 # إدارة إعدادات وسائل الاتصال
 
-<video controls=""><source src="https://dubble.so/media/video/0744d950-0c29-47e9-90f4-b03f08a7bf40" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/contacts/contacts.mp4" type="video/mp4"></video>
 
 **وسيلة الاتصال** هي عنوان بريد إلكتروني ورقم هاتف محمول مخصصان حيث ترغب في تلقي التقارير والتنبيهات من ديما. يمكنك تعيين إعدادات وسائل اتصال متعددة لشركات مختلفة لضمان تلقي أعضاء الفريق المناسبين دائمًا للتقارير المجدولة والتحديثات.
 
@@ -16,7 +16,7 @@ order: 3
 
 ## الوصول إلى قائمة إعدادات وسائل الاتصال
 
-![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب إعدادات وسائل الاتصال](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/contacts/access-contacts.png)
+![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب إعدادات وسائل الاتصال](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/contacts/access-contacts.png)
 
 تتم جميع عمليات إدارة وسائل الاتصال لعلامة تجارية معينة في مكان مركزي واحد:
 
@@ -44,7 +44,7 @@ order: 3
 
 ## تعديل وسيلة اتصال
 
-![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة وسيلة اتصال مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/contacts/edit-delete-menu.png)
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة وسيلة اتصال مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/contacts/contacts-crud.png)
 
 إذا تغير البريد الإلكتروني أو رقم هاتف عضو الفريق:
 

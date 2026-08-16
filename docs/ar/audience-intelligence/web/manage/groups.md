@@ -6,7 +6,7 @@ order: 4
 
 # إدارة المجموعات
 
-<video controls=""><source src="https://dubble.so/media/video/9e917698-58b2-4c42-8b11-07419a4f3f5a" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/groups/groups.mp4" type="video/mp4"></video>
 
 في ديما، يشير مصطلح **المجموعة** تحديدًا إلى مجموعة عامة على فيسبوك. نظرًا لأن مجموعات فيسبوك تعمل كمجتمعات اجتماعية مفتوحة تتمحور حول مواضيع أو مواقع أو اهتمامات محددة، فإن تتبعها يتيح لك مراقبة ما يناقشه المستخدمون بنشاط داخل هذه المجتمعات المخصصة.
 
@@ -16,7 +16,7 @@ order: 4
 
 ## الوصول إلى قائمة المجموعات
 
-![لقطة شاشة لوحدة الإدارة مع إبراز علامة تبويب المجموعات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/groups/access-groups.png)
+![لقطة شاشة لوحدة الإدارة مع إبراز علامة تبويب المجموعات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/groups/access-groups.png)
 
 تتم جميع إجراءات الإدارة لمجموعات فيسبوك المتتبعة الخاصة بك هنا:
 
@@ -48,7 +48,7 @@ order: 4
 
 ## تعديل مجموعة
 
-![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة مجموعة مع خياري تعديل المجموعة وحذف المجموعة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/groups/edit-delete-menu.png)
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة مجموعة مع خياري تعديل المجموعة وحذف المجموعة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/groups/groups-crud.png)
 
 إذا كنت بحاجة إلى تحديث رابط (URL) أو تعديل تفضيلات التتبع الخاصة بك:
 

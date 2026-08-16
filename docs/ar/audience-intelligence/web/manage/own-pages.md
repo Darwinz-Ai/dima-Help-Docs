@@ -6,7 +6,7 @@ order: 1
 
 # إدارة الصفحات الشخصية
 
-<video controls=""><source src="https://dubble.so/media/video/9ce44bc2-1d45-44b7-891c-b09829783ac2" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/own-pages/own-pages.mp4" type="video/mp4"></video>
 
 **الصفحات الشخصية** هي ملفات تعريف أو مجموعات وسائل التواصل الاجتماعي الرسمية التي تملكها وتديرها شركتك. من خلال ربطها بديما، يمكنك فتح وحدة تحليلات مخصصة لتتبع كل منشور تنشره، وتحليل مقاييس الأداء (مثل التفاعل والمشاهدات)، وتحديد أفضل أوقات النشر، وتقييم استراتيجية المحتوى الخاصة بك.
 
@@ -16,7 +16,7 @@ order: 1
 
 ## الوصول إلى قائمة الصفحات الشخصية
 
-![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب الصفحات الشخصية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/own-pages/access-own-page.png)
+![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب الصفحات الشخصية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/own-pages/access-own-page.png)
 
 تتم جميع إجراءات الإدارة لصفحاتك الرسمية في مكان مركزي واحد:
 
@@ -50,7 +50,7 @@ order: 1
 
 ## تعديل صفحة شخصية
 
-![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة صفحة شخصية مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/own-pages/edit-delete-menu.png)
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة صفحة شخصية مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/own-pages/own-page-crud.png)
 
 إذا تغير الرابط (URL) أو احتجت إلى تعديل تفضيلات التتبع الخاصة بك:
 

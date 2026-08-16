@@ -6,7 +6,7 @@ order: 2
 
 # إدارة المواقع
 
-<video controls=""><source src="https://dubble.so/media/video/a3beb1f1-0cd2-483a-a6d5-af1d925e8bcf" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/locations/locations.mp4" type="video/mp4"></video>
 
 يمثل **الموقع** في ديما فرعًا فعليًا للشركة مرتبطًا بمكان على خرائط جوجل. من خلال إضافة موقع، ستقوم ديما تلقائيًا بجلب ومراقبة جميع مراجعات جوجل لهذا الفرع المحدد.
 
@@ -16,7 +16,7 @@ order: 2
 
 ## الوصول إلى قائمة المواقع
 
-![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب مواقع الشركة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/locations/access-locations.png)
+![لقطة شاشة لوحدة الإدارة تعرض قائمة اختيار الشركة وعلامة تبويب مواقع الشركة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/locations/access-locations.png)
 
 تتم جميع إجراءات الإدارة لفروعك الفعلية في مكان مركزي واحد:
 
@@ -43,7 +43,7 @@ order: 2
 
 ## تعديل موقع
 
-![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة موقع الشركة مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/locations/edit-delete-menu.png)
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة موقع الشركة مع خياري التعديل والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/locations/locations-crud.png)
 
 إذا تغيرت تفاصيل موقع أو رابط خرائط جوجل:
 

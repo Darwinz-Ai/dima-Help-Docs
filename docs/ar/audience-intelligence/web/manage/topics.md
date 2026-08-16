@@ -6,7 +6,7 @@ order: 5
 
 # إدارة المواضيع
 
-<video controls=""><source src="https://dubble.so/media/video/951352ec-e7a9-4140-ba15-19b008bcfd5d" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/topics/topics.mp4" type="video/mp4"></video>
 
 **الموضوع** هو فئة مخصصة تُستخدم لتصنيف المنشورات الواردة حول شركتك. على سبيل المثال، يمكنك إنشاء مواضيع لـ "خدمة العملاء"، أو "الحملات التسويقية"، أو "مراجعات المنتجات". تتيح لك المواضيع تصفية المنشورات ذات الصلة بسهولة وإنشاء تقارير مستهدفة.
 
@@ -16,7 +16,7 @@ order: 5
 
 ## الوصول إلى قائمة المواضيع
 
-![لقطة شاشة لوحدة الإدارة مع إبراز علامة تبويب المواضيع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/topics-tab.png)
+![لقطة شاشة لوحدة الإدارة مع إبراز علامة تبويب المواضيع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/topics/access-topics.png)
 
 تتم جميع عمليات إدارة المواضيع في مكان مركزي واحد:
 
@@ -44,7 +44,7 @@ order: 5
 
 ## تعديل موضوع
 
-![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة موضوع مع خياري تعديل الموضوع وحذف الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/manage/topics/edit-delete-menu.png)
+![لقطة شاشة توضح قائمة النقاط الثلاث على بطاقة موضوع مع خياري تعديل الموضوع وحذف الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/manage/topics/topics-crud.png)
 
 إذا كنت بحاجة إلى تعديل اسم أو وصف فئة حالية:
 
