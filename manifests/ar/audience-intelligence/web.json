@@ -93,11 +93,18 @@
       "label": "مصنوع لك",
       "items": [
         {
-          "label": "إنشاء مخطط ولوحة معلومات - قيد الإنشاء",
-          "slug": "made-for-you/create-dashboard-and-chart",
-          "path": "ar/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": "تتم صياغة هذه الصفحة حاليًا.",
-          "order": 999
+          "label": "إنشاء لوحات التحكم",
+          "slug": "made-for-you/creating-dashboards",
+          "path": "ar/audience-intelligence/web/made-for-you/creating-dashboards.md",
+          "description": "تعرف على كيفية بناء وتحرير وتكرار وحذف لوحات التحكم المخصصة في وحدة مصنوع لك (Made For You).",
+          "order": 1
+        },
+        {
+          "label": "إنشاء المخططات",
+          "slug": "made-for-you/creating-charts",
+          "path": "ar/audience-intelligence/web/made-for-you/creating-charts.md",
+          "description": "تعرف على كيفية بناء وتخصيص المخططات لتصور البيانات داخل لوحات المعلومات الخاصة بك.",
+          "order": 2
         }
       ]
     },
@@ -251,18 +258,18 @@
           "order": 5
         },
         {
+          "label": "المستخدمون",
+          "slug": "manage/user",
+          "path": "ar/audience-intelligence/web/manage/user.md",
+          "description": "تعرف على كيفية إضافة المستخدمين وتحريرهم وحذفهم لإدارة الوصول إلى مساحة العمل والأذونات.",
+          "order": 6
+        },
+        {
           "label": "استعادة المنشورات",
           "slug": "manage/restoring-deleted-posts",
           "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
           "description": "تعرف على كيفية استرداد المنشورات المحذوفة مسبقًا وإعادتها إلى موجزات الرصد الخاصة بك.",
           "order": 7
-        },
-        {
-          "label": "المستخدمون - قيد الإنشاء",
-          "slug": "manage/user",
-          "path": "ar/audience-intelligence/web/manage/user.md",
-          "description": "تتم صياغة هذه الصفحة حاليًا.",
-          "order": 999
         }
       ]
     }

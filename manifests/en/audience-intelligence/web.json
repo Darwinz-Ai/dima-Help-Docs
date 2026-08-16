@@ -93,11 +93,18 @@
       "label": "Made For You",
       "items": [
         {
-          "label": "Create Chart & Dashboard - Under Construction",
-          "slug": "made-for-you/create-dashboard-and-chart",
-          "path": "en/audience-intelligence/web/made-for-you/create-dashboard-and-chart.md",
-          "description": "This page is currently being drafted.",
-          "order": 999
+          "label": "Creating Dashboards",
+          "slug": "made-for-you/creating-dashboards",
+          "path": "en/audience-intelligence/web/made-for-you/creating-dashboards.md",
+          "description": "Learn how to build, edit, duplicate, and delete custom dashboards in the Made For You module.",
+          "order": 1
+        },
+        {
+          "label": "Creating Charts",
+          "slug": "made-for-you/creating-charts",
+          "path": "en/audience-intelligence/web/made-for-you/creating-charts.md",
+          "description": "Learn how to build and customize charts to visualize data within your dashboards.",
+          "order": 2
         }
       ]
     },
@@ -251,18 +258,18 @@
           "order": 5
         },
         {
+          "label": "Users",
+          "slug": "manage/user",
+          "path": "en/audience-intelligence/web/manage/user.md",
+          "description": "Learn how to add, edit, and delete users to manage workspace access and permissions.",
+          "order": 6
+        },
+        {
           "label": "Restoring Posts",
           "slug": "manage/restoring-deleted-posts",
           "path": "en/audience-intelligence/web/manage/restoring-deleted-posts.md",
           "description": "Learn how to recover previously deleted posts and bring them back into your monitoring feeds.",
           "order": 7
-        },
-        {
-          "label": "Users - Under Construction",
-          "slug": "manage/user",
-          "path": "en/audience-intelligence/web/manage/user.md",
-          "description": "This page is currently being drafted.",
-          "order": 999
         }
       ]
     }

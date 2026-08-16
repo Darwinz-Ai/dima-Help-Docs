@@ -6,7 +6,7 @@ order: 1
 
 # إدارة لوحات التحكم
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/made-for-you/creating-dashboards-ar.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/made-for-you/creating-dashboards/creating-dashboards-ar.mp4" type="video/mp4"></video>
 
 عندما تنتقل إلى وحدة **مصنوع لك**، ستصل إلى الشاشة الرئيسية حيث توجد جميع لوحات التحكم التي قمت بإنشائها. إذا كانت مساحة العمل الخاصة بك فارغة، فستحتاج إلى بناء لوحة تحكمك الأولى للبدء.
 
@@ -14,7 +14,7 @@ order: 1
 
 ## 1. إنشاء لوحة تحكم جديدة
 
-![لقطة شاشة لشاشة "مصنوع لك" توضح نموذج الإعداد لإنشاء لوحة تحكم جديدة، بما في ذلك حقول الاسم، ولون تمييز الخلفية، والشركات المعينة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/made-for-you/create-dashboard.png)
+![لقطة شاشة لشاشة "مصنوع لك" توضح نموذج الإعداد لإنشاء لوحة تحكم جديدة، بما في ذلك حقول الاسم، ولون تمييز الخلفية، والشركات المعينة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/made-for-you/creating-dashboards/create-dashboard.png)
 
 1. من شاشة "مصنوع لك" الرئيسية، انقر على زر **انقر للإضافة** للبدء في بناء لوحة تحكمك الجديدة.
 2. سيظهر نموذج إعداد. املأ التفاصيل المطلوبة والاختيارية:
@@ -32,7 +32,7 @@ order: 1
 
 ## 2. تحرير لوحة تحكم
 
-![لقطة شاشة توضح قائمة النقاط الثلاث العمودية على بطاقة لوحة تحكم مع خيارات التحرير والتكرار والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/made-for-you/dashboard-actions.png)
+![لقطة شاشة توضح قائمة النقاط الثلاث العمودية على بطاقة لوحة تحكم مع خيارات التحرير والتكرار والحذف](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/made-for-you/creating-dashboards/dashboard-actions.png)
 
 إذا احتجت في أي وقت إلى إعادة تسمية لوحة التحكم الخاصة بك أو تعديل ألوانها أو تغيير الشركات المعينة:
 

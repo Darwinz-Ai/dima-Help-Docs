@@ -6,7 +6,7 @@ order: 1
 
 # Managing Dashboards
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/creating-dashboards.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/creating-dashboards/creating-dashboards.mp4" type="video/mp4"></video>
 
 When you navigate to the **Made For You** module, you will land on the main screen where all of your created dashboards are housed. If your workspace is empty, you will need to build your first dashboard to get started.
 
@@ -14,7 +14,7 @@ When you navigate to the **Made For You** module, you will land on the main scre
 
 ## 1. Creating a New Dashboard
 
-![Screenshot of the Made For You screen showing the setup form for creating a new dashboard, including fields for Name, Background Accent Color, and Assigned Companies](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/create-dashboard.png)
+![Screenshot of the Made For You screen showing the setup form for creating a new dashboard, including fields for Name, Background Accent Color, and Assigned Companies](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/creating-dashboards/create-dashboard.png)
 
 1. From the main Made For You screen, click the **Click to Add** button to begin building your new dashboard.
 2. A setup form will appear. Fill in the required and optional details:
@@ -32,7 +32,7 @@ Once created, you will automatically be taken inside your new dashboard where yo
 
 ## 2. Editing a Dashboard
 
-![Screenshot showing the vertical three-dot menu on a dashboard card with the Edit, Duplicate, and Delete options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/dashboard-actions.png)
+![Screenshot showing the vertical three-dot menu on a dashboard card with the Edit, Duplicate, and Delete options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/creating-dashboards/dashboard-actions.png)
 
 If you ever need to rename your dashboard, adjust its colors, or change the assigned companies:
 
