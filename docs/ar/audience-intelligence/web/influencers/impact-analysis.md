@@ -6,7 +6,7 @@ order: 19
 
 # تحليلات تأثير المؤثرين
 
-<video controls=""><source src="https://dubble.so/media/video/acceddcd-358e-4c8b-b8a2-9a1cbf583176" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencer-impact-analysis/influencers-impact.mp4" type="video/mp4"></video>
 
 توفّر صفحة **تحليلات تأثير المؤثرين** نظرة عامة شاملة ومخططات بصرية مفصلة تتعلق بأداء المؤثرين لديك.
 
@@ -14,7 +14,7 @@ order: 19
 
 ## 1. عرض وفهم تحليلات التأثير الخاصة بك
 
-![لقطة شاشة للوحة معلومات تحليلات تأثير المؤثرين تعرض جدول النظرة العامة ومخططات دائرية وشريطية مختلفة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencer-impact-analysis/impact-dashboard.png)
+![لقطة شاشة للوحة معلومات تحليلات تأثير المؤثرين تعرض جدول النظرة العامة ومخططات دائرية وشريطية مختلفة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencer-impact-analysis/impact-dashboard.png)
 
 للوصول إلى تحليلات الأداء، ما عليك سوى النقر على علامة تبويب **تحليلات تأثير المؤثرين** داخل صفحة **المؤثرين** في الشريط الجانبي. سيؤدي هذا إلى فتح لوحة معلومات شاملة تعرض مجموعة متنوعة من المخططات والجداول التي تساعدك على تفسير نتائج المؤثرين لديك.
 
@@ -48,7 +48,7 @@ order: 19
 
 ## 2. استخدام فلتر التأثير
 
-![لقطة شاشة لقائمة فلتر تحليلات تأثير المؤثرين تعرض علامتي التبويب عام والمحتوى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencer-impact-analysis/impact-filters.png)
+![لقطة شاشة لقائمة فلتر تحليلات تأثير المؤثرين تعرض علامتي التبويب عام والمحتوى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencer-impact-analysis/impact-filters.png)
 
 لتضييق نطاق البيانات المعروضة في لوحة المعلومات الخاصة بك، انقر على زر **الفلتر** في الزاوية العلوية اليسرى من الصفحة. تنقسم لوحة الفلتر إلى علامتي تبويب رئيسيتين على حافتها اليمنى: **عام** و**المحتوى**.
 

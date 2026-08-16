@@ -6,7 +6,7 @@ order: 1
 
 # تقييم وتحديد المؤثّرين المتوافقين
 
-<video controls=""><source src="https://dubble.so/media/video/95e73584-f327-465c-8627-f2b3c441a82b" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencers-pool/influencers-pool.mp4" type="video/mp4"></video>
 
 تتيح لك ديما البحث عن المؤثرين، والتعمق في تحليلاتهم، والتحقق مما إذا كانوا من المؤثّرين المتوافقين بشكل مناسب مع علامتك التجارية. تتم عملية التقييم هذه بالكامل داخل علامة تبويب **مجموعة المؤثرين**.
 
@@ -14,7 +14,7 @@ order: 1
 
 ## 1. الوصول إلى ملفات تعريف المؤثرين
 
-![لقطة شاشة لمجموعة المؤثرين تعرض شبكة من بطاقات المؤثرين المحددة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/select-influencer.png)
+![لقطة شاشة لمجموعة المؤثرين تعرض شبكة من بطاقات المؤثرين المحددة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencers-pool/pool.png)
 
 1. انتقل إلى صفحة **المؤثرين** باستخدام الشريط الجانبي الرئيسي.
 2. افتح علامة تبويب **مجموعة المؤثرين** لتصفح الملفات الشخصية المتاحة.
@@ -25,7 +25,7 @@ order: 1
 
 ## 2. مراجعة تحليلات المؤثرين
 
-![لقطة شاشة للوحة تفاصيل المؤثر تعرض مقاييس الأداء وزر تنزيل التقرير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/influencers-detail-panel.png)
+![لقطة شاشة للوحة تفاصيل المؤثر تعرض مقاييس الأداء وزر تنزيل التقرير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencers-pool/detail-panel.png)
 
 بمجرد فتح ملف شخصي، ستظهر لوحة مفصلة بإحصائيات متعمقة. استخدم شريط التمرير داخل هذه اللوحة لاستكشاف الأقسام المختلفة:
 
@@ -43,7 +43,7 @@ order: 1
 
 ## 3. التحقق من صلة العلامة التجارية (المؤثّرون المتوافقون)
 
-![لقطة شاشة لزر التحقق من صلة العلامة التجارية الموجود في أسفل قسم تفاصيل المؤثر](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/influencers-pool/check-brand-relevance.png)
+![لقطة شاشة لزر التحقق من صلة العلامة التجارية الموجود في أسفل قسم تفاصيل المؤثر](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/influencers-pool/brand-relevance.png)
 
 بعد مراجعة التحليلات، يمكنك إجراء فحص مستهدف لمعرفة مدى توافق المؤثر مع علامتك التجارية ومواضيعك المحددة.
 

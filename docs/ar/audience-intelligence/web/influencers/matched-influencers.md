@@ -6,7 +6,7 @@ order: 2
 
 # المؤثّرون المتوافقون
 
-<video controls=""><source src="https://dubble.so/media/video/0e28695e-5153-445d-82bb-272fd12b2f23" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/matched-influencers/influencers-matched.mp4" type="video/mp4"></video>
 
 تعرض علامة تبويب **المؤثّرين المتوافقين** جميع صناع المحتوى من مجموعة المؤثرين العامة الذين تم التحقق منهم ومطابقتهم مع شركتك. هنا، يمكنك تقييم مدى ملاءمتهم للعلامة التجارية، وتتبع محتواهم المستمر، ومراجعة معايير الأداء المفصلة، ورؤية المنشورات التي أنشؤوها حول علامتك التجارية.
 
@@ -14,7 +14,7 @@ order: 2
 
 ## 1. الوصول إلى قائمتك المتوافقة
 
-![لقطة شاشة لوحدة المؤثرين مع إبراز علامة تبويب المؤثّرين المتوافقين](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-list.png)
+![لقطة شاشة لوحدة المؤثرين مع إبراز علامة تبويب المؤثّرين المتوافقين](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/matched-influencers/matched-list.png)
 
 1. انتقل إلى صفحة **المؤثرين** باستخدام الشريط الجانبي الرئيسي.
 
@@ -24,13 +24,13 @@ order: 2
    - **التفاصيل:** يفتح لوحة معلومات تحليلات مخصصة ومتعددة علامات التبويب لصانع المحتوى هذا.
    - **منشورات عني:** يعرض جميع المنشورات المتتبعة التي أنشأها هذا المؤثر والتي تذكر شركتك أو تتعلق بها تحديدًا.
 
-> **ملاحظة:** إذا كانت قائمتك المتوافقة فارغة، فمن المحتمل أنك لم تقم بالتحقق من أي مؤثرين أو تحديدهم كمؤثّرين متوافقين بعد. [تعرف على كيفية تحديد المؤثّرين المتوافقين هنا.](/en/guides/influencers/influencers-pool)
+> **ملاحظة:** إذا كانت قائمتك المتوافقة فارغة، فمن المحتمل أنك لم تقم بالتحقق من أي مؤثرين أو تحديدهم كمؤثّرين متوافقين بعد. [تعرف على كيفية تحديد المؤثّرين المتوافقين هنا.](/ar/guides/influencers/influencers-pool)
 
 ---
 
 ## 2. نظرة عامة على الملف الشخصي والإجراءات السريعة
 
-![لقطة شاشة لنظرة عامة مفصلة على الملف الشخصي لمؤثر تعرض الروابط الاجتماعية، ومفتاح تبديل التتبع، والسيرة الذاتية، ودرجة صلة العلامة التجارية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-influencer-details.png)
+![لقطة شاشة لنظرة عامة مفصلة على الملف الشخصي لمؤثر تعرض الروابط الاجتماعية، ومفتاح تبديل التتبع، والسيرة الذاتية، ودرجة صلة العلامة التجارية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/matched-influencers/influencers-detail.png)
 
 يؤدي النقر على زر **التفاصيل** إلى فتح صفحة الملف الشخصي الكاملة لصانع المحتوى. يتضمن قسم الترويسة العلوي عدة عناصر تحكم رئيسية:
 

@@ -6,7 +6,7 @@ order: 3
 
 # تصفية المؤثرين
 
-<video controls=""><source src="https://dubble.so/media/video/1e310746-2259-4118-a390-03d4e896267a" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/filters/influencers-filters.mp4" type="video/mp4"></video>
 
 عند البحث عن الشخصيات المناسبة لتمثيل علامتك التجارية، تتيح لك ديما تصفية مجموعة المؤثرين باستخدام معايير محددة. يمكنك بسهولة تصفية المؤثرين حسب حجم جمهورهم، والمنطقة الجغرافية، وفئات المحتوى، والمنصات التي ينشطون عليها.
 
@@ -14,7 +14,7 @@ order: 3
 
 ## 1. الوصول إلى قائمة الفلاتر
 
-![لقطة شاشة لصفحة المؤثرين تعرض زر الفلتر مبرزًا في الزاوية العلوية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/filters/access-filters.png)
+![لقطة شاشة لصفحة المؤثرين تعرض زر الفلتر مبرزًا في الزاوية العلوية اليسرى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/filters/acces-filters.png)
 
 1. انتقل إلى صفحة **المؤثرين** باستخدام الشريط الجانبي الرئيسي.
 2. بمجرد دخولك إلى وحدة المؤثرين (سواء كنت تبحث في المجموعة العامة أو قوائم التطابق الخاصة بك)، انقر على زر **الفلتر** الموجود في الزاوية العلوية اليسرى من الصفحة.
@@ -23,7 +23,7 @@ order: 3
 
 ## 2. تكوين معايير البحث الخاصة بك
 
-![لقطة شاشة لقائمة فلتر المؤثرين تعرض خيارات حجم المؤثر والمنطقة والفئات والمنصات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/filters/filter-options.png)
+![لقطة شاشة لقائمة فلتر المؤثرين تعرض خيارات حجم المؤثر والمنطقة والفئات والمنصات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/influencers/filters/filter-options.png)
 
 توفر قائمة الفلتر عدة فئات لمساعدتك على تضييق نطاق بحثك. يمكنك تحديد خيار واحد أو خيارات متعددة داخل كل من الأقسام التالية:
 
