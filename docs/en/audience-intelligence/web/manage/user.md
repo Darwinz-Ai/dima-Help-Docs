@@ -10,7 +10,7 @@ order: 6
 
 The **Users** screen is where you can manage who has access to your workspace (such as your "Made for You" dashboards) and control their permissions. By assigning specific roles, you ensure the right team members have the appropriate level of access, whether they just need to view data or actively edit content.
 
-You can manage all workspace users directly from the [Manage](/en/manage) page.
+You can manage all workspace users directly from the [Manage](/en/manage/users) page.
 
 ---
 
