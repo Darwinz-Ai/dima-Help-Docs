@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { globSync } from "glob";
 
-import type { Manifest, ManifestGroup } from "../utils/types.js";
+import type { Manifest, ManifestGroup, SearchItem } from "../utils/types.js";
 import { GROUP_ORDER, GROUP_TRANSLATIONS, SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
 
 const SUPPORTED_PLATFORMS = ["web", "mobile"];
@@ -17,6 +17,18 @@ const formatLabel = (str: string): string =>
         .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
         .join(" ");
 
+function cleanMarkdownContent(rawContent: string): string {
+    return rawContent
+        .replace(/```[\s\S]*?```/g, "")         // Remove code blocks
+        .replace(/<[^>]*>/g, " ")               // Remove HTML tags (<video>, <img>, blockquotes, etc.)
+        .replace(/!\[.*?\]\(.*?\)/g, "")        // Remove images ![alt](url)
+        .replace(/\[(.*?)\]\(.*?\)/g, "$1")     // Keep link text, drop URL [text](url) -> text
+        .replace(/`([^`]+)`/g, "$1")            // Inline code `code` -> code
+        .replace(/[#*`>_~\-|=]/g, " ")          // Remove Markdown structural characters
+        .replace(/\s+/g, " ")                   // Collapse multiple spaces/newlines
+        .trim();
+}
+
 function generateManifests() {
     SUPPORTED_LOCALES.forEach((locale) => {
         SUPPORTED_SERVICES.forEach((service) => {
@@ -27,6 +39,7 @@ function generateManifests() {
                 if (!fs.existsSync(targetDir)) return;
 
                 const groupsMap = new Map<string, ManifestGroup>();
+                const searchItems: SearchItem[] = []; // Collect search index items
                 const files = globSync("**/*.md", { cwd: targetDir, posix: true });
 
                 files.forEach((file) => {
@@ -34,7 +47,7 @@ function generateManifests() {
 
                     const filePath = path.join(targetDir, normalizedFile);
                     const fileContent = fs.readFileSync(filePath, "utf-8");
-                    const { data } = matter(fileContent);
+                    const { data, content } = matter(fileContent);
                     const docOrder = typeof data.order === "number" ? data.order : 999;
 
                     const pathParts = normalizedFile.split("/");
@@ -47,6 +60,16 @@ function generateManifests() {
                     const groupFolder = pathParts[0] ?? "";
 
                     if (typeof groupFolder !== "string" || groupFolder.length === 0) return;
+
+                    // Add clean document data to search index
+                    searchItems.push({
+                        id: slug,
+                        label: docLabel,
+                        slug,
+                        path: cleanPath,
+                        description: data.description || "",
+                        content: cleanMarkdownContent(content),
+                    });
 
                     // Initialize Group
                     if (!groupsMap.has(groupFolder)) {
@@ -101,7 +124,7 @@ function generateManifests() {
 
                 const sortedGroups = Array.from(groupsMap.entries()).map(([folderName, group]) => {
                     // Sort items
-                    group.items.sort((a, b) => (a.order || 999) - (b.order || 999))
+                    group.items.sort((a, b) => (a.order || 999) - (b.order || 999));
 
                     // Sort nested children
                     group.items.forEach(item => {
@@ -114,11 +137,11 @@ function generateManifests() {
                     const indexA = GROUP_ORDER.indexOf(formatLabel(a.folderName));
                     const indexB = GROUP_ORDER.indexOf(formatLabel(b.folderName));
 
-                    const posA = indexA !== -1 ? indexA : 999
-                    const posB = indexB !== -1 ? indexB : 999
+                    const posA = indexA !== -1 ? indexA : 999;
+                    const posB = indexB !== -1 ? indexB : 999;
 
                     return posA - posB;
-                }).map(item => item.group)
+                }).map(item => item.group);
 
                 const manifest: Manifest = {
                     locale,
@@ -130,10 +153,15 @@ function generateManifests() {
                 const outputFolder = path.join(MANIFESTS_DIR, locale, service);
                 fs.mkdirSync(outputFolder, { recursive: true });
 
+                // Write manifest file (e.g. manifests/en/audience-intelligence/web.json)
                 const outputFile = path.join(outputFolder, `${platform}.json`);
                 fs.writeFileSync(outputFile, JSON.stringify(manifest, null, 2));
 
-                console.log(`✅ Generated manifest: manifests/${locale}/${service}/${platform}.json`);
+                // Write search index file (e.g. manifests/en/audience-intelligence/search-index-web.json)
+                const searchOutputFile = path.join(outputFolder, `search-index-${platform}.json`);
+                fs.writeFileSync(searchOutputFile, JSON.stringify(searchItems, null, 2));
+
+                console.log(`✅ Generated manifest & search index: manifests/${locale}/${service}/${platform}.json`);
             });
         });
     });

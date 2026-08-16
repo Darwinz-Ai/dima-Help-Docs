@@ -1,0 +1,18 @@
+[
+  {
+    "id": "media-monitoring/mentions",
+    "label": "Mentions",
+    "slug": "media-monitoring/mentions",
+    "path": "en/pr-comms/web/media-monitoring/mentions.md",
+    "description": "",
+    "content": ""
+  },
+  {
+    "id": "getting-started/overview",
+    "label": "Overview",
+    "slug": "getting-started/overview",
+    "path": "en/pr-comms/web/getting-started/overview.md",
+    "description": "",
+    "content": ""
+  }
+]

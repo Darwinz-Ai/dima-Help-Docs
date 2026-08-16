@@ -18,3 +18,13 @@ export interface Manifest {
     groups: ManifestGroup[];
     platform: string
 }
+
+
+export interface SearchItem {
+    id: string;
+    label: string;
+    slug: string;
+    path: string;
+    description: string;
+    content: string;
+}
