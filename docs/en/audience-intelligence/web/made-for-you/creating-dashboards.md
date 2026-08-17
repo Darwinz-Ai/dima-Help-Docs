@@ -26,7 +26,7 @@ When you navigate to the **Made For You** module, you will land on the main scre
 
 3. Save your settings.
 
-Once created, you will automatically be taken inside your new dashboard where you are ready to start adding data. To learn how to populate your workspace, please proceed to our guide on **[Creating Charts](/en/creating-charts)**.
+Once created, you will automatically be taken inside your new dashboard where you are ready to start adding data. To learn how to populate your workspace, please proceed to our guide on **[Creating Charts](/en/guides/made-for-you/creating-charts)**.
 
 ---
 
