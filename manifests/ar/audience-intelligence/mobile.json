@@ -2,5 +2,247 @@
   "locale": "ar",
   "service": "audience-intelligence",
   "platform": "mobile",
-  "groups": []
+  "groups": [
+    {
+      "label": "المواضيع",
+      "items": [
+        {
+          "label": "إضافة موضوع",
+          "slug": "topic/add-topic",
+          "path": "ar/audience-intelligence/mobile/topic/add-topic.md",
+          "description": "تعرّف على كيفية فتح صفحة المواضيع، وإدخال تفاصيل الموضوع، ثم إنشاء موضوع جديد في تطبيق ديما على الجوال.",
+          "order": 1
+        },
+        {
+          "label": "تحديث الموضوع أو حذفه",
+          "slug": "topic/update-or-delete-topic",
+          "path": "ar/audience-intelligence/mobile/topic/update-or-delete-topic.md",
+          "description": "تعرّف على كيفية فتح خيارات الموضوع، وتحديث تفاصيله، أو حذفه في تطبيق ديما على الجوال.",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "label": "Settings",
+      "items": [
+        {
+          "label": "تغيير لغة التطبيق",
+          "slug": "settings/change-application-language",
+          "path": "ar/audience-intelligence/mobile/settings/change-application-language.md",
+          "description": "تعرّف على كيفية فتح إعدادات التطبيق وتغيير لغة تطبيق ديما على الجوال.",
+          "order": 1
+        },
+        {
+          "label": "اتصل بنا",
+          "slug": "settings/contact-us",
+          "path": "ar/audience-intelligence/mobile/settings/contact-us.md",
+          "description": "تعرّف على كيفية فتح صفحة اتصل بنا، وكتابة رسالتك، ثم إرسالها إلى فريق دعم ديما.",
+          "order": 2
+        },
+        {
+          "label": "حجم النص",
+          "slug": "settings/text-size",
+          "path": "ar/audience-intelligence/mobile/settings/text-size.md",
+          "description": "تعرّف على كيفية فتح إعداد حجم النص، واختيار الحجم المناسب، ثم حفظه في تطبيق ديما على الجوال.",
+          "order": 3
+        },
+        {
+          "label": "تغيير سمة التطبيق",
+          "slug": "settings/change-the-application-theme",
+          "path": "ar/audience-intelligence/mobile/settings/change-the-application-theme.md",
+          "description": "تعرّف على كيفية فتح إعداد السمة، وتبديل سمة التطبيق، ثم حفظ التغيير في تطبيق ديما على الجوال.",
+          "order": 4
+        },
+        {
+          "label": "تسجيل الخروج",
+          "slug": "settings/sign-out",
+          "path": "ar/audience-intelligence/mobile/settings/sign-out.md",
+          "description": "تعرّف على كيفية فتح شاشة الإعدادات وتسجيل الخروج بشكل آمن من تطبيق ديما على الجوال.",
+          "order": 5
+        },
+        {
+          "label": "حذف الحساب",
+          "slug": "settings/delete-an-account",
+          "path": "ar/audience-intelligence/mobile/settings/delete-an-account.md",
+          "description": "تعرّف على كيفية فتح إعدادات الحساب، وبدء مسار حذف الحساب، ثم تأكيد الإزالة النهائية للحساب.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "label": "الصفحات الشخصية",
+      "items": [
+        {
+          "label": "الصفحة الخاصة - التحليلات",
+          "slug": "own-page/own-page-analytics",
+          "path": "ar/audience-intelligence/mobile/own-page/own-page-analytics.md",
+          "description": "تعرّف على كيفية فتح عرض تحليلات الصفحة الخاصة، ومراجعة مخططات الأداء، وسؤال AI Copilot عن تحليلات الصفحة.",
+          "order": 1
+        },
+        {
+          "label": "الصفحة الخاصة - الرصد",
+          "slug": "own-page/own-page-monitor",
+          "path": "ar/audience-intelligence/mobile/own-page/own-page-monitor.md",
+          "description": "تعرّف على كيفية فتح عرض رصد الصفحة الخاصة، ومراجعة المنشورات والنشاط، وسؤال AI Copilot عن المحتوى المرصود.",
+          "order": 2
+        },
+        {
+          "label": "الصفحة الخاصة - الحسابات",
+          "slug": "own-page/own-page-accounts",
+          "path": "ar/audience-intelligence/mobile/own-page/own-page-accounts.md",
+          "description": "تعرّف على كيفية فتح عرض حسابات الصفحة الخاصة، وتصفية الحسابات المرتبطة، واستخدام AI Copilot، وفحص تفاصيل الملف الشخصي.",
+          "order": 3
+        },
+        {
+          "label": "الصفحة الخاصة - رؤى المواضيع",
+          "slug": "own-page/own-page-topic-insights",
+          "path": "ar/audience-intelligence/mobile/own-page/own-page-topic-insights.md",
+          "description": "تعرّف على كيفية فتح عرض رؤى مواضيع الصفحة الخاصة، واختيار موضوع، ومراجعة التحليلات المرتبطة به في تطبيق ديما على الجوال.",
+          "order": 4
+        },
+        {
+          "label": "تطبيق الفلاتر",
+          "slug": "own-page/apply-filters",
+          "path": "ar/audience-intelligence/mobile/own-page/apply-filters.md",
+          "description": "تعرّف على كيفية فتح لوحة الفلاتر، واختيار معايير التصفية، ثم تطبيقها داخل عروض الصفحة الخاصة في تطبيق ديما على الجوال.",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "label": "Notification",
+      "items": [
+        {
+          "label": "فتح صفحة الإشعارات",
+          "slug": "notification/open-notification-page",
+          "path": "ar/audience-intelligence/mobile/notification/open-notification-page.md",
+          "description": "تعرّف على كيفية فتح صفحة الإشعارات، ومراجعة تفاصيل الإشعار، وسؤال AI Copilot عنه، ثم تصديره.",
+          "order": 1
+        },
+        {
+          "label": "مركز الإشعارات",
+          "slug": "notification/notification-center",
+          "path": "ar/audience-intelligence/mobile/notification/notification-center.md",
+          "description": "تعرّف على كيفية فتح مركز الإشعارات، وإدارة اشتراكات الإشعارات، ثم حفظ تفضيلاتك في تطبيق ديما على الجوال.",
+          "order": 2
+        },
+        {
+          "label": "تصفية الإشعارات",
+          "slug": "notification/filter-notifications",
+          "path": "ar/audience-intelligence/mobile/notification/filter-notifications.md",
+          "description": "تعرّف على كيفية فتح لوحة تصفية الإشعارات، وتطبيق الفلاتر حسب النوع والتاريخ، ثم مراجعة النتائج المصفاة.",
+          "order": 3
+        },
+        {
+          "label": "تحديد جميع الإشعارات كمقروءة",
+          "slug": "notification/make-all-notifications-as-read",
+          "path": "ar/audience-intelligence/mobile/notification/make-all-notifications-as-read.md",
+          "description": "تعرّف على كيفية فتح قائمة الإشعارات، وتحديد جميع الإشعارات كمقروءة، ثم تأكيد الإجراء.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "label": "Google Reviews",
+      "items": [
+        {
+          "label": "مراجعات جوجل",
+          "slug": "google-reviews/google-reviews",
+          "path": "ar/audience-intelligence/mobile/google-reviews/google-reviews.md",
+          "description": "تعرّف على كيفية فتح مراجعات جوجل، ومراجعة التحليلات، وتطبيق الفلاتر، وفحص تفاصيل المراجعات على مستوى الفرع في تطبيق ديما على الجوال.",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "تسجيل الدخول في تطبيق ديما",
+          "slug": "getting-started/login-in-dima-app",
+          "path": "ar/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
+          "description": "تعرّف على كيفية فتح تطبيق ديما على الجوال، وإكمال الشاشات التعريفية، ثم تسجيل الدخول باستخدام بيانات حسابك.",
+          "order": 1
+        },
+        {
+          "label": "فتح الشاشات التعريفية",
+          "slug": "getting-started/open-onboarding-screens",
+          "path": "ar/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
+          "description": "تعرّف على كيفية فتح الشاشات التعريفية في تطبيق ديما على الجوال والتنقل خلالها قبل الدخول إلى التطبيق.",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "label": "Brand",
+      "items": [
+        {
+          "label": "تغيير العلامة التجارية",
+          "slug": "brand/change-brand",
+          "path": "ar/audience-intelligence/mobile/brand/change-brand.md",
+          "description": "تعرّف على كيفية فتح محدد العلامة التجارية، واختيار علامة مختلفة، ثم حفظها في تطبيق ديما على الجوال.",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "label": "Analytics",
+      "items": [
+        {
+          "label": "تحليلات رؤى الجمهور",
+          "slug": "analytics/audience-intelligence-analytics",
+          "path": "ar/audience-intelligence/mobile/analytics/audience-intelligence-analytics.md",
+          "description": "تعرّف على كيفية فتح صفحة تحليلات رؤى الجمهور، ومراجعة المخططات التحليلية، وسؤال AI Copilot عن مخطط محدد.",
+          "order": 1
+        },
+        {
+          "label": "رصد رؤى الجمهور",
+          "slug": "analytics/audience-intelligence-monitor",
+          "path": "ar/audience-intelligence/mobile/analytics/audience-intelligence-monitor.md",
+          "description": "تعرّف على كيفية فتح شاشة رصد رؤى الجمهور، ومراجعة الإشارات الخاصة بالعلامة التجارية، وفتح صور المنشورات بعرض كامل.",
+          "order": 2
+        },
+        {
+          "label": "حسابات رؤى الجمهور",
+          "slug": "analytics/audience-intelligence-accounts",
+          "path": "ar/audience-intelligence/mobile/analytics/audience-intelligence-accounts.md",
+          "description": "تعرّف على كيفية فتح علامة تبويب Accounts، ومراجعة حسابات العلامة التجارية، وتطبيق الفلاتر، ثم فحص تفاصيل الحساب في تطبيق ديما على الجوال.",
+          "order": 3
+        },
+        {
+          "label": "رؤى مواضيع الجمهور",
+          "slug": "analytics/audience-intelligence-topic-insights",
+          "path": "ar/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights.md",
+          "description": "تعرّف على كيفية فتح علامة تبويب Topic Insights، ومراجعة تحليلات الموضوع، والتنقل بين المواضيع في تطبيق ديما على الجوال.",
+          "order": 4
+        },
+        {
+          "label": "رؤى السوق للجمهور",
+          "slug": "analytics/audience-intelligence-market-insights",
+          "path": "ar/audience-intelligence/mobile/analytics/audience-intelligence-market-insights.md",
+          "description": "تعرّف على كيفية فتح علامة تبويب Market Insights، ومراجعة التحليلات المقارنة، وسؤال AI Copilot عن المخططات، ثم تصفية المنافسين والمواضيع.",
+          "order": 5
+        },
+        {
+          "label": "تطبيق الفلاتر",
+          "slug": "analytics/apply-filters",
+          "path": "ar/audience-intelligence/mobile/analytics/apply-filters.md",
+          "description": "تعرّف على كيفية فتح لوحة الفلاتر، واختيار معايير التصفية، ثم تطبيقها داخل عروض التحليلات في تطبيق ديما على الجوال.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "label": "Ai Chat",
+      "items": [
+        {
+          "label": "محادثة المساعد الذكي",
+          "slug": "ai-chat/ai-copilot-chat",
+          "path": "ar/audience-intelligence/mobile/ai-chat/ai-copilot-chat.md",
+          "description": "تعرّف على كيفية فتح محادثة AI Copilot، وإرسال رسالة، واستعراض الأسئلة المقترحة في تطبيق ديما على الجوال.",
+          "order": 1
+        }
+      ]
+    }
+  ]
 }

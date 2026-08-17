@@ -2,5 +2,247 @@
   "locale": "en",
   "service": "audience-intelligence",
   "platform": "mobile",
-  "groups": []
+  "groups": [
+    {
+      "label": "Topic",
+      "items": [
+        {
+          "label": "Add Topic",
+          "slug": "topic/add-topic",
+          "path": "en/audience-intelligence/mobile/topic/add-topic.md",
+          "description": "Learn how to open the Topics page, enter topic details, and create a new topic in the Dima mobile app.",
+          "order": 1
+        },
+        {
+          "label": "Update or Delete Topic",
+          "slug": "topic/update-or-delete-topic",
+          "path": "en/audience-intelligence/mobile/topic/update-or-delete-topic.md",
+          "description": "Learn how to open a topic's options, update its details, or delete it in the Dima mobile app.",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "label": "Settings",
+      "items": [
+        {
+          "label": "Change the Application Language",
+          "slug": "settings/change-application-language",
+          "path": "en/audience-intelligence/mobile/settings/change-application-language.md",
+          "description": "Learn how to open the app settings and switch the Dima mobile application language.",
+          "order": 1
+        },
+        {
+          "label": "Contact Us",
+          "slug": "settings/contact-us",
+          "path": "en/audience-intelligence/mobile/settings/contact-us.md",
+          "description": "Learn how to open the Contact Us page, write your message, and submit it to the Dima support team.",
+          "order": 2
+        },
+        {
+          "label": "Text Size",
+          "slug": "settings/text-size",
+          "path": "en/audience-intelligence/mobile/settings/text-size.md",
+          "description": "Learn how to open the text size setting, choose your preferred size, and save it in the Dima mobile app.",
+          "order": 3
+        },
+        {
+          "label": "Change The Application Theme",
+          "slug": "settings/change-the-application-theme",
+          "path": "en/audience-intelligence/mobile/settings/change-the-application-theme.md",
+          "description": "Learn how to open the theme setting, switch the application theme, and save the change in the Dima mobile app.",
+          "order": 4
+        },
+        {
+          "label": "Sign Out",
+          "slug": "settings/sign-out",
+          "path": "en/audience-intelligence/mobile/settings/sign-out.md",
+          "description": "Learn how to open the settings screen and securely sign out of the Dima mobile application.",
+          "order": 5
+        },
+        {
+          "label": "Delete An Account",
+          "slug": "settings/delete-an-account",
+          "path": "en/audience-intelligence/mobile/settings/delete-an-account.md",
+          "description": "Learn how to open the account settings, start the delete account flow, and confirm permanent account removal.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "label": "Own Page",
+      "items": [
+        {
+          "label": "Own Page - Analytics",
+          "slug": "own-page/own-page-analytics",
+          "path": "en/audience-intelligence/mobile/own-page/own-page-analytics.md",
+          "description": "Learn how to open the Own Page analytics view, review performance charts, and ask AI Copilot about page analytics.",
+          "order": 1
+        },
+        {
+          "label": "Own Page - Monitor",
+          "slug": "own-page/own-page-monitor",
+          "path": "en/audience-intelligence/mobile/own-page/own-page-monitor.md",
+          "description": "Learn how to open the Own Page monitor view, review posts and activity, and ask AI Copilot about monitored content.",
+          "order": 2
+        },
+        {
+          "label": "Own Page - Accounts",
+          "slug": "own-page/own-page-accounts",
+          "path": "en/audience-intelligence/mobile/own-page/own-page-accounts.md",
+          "description": "Learn how to open the Own Page accounts view, filter connected accounts, use AI Copilot, and inspect profile details.",
+          "order": 3
+        },
+        {
+          "label": "Own Page - Topic Insights",
+          "slug": "own-page/own-page-topic-insights",
+          "path": "en/audience-intelligence/mobile/own-page/own-page-topic-insights.md",
+          "description": "Learn how to open the Own Page topic insights view, choose a topic, and review related analytics in the Dima mobile app.",
+          "order": 4
+        },
+        {
+          "label": "Apply Filters",
+          "slug": "own-page/apply-filters",
+          "path": "en/audience-intelligence/mobile/own-page/apply-filters.md",
+          "description": "Learn how to open the filter panel, choose filter criteria, and apply filters in the Own Page views of the Dima mobile app.",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "label": "Notification",
+      "items": [
+        {
+          "label": "Open Notification Page",
+          "slug": "notification/open-notification-page",
+          "path": "en/audience-intelligence/mobile/notification/open-notification-page.md",
+          "description": "Learn how to open the Notifications page, review notification details, ask AI Copilot about a notification, and export it.",
+          "order": 1
+        },
+        {
+          "label": "Notification Center",
+          "slug": "notification/notification-center",
+          "path": "en/audience-intelligence/mobile/notification/notification-center.md",
+          "description": "Learn how to open the Notification Center, manage notification subscriptions, and save your preferences in the Dima mobile app.",
+          "order": 2
+        },
+        {
+          "label": "Filter Notifications",
+          "slug": "notification/filter-notifications",
+          "path": "en/audience-intelligence/mobile/notification/filter-notifications.md",
+          "description": "Learn how to open the notifications filter panel, apply filters by type and date, and review the filtered results.",
+          "order": 3
+        },
+        {
+          "label": "Make All Notifications As Read",
+          "slug": "notification/make-all-notifications-as-read",
+          "path": "en/audience-intelligence/mobile/notification/make-all-notifications-as-read.md",
+          "description": "Learn how to open the notifications list, mark all notifications as read, and confirm the action.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "label": "Google Reviews",
+      "items": [
+        {
+          "label": "Google Reviews",
+          "slug": "google-reviews/google-reviews",
+          "path": "en/audience-intelligence/mobile/google-reviews/google-reviews.md",
+          "description": "Learn how to open Google Reviews, review analytics, apply filters, and inspect branch-level review details in the Dima mobile app.",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "Login in Dima App",
+          "slug": "getting-started/login-in-dima-app",
+          "path": "en/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
+          "description": "Learn how to open the Dima mobile app, complete onboarding, and sign in with your account credentials.",
+          "order": 1
+        },
+        {
+          "label": "Open Onboarding Screens",
+          "slug": "getting-started/open-onboarding-screens",
+          "path": "en/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
+          "description": "Learn how to open and move through the Dima mobile app onboarding screens before entering the application.",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "label": "Brand",
+      "items": [
+        {
+          "label": "Change Brand",
+          "slug": "brand/change-brand",
+          "path": "en/audience-intelligence/mobile/brand/change-brand.md",
+          "description": "Learn how to open the brand selector, choose a different brand, and save it in the Dima mobile app.",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "label": "Analytics",
+      "items": [
+        {
+          "label": "Audience Intelligence Analytics",
+          "slug": "analytics/audience-intelligence-analytics",
+          "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-analytics.md",
+          "description": "Learn how to open the Audience Intelligence Analytics page, review analytics charts, and ask AI Copilot about a selected chart.",
+          "order": 1
+        },
+        {
+          "label": "Audience Intelligence Monitor",
+          "slug": "analytics/audience-intelligence-monitor",
+          "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-monitor.md",
+          "description": "Learn how to open the Audience Intelligence Monitor, review brand mentions, and open post images in full-screen view.",
+          "order": 2
+        },
+        {
+          "label": "Audience Intelligence Accounts",
+          "slug": "analytics/audience-intelligence-accounts",
+          "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-accounts.md",
+          "description": "Learn how to open the Accounts tab, review brand accounts, apply filters, and inspect account details in the Dima mobile app.",
+          "order": 3
+        },
+        {
+          "label": "Audience Intelligence Topic Insights",
+          "slug": "analytics/audience-intelligence-topic-insights",
+          "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights.md",
+          "description": "Learn how to open the Topic Insights tab, review topic analytics, and switch between topics in the Dima mobile app.",
+          "order": 4
+        },
+        {
+          "label": "Audience Intelligence Market Insights",
+          "slug": "analytics/audience-intelligence-market-insights",
+          "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-market-insights.md",
+          "description": "Learn how to open the Market Insights tab, review comparative analytics, ask AI Copilot about charts, and filter competitors and topics.",
+          "order": 5
+        },
+        {
+          "label": "Apply Filters",
+          "slug": "analytics/apply-filters",
+          "path": "en/audience-intelligence/mobile/analytics/apply-filters.md",
+          "description": "Learn how to open the filter panel, choose filter criteria, and apply filters in the analytics views of the Dima mobile app.",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "label": "Ai Chat",
+      "items": [
+        {
+          "label": "AI Copilot Chat",
+          "slug": "ai-chat/ai-copilot-chat",
+          "path": "en/audience-intelligence/mobile/ai-chat/ai-copilot-chat.md",
+          "description": "Learn how to open the AI Copilot chat, send a message, and browse recommended questions in the Dima mobile app.",
+          "order": 1
+        }
+      ]
+    }
+  ]
 }
