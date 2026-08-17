@@ -14,7 +14,7 @@ This workflow is intended for users who want to quickly find and analyze specifi
 
 ## Step 1: Open the filter panel
 
-![Placeholder screenshot for the Filter icon](IMAGE_URL_STEP_1)
+![Placeholder screenshot for the Filter icon](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/apply-filters/apply-filters_step1.png)
 
 Tap the **Filter** icon at the top of the page to open the available filter options.
 
@@ -22,7 +22,7 @@ Tap the **Filter** icon at the top of the page to open the available filter opti
 
 ## Step 2: Select the filter criteria
 
-![Placeholder screenshot for the filter criteria options](IMAGE_URL_STEP_2)
+![Placeholder screenshot for the filter criteria options](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/apply-filters/apply-filters_step2.png)
 
 Choose the desired filter options, such as post type, topics, date range, or sentiment, to refine the displayed results.
 
@@ -30,6 +30,6 @@ Choose the desired filter options, such as post type, topics, date range, or sen
 
 ## Step 3: Apply the filters
 
-![Placeholder screenshot for the Apply button](IMAGE_URL_STEP_3)
+![Placeholder screenshot for the Apply button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/apply-filters/apply-filters_step3.png)
 
 Tap the **Apply** button to apply the selected filter criteria and update the displayed results.

@@ -14,7 +14,7 @@ order: 1
 
 ## الخطوة 1: فتح قائمة التنقل
 
-![صورة توضيحية مكانية للزر المميز في الترويسة](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية للزر المميز في الترويسة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step1.png)
 
 اضغط على الزر المميز الموجود في أعلى يسار الترويسة لفتح قائمة التنقل.
 
@@ -22,7 +22,7 @@ order: 1
 
 ## الخطوة 2: فتح صفحة الإشعارات
 
-![صورة توضيحية مكانية لخيار Notifications داخل القائمة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيار Notifications داخل القائمة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step2.png)
 
 اضغط على خيار **Notifications** الموجود في قائمة التنقل لفتح صفحة الإشعارات.
 
@@ -30,7 +30,7 @@ order: 1
 
 ## الخطوة 3: عرض تفاصيل الإشعار
 
-![صورة توضيحية مكانية لقائمة الإشعارات وتفاصيلها](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لقائمة الإشعارات وتفاصيلها](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step3.png)
 
 اضغط على أي إشعار داخل صفحة الإشعارات لفتحه وعرض تفاصيله.
 
@@ -38,7 +38,7 @@ order: 1
 
 ## الخطوة 4: فتح مساعد AI Copilot
 
-![صورة توضيحية مكانية لأيقونة AI Copilot](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لأيقونة AI Copilot](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step4.png)
 
 اضغط على أيقونة AI Copilot الموجودة في أعلى يسار الترويسة لفتح المساعد الذكي وطرح أسئلة حول الإشعار المحدد.
 
@@ -46,7 +46,7 @@ order: 1
 
 ## الخطوة 5: إدخال سؤالك حول الإشعار
 
-![صورة توضيحية مكانية لحقل إدخال المحادثة في AI Copilot](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لحقل إدخال المحادثة في AI Copilot](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step5.png)
 
 اكتب سؤالك داخل حقل إدخال المحادثة، ثم اضغط على زر **Send** للحصول على رد مُولّد بالذكاء الاصطناعي بناءً على الإشعار المحدد.
 
@@ -54,7 +54,7 @@ order: 1
 
 ## الخطوة 6: تصدير الإشعار
 
-![صورة توضيحية مكانية لزر التصدير](IMAGE_URL_STEP_6)
+![صورة توضيحية مكانية لزر التصدير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step6.png)
 
 اضغط على زر التصدير الموجود في أعلى يمين الترويسة لتصدير الإشعار المحدد.
 
@@ -62,6 +62,6 @@ order: 1
 
 ## الخطوة 7: اختيار وجهة التصدير
 
-![صورة توضيحية مكانية لخيارات وجهة التصدير](IMAGE_URL_STEP_7)
+![صورة توضيحية مكانية لخيارات وجهة التصدير](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/notification/open-notification-page/open-notification-page_step7.png)
 
 عند ظهور شاشة خيارات التصدير، اختر الوجهة المفضلة لديك لتصدير الإشعار.

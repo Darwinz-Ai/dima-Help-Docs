@@ -14,7 +14,7 @@ order: 6
 
 ## الخطوة 1: فتح قائمة التنقل
 
-![صورة توضيحية مكانية للزر المميز في الترويسة](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية للزر المميز في الترويسة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/delete-an-account/delete-an-account_step1.png)
 
 اضغط على الزر المميز الموجود في أعلى يسار الترويسة لفتح قائمة التنقل.
 
@@ -22,7 +22,7 @@ order: 6
 
 ## الخطوة 2: فتح شاشة الإعدادات
 
-![صورة توضيحية مكانية لخيار Settings داخل القائمة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيار Settings داخل القائمة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/delete-an-account/delete-an-account_step2.png)
 
 مرر إلى أسفل قائمة التنقل ثم اضغط على **Settings** لفتح إعدادات التطبيق.
 
@@ -30,7 +30,7 @@ order: 6
 
 ## الخطوة 3: بدء عملية حذف الحساب
 
-![صورة توضيحية مكانية لزر Delete Account](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر Delete Account](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/delete-an-account/delete-an-account_step3.png)
 
 اضغط على زر **Delete Account** لبدء عملية حذف الحساب.
 
@@ -38,6 +38,6 @@ order: 6
 
 ## الخطوة 4: تأكيد حذف الحساب
 
-![صورة توضيحية مكانية لنافذة تأكيد حذف الحساب](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لنافذة تأكيد حذف الحساب](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/delete-an-account/delete-an-account_step3.png)
 
 ستظهر نافذة تأكيد تسألك عما إذا كنت تريد حذف حسابك نهائيًا. اضغط على **Confirm** للمتابعة في الحذف، أو اضغط على **Cancel** للاحتفاظ بحسابك.

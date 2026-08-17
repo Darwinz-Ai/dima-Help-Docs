@@ -14,7 +14,7 @@ order: 1
 
 ## الخطوة 1: فتح صفحة التحليلات
 
-![صورة توضيحية مكانية لأيقونة Analytics](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Analytics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step1.png)
 
 اضغط على أيقونة **Analytics** الموجودة في شريط التنقل السفلي لفتح صفحة التحليلات.
 
@@ -22,7 +22,7 @@ order: 1
 
 ## الخطوة 2: فتح صفحة المواضيع
 
-![صورة توضيحية مكانية لأيقونة Topics](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لأيقونة Topics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step2.png)
 
 اضغط على أيقونة **Topics** الموجودة في أعلى يمين الترويسة لفتح صفحة المواضيع.
 
@@ -30,7 +30,7 @@ order: 1
 
 ## الخطوة 3: فتح صفحة إضافة موضوع
 
-![صورة توضيحية مكانية لزر Add Topic](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر Add Topic](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step2.png)
 
 اضغط على زر الإجراء العائم الموجود في صفحة المواضيع لفتح صفحة إضافة موضوع.
 
@@ -38,7 +38,7 @@ order: 1
 
 ## الخطوة 4: إدخال تفاصيل الموضوع
 
-![صورة توضيحية مكانية لنموذج تفاصيل الموضوع](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لنموذج تفاصيل الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step3.png)
 
 أدخل عنوان الموضوع ووصفه في الحقول المطلوبة.
 
@@ -46,6 +46,6 @@ order: 1
 
 ## الخطوة 5: إنشاء الموضوع
 
-![صورة توضيحية مكانية لزر إرسال Add Topic](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لزر إرسال Add Topic](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step4.png)
 
 اضغط على زر **Add Topic** لإنشاء الموضوع الجديد باستخدام المعلومات التي أدخلتها.

@@ -14,7 +14,7 @@ order: 1
 
 ## الخطوة 1: فتح تطبيق ديما
 
-![صورة توضيحية مكانية لفتح تطبيق ديما](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لفتح تطبيق ديما](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step1.png)
 
 افتح تطبيق ديما على جهازك لبدء عملية تسجيل الدخول.
 
@@ -22,7 +22,7 @@ order: 1
 
 ## الخطوة 2: اختيار لغتك المفضلة
 
-![صورة توضيحية مكانية لاختيار اللغة المفضلة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لاختيار اللغة المفضلة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step2.png)
 
 اختر لغتك المفضلة من خلال الضغط على الزر المناسب في أسفل الشاشة.
 
@@ -30,7 +30,7 @@ order: 1
 
 ## الخطوة 3: المتابعة أو التخطي في شاشة الترحيب الأولى
 
-![صورة توضيحية مكانية لشاشة الترحيب الأولى](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لشاشة الترحيب الأولى](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step3.png)
 
 اضغط على **Next** للمتابعة خلال الشاشات التعريفية، أو اضغط على **Skip** للانتقال مباشرة إلى شاشة تسجيل الدخول.
 
@@ -38,7 +38,7 @@ order: 1
 
 ## الخطوة 4: المتابعة أو التخطي في شاشة الترحيب التالية
 
-![صورة توضيحية مكانية لشاشة الترحيب الثانية](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لشاشة الترحيب الثانية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step4.png)
 
 إذا ظهرت شاشة تعريفية أخرى، اضغط على **Next** للمتابعة أو **Skip** للانتقال مباشرة إلى شاشة تسجيل الدخول.
 
@@ -46,7 +46,7 @@ order: 1
 
 ## الخطوة 5: إكمال الشاشات التعريفية
 
-![صورة توضيحية مكانية للشاشة التعريفية الأخيرة](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية للشاشة التعريفية الأخيرة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step5.png)
 
 اضغط على زر **Let's Go** الموجود أسفل شاشة التعريف لإكمال هذه المرحلة والانتقال إلى شاشة تسجيل الدخول.
 
@@ -54,7 +54,7 @@ order: 1
 
 ## الخطوة 6: اختيار تفعيل الإشعارات أو تجاهلها
 
-![صورة توضيحية مكانية لنافذة الإشعارات](IMAGE_URL_STEP_6)
+![صورة توضيحية مكانية لنافذة الإشعارات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step6.png)
 
 اضغط على **Enable Notifications** للسماح للتطبيق بإرسال التنبيهات والتحديثات، أو اضغط على **Not Now** للمتابعة بدون تفعيل الإشعارات.
 
@@ -62,7 +62,7 @@ order: 1
 
 ## الخطوة 7: تأكيد إذن الإشعارات من النظام
 
-![صورة توضيحية مكانية لنافذة إذن النظام](IMAGE_URL_STEP_7)
+![صورة توضيحية مكانية لنافذة إذن النظام](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step7.png)
 
 إذا ظهرت نافذة إذن النظام، اضغط على **Allow** لتفعيل الإشعارات لتطبيق ديما.
 
@@ -70,7 +70,7 @@ order: 1
 
 ## الخطوة 8: إدخال بيانات تسجيل الدخول
 
-![صورة توضيحية مكانية لنموذج تسجيل الدخول](IMAGE_URL_STEP_8)
+![صورة توضيحية مكانية لنموذج تسجيل الدخول](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step8.png)
 
 أدخل بريدك الإلكتروني المسجل أو اسم المستخدم وكلمة المرور، ثم اضغط على زر **Login** لتسجيل الدخول.
 
@@ -78,6 +78,6 @@ order: 1
 
 ## الخطوة 9: انتظار التحقق
 
-![صورة توضيحية مكانية لحالة التحميل أو التحقق](IMAGE_URL_STEP_9)
+![صورة توضيحية مكانية لحالة التحميل أو التحقق](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/login-in-dima-app/login-in-dima-app_step9.png)
 
 انتظر بينما يتحقق التطبيق من بيانات تسجيل الدخول الخاصة بك. بعد اكتمال التحقق، سيتم نقلك إلى الصفحة الرئيسية.

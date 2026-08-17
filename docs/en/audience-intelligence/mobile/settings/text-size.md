@@ -38,13 +38,13 @@ Tap the **Text Size** button to open the text size settings page.
 
 ## Step 4: Choose your preferred text size
 
-![Placeholder screenshot for the text size slider](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step4.png)
+![Placeholder screenshot for the text size slider]
 
 Move the text size slider to choose between small, medium, and large text sizes.
 
 ---
 
-## Step 5: Review the selected size
+## Ste(https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step4.png)p 5: Review the selected size
 
 ![Placeholder screenshot for the selected text size preview](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step5.png)
 

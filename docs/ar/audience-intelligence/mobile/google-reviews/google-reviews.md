@@ -14,7 +14,7 @@ order: 1
 
 ## الخطوة 1: فتح صفحة التحليلات
 
-![صورة توضيحية مكانية لأيقونة Analytics](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Analytics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step1.png)
 
 اضغط على أيقونة **Analytics** الموجودة في شريط التنقل السفلي لفتح صفحة التحليلات.
 
@@ -22,7 +22,7 @@ order: 1
 
 ## الخطوة 2: فتح علامة تبويب Google Reviews
 
-![صورة توضيحية مكانية لعلامة تبويب Google Reviews](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لعلامة تبويب Google Reviews](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step2.png)
 
 اضغط على علامة تبويب **Google Reviews** الموجودة في شريط التنقل العلوي لفتح صفحة مراجعات جوجل.
 
@@ -30,7 +30,7 @@ order: 1
 
 ## الخطوة 3: فتح علامة تبويب Analyze
 
-![صورة توضيحية مكانية لعلامة تبويب Analyze](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لعلامة تبويب Analyze](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step3.png)
 
 اضغط على علامة تبويب **Analyze** الموجودة أعلى صفحة مراجعات جوجل لعرض التحليلات والرؤى الخاصة بمراجعات العلامة التجارية المحددة.
 
@@ -38,7 +38,7 @@ order: 1
 
 ## الخطوة 4: عرض تحليلات المراجعات
 
-![صورة توضيحية مكانية لتحليلات مراجعات جوجل](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لتحليلات مراجعات جوجل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step4.png)
 
 استعرض التحليلات المتاحة، بما في ذلك اتجاهات المراجعات، ورؤى الانطباع، ومؤشرات الأداء الرئيسية الخاصة بالعلامة التجارية المحددة.
 
@@ -46,7 +46,7 @@ order: 1
 
 ## الخطوة 5: فتح الفلاتر
 
-![صورة توضيحية مكانية لأيقونة Filter داخل مراجعات جوجل](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لأيقونة Filter داخل مراجعات جوجل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step5.png)
 
 اضغط على أيقونة **Filter** لفتح الفلاتر المتاحة الخاصة بتحليلات المراجعات.
 
@@ -54,7 +54,7 @@ order: 1
 
 ## الخطوة 6: عرض تفاصيل الفرع
 
-![صورة توضيحية مكانية لعنصر تفاصيل أحد الفروع](IMAGE_URL_STEP_6)
+![صورة توضيحية مكانية لعنصر تفاصيل أحد الفروع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step6.png)
 
 اضغط على الفرع المطلوب لفتح صفحة تفاصيله وعرض مراجعات جوجل المرتبطة به.
 
@@ -62,6 +62,6 @@ order: 1
 
 ## الخطوة 7: عرض مراجعات جوجل
 
-![صورة توضيحية مكانية لمراجعات جوجل الخاصة بالفرع](IMAGE_URL_STEP_7)
+![صورة توضيحية مكانية لمراجعات جوجل الخاصة بالفرع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/google-reviews/google-reviews/google-reviews_step7.png)
 
 استعرض مراجعات جوجل الخاصة بالفرع المحدد، بما في ذلك التقييمات، وتوزيع المراجعات، وملاحظات العملاء.

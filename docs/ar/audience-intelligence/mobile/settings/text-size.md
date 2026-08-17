@@ -14,7 +14,7 @@ order: 3
 
 ## الخطوة 1: فتح قائمة التنقل
 
-![صورة توضيحية مكانية للزر المميز في الترويسة](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية للزر المميز في الترويسة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step1.png)
 
 اضغط على الزر المميز الموجود في أعلى يسار الترويسة لفتح قائمة التنقل.
 
@@ -22,7 +22,7 @@ order: 3
 
 ## الخطوة 2: فتح شاشة الإعدادات
 
-![صورة توضيحية مكانية لخيار Settings داخل القائمة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيار Settings داخل القائمة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step2.png)
 
 مرر إلى أسفل قائمة التنقل ثم اضغط على **Settings** لفتح إعدادات التطبيق.
 
@@ -30,7 +30,7 @@ order: 3
 
 ## الخطوة 3: فتح إعداد حجم النص
 
-![صورة توضيحية مكانية لخيار Text Size](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لخيار Text Size](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step3.png)
 
 اضغط على زر **Text Size** لفتح صفحة إعداد حجم النص.
 
@@ -38,7 +38,7 @@ order: 3
 
 ## الخطوة 4: اختيار حجم النص المفضل
 
-![صورة توضيحية مكانية لشريط تغيير حجم النص](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لشريط تغيير حجم النص](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step4.png)
 
 حرّك شريط حجم النص للاختيار بين الأحجام الصغيرة أو المتوسطة أو الكبيرة.
 
@@ -46,7 +46,7 @@ order: 3
 
 ## الخطوة 5: مراجعة الحجم المحدد
 
-![صورة توضيحية مكانية لمعاينة حجم النص المحدد](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لمعاينة حجم النص المحدد](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step5.png)
 
 عدّل حجم النص مرة أخرى عند الحاجة حتى يتم تحديد الحجم الأنسب للقراءة.
 
@@ -54,6 +54,6 @@ order: 3
 
 ## الخطوة 6: حفظ حجم النص الجديد
 
-![صورة توضيحية مكانية لزر Save](IMAGE_URL_STEP_6)
+![صورة توضيحية مكانية لزر Save](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/text-size/text-size_step6.png)
 
 اضغط على زر **Save** لتطبيق حجم النص الذي اخترته وحفظه.

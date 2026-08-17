@@ -30,7 +30,7 @@ Tap the **Topics** icon in the top-right corner of the header to open the Topics
 
 ## Step 3: Open the Add Topic page
 
-![Placeholder screenshot for the Add Topic button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step3.png)
+![Placeholder screenshot for the Add Topic button](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/add-topic/add-topic_step2.png)
 
 Tap the floating action button on the Topics page to open the Add Topic page.
 

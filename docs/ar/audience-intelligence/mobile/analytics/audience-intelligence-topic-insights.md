@@ -14,7 +14,7 @@ order: 4
 
 ## الخطوة 1: فتح علامة تبويب Topic Insights
 
-![صورة توضيحية مكانية لعلامة تبويب Topic Insights](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لعلامة تبويب Topic Insights](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights/audience-intelligence-topic-insights_step1.png)
 
 اضغط على علامة تبويب **Topic Insights** لفتح صفحة رؤى مواضيع الجمهور.
 
@@ -22,7 +22,7 @@ order: 4
 
 ## الخطوة 2: عرض رؤى الموضوع
 
-![صورة توضيحية مكانية لرؤى الموضوع والتحليلات](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لرؤى الموضوع والتحليلات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights/audience-intelligence-topic-insights_step2.png)
 
 اعرض رؤى الموضوع، بما في ذلك التحليلات، ومؤشرات الأداء، والمحتوى المرتبط.
 
@@ -30,7 +30,7 @@ order: 4
 
 ## الخطوة 3: فتح فلتر الموضوع
 
-![صورة توضيحية مكانية لفلتر أو محدد الموضوع](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لفلتر أو محدد الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights/audience-intelligence-topic-insights_step3.png)
 
 اضغط على أيقونة **Filter** لفتح محدد المواضيع واختيار موضوع مختلف لعرض الرؤى الخاصة به.
 
@@ -38,6 +38,6 @@ order: 4
 
 ## الخطوة 4: تطبيق الموضوع المحدد
 
-![صورة توضيحية مكانية لزر Apply داخل اختيار الموضوع](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لزر Apply داخل اختيار الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights/audience-intelligence-topic-insights_step4.png)
 
 اضغط على زر **Apply** لتطبيق الموضوع المحدد وتحديث الرؤى المعروضة.

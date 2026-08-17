@@ -14,7 +14,7 @@ order: 2
 
 ## الخطوة 1: فتح قائمة التنقل
 
-![صورة توضيحية مكانية للزر المميز في الترويسة](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية للزر المميز في الترويسة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/contact-us/contact-us_step1.png)
 
 اضغط على الزر المميز الموجود في أعلى يسار الترويسة لفتح قائمة التنقل.
 
@@ -22,7 +22,7 @@ order: 2
 
 ## الخطوة 2: فتح صفحة اتصل بنا
 
-![صورة توضيحية مكانية لخيار Contact Us داخل القائمة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيار Contact Us داخل القائمة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/contact-us/contact-us_step2.png)
 
 اضغط على خيار **Contact Us** الموجود في قائمة التنقل لفتح صفحة اتصل بنا.
 
@@ -30,7 +30,7 @@ order: 2
 
 ## الخطوة 3: كتابة رسالتك
 
-![صورة توضيحية مكانية لحقل الرسالة](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لحقل الرسالة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/contact-us/contact-us_step3.png)
 
 اكتب رسالتك داخل حقل الرسالة، مع تضمين التفاصيل التي ترغب في مشاركتها مع فريق دعم ديما.
 
@@ -38,7 +38,7 @@ order: 2
 
 ## الخطوة 4: إرسال الرسالة
 
-![صورة توضيحية مكانية لزر Submit](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لزر Submit](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/contact-us/contact-us_step4.png)
 
 اضغط على زر **Submit** لإرسال رسالتك إلى فريق دعم ديما.
 
@@ -46,6 +46,6 @@ order: 2
 
 ## الخطوة 5: التأكد من نجاح الإرسال
 
-![صورة توضيحية مكانية لرسالة تأكيد النجاح](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لرسالة تأكيد النجاح](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/contact-us/contact-us_step5.png)
 
 تأكد من ظهور رسالة تأكيد تفيد بأنه تم إرسال رسالتك بنجاح.

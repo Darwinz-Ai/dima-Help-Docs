@@ -14,7 +14,7 @@ order: 2
 
 ## الخطوة 1: اضغط على الزر الموجود في أعلى يمين الترويسة
 
-![صورة توضيحية مكانية لزر بدء الشاشات التعريفية](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لزر بدء الشاشات التعريفية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/open-onboarding-screens/open-onboarding-screens_step1.png)
 
 اضغط على الزر الموجود في أعلى يمين الترويسة لبدء التنقل خلال تجربة الشاشات التعريفية.
 
@@ -22,7 +22,7 @@ order: 2
 
 ## الخطوة 2: الانتقال إلى الشاشة التعريفية التالية
 
-![صورة توضيحية مكانية لزر Next الأول](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لزر Next الأول](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/open-onboarding-screens/open-onboarding-screens_step2.png)
 
 اضغط على زر **Next** الموجود في أسفل يمين الشاشة التعريفية للمتابعة.
 
@@ -30,7 +30,8 @@ order: 2
 
 ## الخطوة 3: المتابعة إلى الشاشة التعريفية التالية
 
-![صورة توضيحية مكانية لزر Next الثاني](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر Next الثاني](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/open-onboarding-screens/open-onboarding-screens_step3.png)
+
 
 اضغط على زر **Next** مرة أخرى للانتقال إلى الشاشة التعريفية التالية.
 
@@ -38,6 +39,6 @@ order: 2
 
 ## الخطوة 4: إكمال مسار الشاشات التعريفية
 
-![صورة توضيحية مكانية لزر Let's Go](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لزر Let's Go](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/getting-started/open-onboarding-screens/open-onboarding-screens_step4.png)
 
 اضغط على زر **Let's Go** الموجود أسفل الشاشة التعريفية لإكمال هذا المسار.

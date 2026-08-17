@@ -14,7 +14,7 @@ order: 3
 
 ## الخطوة 1: فتح صفحة التحليلات
 
-![صورة توضيحية مكانية لأيقونة Analytics](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Analytics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step1.png)
 
 اضغط على أيقونة **Analytics** الموجودة في شريط التنقل السفلي لفتح صفحة التحليلات.
 
@@ -22,7 +22,7 @@ order: 3
 
 ## الخطوة 2: فتح علامة تبويب Accounts
 
-![صورة توضيحية مكانية لعلامة تبويب Accounts داخل Own Page](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لعلامة تبويب Accounts داخل Own Page](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step2.png)
 
 اضغط على علامة تبويب **Accounts** داخل **Own Page** لعرض الحسابات التي نشرت أخبارًا ومحتوى عن العلامة التجارية.
 
@@ -30,7 +30,7 @@ order: 3
 
 ## الخطوة 3: فتح الفلتر
 
-![صورة توضيحية مكانية لزر الفلتر داخل عرض الحسابات](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر الفلتر داخل عرض الحسابات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step3.png)
 
 اضغط على زر الفلتر لتصفية الحسابات بناءً على بيانات المنشورات والمتابعين.
 
@@ -38,7 +38,7 @@ order: 3
 
 ## الخطوة 4: تطبيق الفلتر
 
-![صورة توضيحية مكانية لزر Apply داخل فلاتر الحسابات](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لزر Apply داخل فلاتر الحسابات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step4.png)
 
 اضغط على **Apply** لتحديث قائمة الحسابات بناءً على الفلاتر المحددة.
 
@@ -46,7 +46,7 @@ order: 3
 
 ## الخطوة 5: فتح AI Copilot
 
-![صورة توضيحية مكانية لزر AI Copilot داخل عرض الحسابات](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لزر AI Copilot داخل عرض الحسابات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step5.png)
 
 اضغط على زر AI Copilot لطرح الأسئلة والحصول على رؤى حول بيانات الحسابات.
 
@@ -54,7 +54,7 @@ order: 3
 
 ## الخطوة 6: إدخال سؤال
 
-![صورة توضيحية مكانية لحقل إدخال Copilot داخل عرض الحسابات](IMAGE_URL_STEP_6)
+![صورة توضيحية مكانية لحقل إدخال Copilot داخل عرض الحسابات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step6.png)
 
 اكتب أي سؤال داخل AI Copilot للحصول على إجابات ورؤى مبنية على بيانات الحسابات.
 
@@ -62,7 +62,7 @@ order: 3
 
 ## الخطوة 7: عرض تفاصيل الملف الشخصي
 
-![صورة توضيحية مكانية لإجراء View Profile Details](IMAGE_URL_STEP_7)
+![صورة توضيحية مكانية لإجراء View Profile Details](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step7.png)
 
 اضغط على **View Profile Details** لأي حساب لعرض المخططات والمنشورات المرتبطة به.
 
@@ -70,6 +70,6 @@ order: 3
 
 ## الخطوة 8: عرض صفحة تفاصيل الملف الشخصي
 
-![صورة توضيحية مكانية لصفحة تفاصيل ملف الحساب](IMAGE_URL_STEP_8)
+![صورة توضيحية مكانية لصفحة تفاصيل ملف الحساب](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-accounts/own-page-accounts_step8.png)
 
 اعرض مخططات أداء الحساب والمنشورات المرتبطة به من صفحة تفاصيل الملف الشخصي.

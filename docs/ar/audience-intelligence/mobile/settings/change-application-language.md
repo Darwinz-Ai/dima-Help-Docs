@@ -14,7 +14,7 @@ order: 1
 
 ## الخطوة 1: فتح قائمة التنقل
 
-![صورة توضيحية مكانية للزر المميز في الترويسة](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية للزر المميز في الترويسة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/change-application-language/change-application-language_step1.png)
 
 اضغط على الزر المميز الموجود في أعلى يسار الترويسة لفتح قائمة التنقل.
 
@@ -22,7 +22,8 @@ order: 1
 
 ## الخطوة 2: فتح شاشة الإعدادات
 
-![صورة توضيحية مكانية لخيار Settings داخل القائمة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيار Settings داخل القائمة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/change-application-language/change-application-language_step2.png)
+
 
 مرر إلى أسفل قائمة التنقل ثم اضغط على **Settings** لفتح إعدادات التطبيق.
 
@@ -30,7 +31,8 @@ order: 1
 
 ## الخطوة 3: الضغط على زر تبديل اللغة
 
-![صورة توضيحية مكانية لخيار اللغة داخل الإعدادات](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لخيار اللغة داخل الإعدادات](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/change-application-language/change-application-language_step3.png)
+
 
 يظهر خيار اللغة في أعلى شاشة **Settings**. اضغط على زر التبديل الموجود بجواره لتغيير لغة التطبيق.
 
@@ -38,6 +40,6 @@ order: 1
 
 ## الخطوة 4: تأكيد تغيير اللغة
 
-![صورة توضيحية مكانية لحالة تبديل اللغة](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لحالة تبديل اللغة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/change-application-language/change-application-language_step4.png)
 
 اضغط على زر تبديل اللغة مرة أخرى عند الحاجة حتى يتم تحديد اللغة المفضلة. بعد ذلك سيعرض التطبيق اللغة الجديدة.

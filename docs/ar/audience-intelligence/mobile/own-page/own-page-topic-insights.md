@@ -14,7 +14,8 @@ order: 4
 
 ## الخطوة 1: فتح صفحة التحليلات
 
-![صورة توضيحية مكانية لأيقونة Analytics](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Analytics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-topic-insights/own-page-topic-insights_step1.png)
+
 
 اضغط على أيقونة **Analytics** الموجودة في شريط التنقل السفلي لفتح صفحة التحليلات.
 
@@ -22,7 +23,7 @@ order: 4
 
 ## الخطوة 2: فتح علامة تبويب Topic Insights
 
-![صورة توضيحية مكانية لعلامة تبويب Topic Insights](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لعلامة تبويب Topic Insights](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-topic-insights/own-page-topic-insights_step2.png)
 
 اضغط على علامة تبويب **Topic Insights** لعرض التحليلات والرؤى المرتبطة بالمواضيع.
 
@@ -30,7 +31,7 @@ order: 4
 
 ## الخطوة 3: فتح فلتر الموضوع
 
-![صورة توضيحية مكانية لفلتر الموضوع](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لفلتر الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-topic-insights/own-page-topic-insights_step3.png)
 
 اضغط على فلتر الموضوع لاختيار الموضوع الذي تريد تحليله وعرض البيانات المرتبطة به.
 
@@ -38,7 +39,7 @@ order: 4
 
 ## الخطوة 4: عرض صفحة فلتر الموضوع
 
-![صورة توضيحية مكانية لصفحة فلتر الموضوع](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لصفحة فلتر الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-topic-insights/own-page-topic-insights_step4.png)
 
 اعرض صفحة فلتر الموضوع لاختيار المواضيع التي تريد تحليلها وإدارتها.
 
@@ -46,6 +47,6 @@ order: 4
 
 ## الخطوة 5: تطبيق الفلتر
 
-![صورة توضيحية مكانية لزر Apply داخل فلتر الموضوع](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لزر Apply داخل فلتر الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/own-page/own-page-topic-insights/own-page-topic-insights_step4.png)
 
 اضغط على **Apply** لتحديث الصفحة بالرؤى والبيانات الخاصة بالموضوع المحدد.

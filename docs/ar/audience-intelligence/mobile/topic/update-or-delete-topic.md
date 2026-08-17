@@ -14,7 +14,7 @@ order: 2
 
 ## الخطوة 1: فتح صفحة التحليلات
 
-![صورة توضيحية مكانية لأيقونة Analytics](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Analytics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/update-or-delete-topic/update-or-delete-topic_step1.png)
 
 اضغط على أيقونة **Analytics** الموجودة في شريط التنقل السفلي لفتح صفحة التحليلات.
 
@@ -22,7 +22,7 @@ order: 2
 
 ## الخطوة 2: فتح صفحة المواضيع
 
-![صورة توضيحية مكانية لأيقونة Topics](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لأيقونة Topics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/update-or-delete-topic/update-or-delete-topic_step1.png)
 
 اضغط على أيقونة **Topics** الموجودة في أعلى يمين الترويسة لفتح صفحة المواضيع.
 
@@ -30,7 +30,7 @@ order: 2
 
 ## الخطوة 3: فتح خيارات الموضوع
 
-![صورة توضيحية مكانية لقائمة النقاط الثلاث الخاصة بالموضوع](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لقائمة النقاط الثلاث الخاصة بالموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/update-or-delete-topic/update-or-delete-topic_step3.png)
 
 اضغط على قائمة النقاط الثلاث الموجودة بجوار عنوان الموضوع لفتح الخيارات المتاحة.
 
@@ -38,7 +38,7 @@ order: 2
 
 ## الخطوة 4: اختيار الإجراء المطلوب
 
-![صورة توضيحية مكانية لخياري Update وDelete](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لخياري Update وDelete](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/update-or-delete-topic/update-or-delete-topic_step3.png)
 
 اضغط على **Update** لتعديل الموضوع أو **Delete** لإزالته.
 
@@ -46,7 +46,7 @@ order: 2
 
 ## الخطوة 5: تحديث تفاصيل الموضوع
 
-![صورة توضيحية مكانية لنموذج تعديل الموضوع](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لنموذج تعديل الموضوع](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/update-or-delete-topic/update-or-delete-topic_step4.png)
 
 عدّل عنوان الموضوع ووصفه حسب الحاجة.
 
@@ -54,6 +54,6 @@ order: 2
 
 ## الخطوة 6: حفظ تحديثات الموضوع
 
-![صورة توضيحية مكانية لزر Update Topic](IMAGE_URL_STEP_6)
+![صورة توضيحية مكانية لزر Update Topic](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/topic/update-or-delete-topic/update-or-delete-topic_step5.png)
 
 اضغط على زر **Update Topic** لتطبيق التغييرات على الموضوع المحدد.

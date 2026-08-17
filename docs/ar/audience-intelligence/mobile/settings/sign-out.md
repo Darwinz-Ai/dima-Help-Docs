@@ -14,7 +14,7 @@ order: 5
 
 ## الخطوة 1: فتح قائمة التنقل
 
-![صورة توضيحية مكانية للزر المميز في الترويسة](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية للزر المميز في الترويسة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/sign-out/sign-out_step1.png)
 
 اضغط على الزر المميز الموجود في أعلى يسار الترويسة لفتح قائمة التنقل.
 
@@ -22,7 +22,7 @@ order: 5
 
 ## الخطوة 2: فتح شاشة الإعدادات
 
-![صورة توضيحية مكانية لخيار Settings داخل القائمة](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيار Settings داخل القائمة](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/sign-out/sign-out_step2.png)
 
 مرر إلى أسفل قائمة التنقل ثم اضغط على **Settings** لفتح إعدادات التطبيق.
 
@@ -30,6 +30,6 @@ order: 5
 
 ## الخطوة 3: الضغط على زر Sign Out
 
-![صورة توضيحية مكانية لزر Sign Out](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر Sign Out](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/settings/sign-out/sign-out_step3.png)
 
 اضغط على زر **Sign Out** لتسجيل الخروج من تطبيق ديما بشكل آمن وإنهاء جلستك الحالية.

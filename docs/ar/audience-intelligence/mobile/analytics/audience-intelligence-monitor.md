@@ -14,7 +14,7 @@ order: 2
 
 ## الخطوة 1: فتح صفحة التحليلات
 
-![صورة توضيحية مكانية لأيقونة Analytics](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Analytics](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-monitor/audience-intelligence-monitor_step1.png)
 
 اضغط على أيقونة **Analytics** الموجودة في شريط التنقل السفلي لفتح صفحة التحليلات.
 
@@ -22,7 +22,7 @@ order: 2
 
 ## الخطوة 2: فتح علامة تبويب Monitor
 
-![صورة توضيحية مكانية لعلامة تبويب Monitor](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لعلامة تبويب Monitor](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-monitor/audience-intelligence-monitor_step2.png)
 
 اضغط على علامة تبويب **Monitor** الموجودة في شريط التنقل العلوي لفتح صفحة رصد رؤى الجمهور.
 
@@ -30,7 +30,7 @@ order: 2
 
 ## الخطوة 3: عرض إشارات العلامة التجارية
 
-![صورة توضيحية مكانية للمنشورات والإشارات الخاصة بالعلامة التجارية](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية للمنشورات والإشارات الخاصة بالعلامة التجارية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-monitor/audience-intelligence-monitor_step3.png)
 
 اعرض المنشورات والإشارات المتعلقة بالعلامة التجارية المحددة لمراقبة محادثات الجمهور ومستوى التفاعل.
 
@@ -38,7 +38,7 @@ order: 2
 
 ## الخطوة 4: فتح صورة المنشور
 
-![صورة توضيحية مكانية لفتح صورة المنشور](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لفتح صورة المنشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-monitor/audience-intelligence-monitor_step4.png)
 
 اضغط على صورة المنشور لفتحها بعرض كامل على الشاشة.
 
@@ -46,6 +46,6 @@ order: 2
 
 ## الخطوة 5: عرض صورة المنشور
 
-![صورة توضيحية مكانية لصورة المنشور بعرض كامل](IMAGE_URL_STEP_5)
+![صورة توضيحية مكانية لصورة المنشور بعرض كامل](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/audience-intelligence-monitor/audience-intelligence-monitor_step5.png)
 
 اعرض صورة المنشور المحددة بحجم أكبر للحصول على رؤية أوضح.

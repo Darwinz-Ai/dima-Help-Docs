@@ -14,7 +14,8 @@ order: 1
 
 ## الخطوة 1: فتح محدد العلامات التجارية
 
-![صورة توضيحية مكانية لزر Brands](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لزر Brands](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/brand/change-brand/change-brand_step1.png)
+
 
 اضغط على زر **Brands** الموجود في الجهة اليمنى من شريط التنقل السفلي لفتح صفحة اختيار العلامة التجارية.
 
@@ -22,7 +23,7 @@ order: 1
 
 ## الخطوة 2: اختيار علامة تجارية
 
-![صورة توضيحية مكانية للنافذة السفلية الخاصة بالعلامات التجارية](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية للنافذة السفلية الخاصة بالعلامات التجارية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/brand/change-brand/change-brand_step2.png)
 
 ستظهر نافذة سفلية تعرض العلامات التجارية المتاحة. اضغط على العلامة التجارية المفضلة لديك لتحديدها.
 
@@ -30,7 +31,7 @@ order: 1
 
 ## الخطوة 3: حفظ العلامة التجارية المحددة
 
-![صورة توضيحية مكانية لزر Save](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر Save](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/brand/change-brand/change-brand_step3.png)
 
 اضغط على زر **Save** لتطبيق العلامة التجارية التي اخترتها.
 
@@ -38,6 +39,6 @@ order: 1
 
 ## الخطوة 4: التحقق من تغيير العلامة التجارية
 
-![صورة توضيحية مكانية لحالة التطبيق بعد تغيير العلامة التجارية](IMAGE_URL_STEP_4)
+![صورة توضيحية مكانية لحالة التطبيق بعد تغيير العلامة التجارية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/brand/change-brand/change-brand_step4.png)
 
 تأكد من أن التطبيق تم تحديثه لعرض البيانات والإشعارات المتعلقة بالعلامة التجارية المحددة.

@@ -14,7 +14,7 @@ order: 6
 
 ## الخطوة 1: فتح لوحة الفلاتر
 
-![صورة توضيحية مكانية لأيقونة Filter](IMAGE_URL_STEP_1)
+![صورة توضيحية مكانية لأيقونة Filter](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/apply-filters/apply-filters_step1.png)
 
 اضغط على أيقونة **Filter** الموجودة أعلى الصفحة لفتح خيارات التصفية المتاحة.
 
@@ -22,7 +22,7 @@ order: 6
 
 ## الخطوة 2: اختيار معايير التصفية
 
-![صورة توضيحية مكانية لخيارات معايير التصفية](IMAGE_URL_STEP_2)
+![صورة توضيحية مكانية لخيارات معايير التصفية](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/apply-filters/apply-filters_step2.png)
 
 اختر خيارات التصفية المطلوبة، مثل نوع المنشور، أو المواضيع، أو النطاق الزمني، أو الانطباع، لتحسين النتائج المعروضة.
 
@@ -30,6 +30,6 @@ order: 6
 
 ## الخطوة 3: تطبيق الفلاتر
 
-![صورة توضيحية مكانية لزر Apply](IMAGE_URL_STEP_3)
+![صورة توضيحية مكانية لزر Apply](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/mobile/analytics/apply-filters/apply-filters_step3.png)
 
 اضغط على زر **Apply** لتطبيق معايير التصفية المحددة وتحديث النتائج المعروضة.
