@@ -1,35 +1,35 @@
 ---
-label: How to Use the Help Center
+label: How to Use the Guides Library
 description: >-
-  Get the most out of dima's documentation with tips on searching, navigating,
-  and finding exactly what you need.
+  Get the most out of dima's Guides Library with tips on searching, navigating,
+  and quickly finding exactly what you need.
 order: 1
 readingTime: 2
 ---
 
-# How to Use the Help Center
+# How to Use the Guides Library
 
-Welcome to the **dima** guides!
+Welcome to the **dima** Guides Library!
 
-These guides are designed to be your compass whenever you feel lost or confused inside the platform. We have made them easily accessible wherever you are:
+Our Guides Library is designed to help you find answers and guidance whenever you need it on the platform. We’ve made it easy for you to access guides wherever you are:
 
-- **The Full Docs Page:** Click the "Guides" icon on the main sidebar to browse the complete library.
-- **Quick Search Dialog:** Click the **?** (question mark) icon in the top right corner of the app to instantly search for a guide. Selecting a search result will open the guide in a new tab, ensuring you never lose your current progress or place in the app.
-
----
-
-## Choose Your Learning Style
-
-We know everyone learns differently, so we built our guides to match your exact speed:
-
-- **The Watcher:** At the beginning of each guide, you will find a short video created by the dima team walking you through exactly how to use the feature.
-- **The Reader:** If you prefer written instructions, scroll past the video! We list out all the steps in detail and explain the reasoning behind why things are designed the way they are.
-- **The Chatbot Fan:** Short on time? Skip the reading and watching entirely! You can directly ask our dima chatbot your specific question for an instant, personalized answer.
+- **The Full Guides Library:** Click the "Guides" icon in the main sidebar to explore the complete guides collection.
+- **Quick Search Dialog:** Hit the **?** (question mark) icon in the top right corner of the app to instantly search the Guides Library. When you select a search result, it will open in a new tab so you don’t lose your progress or place in the app.
 
 ---
 
-## Still Need Help?
+## Choose How You Want to Learn
 
-Our guides cover a lot of ground, but every brand's workflow is unique. If you have gone through a guide and are still feeling stuck, our team is always here to help.
+Everyone learns differently, and our Guides Library is designed to fit your preferred style:
 
-You can contact your account manager for further help.
+- **Prefer Watching?** Each guide includes a short video created by the dima team, showing you exactly how to use the feature.
+- **Like to Read?** Detailed step-by-step written instructions follow the video, including explanations for why things work a certain way.
+- **Just Have a Quick Question?** Skip directly to asking our dima chatbot. Get fast, personalized answers without needing to watch or read the entire guide.
+
+---
+
+## Need More Assistance?
+
+The Guides Library covers a lot, but every brand has unique workflows. If you’ve used a guide and still need help, our team is here for you.
+
+Reach out to your account manager for tailored support whenever you need it.
