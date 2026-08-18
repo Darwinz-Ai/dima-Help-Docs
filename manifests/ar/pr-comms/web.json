@@ -4,24 +4,24 @@
   "platform": "web",
   "groups": [
     {
-      "label": "Media Monitoring",
+      "label": "البدء",
       "items": [
         {
-          "label": "Mentions",
-          "slug": "media-monitoring/mentions",
-          "path": "ar/pr-comms/web/media-monitoring/mentions.md",
+          "label": "Overview",
+          "slug": "getting-started/overview",
+          "path": "ar/pr-comms/web/getting-started/overview.md",
           "description": "",
           "order": 999
         }
       ]
     },
     {
-      "label": "Getting Started",
+      "label": "Media Monitoring",
       "items": [
         {
-          "label": "Overview",
-          "slug": "getting-started/overview",
-          "path": "ar/pr-comms/web/getting-started/overview.md",
+          "label": "Mentions",
+          "slug": "media-monitoring/mentions",
+          "path": "ar/pr-comms/web/media-monitoring/mentions.md",
           "description": "",
           "order": 999
         }

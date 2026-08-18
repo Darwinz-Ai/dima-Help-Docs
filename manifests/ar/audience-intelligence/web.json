@@ -4,6 +4,18 @@
   "platform": "web",
   "groups": [
     {
+      "label": "البدء",
+      "items": [
+        {
+          "label": "كيفية استخدام مركز الإرشادات",
+          "slug": "",
+          "path": "ar/audience-intelligence/web/index.md",
+          "description": "حقق أقصى استفادة من وثائق ديما مع نصائح حول البحث والتنقل والعثور على ما تحتاجه بالضبط.",
+          "order": 1
+        }
+      ]
+    },
+    {
       "label": "الجهات",
       "items": [
         {
@@ -270,18 +282,6 @@
           "path": "ar/audience-intelligence/web/manage/restoring-deleted-posts.md",
           "description": "تعرف على كيفية استرداد المنشورات المحذوفة مسبقًا وإعادتها إلى موجزات الرصد الخاصة بك.",
           "order": 7
-        }
-      ]
-    },
-    {
-      "label": "Getting Started",
-      "items": [
-        {
-          "label": "كيفية استخدام مركز الإرشادات",
-          "slug": "getting-started/welcome",
-          "path": "ar/audience-intelligence/web/getting-started/welcome.md",
-          "description": "حقق أقصى استفادة من وثائق ديما مع نصائح حول البحث والتنقل والعثور على ما تحتاجه بالضبط.",
-          "order": 1
         }
       ]
     }

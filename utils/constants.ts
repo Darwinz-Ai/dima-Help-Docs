@@ -3,6 +3,7 @@ export const SUPPORTED_LOCALES = ["en", "ar"];
 export const SUPPORTED_SERVICES = ["audience-intelligence", "pr-comms"];
 export const SUPPORTED_PLATFORMS = ["web", "mobile"];
 export const GROUP_ORDER = [
+    "Getting Started",
     "Brands",
     "Common",
     "Monitor",
@@ -16,6 +17,7 @@ export const GROUP_ORDER = [
 
 export const GROUP_TRANSLATIONS: Record<string, Record<string, string>> = {
     ar: {
+        "Getting Started": "البدء",
         "Brands": "الجهات",
         "Common": "شائع",
         "Monitor": "الرصد",

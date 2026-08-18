@@ -4,6 +4,18 @@
   "platform": "web",
   "groups": [
     {
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "How to Use the Help Center",
+          "slug": "",
+          "path": "en/audience-intelligence/web/index.md",
+          "description": "Get the most out of dima's documentation with tips on searching, navigating, and finding exactly what you need.",
+          "order": 1
+        }
+      ]
+    },
+    {
       "label": "Brands",
       "items": [
         {
@@ -270,18 +282,6 @@
           "path": "en/audience-intelligence/web/manage/restoring-deleted-posts.md",
           "description": "Learn how to recover previously deleted posts and bring them back into your monitoring feeds.",
           "order": 7
-        }
-      ]
-    },
-    {
-      "label": "Getting Started",
-      "items": [
-        {
-          "label": "How to Use the Help Center",
-          "slug": "getting-started/welcome",
-          "path": "en/audience-intelligence/web/getting-started/welcome.md",
-          "description": "Get the most out of dima's documentation with tips on searching, navigating, and finding exactly what you need.",
-          "order": 1
         }
       ]
     }

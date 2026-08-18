@@ -4,6 +4,25 @@
   "platform": "mobile",
   "groups": [
     {
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "Login in Dima App",
+          "slug": "getting-started/login-in-dima-app",
+          "path": "en/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
+          "description": "Learn how to open the Dima mobile app, complete onboarding, and sign in with your account credentials.",
+          "order": 1
+        },
+        {
+          "label": "Open Onboarding Screens",
+          "slug": "getting-started/open-onboarding-screens",
+          "path": "en/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
+          "description": "Learn how to open and move through the Dima mobile app onboarding screens before entering the application.",
+          "order": 2
+        }
+      ]
+    },
+    {
       "label": "Topic",
       "items": [
         {
@@ -151,25 +170,6 @@
           "path": "en/audience-intelligence/mobile/google-reviews/google-reviews.md",
           "description": "Learn how to open Google Reviews, review analytics, apply filters, and inspect branch-level review details in the Dima mobile app.",
           "order": 1
-        }
-      ]
-    },
-    {
-      "label": "Getting Started",
-      "items": [
-        {
-          "label": "Login in Dima App",
-          "slug": "getting-started/login-in-dima-app",
-          "path": "en/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
-          "description": "Learn how to open the Dima mobile app, complete onboarding, and sign in with your account credentials.",
-          "order": 1
-        },
-        {
-          "label": "Open Onboarding Screens",
-          "slug": "getting-started/open-onboarding-screens",
-          "path": "en/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
-          "description": "Learn how to open and move through the Dima mobile app onboarding screens before entering the application.",
-          "order": 2
         }
       ]
     },

@@ -35,10 +35,12 @@ function generateManifests() {
 
                     const cleanPath = `${locale}/${service}/${platform}/${normalizedFile}`;
 
-                    const slug = normalizedFile.replace(/\.md$/, "");
+                    let slug = normalizedFile.replace(/\.md$/, "");
+                    if (slug === "index") slug = "";
+
                     const docLabel = data.label || formatLabel(path.basename(normalizedFile, ".md"));
 
-                    const groupFolder = pathParts[0] ?? "";
+                    const groupFolder = pathParts.length === 1 ? "getting-started" : (pathParts[0] ?? "");
 
                     if (typeof groupFolder !== "string" || groupFolder.length === 0) return;
 
@@ -66,7 +68,15 @@ function generateManifests() {
                     const group = groupsMap.get(groupFolder) as ManifestGroup;
 
                     // Build Hierarchy
-                    if (pathParts.length === 2) {
+                    if (pathParts.length === 1) {
+                        group.items.push({
+                            label: docLabel,
+                            slug,
+                            path: cleanPath,
+                            description: data.description || "",
+                            order: docOrder
+                        })
+                    } else if (pathParts.length === 2) {
                         group.items.push({
                             label: docLabel,
                             slug,

@@ -4,6 +4,25 @@
   "platform": "mobile",
   "groups": [
     {
+      "label": "البدء",
+      "items": [
+        {
+          "label": "تسجيل الدخول في تطبيق ديما",
+          "slug": "getting-started/login-in-dima-app",
+          "path": "ar/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
+          "description": "تعرّف على كيفية فتح تطبيق ديما على الجوال، وإكمال الشاشات التعريفية، ثم تسجيل الدخول باستخدام بيانات حسابك.",
+          "order": 1
+        },
+        {
+          "label": "فتح الشاشات التعريفية",
+          "slug": "getting-started/open-onboarding-screens",
+          "path": "ar/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
+          "description": "تعرّف على كيفية فتح الشاشات التعريفية في تطبيق ديما على الجوال والتنقل خلالها قبل الدخول إلى التطبيق.",
+          "order": 2
+        }
+      ]
+    },
+    {
       "label": "المواضيع",
       "items": [
         {
@@ -151,25 +170,6 @@
           "path": "ar/audience-intelligence/mobile/google-reviews/google-reviews.md",
           "description": "تعرّف على كيفية فتح مراجعات جوجل، ومراجعة التحليلات، وتطبيق الفلاتر، وفحص تفاصيل المراجعات على مستوى الفرع في تطبيق ديما على الجوال.",
           "order": 1
-        }
-      ]
-    },
-    {
-      "label": "Getting Started",
-      "items": [
-        {
-          "label": "تسجيل الدخول في تطبيق ديما",
-          "slug": "getting-started/login-in-dima-app",
-          "path": "ar/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
-          "description": "تعرّف على كيفية فتح تطبيق ديما على الجوال، وإكمال الشاشات التعريفية، ثم تسجيل الدخول باستخدام بيانات حسابك.",
-          "order": 1
-        },
-        {
-          "label": "فتح الشاشات التعريفية",
-          "slug": "getting-started/open-onboarding-screens",
-          "path": "ar/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
-          "description": "تعرّف على كيفية فتح الشاشات التعريفية في تطبيق ديما على الجوال والتنقل خلالها قبل الدخول إلى التطبيق.",
-          "order": 2
         }
       ]
     },
