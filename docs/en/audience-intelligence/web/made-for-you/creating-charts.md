@@ -32,12 +32,14 @@ To build a new chart inside your dashboard:
 
 Upon clicking create, you will be prompted to select the data source your chart will pull from.
 
-At the time of writing, supported data sources include:
+You can select from the following data sources when creating a chart:
 
 - **Audience Intelligence**
 - **Locations**
+- **E-commerce Reviews**
+- **Conversation Analysis**
 
-> **Note:** E-commerce Reviews and Conversation Analysis data sources will be coming soon in a future update.
+Choose the source that best matches the data you want to visualize.
 
 ---
 
