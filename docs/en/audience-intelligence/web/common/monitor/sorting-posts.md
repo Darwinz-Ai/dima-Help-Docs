@@ -1,6 +1,9 @@
 ---
-label: "Sorting Posts"
-description: "Learn how to arrange posts in your monitoring feed based on metrics such as likes, comments, views, or follower count."
+label: Sorting Posts
+description: >-
+  Learn how to arrange posts in your monitoring feed based on metrics such as
+  likes, comments, views, or follower count.
+readingTime: 1
 ---
 
 # Sorting Posts

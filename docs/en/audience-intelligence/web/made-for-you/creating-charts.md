@@ -1,7 +1,10 @@
 ---
-label: "Creating Charts"
-description: "Learn how to build and customize charts to visualize data within your dashboards."
+label: Creating Charts
+description: >-
+  Learn how to build and customize charts to visualize data within your
+  dashboards.
 order: 2
+readingTime: 3
 ---
 
 # Creating Charts

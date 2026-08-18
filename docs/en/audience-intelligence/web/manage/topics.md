@@ -1,7 +1,10 @@
 ---
-label: "Topics"
-description: "Learn how to add, edit, and delete custom topics to categorize incoming posts for your brand."
+label: Topics
+description: >-
+  Learn how to add, edit, and delete custom topics to categorize incoming posts
+  for your brand.
 order: 5
+readingTime: 2
 ---
 
 # Managing Topics

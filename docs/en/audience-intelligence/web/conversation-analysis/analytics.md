@@ -1,7 +1,10 @@
 ---
-label: "Analytics Dashboard"
-description: "Learn how to analyze the sentiment, emotion, and topics of comments and replies on your official pages."
+label: Analytics Dashboard
+description: >-
+  Learn how to analyze the sentiment, emotion, and topics of comments and
+  replies on your official pages.
 order: 13
+readingTime: 3
 ---
 
 # Analytics Dashboard

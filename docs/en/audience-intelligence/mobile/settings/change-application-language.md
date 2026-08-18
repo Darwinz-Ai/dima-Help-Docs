@@ -1,7 +1,10 @@
 ---
-label: "Change the Application Language"
-description: "Learn how to open the app settings and switch the Dima mobile application language."
+label: Change the Application Language
+description: >-
+  Learn how to open the app settings and switch the Dima mobile application
+  language.
 order: 1
+readingTime: 1
 ---
 
 # Change the Application Language

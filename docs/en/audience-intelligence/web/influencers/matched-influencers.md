@@ -1,7 +1,10 @@
 ---
-label: "Matched Influencers"
-description: "Learn how to review your matched influencers, track their content, analyze risk assessments, and view posts about your brand."
+label: Matched Influencers
+description: >-
+  Learn how to review your matched influencers, track their content, analyze
+  risk assessments, and view posts about your brand.
 order: 2
+readingTime: 3
 ---
 
 # Matched Influencers

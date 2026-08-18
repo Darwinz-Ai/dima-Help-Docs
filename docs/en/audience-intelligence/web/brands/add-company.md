@@ -1,7 +1,10 @@
 ---
-label: "Adding a Company"
-description: "Learn how to define a brand or subject matter in dima to start monitoring social media posts."
+label: Adding a Company
+description: >-
+  Learn how to define a brand or subject matter in dima to start monitoring
+  social media posts.
 order: 1
+readingTime: 4
 ---
 
 # Adding a Company

@@ -1,7 +1,10 @@
 ---
-label: "Open Notification Page"
-description: "Learn how to open the Notifications page, review notification details, ask AI Copilot about a notification, and export it."
+label: Open Notification Page
+description: >-
+  Learn how to open the Notifications page, review notification details, ask AI
+  Copilot about a notification, and export it.
 order: 1
+readingTime: 2
 ---
 
 # Open Notification Page

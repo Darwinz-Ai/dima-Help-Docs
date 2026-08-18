@@ -1,7 +1,10 @@
 ---
-label: "Locations"
-description: "Learn how to add, edit, and delete physical company locations to track Google Reviews."
+label: Locations
+description: >-
+  Learn how to add, edit, and delete physical company locations to track Google
+  Reviews.
 order: 2
+readingTime: 2
 ---
 
 # Managing Locations

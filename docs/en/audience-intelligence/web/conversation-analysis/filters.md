@@ -1,7 +1,10 @@
 ---
-label: "Using Filters"
-description: "Learn how to filter comment threads based on both the original post's attributes and the specific attributes of the replies."
+label: Using Filters
+description: >-
+  Learn how to filter comment threads based on both the original post's
+  attributes and the specific attributes of the replies.
 order: 2
+readingTime: 2
 ---
 
 # Using Filters

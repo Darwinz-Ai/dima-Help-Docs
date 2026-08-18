@@ -13,7 +13,7 @@
     "typescript": "^7.0.2"
   },
   "scripts": {
-    "build:manifests": "tsx scripts/sync-docs.ts",
-    "precommit": "npm run build:manifests && git add manifests/"
+    "build:manifests": "tsx scripts/inject-reading-time.ts && tsx scripts/sync-docs.ts",
+    "precommit": "npm run build:manifests && git add manifests/ docs/"
   }
 }

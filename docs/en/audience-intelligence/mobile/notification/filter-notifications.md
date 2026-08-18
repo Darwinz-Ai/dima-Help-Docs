@@ -1,7 +1,10 @@
 ---
-label: "Filter Notifications"
-description: "Learn how to open the notifications filter panel, apply filters by type and date, and review the filtered results."
+label: Filter Notifications
+description: >-
+  Learn how to open the notifications filter panel, apply filters by type and
+  date, and review the filtered results.
 order: 3
+readingTime: 2
 ---
 
 # Filter Notifications

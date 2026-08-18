@@ -1,7 +1,10 @@
 ---
-label: "Monitoring Comments"
-description: "Learn how to track and analyze comments and replies to understand community sentiment beyond the top-level post."
+label: Monitoring Comments
+description: >-
+  Learn how to track and analyze comments and replies to understand community
+  sentiment beyond the top-level post.
 order: 1
+readingTime: 2
 ---
 
 # Monitoring Comments

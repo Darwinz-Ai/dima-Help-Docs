@@ -1,6 +1,9 @@
 ---
-label: "Deleting Posts & Recalibrating Relevancy"
-description: "Learn how to remove irrelevant posts from your feed and train dima to improve future monitoring accuracy."
+label: Deleting Posts & Recalibrating Relevancy
+description: >-
+  Learn how to remove irrelevant posts from your feed and train dima to improve
+  future monitoring accuracy.
+readingTime: 3
 ---
 
 # Deleting Posts & Recalibrating Relevancy

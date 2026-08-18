@@ -1,7 +1,10 @@
 ---
-label: "Creating Dashboards"
-description: "Learn how to build, edit, duplicate, and delete custom dashboards in the Made For You module."
+label: Creating Dashboards
+description: >-
+  Learn how to build, edit, duplicate, and delete custom dashboards in the Made
+  For You module.
 order: 1
+readingTime: 2
 ---
 
 # Managing Dashboards

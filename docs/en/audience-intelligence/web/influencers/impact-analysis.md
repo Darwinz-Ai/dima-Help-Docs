@@ -1,7 +1,10 @@
 ---
-label: "Influencer Impact Analytics"
-description: "Learn how to analyze influencer performance, compare platforms, and filter impact data."
+label: Influencer Impact Analytics
+description: >-
+  Learn how to analyze influencer performance, compare platforms, and filter
+  impact data.
 order: 19
+readingTime: 3
 ---
 
 # Influencer Impact Analytics

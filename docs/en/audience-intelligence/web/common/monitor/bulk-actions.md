@@ -1,6 +1,9 @@
 ---
-label: "Bulk Actions"
-description: "Learn how to perform collective actions on multiple posts, such as updating sentiment, changing topics, or assigning labels simultaneously."
+label: Bulk Actions
+description: >-
+  Learn how to perform collective actions on multiple posts, such as updating
+  sentiment, changing topics, or assigning labels simultaneously.
+readingTime: 2
 ---
 
 # Using Bulk Actions

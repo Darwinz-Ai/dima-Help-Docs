@@ -1,6 +1,9 @@
 ---
-label: "Analytics Dashboards"
-description: "Understand the charts and metrics available in the Analytics tab across different modules to track performance, sentiment, and distribution."
+label: Analytics Dashboards
+description: >-
+  Understand the charts and metrics available in the Analytics tab across
+  different modules to track performance, sentiment, and distribution.
+readingTime: 4
 ---
 
 # Understanding Analytics Dashboards

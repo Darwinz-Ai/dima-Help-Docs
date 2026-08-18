@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "id": "topic/update-or-delete-topic",
+    "label": "Update or Delete Topic",
+    "slug": "topic/update-or-delete-topic",
+    "path": "en/audience-intelligence/mobile/topic/update-or-delete-topic.md",
+    "description": "Learn how to open a topic's options, update its details, or delete it in the Dima mobile app.",
+    "content": "Update or Delete Topic Managing topics allows users to update or delete existing topics in the Dima application. Users simply open the Topics page, select the desired topic, edit its information or delete it as needed, and confirm the changes. This workflow is intended for users who want to keep their topics organized and up to date. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Topics page Tap the Topics icon in the top right corner of the header to open the Topics page. Step 3: Open the topic options Tap the three dot menu next to the topic title to open the available options. Step 4: Choose an action Tap Update to edit the topic or Delete to remove it. Step 5: Update the topic details Edit the topic title and description as needed. Step 6: Save the updated topic Tap the Update Topic button to apply the changes to the selected topic."
+  },
+  {
+    "id": "topic/add-topic",
+    "label": "Add Topic",
+    "slug": "topic/add-topic",
+    "path": "en/audience-intelligence/mobile/topic/add-topic.md",
+    "description": "Learn how to open the Topics page, enter topic details, and create a new topic in the Dima mobile app.",
+    "content": "Add Topic Adding a topic allows users to create and monitor topics of interest within the Dima application. Users simply open the Add Topic page, enter the required information, and save the topic. This workflow is intended for users who want to track specific topics and receive related data and notifications. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Topics page Tap the Topics icon in the top right corner of the header to open the Topics page. Step 3: Open the Add Topic page Tap the floating action button on the Topics page to open the Add Topic page. Step 4: Enter the topic details Enter the topic title and description in the required fields. Step 5: Create the topic Tap the Add Topic button to create the new topic using the information you entered."
+  },
+  {
+    "id": "settings/text-size",
+    "label": "Text Size",
+    "slug": "settings/text-size",
+    "path": "en/audience-intelligence/mobile/settings/text-size.md",
+    "description": "Learn how to open the text size setting, choose your preferred size, and save it in the Dima mobile app.",
+    "content": "Text Size Changing the text size allows users to customize the application's text size for a more comfortable reading experience. Users simply open the Text Size settings, choose their preferred text size, and apply the changes. This workflow is intended for users who want to improve readability based on their preferences. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Settings screen Scroll to the bottom of the navigation menu and tap Settings to open the application settings. Step 3: Open the Text Size setting Tap the Text Size button to open the text size settings page. Step 4: Choose your preferred text size ![Placeholder screenshot for the text size slider] Move the text size slider to choose between small, medium, and large text sizes. Ste(https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience intelligence/mobile/settings/text size/text size step4.png)p 5: Review the selected size Adjust the text size again if needed until the preferred reading size is selected. Step 6: Save the new text size Tap the Save button to apply and save your selected text size."
+  },
+  {
+    "id": "settings/sign-out",
+    "label": "Sign Out",
+    "slug": "settings/sign-out",
+    "path": "en/audience-intelligence/mobile/settings/sign-out.md",
+    "description": "Learn how to open the settings screen and securely sign out of the Dima mobile application.",
+    "content": "Sign Out Signing out of the Dima application allows users to securely end their current session. Users simply open the navigation menu, access the settings, and select the Sign Out option to log out of the application. This workflow is intended for users who want to securely exit their accounts. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Settings screen Scroll to the bottom of the navigation menu and tap Settings to open the application settings. Step 3: Tap the Sign Out button Tap the Sign Out button to securely log out of the Dima application and end your current session."
+  },
+  {
+    "id": "settings/delete-an-account",
+    "label": "Delete An Account",
+    "slug": "settings/delete-an-account",
+    "path": "en/audience-intelligence/mobile/settings/delete-an-account.md",
+    "description": "Learn how to open the account settings, start the delete account flow, and confirm permanent account removal.",
+    "content": "Delete An Account Deleting an account allows users to permanently remove their Dima account and all associated data. Users simply navigate to the account settings, select the Delete Account option, and confirm their decision. This workflow is intended for users who no longer wish to use the application and understand that this action cannot be undone. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Settings screen Scroll to the bottom of the navigation menu and tap Settings to open the application settings. Step 3: Start the delete account process Tap the Delete Account button to begin the account deletion process. Step 4: Confirm account deletion A confirmation dialog will appear asking whether you want to permanently delete your account. Tap Confirm to proceed with the deletion, or tap Cancel to keep your account."
+  },
+  {
+    "id": "settings/contact-us",
+    "label": "Contact Us",
+    "slug": "settings/contact-us",
+    "path": "en/audience-intelligence/mobile/settings/contact-us.md",
+    "description": "Learn how to open the Contact Us page, write your message, and submit it to the Dima support team.",
+    "content": "Contact Us The Contact Us feature allows users to get in touch with the Dima support team for inquiries, feedback, or assistance. Users simply open the Contact Us page, enter the required information, write their message, and submit it. This workflow is intended for users who need support or want to communicate with the Dima team. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Contact Us page Tap the Contact Us option in the navigation menu to open the Contact Us page. Step 3: Enter your message Type your message in the message field. Include the details you want to share with the Dima support team. Step 4: Submit your message Tap the Submit button to send your message to the Dima support team. Step 5: Confirm successful submission Verify that a confirmation message appears indicating that your message has been submitted successfully."
+  },
+  {
+    "id": "settings/change-the-application-theme",
+    "label": "Change The Application Theme",
+    "slug": "settings/change-the-application-theme",
+    "path": "en/audience-intelligence/mobile/settings/change-the-application-theme.md",
+    "description": "Learn how to open the theme setting, switch the application theme, and save the change in the Dima mobile app.",
+    "content": "Change The Application Theme Changing the application theme allows users to personalize the application's appearance by selecting their preferred theme. Users simply open the Theme settings, choose the desired theme, and save their changes. This workflow is intended for users who want to customize the application's visual appearance according to their preferences. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Settings screen Scroll to the bottom of the navigation menu and tap Settings to open the application settings. Step 3: Tap the Theme toggle The Theme option appears in the middle of the Settings screen. Tap the toggle button next to it to switch the application theme. Step 4: Confirm the theme change Tap the Theme toggle again if needed until the preferred theme is selected, then verify that the application reflects the updated appearance."
+  },
+  {
+    "id": "settings/change-application-language",
+    "label": "Change the Application Language",
+    "slug": "settings/change-application-language",
+    "path": "en/audience-intelligence/mobile/settings/change-application-language.md",
+    "description": "Learn how to open the app settings and switch the Dima mobile application language.",
+    "content": "Change the Application Language Changing the application language allows users to switch between the available languages at any time. Users simply open the settings screen, select their preferred language option, and apply the change. This workflow is intended for users who want to use the application in a different language. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Settings screen Scroll to the bottom of the navigation menu and tap Settings to open the application settings. Step 3: Tap the language toggle The language option appears at the top of the Settings screen. Tap the toggle button next to it to switch the application language. Step 4: Confirm the language switch Tap the language toggle button again if needed until the preferred language is selected. The application will then reflect the updated language choice."
+  },
+  {
+    "id": "own-page/own-page-topic-insights",
+    "label": "Own Page - Topic Insights",
+    "slug": "own-page/own-page-topic-insights",
+    "path": "en/audience-intelligence/mobile/own-page/own-page-topic-insights.md",
+    "description": "Learn how to open the Own Page topic insights view, choose a topic, and review related analytics in the Dima mobile app.",
+    "content": "Own Page Topic Insights Explore the Topic Insights tab in Own Page to analyze topics, trends, and insights related to your page data. The Groups page follows the same general functionality and flow. This workflow is intended for users who want to explore topic based trends and insights related to their page activity. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Topic Insights tab Tap the Topic Insights tab to view topic related analytics and insights. Step 3: Open the topic filter Tap the topic filter to select the topic you want to analyze and view its related data. Step 4: View the topic filter page View the topic filter page to select and manage the topics you want to analyze. Step 5: Apply the filter Tap Apply to update the page with insights and data for the selected topic."
+  },
+  {
+    "id": "own-page/own-page-monitor",
+    "label": "Own Page - Monitor",
+    "slug": "own-page/own-page-monitor",
+    "path": "en/audience-intelligence/mobile/own-page/own-page-monitor.md",
+    "description": "Learn how to open the Own Page monitor view, review posts and activity, and ask AI Copilot about monitored content.",
+    "content": "Own Page Monitor Explore the Monitor tab in Own Page to track and analyze your page activities, mentions, and related data. The Groups page follows the same general functionality and flow. This workflow is intended for users who want to monitor page activity, review posts, and analyze related engagement data. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Monitor tab Tap the Monitor tab in Own Page to access monitoring data and track page activities. Step 3: View the Monitor page View posts and monitor page activities from the Monitor tab. Step 4: Open AI Copilot Tap the AI Copilot button to ask questions and get insights about the monitored posts. Step 5: Enter a question Write any question in AI Copilot to get insights and answers about the monitored posts."
+  },
+  {
+    "id": "own-page/own-page-analytics",
+    "label": "Own Page - Analytics",
+    "slug": "own-page/own-page-analytics",
+    "path": "en/audience-intelligence/mobile/own-page/own-page-analytics.md",
+    "description": "Learn how to open the Own Page analytics view, review performance charts, and ask AI Copilot about page analytics.",
+    "content": "Own Page Analytics Explore the Analytics tab in Own Page to view performance metrics, charts, and insights about your page data. The Groups page follows the same general functionality and flow. This workflow is intended for users who want to understand the performance of their page and explore related analytics insights. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Own Page tab Tap the Own Page tab in the top navigation bar to access your page analytics and insights. Step 3: Open the Analytics tab Tap the Analytics tab in Own Page to view performance metrics, charts, and insights. Step 4: View the Analytics page View analytics data, performance metrics, and charts for the selected page. Step 5: Open AI Copilot Tap the AI Copilot button above the chart to ask questions and get insights about the analytics data. Step 6: Enter a question Write any question in AI Copilot to get answers and insights based on the chart data."
+  },
+  {
+    "id": "own-page/own-page-accounts",
+    "label": "Own Page - Accounts",
+    "slug": "own-page/own-page-accounts",
+    "path": "en/audience-intelligence/mobile/own-page/own-page-accounts.md",
+    "description": "Learn how to open the Own Page accounts view, filter connected accounts, use AI Copilot, and inspect profile details.",
+    "content": "Own Page Accounts Explore the Accounts tab in Own Page to view and manage connected accounts. The Groups page follows the same general functionality and flow. This workflow is intended for users who want to review accounts that posted news and content about the brand and inspect their related performance details. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Accounts tab Tap the Accounts tab in Own Page to view the accounts that posted news and content about the brand. Step 3: Open the filter Tap the filter button to filter accounts based on posts and followers data. Step 4: Apply the filter Tap Apply to update the accounts list based on the selected filters. Step 5: Open AI Copilot Tap the AI Copilot button to ask questions and get insights about the accounts data. Step 6: Enter a question Write any question in AI Copilot to get answers and insights based on the accounts data. Step 7: View profile details Tap View Profile Details for any account to view its charts and related posts. Step 8: View the profile details page View the account performance charts and related posts from the profile details page."
+  },
+  {
+    "id": "own-page/apply-filters",
+    "label": "Apply Filters",
+    "slug": "own-page/apply-filters",
+    "path": "en/audience-intelligence/mobile/own-page/apply-filters.md",
+    "description": "Learn how to open the filter panel, choose filter criteria, and apply filters in the Own Page views of the Dima mobile app.",
+    "content": "Apply Filters Applying filters allows users to refine and customize the data displayed within the Dima application. Users simply open the filter panel, select the desired filter criteria, and apply the filters to update the displayed results. This workflow is intended for users who want to quickly find and analyze specific information. Step 1: Open the filter panel Tap the Filter icon at the top of the page to open the available filter options. Step 2: Select the filter criteria Choose the desired filter options, such as post type, topics, date range, or sentiment, to refine the displayed results. Step 3: Apply the filters Tap the Apply button to apply the selected filter criteria and update the displayed results."
+  },
+  {
+    "id": "notification/open-notification-page",
+    "label": "Open Notification Page",
+    "slug": "notification/open-notification-page",
+    "path": "en/audience-intelligence/mobile/notification/open-notification-page.md",
+    "description": "Learn how to open the Notifications page, review notification details, ask AI Copilot about a notification, and export it.",
+    "content": "Open Notification Page Viewing the Notifications page allows users to access all notifications and stay informed about important updates and activities within the Dima application. Users simply open the Notifications page to review their recent and previous notifications. This workflow is intended for users who want to stay up to date with application events and alerts. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Notifications page Tap the Notifications option in the navigation menu to open the Notifications page. Step 3: View notification details Tap any notification on the Notifications page to open it and view its details. Step 4: Open the AI Copilot assistant Tap the AI Copilot icon in the top left corner of the header to open the AI assistant and ask questions about the selected notification. Step 5: Ask a question about the notification Type your question in the chat input field, then tap the Send button to receive an AI generated response based on the selected notification. Step 6: Export the notification Tap the export button in the top right corner of the header to export the selected notification. Step 7: Select an export destination When the export options screen appears, select your preferred destination to export the notification."
+  },
+  {
+    "id": "notification/notification-center",
+    "label": "Notification Center",
+    "slug": "notification/notification-center",
+    "path": "en/audience-intelligence/mobile/notification/notification-center.md",
+    "description": "Learn how to open the Notification Center, manage notification subscriptions, and save your preferences in the Dima mobile app.",
+    "content": "Notification Center Managing the Notification Center allows users to control which types of notifications they receive from the Dima application. Users simply open the Notification Center, select their preferred notification settings, and save the changes. This workflow is intended for users who want to customize their notification preferences. Step 1: Open the navigation menu Tap the highlighted button in the top left corner of the header to open the navigation menu. Step 2: Open the Notification Center Tap the Notification Center option in the navigation menu to open the Notification Center page. Step 3: Manage your notification preferences Enable or disable the notification categories by using the toggle buttons next to each subscription. Step 4: Review your selected subscriptions Adjust the notification categories again if needed until your preferred subscription settings are selected. Step 5: Save your preferences Tap the Save button to apply your notification subscription preferences. Step 6: Verify the subscriptions were saved Verify that a confirmation message appears indicating that your notification subscription preferences have been saved successfully."
+  },
+  {
+    "id": "notification/make-all-notifications-as-read",
+    "label": "Make All Notifications As Read",
+    "slug": "notification/make-all-notifications-as-read",
+    "path": "en/audience-intelligence/mobile/notification/make-all-notifications-as-read.md",
+    "description": "Learn how to open the notifications list, mark all notifications as read, and confirm the action.",
+    "content": "Make All Notifications As Read Marking all notifications as read allows users to quickly mark every notification in the Dima application as read. Users simply open the Notifications page, select the Mark All as Read option, and confirm the action. This workflow is intended for users who want to clear all unread notifications at once. Step 1: Open the Notifications page Tap the View All button to open the Notifications page and view all available notifications. Step 2: Tap the Read All button Tap the Read All button in the top right corner of the header to mark all notifications as read. Step 3: Confirm the action A confirmation dialog will appear asking whether you want to mark all notifications as read. Tap Yes to proceed or No to cancel the action."
+  },
+  {
+    "id": "notification/filter-notifications",
+    "label": "Filter Notifications",
+    "slug": "notification/filter-notifications",
+    "path": "en/audience-intelligence/mobile/notification/filter-notifications.md",
+    "description": "Learn how to open the notifications filter panel, apply filters by type and date, and review the filtered results.",
+    "content": "Filter Notifications Filtering notifications allows users to quickly find specific notifications in the Dima application based on their preferred criteria. Users simply open the Notifications page, apply the desired filters, and view the filtered results. This workflow is intended for users who want to organize and locate notifications more efficiently. Step 1: Open the filter panel Tap the Filter button to open the notification filter panel. Step 2: Select the filter options The available filter options will be displayed. Select the filters you want to apply to the notifications. Step 3: Filter notifications by type Select one or more notification types to display only the notifications that match the selected type. Step 4: Filter notifications by date Select the desired date or date range to display notifications within the selected period. Step 5: Continue through the filter selection Tap the highlighted control to continue reviewing or refining the selected notification filters. Step 6: View the filtered results The notifications list will be updated to display only the notifications that match the selected filters. Step 7: Reset the filters Tap the Reset All button to clear all selected filters and restore the default notification list. Step 8: Apply the filters Tap the Apply button to apply the selected filters and update the notification list."
+  },
+  {
+    "id": "google-reviews/google-reviews",
+    "label": "Google Reviews",
+    "slug": "google-reviews/google-reviews",
+    "path": "en/audience-intelligence/mobile/google-reviews/google-reviews.md",
+    "description": "Learn how to open Google Reviews, review analytics, apply filters, and inspect branch-level review details in the Dima mobile app.",
+    "content": "Google Reviews Viewing Google Reviews allows users to access customer feedback for a selected brand within the Dima application. Users simply open the brand, navigate to the Google Reviews section, and review the available ratings and comments. This workflow is intended for users who want to monitor customer sentiment and gain insights into a brand's reputation. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Google Reviews tab Tap the Google Reviews tab in the top navigation bar to open the Google Reviews page. Step 3: Open the Analyze tab Tap the Analyze tab at the top of the Google Reviews page to view analytics and insights for the selected brand's reviews. Step 4: View the review analytics Review the available analytics, including review trends, sentiment insights, and key performance metrics for the selected brand. Step 5: Open the filters Tap the Filter icon to open the available filters for the review analytics. Step 6: View branch details Tap the desired branch to open its details page and view the associated Google Reviews. Step 7: View the Google Reviews Review the selected branch's Google Reviews, including ratings, review distribution, and customer feedback."
+  },
+  {
+    "id": "getting-started/open-onboarding-screens",
+    "label": "Open Onboarding Screens",
+    "slug": "getting-started/open-onboarding-screens",
+    "path": "en/audience-intelligence/mobile/getting-started/open-onboarding-screens.md",
+    "description": "Learn how to open and move through the Dima mobile app onboarding screens before entering the application.",
+    "content": "Open Onboarding Screens Opening the onboarding screens allows users to view the introduction to the Dima application before accessing its main features. Users simply launch the app and move through each onboarding page until they reach the next stage of the application. This workflow is intended for first time users or for users opening the application again after reinstalling it. Step 1: Tap the button in the top right corner of the header Tap the button in the top right corner of the header to begin navigating through the onboarding experience. Step 2: Go to the next onboarding screen Tap the Next button in the bottom right corner of the onboarding screen to continue. Step 3: Continue to the following onboarding screen Tap the Next button again to move to the next onboarding screen. Step 4: Complete the onboarding flow Tap the Let's Go button at the bottom of the onboarding screen to complete the onboarding process."
+  },
+  {
+    "id": "getting-started/login-in-dima-app",
+    "label": "Login in Dima App",
+    "slug": "getting-started/login-in-dima-app",
+    "path": "en/audience-intelligence/mobile/getting-started/login-in-dima-app.md",
+    "description": "Learn how to open the Dima mobile app, complete onboarding, and sign in with your account credentials.",
+    "content": "Login in Dima App Logging into the Dima application allows users to securely access their accounts and personalized features. Users simply launch the app, complete the onboarding flow if needed, enter their credentials, and sign in to continue to the home page. This workflow is intended for registered users accessing the Audience Intelligence mobile application for the first time or returning after reinstalling the app. Step 1: Open the Dima application Launch the Dima mobile application on your device to begin the login process. Step 2: Select your preferred language Choose your preferred language by tapping the corresponding button at the bottom of the screen. Step 3: Continue or skip the first onboarding screen Tap Next to continue through the onboarding screens, or tap Skip to proceed directly to the login screen. Step 4: Continue or skip the next onboarding screen If another onboarding screen appears, tap Next to continue or Skip to move directly to the login screen. Step 5: Complete onboarding Tap the Let's Go button at the bottom of the onboarding screen to complete onboarding and proceed to the login screen. Step 6: Choose whether to enable notifications Tap Enable Notifications to allow the app to send alerts and updates, or tap Not Now to continue without enabling notifications. Step 7: Confirm the system notification permission If the system permission dialog appears, tap Allow to enable notifications for the Dima application. Step 8: Enter your login credentials Enter your registered email address or username and password, then tap the Login button to sign in. Step 9: Wait for verification Wait while the application verifies your login credentials. Once verification is complete, you will be taken to the home page."
+  },
+  {
+    "id": "brand/change-brand",
+    "label": "Change Brand",
+    "slug": "brand/change-brand",
+    "path": "en/audience-intelligence/mobile/brand/change-brand.md",
+    "description": "Learn how to open the brand selector, choose a different brand, and save it in the Dima mobile app.",
+    "content": "Change Brand Changing the selected brand allows users to customize the content and notifications they receive within the Dima application. Users simply open the brand selection page, choose their preferred brand, and save the changes. This workflow is intended for users who want to receive data and notifications related to a specific brand. Step 1: Open the Brands selector Tap the Brands button on the right side of the bottom navigation bar to open the brand selection page. Step 2: Select a brand A bottom sheet will appear displaying the available brands. Tap your preferred brand to select it. Step 3: Save the selected brand Tap the Save button to apply your selected brand. Step 4: Verify the brand was changed Verify that the application updates to display data and notifications related to the selected brand."
+  },
+  {
+    "id": "analytics/audience-intelligence-topic-insights",
+    "label": "Audience Intelligence Topic Insights",
+    "slug": "analytics/audience-intelligence-topic-insights",
+    "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-topic-insights.md",
+    "description": "Learn how to open the Topic Insights tab, review topic analytics, and switch between topics in the Dima mobile app.",
+    "content": "Audience Intelligence Topic Insights Audience Intelligence Topic Insights allows users to explore insights and trends related to specific topics within the Dima application. Users simply open the Topic Insights tab to view topic analytics, related content, and performance metrics. This workflow is intended for users who want to analyze topic trends and better understand audience interests. Step 1: Open the Topic Insights tab Tap the Topic Insights tab to open the Audience Intelligence Topic Insights page. Step 2: View topic insights View topic insights, including analytics, performance metrics, and related content. Step 3: Open the topic filter Tap the Filter icon to open the topic selector and choose a different topic to view its insights. Step 4: Apply the selected topic Tap the Apply button to apply the selected topic and update the displayed insights."
+  },
+  {
+    "id": "analytics/audience-intelligence-monitor",
+    "label": "Audience Intelligence Monitor",
+    "slug": "analytics/audience-intelligence-monitor",
+    "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-monitor.md",
+    "description": "Learn how to open the Audience Intelligence Monitor, review brand mentions, and open post images in full-screen view.",
+    "content": "Audience Intelligence Monitor Audience Intelligence Monitor allows users to review posts and mentions related to the selected brand inside the Dima application. Users can open the monitor view, follow audience conversations, and inspect post images more closely when needed. This workflow is intended for users who want to monitor audience conversations and engagement around a selected brand. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Monitor tab Tap the Monitor tab in the top navigation bar to open the Audience Intelligence Monitor page. Step 3: View brand mentions View posts and mentions related to the selected brand to monitor audience conversations and engagement. Step 4: Open the post image Tap the post image to open it in full screen view. Step 5: View the post image View the selected post image in a larger format for better visibility."
+  },
+  {
+    "id": "analytics/audience-intelligence-market-insights",
+    "label": "Audience Intelligence Market Insights",
+    "slug": "analytics/audience-intelligence-market-insights",
+    "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-market-insights.md",
+    "description": "Learn how to open the Market Insights tab, review comparative analytics, ask AI Copilot about charts, and filter competitors and topics.",
+    "content": "Audience Intelligence Market Insights Audience Intelligence Market Insights allows users to compare their brand's performance with competitors within the Dima application. Users simply open the Market Insights tab to view comparative analytics, key performance metrics, and market trends. This workflow is intended for users who want to benchmark their brand against competitors and gain valuable market insights. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Market Insights tab Tap the Market Insights tab to open the Market Insights page and explore market trends, topics, and competitor insights. Step 3: View the Market Insights page Explore market insights and analytics data on the Market Insights page. Step 4: Open AI Copilot Tap the AI Copilot button above the chart to ask questions and get insights about the chart data. Step 5: Enter a question Enter any question in AI Copilot to get insights and answers based on the chart data. Step 6: Open the filter Tap the filter button to select topics and competitors to analyze and compare their insights. Step 7: Select filter options Select the topics and competitors from the available filters, then tap Apply to update the chart insights."
+  },
+  {
+    "id": "analytics/audience-intelligence-analytics",
+    "label": "Audience Intelligence Analytics",
+    "slug": "analytics/audience-intelligence-analytics",
+    "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-analytics.md",
+    "description": "Learn how to open the Audience Intelligence Analytics page, review analytics charts, and ask AI Copilot about a selected chart.",
+    "content": "Audience Intelligence Analytics Audience Intelligence Analytics allows users to explore insights and trends about their audience within the Dima application. Users simply open the Audience Intelligence Analytics page to view key metrics, demographic data, and audience behavior. This workflow is intended for users who want to better understand their audience and make data driven decisions. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: View analytics charts View the analytics charts to explore key audience insights and performance metrics. Step 3: Open AI Copilot Tap the AI Copilot icon above the chart to open AI Copilot and ask questions about the selected chart. Step 4: Enter your question Type your question in the AI Copilot chat box to receive insights about the selected chart."
+  },
+  {
+    "id": "analytics/audience-intelligence-accounts",
+    "label": "Audience Intelligence Accounts",
+    "slug": "analytics/audience-intelligence-accounts",
+    "path": "en/audience-intelligence/mobile/analytics/audience-intelligence-accounts.md",
+    "description": "Learn how to open the Accounts tab, review brand accounts, apply filters, and inspect account details in the Dima mobile app.",
+    "content": "Audience Intelligence Accounts Audience Intelligence Accounts allows users to explore the social media accounts associated with a selected brand within the Dima application. Users simply open the Accounts tab to view account details, monitor account activity, and access related information. This workflow is intended for users who want to analyze and manage the brand's social media presence. Step 1: Open the Analytics page Tap the Analytics icon in the bottom navigation bar to open the Analytics page. Step 2: Open the Accounts tab Tap the Accounts tab in the top navigation bar to open the Audience Intelligence Accounts page. Step 3: View brand accounts View all social media accounts associated with the selected brand. Step 4: Open the account filters Tap the Filter icon to open the available account filters and refine the displayed accounts based on criteria such as followers, posts, and other available options. Step 5: Apply the selected filters Tap the Apply button to apply the selected filter criteria and update the displayed accounts. Step 6: Open an account Open an account to view its profile details and additional account information. Step 7: View account details View the account profile, including analytics, performance charts, and recent posts."
+  },
+  {
+    "id": "analytics/apply-filters",
+    "label": "Apply Filters",
+    "slug": "analytics/apply-filters",
+    "path": "en/audience-intelligence/mobile/analytics/apply-filters.md",
+    "description": "Learn how to open the filter panel, choose filter criteria, and apply filters in the analytics views of the Dima mobile app.",
+    "content": "Apply Filters Applying filters allows users to refine and customize the data displayed within the Dima application. Users simply open the filter panel, select the desired filter criteria, and apply the filters to update the displayed results. This workflow is intended for users who want to quickly find and analyze specific information. Step 1: Open the filter panel Tap the Filter icon at the top of the page to open the available filter options. Step 2: Select the filter criteria Choose the desired filter options, such as post type, topics, date range, or sentiment, to refine the displayed results. Step 3: Apply the filters Tap the Apply button to apply the selected filter criteria and update the displayed results."
+  },
+  {
+    "id": "ai-chat/ai-copilot-chat",
+    "label": "AI Copilot Chat",
+    "slug": "ai-chat/ai-copilot-chat",
+    "path": "en/audience-intelligence/mobile/ai-chat/ai-copilot-chat.md",
+    "description": "Learn how to open the AI Copilot chat, send a message, and browse recommended questions in the Dima mobile app.",
+    "content": "AI Copilot Chat Using the AI Copilot chat allows users to interact with the AI assistant to ask questions, receive guidance, and get instant responses. Users simply open the AI Copilot, type their message, and submit it to receive assistance. This workflow is intended for users who need information, support, or AI powered recommendations within the Dima application. Step 1: Open the AI Copilot chat Tap the Let's Chat button to open the AI Copilot chat screen and start a new conversation. Step 2: Enter your question or message Type your question or message in the chat input field to start a conversation with the AI Copilot. Step 3: Open the recommended questions Tap the leftmost button in the chat screen to open the list of recommended questions."
+  }
+]

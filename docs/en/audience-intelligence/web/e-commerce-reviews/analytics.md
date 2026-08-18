@@ -1,7 +1,10 @@
 ---
-label: "Analytics Dashboard"
-description: "Learn how to interpret the analytics dashboard to track product sentiment, ratings, and review volume over time."
+label: Analytics Dashboard
+description: >-
+  Learn how to interpret the analytics dashboard to track product sentiment,
+  ratings, and review volume over time.
 order: 2
+readingTime: 2
 ---
 
 # Product Reviews Analytics

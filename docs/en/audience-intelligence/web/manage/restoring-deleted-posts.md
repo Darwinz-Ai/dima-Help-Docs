@@ -1,7 +1,10 @@
 ---
-label: "Restoring Posts"
-description: "Learn how to recover previously deleted posts and bring them back into your monitoring feeds."
+label: Restoring Posts
+description: >-
+  Learn how to recover previously deleted posts and bring them back into your
+  monitoring feeds.
 order: 7
+readingTime: 1
 ---
 
 # Restoring Posts

@@ -1,7 +1,10 @@
 ---
-label: "Audience Intelligence Topic Insights"
-description: "Learn how to open the Topic Insights tab, review topic analytics, and switch between topics in the Dima mobile app."
+label: Audience Intelligence Topic Insights
+description: >-
+  Learn how to open the Topic Insights tab, review topic analytics, and switch
+  between topics in the Dima mobile app.
 order: 4
+readingTime: 1
 ---
 
 # Audience Intelligence Topic Insights

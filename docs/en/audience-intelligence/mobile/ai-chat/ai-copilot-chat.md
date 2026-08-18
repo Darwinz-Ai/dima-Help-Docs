@@ -1,7 +1,10 @@
 ---
-label: "AI Copilot Chat"
-description: "Learn how to open the AI Copilot chat, send a message, and browse recommended questions in the Dima mobile app."
+label: AI Copilot Chat
+description: >-
+  Learn how to open the AI Copilot chat, send a message, and browse recommended
+  questions in the Dima mobile app.
 order: 1
+readingTime: 1
 ---
 
 # AI Copilot Chat

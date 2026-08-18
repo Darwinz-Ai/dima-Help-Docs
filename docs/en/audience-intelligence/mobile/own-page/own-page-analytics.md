@@ -1,7 +1,10 @@
 ---
-label: "Own Page - Analytics"
-description: "Learn how to open the Own Page analytics view, review performance charts, and ask AI Copilot about page analytics."
+label: Own Page - Analytics
+description: >-
+  Learn how to open the Own Page analytics view, review performance charts, and
+  ask AI Copilot about page analytics.
 order: 1
+readingTime: 1
 ---
 
 # Own Page - Analytics

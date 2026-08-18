@@ -1,7 +1,10 @@
 ---
-label: "Monitoring Product Reviews"
-description: "Learn how to track and analyze customer feedback for your products across major e-commerce platforms."
+label: Monitoring Product Reviews
+description: >-
+  Learn how to track and analyze customer feedback for your products across
+  major e-commerce platforms.
 order: 1
+readingTime: 2
 ---
 
 # Monitoring Product Reviews

@@ -1,7 +1,10 @@
 ---
-label: "Own Page - Monitor"
-description: "Learn how to open the Own Page monitor view, review posts and activity, and ask AI Copilot about monitored content."
+label: Own Page - Monitor
+description: >-
+  Learn how to open the Own Page monitor view, review posts and activity, and
+  ask AI Copilot about monitored content.
 order: 2
+readingTime: 1
 ---
 
 # Own Page - Monitor

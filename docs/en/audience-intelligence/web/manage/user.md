@@ -1,7 +1,10 @@
 ---
-label: "Users"
-description: "Learn how to add, edit, and delete users to manage workspace access and permissions."
+label: Users
+description: >-
+  Learn how to add, edit, and delete users to manage workspace access and
+  permissions.
 order: 6
+readingTime: 3
 ---
 
 # Managing Users

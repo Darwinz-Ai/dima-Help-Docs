@@ -1,7 +1,10 @@
 ---
-label: "Change The Application Theme"
-description: "Learn how to open the theme setting, switch the application theme, and save the change in the Dima mobile app."
+label: Change The Application Theme
+description: >-
+  Learn how to open the theme setting, switch the application theme, and save
+  the change in the Dima mobile app.
 order: 4
+readingTime: 1
 ---
 
 # Change The Application Theme

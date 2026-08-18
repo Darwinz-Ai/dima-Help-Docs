@@ -1,7 +1,10 @@
 ---
-label: "Update or Delete Topic"
-description: "Learn how to open a topic's options, update its details, or delete it in the Dima mobile app."
+label: Update or Delete Topic
+description: >-
+  Learn how to open a topic's options, update its details, or delete it in the
+  Dima mobile app.
 order: 2
+readingTime: 1
 ---
 
 # Update or Delete Topic

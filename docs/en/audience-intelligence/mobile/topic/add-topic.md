@@ -1,7 +1,10 @@
 ---
-label: "Add Topic"
-description: "Learn how to open the Topics page, enter topic details, and create a new topic in the Dima mobile app."
+label: Add Topic
+description: >-
+  Learn how to open the Topics page, enter topic details, and create a new topic
+  in the Dima mobile app.
 order: 1
+readingTime: 1
 ---
 
 # Add Topic

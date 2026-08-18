@@ -1,7 +1,10 @@
 ---
-label: "Audience Intelligence Accounts"
-description: "Learn how to open the Accounts tab, review brand accounts, apply filters, and inspect account details in the Dima mobile app."
+label: Audience Intelligence Accounts
+description: >-
+  Learn how to open the Accounts tab, review brand accounts, apply filters, and
+  inspect account details in the Dima mobile app.
 order: 3
+readingTime: 1
 ---
 
 # Audience Intelligence Accounts

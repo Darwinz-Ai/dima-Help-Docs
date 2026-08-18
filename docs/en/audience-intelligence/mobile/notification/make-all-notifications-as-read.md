@@ -1,7 +1,10 @@
 ---
-label: "Make All Notifications As Read"
-description: "Learn how to open the notifications list, mark all notifications as read, and confirm the action."
+label: Make All Notifications As Read
+description: >-
+  Learn how to open the notifications list, mark all notifications as read, and
+  confirm the action.
 order: 4
+readingTime: 1
 ---
 
 # Make All Notifications As Read

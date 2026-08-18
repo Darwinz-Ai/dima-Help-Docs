@@ -1,7 +1,10 @@
 ---
-label: "Change Brand"
-description: "Learn how to open the brand selector, choose a different brand, and save it in the Dima mobile app."
+label: Change Brand
+description: >-
+  Learn how to open the brand selector, choose a different brand, and save it in
+  the Dima mobile app.
 order: 1
+readingTime: 1
 ---
 
 # Change Brand

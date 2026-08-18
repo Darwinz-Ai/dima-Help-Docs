@@ -1,7 +1,10 @@
 ---
-label: "Audience Intelligence Analytics"
-description: "Learn how to open the Audience Intelligence Analytics page, review analytics charts, and ask AI Copilot about a selected chart."
+label: Audience Intelligence Analytics
+description: >-
+  Learn how to open the Audience Intelligence Analytics page, review analytics
+  charts, and ask AI Copilot about a selected chart.
 order: 1
+readingTime: 1
 ---
 
 # Audience Intelligence Analytics

@@ -1,7 +1,10 @@
 ---
-label: "Own Page - Accounts"
-description: "Learn how to open the Own Page accounts view, filter connected accounts, use AI Copilot, and inspect profile details."
+label: Own Page - Accounts
+description: >-
+  Learn how to open the Own Page accounts view, filter connected accounts, use
+  AI Copilot, and inspect profile details.
 order: 3
+readingTime: 2
 ---
 
 # Own Page - Accounts

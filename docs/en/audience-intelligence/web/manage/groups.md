@@ -1,7 +1,10 @@
 ---
-label: "Groups"
-description: "Learn how to add, edit, and delete Facebook Groups to monitor community discussions and trends."
+label: Groups
+description: >-
+  Learn how to add, edit, and delete Facebook Groups to monitor community
+  discussions and trends.
 order: 4
+readingTime: 2
 ---
 
 # Managing Groups

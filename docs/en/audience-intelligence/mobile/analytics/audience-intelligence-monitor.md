@@ -1,7 +1,10 @@
 ---
-label: "Audience Intelligence Monitor"
-description: "Learn how to open the Audience Intelligence Monitor, review brand mentions, and open post images in full-screen view."
+label: Audience Intelligence Monitor
+description: >-
+  Learn how to open the Audience Intelligence Monitor, review brand mentions,
+  and open post images in full-screen view.
 order: 2
+readingTime: 1
 ---
 
 # Audience Intelligence Monitor

@@ -1,7 +1,10 @@
 ---
-label: "Google Reviews"
-description: "Learn how to open Google Reviews, review analytics, apply filters, and inspect branch-level review details in the Dima mobile app."
+label: Google Reviews
+description: >-
+  Learn how to open Google Reviews, review analytics, apply filters, and inspect
+  branch-level review details in the Dima mobile app.
 order: 1
+readingTime: 1
 ---
 
 # Google Reviews

@@ -1,7 +1,10 @@
 ---
-label: "Audience Intelligence Market Insights"
-description: "Learn how to open the Market Insights tab, review comparative analytics, ask AI Copilot about charts, and filter competitors and topics."
+label: Audience Intelligence Market Insights
+description: >-
+  Learn how to open the Market Insights tab, review comparative analytics, ask
+  AI Copilot about charts, and filter competitors and topics.
 order: 5
+readingTime: 1
 ---
 
 # Audience Intelligence Market Insights

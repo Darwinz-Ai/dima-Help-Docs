@@ -1,7 +1,10 @@
 ---
-label: "Sign Out"
-description: "Learn how to open the settings screen and securely sign out of the Dima mobile application."
+label: Sign Out
+description: >-
+  Learn how to open the settings screen and securely sign out of the Dima mobile
+  application.
 order: 5
+readingTime: 1
 ---
 
 # Sign Out

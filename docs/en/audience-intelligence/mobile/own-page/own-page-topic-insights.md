@@ -1,7 +1,10 @@
 ---
-label: "Own Page - Topic Insights"
-description: "Learn how to open the Own Page topic insights view, choose a topic, and review related analytics in the Dima mobile app."
+label: Own Page - Topic Insights
+description: >-
+  Learn how to open the Own Page topic insights view, choose a topic, and review
+  related analytics in the Dima mobile app.
 order: 4
+readingTime: 1
 ---
 
 # Own Page - Topic Insights

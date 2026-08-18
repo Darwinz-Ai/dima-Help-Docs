@@ -1,6 +1,9 @@
 ---
-label: "Generating & Downloading Reports"
-description: "Learn how to select posts, add them to a collection, and export them as presentations, tables, or emails."
+label: Generating & Downloading Reports
+description: >-
+  Learn how to select posts, add them to a collection, and export them as
+  presentations, tables, or emails.
+readingTime: 2
 ---
 
 # Generating & Downloading Reports

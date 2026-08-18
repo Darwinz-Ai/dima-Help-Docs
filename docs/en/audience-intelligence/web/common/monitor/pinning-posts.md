@@ -1,7 +1,10 @@
 ---
-label: "Pinning Posts"
-description: "Learn how to pin specific posts to the top of your monitoring feed for easy tracking and crisis management."
+label: Pinning Posts
+description: >-
+  Learn how to pin specific posts to the top of your monitoring feed for easy
+  tracking and crisis management.
 order: 10
+readingTime: 1
 ---
 
 # Pinning Posts

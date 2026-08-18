@@ -1,7 +1,10 @@
 ---
-label: "Contact Us"
-description: "Learn how to open the Contact Us page, write your message, and submit it to the Dima support team."
+label: Contact Us
+description: >-
+  Learn how to open the Contact Us page, write your message, and submit it to
+  the Dima support team.
 order: 2
+readingTime: 1
 ---
 
 # Contact Us

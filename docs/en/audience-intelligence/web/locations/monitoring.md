@@ -1,7 +1,10 @@
 ---
-label: "Monitoring Locations"
-description: "Learn how to track and filter Google Reviews for your company's physical locations."
+label: Monitoring Locations
+description: >-
+  Learn how to track and filter Google Reviews for your company's physical
+  locations.
 order: 14
+readingTime: 2
 ---
 
 # Monitoring Locations

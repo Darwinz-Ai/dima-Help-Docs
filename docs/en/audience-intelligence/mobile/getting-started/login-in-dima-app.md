@@ -1,7 +1,10 @@
 ---
-label: "Login in Dima App"
-description: "Learn how to open the Dima mobile app, complete onboarding, and sign in with your account credentials."
+label: Login in Dima App
+description: >-
+  Learn how to open the Dima mobile app, complete onboarding, and sign in with
+  your account credentials.
 order: 1
+readingTime: 2
 ---
 
 # Login in Dima App

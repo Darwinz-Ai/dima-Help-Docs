@@ -1,7 +1,10 @@
 ---
-label: "Notification Center"
-description: "Learn how to open the Notification Center, manage notification subscriptions, and save your preferences in the Dima mobile app."
+label: Notification Center
+description: >-
+  Learn how to open the Notification Center, manage notification subscriptions,
+  and save your preferences in the Dima mobile app.
 order: 2
+readingTime: 1
 ---
 
 # Notification Center

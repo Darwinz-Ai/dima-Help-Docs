@@ -1,7 +1,10 @@
 ---
-label: "Apply Filters"
-description: "Learn how to open the filter panel, choose filter criteria, and apply filters in the analytics views of the Dima mobile app."
+label: Apply Filters
+description: >-
+  Learn how to open the filter panel, choose filter criteria, and apply filters
+  in the analytics views of the Dima mobile app.
 order: 6
+readingTime: 1
 ---
 
 # Apply Filters

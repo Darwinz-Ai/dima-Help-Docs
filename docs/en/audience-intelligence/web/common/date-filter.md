@@ -1,6 +1,9 @@
 ---
-label: "Using the Date Filter"
-description: "Learn how to filter your analytics and dashboard data by specific date ranges across various modules."
+label: Using the Date Filter
+description: >-
+  Learn how to filter your analytics and dashboard data by specific date ranges
+  across various modules.
+readingTime: 2
 ---
 
 # Using the Date Filter

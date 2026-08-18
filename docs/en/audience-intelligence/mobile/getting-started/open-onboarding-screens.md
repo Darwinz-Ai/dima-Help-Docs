@@ -1,7 +1,10 @@
 ---
-label: "Open Onboarding Screens"
-description: "Learn how to open and move through the Dima mobile app onboarding screens before entering the application."
+label: Open Onboarding Screens
+description: >-
+  Learn how to open and move through the Dima mobile app onboarding screens
+  before entering the application.
 order: 2
+readingTime: 1
 ---
 
 # Open Onboarding Screens

@@ -1,7 +1,10 @@
 ---
-label: "Locations Analytics"
-description: "Learn how to analyze aggregate Google Review data across all your company's physical locations."
+label: Locations Analytics
+description: >-
+  Learn how to analyze aggregate Google Review data across all your company's
+  physical locations.
 order: 15
+readingTime: 2
 ---
 
 # Locations Analytics

@@ -1,6 +1,9 @@
 ---
-label: "Using Filters"
-description: "Learn how to filter your social and media data by sentiment, demographics, topics, and platforms."
+label: Using Filters
+description: >-
+  Learn how to filter your social and media data by sentiment, demographics,
+  topics, and platforms.
+readingTime: 2
 ---
 
 # Filtering Data

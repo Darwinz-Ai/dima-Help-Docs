@@ -1,7 +1,10 @@
 ---
-label: "Delete An Account"
-description: "Learn how to open the account settings, start the delete account flow, and confirm permanent account removal."
+label: Delete An Account
+description: >-
+  Learn how to open the account settings, start the delete account flow, and
+  confirm permanent account removal.
 order: 6
+readingTime: 1
 ---
 
 # Delete An Account

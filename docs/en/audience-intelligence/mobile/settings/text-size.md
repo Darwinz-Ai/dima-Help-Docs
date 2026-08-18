@@ -1,7 +1,10 @@
 ---
-label: "Text Size"
-description: "Learn how to open the text size setting, choose your preferred size, and save it in the Dima mobile app."
+label: Text Size
+description: >-
+  Learn how to open the text size setting, choose your preferred size, and save
+  it in the Dima mobile app.
 order: 3
+readingTime: 1
 ---
 
 # Text Size

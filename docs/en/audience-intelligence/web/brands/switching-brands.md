@@ -1,6 +1,9 @@
 ---
-label: "Switching Brands"
-description: "Learn how to quickly switch your active workspace to view data and reports for a different company."
+label: Switching Brands
+description: >-
+  Learn how to quickly switch your active workspace to view data and reports for
+  a different company.
+readingTime: 1
 ---
 
 # Switching Between Brands
