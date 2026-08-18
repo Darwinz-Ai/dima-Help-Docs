@@ -4,30 +4,11 @@ import matter from "gray-matter";
 import { globSync } from "glob";
 
 import type { Manifest, ManifestGroup, SearchItem } from "../utils/types.js";
-import { GROUP_ORDER, GROUP_TRANSLATIONS, SUPPORTED_LOCALES, SUPPORTED_SERVICES } from "../utils/constants.js";
-
-const SUPPORTED_PLATFORMS = ["web", "mobile"];
+import { cleanMarkdownContent, formatLabel } from "../utils/helpers.js";
+import { GROUP_ORDER, GROUP_TRANSLATIONS, SUPPORTED_LOCALES, SUPPORTED_PLATFORMS, SUPPORTED_SERVICES } from "../utils/constants.js";
 
 const DOCS_DIR = path.join(process.cwd(), "docs");
 const MANIFESTS_DIR = path.join(process.cwd(), "manifests");
-
-const formatLabel = (str: string): string =>
-    str
-        .split("-")
-        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-        .join(" ");
-
-function cleanMarkdownContent(rawContent: string): string {
-    return rawContent
-        .replace(/```[\s\S]*?```/g, "")         // Remove code blocks
-        .replace(/<[^>]*>/g, " ")               // Remove HTML tags (<video>, <img>, blockquotes, etc.)
-        .replace(/!\[.*?\]\(.*?\)/g, "")        // Remove images ![alt](url)
-        .replace(/\[(.*?)\]\(.*?\)/g, "$1")     // Keep link text, drop URL [text](url) -> text
-        .replace(/`([^`]+)`/g, "$1")            // Inline code `code` -> code
-        .replace(/[#*`>_~\-|=]/g, " ")          // Remove Markdown structural characters
-        .replace(/\s+/g, " ")                   // Collapse multiple spaces/newlines
-        .trim();
-}
 
 function generateManifests() {
     SUPPORTED_LOCALES.forEach((locale) => {

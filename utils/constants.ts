@@ -1,5 +1,7 @@
+
 export const SUPPORTED_LOCALES = ["en", "ar"];
 export const SUPPORTED_SERVICES = ["audience-intelligence", "pr-comms"];
+export const SUPPORTED_PLATFORMS = ["web", "mobile"];
 export const GROUP_ORDER = [
     "Brands",
     "Common",
