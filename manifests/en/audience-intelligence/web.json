@@ -272,6 +272,18 @@
           "order": 7
         }
       ]
+    },
+    {
+      "label": "Getting Started",
+      "items": [
+        {
+          "label": "How to Use the Help Center",
+          "slug": "getting-started/welcome",
+          "path": "en/audience-intelligence/web/getting-started/welcome.md",
+          "description": "Get the most out of dima's documentation with tips on searching, navigating, and finding exactly what you need.",
+          "order": 1
+        }
+      ]
     }
   ]
 }
