@@ -9,7 +9,7 @@ readingTime: 2
 
 # How to Use The Guides Library
 
-Welcome to the **dima** Guides Library!
+![Welcome to the Guides Library](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/welcome-guide.png)
 
 Our Guides Library is designed to help you find answers and guidance whenever you need it on the platform. We’ve made it easy for you to access guides wherever you are:
 
