@@ -19,7 +19,7 @@ readingTime: 1
 
 ## كيفية تثبيت منشور
 
-![لقطة شاشة لبطاقة منشور في موجز المراقبة، تبرز أيقونة النجمة في الزاوية السفلية اليسرى المستخدمة لتثبيت المنشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/pinning-posts/pinning-posts.pngg)
+![لقطة شاشة لبطاقة منشور في موجز المراقبة، تبرز أيقونة النجمة في الزاوية السفلية اليسرى المستخدمة لتثبيت المنشور](https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/common/monitor/pinning-posts/pinning-posts.png)
 
 1. انتقل إلى وحدة **رؤي الجمهور** باستخدام الشريط الجانبي الرئيسي.
 2. افتح علامة تبويب **المراقبة** لعرض موجز المنشورات المتتبعة.
