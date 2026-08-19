@@ -1,5 +1,5 @@
 ---
-label: How to Use the Guides Library
+label: How To Use The Guides Library
 description: >-
   Get the most out of dima's Guides Library with tips on searching, navigating,
   and quickly finding exactly what you need.
@@ -7,7 +7,7 @@ order: 1
 readingTime: 2
 ---
 
-# How to Use the Guides Library
+# How to Use The Guides Library
 
 Welcome to the **dima** Guides Library!
 

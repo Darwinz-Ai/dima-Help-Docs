@@ -7,10 +7,10 @@
       "label": "Getting Started",
       "items": [
         {
-          "label": "How to Use the Help Center",
+          "label": "How To Use The Guides Library",
           "slug": "",
           "path": "en/audience-intelligence/web/index.md",
-          "description": "Get the most out of dima's documentation with tips on searching, navigating, and finding exactly what you need.",
+          "description": "Get the most out of dima's Guides Library with tips on searching, navigating, and quickly finding exactly what you need.",
           "order": 1
         }
       ]
