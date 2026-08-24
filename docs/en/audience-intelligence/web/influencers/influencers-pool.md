@@ -32,7 +32,7 @@ dima allows you to search for influencers, dive deep into their analytics, and c
 
 Once you open a profile, a detailed panel will appear with in-depth statistics. Use the scrollbar within this panel to explore the different sections:
 
-- **Performance Intelligence & Benchmarks:** Review the influencer's overall reach, engagement rates, and how they stack up against industry standards.
+- **Performance Intelligence & Benchmarks:** Review the influencer's overall views, engagement rates, and how they stack up against industry standards.
 
 - **Risk Assessment:** Identify potential red flags or controversies before engaging with the influencer.
 
