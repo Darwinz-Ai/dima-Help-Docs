@@ -81,7 +81,12 @@ To learn how to build individual data visuals, visit our guide on **[Creating Ch
 You can apply global filters across your entire dashboard to narrow down the displayed dataset without editing individual charts:
 
 - **Global Company & Source Filters:** Use the top filter bar to include or exclude specific assigned companies or filter by data sources.
-  > _For an overview of the available filters and settings specific to each data source, see our filter guides for **[Audience Intelligence](/en/guides/common/filters)**, **[E-Commerce Reviews](/en/guides/e-commerce-reviews/filters)**, **[Locations](/en/guides/locations/monitoring)**, and **[Conversation Analysis](/en/guides/conversation-analysis/filters)**._
+  > **Note:** For an overview of the available filters and settings for each data source, see our filter guides:
+  >
+  > - [Audience Intelligence](/en/guides/common/filters)
+  > - [E-Commerce Reviews](/en/guides/e-commerce-reviews/filters)
+  > - [Locations](/en/guides/locations/monitoring)
+  > - [Conversation Analysis](/en/guides/conversation-analysis/filters)
 - **Date Filter:** Define the exact timeframe for all data pulled across the dashboard.
 - **Locking Date Ranges:** By default, dynamic date ranges move forward by one day each morning _(e.g., a 7-day range of Aug 17–Aug 24 today becomes Aug 18–Aug 25 tomorrow)_. Click the **Lock** icon next to the date selector to freeze the start and end dates permanently whenever you access this dashboard.
   > **Note:** After locking or adjusting your date range, make sure to click **Save Dashboard** at the top of the screen to lock that range permanently.
