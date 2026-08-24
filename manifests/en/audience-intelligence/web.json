@@ -45,7 +45,7 @@
           "order": 999
         },
         {
-          "label": "Using the Date Filter",
+          "label": "Using The Date Filter",
           "slug": "common/date-filter",
           "path": "en/audience-intelligence/web/common/date-filter.md",
           "description": "Learn how to filter your analytics and dashboard data by specific date ranges across various modules.",
@@ -108,7 +108,7 @@
           "label": "Creating Dashboards",
           "slug": "made-for-you/creating-dashboards",
           "path": "en/audience-intelligence/web/made-for-you/creating-dashboards.md",
-          "description": "Learn how to build, edit, duplicate, and delete custom dashboards in the Made For You module.",
+          "description": "Learn how to build, edit, customize, filter, share, and manage custom dashboards in the Made For You module.",
           "order": 1
         },
         {
