@@ -1,12 +1,12 @@
 ---
-label: Using the Date Filter
+label: Using The Date Filter
 description: >-
   Learn how to filter your analytics and dashboard data by specific date ranges
   across various modules.
 readingTime: 2
 ---
 
-# Using the Date Filter
+# Using The Date Filter
 
 <video controls=""><source src="https://dubble.so/media/video/843f17b7-6d60-4569-95c1-04664df10e12" type="video/mp4"></video>
 
@@ -21,11 +21,12 @@ This filter is available across most modules, including:
 - **Conversation Analysis**
 - **Influencers**
 - **Locations**
+- **E-Commerce Review**
 - **Manage** (Deleted Posts)
 
 ---
 
-## 1. Opening the Date Picker
+## 1. Opening The Date Picker
 
 To change the timeframe of the data you are viewing, click the **date-range button** located at the top of the page. This button always displays the currently applied range (e.g., "Jul 09, 2026 - Aug 09, 2026").
 
