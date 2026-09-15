@@ -9,7 +9,7 @@ readingTime: 4
 
 # Adding a Company
 
-<video controls=""><source src="https://dubble.so/media/video/01b7c4e3-7454-41da-b3e2-998b69e08706" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-en.mp4" type="video/mp4"></video>
 
 A **Company** in dima represents the brand, competitor, or subject matter you want to monitor (e.g., _Tesla_ or _Automotive Industry in Saudi Arabia_).
 
