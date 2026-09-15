@@ -256,6 +256,13 @@
           "order": 3
         },
         {
+          "label": "التسميات",
+          "slug": "manage/labels",
+          "path": "ar/audience-intelligence/web/manage/labels.md",
+          "description": "تعرّف على كيفية إنشاء التسميات وتعديلها وحذفها لوسم بياناتك وتنظيمها،  مما يسهّل تصفية الإشارات ومتابعة حملات معينة.",
+          "order": 4
+        },
+        {
           "label": "المجموعات",
           "slug": "manage/groups",
           "path": "ar/audience-intelligence/web/manage/groups.md",

@@ -3,7 +3,7 @@ label: Users
 description: >-
   Learn how to add, edit, and delete users to manage workspace access and
   permissions.
-order: 6
+order: 7
 readingTime: 3
 ---
 

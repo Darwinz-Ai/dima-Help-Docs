@@ -256,6 +256,13 @@
           "order": 3
         },
         {
+          "label": "Labels",
+          "slug": "manage/labels",
+          "path": "en/audience-intelligence/web/manage/labels.md",
+          "description": "Learn how to create, edit, and delete labels to tag and organize your data,  making it easier to filter mentions and track specific campaigns.",
+          "order": 4
+        },
+        {
           "label": "Groups",
           "slug": "manage/groups",
           "path": "en/audience-intelligence/web/manage/groups.md",
@@ -274,7 +281,7 @@
           "slug": "manage/user",
           "path": "en/audience-intelligence/web/manage/user.md",
           "description": "Learn how to add, edit, and delete users to manage workspace access and permissions.",
-          "order": 6
+          "order": 7
         },
         {
           "label": "Restoring Posts",
