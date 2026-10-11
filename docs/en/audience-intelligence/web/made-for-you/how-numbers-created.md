@@ -1,9 +1,11 @@
 ---
 label: How The Numbers Are Counted
 description: >-
-  Understand exactly how Made For You charts calculate their numbers: what each total includes, what it leaves out, and why two charts can show different results.
+  Understand exactly how Made For You charts calculate their numbers: what each
+  total includes, what it leaves out, and why two charts can show different
+  results.
 order: 1
-readingTime: 4
+readingTime: 16
 ---
 
 # Understanding Your Chart Metrics

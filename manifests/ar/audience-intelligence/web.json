@@ -105,6 +105,13 @@
       "label": "مصنوع لك",
       "items": [
         {
+          "label": "كيف تُحتسب الأرقام",
+          "slug": "made-for-you/how-numbers-created",
+          "path": "ar/audience-intelligence/web/made-for-you/how-numbers-created.md",
+          "description": "افهم بدقة كيف تحسب مخططات مصنوع لك أرقامها: ما الذي يدخل في كل إجمالي، وما الذي يُستبعد منه، ولماذا قد يعرض مخططان نتائج مختلفة.",
+          "order": 1
+        },
+        {
           "label": "إنشاء لوحات التحكم",
           "slug": "made-for-you/creating-dashboards",
           "path": "ar/audience-intelligence/web/made-for-you/creating-dashboards.md",

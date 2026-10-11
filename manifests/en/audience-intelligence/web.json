@@ -105,6 +105,13 @@
       "label": "Made For You",
       "items": [
         {
+          "label": "How The Numbers Are Counted",
+          "slug": "made-for-you/how-numbers-created",
+          "path": "en/audience-intelligence/web/made-for-you/how-numbers-created.md",
+          "description": "Understand exactly how Made For You charts calculate their numbers: what each total includes, what it leaves out, and why two charts can show different results.",
+          "order": 1
+        },
+        {
           "label": "Creating Dashboards",
           "slug": "made-for-you/creating-dashboards",
           "path": "en/audience-intelligence/web/made-for-you/creating-dashboards.md",
