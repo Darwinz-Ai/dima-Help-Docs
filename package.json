@@ -14,6 +14,7 @@
   },
   "scripts": {
     "build:manifests": "tsx scripts/inject-reading-time.ts && tsx scripts/sync-docs.ts",
-    "precommit": "npm run build:manifests && git add manifests/ docs/"
+    "precommit": "npm run build:manifests && git add manifests/ docs/",
+    "upload:images": "tsx scripts/upload-images.ts"
   }
 }

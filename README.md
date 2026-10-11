@@ -113,7 +113,7 @@ Please reference `docs/en/audience-intelligence/web/brands/add-company.md` as th
 
 Do not store raw images directly in this repository to prevent bloating the git history.
 
-All images must be manually uploaded to our Google Cloud Storage bucket: `mediamonitor/dimabothelp/images`.
+All images must be uploaded to our Google Cloud Storage bucket: `mediamonitor/dimabothelp/images`, either manually or with the upload script below.
 
 **The GCS Folder Rule:**
 The folder structure inside GCS must exactly mirror the repository structure, **with one addition:** you must create a final folder named identically to the `.md` file to house its specific images.
@@ -128,6 +128,23 @@ Once uploaded, grab the public URL from GCS and reference it in your markdown:
 ```markdown
 ![Description for screen readers & chatbot](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/brands/add-company/add-company-step-1.png)
 ```
+
+### Uploading with the script
+
+Instead of uploading by hand, put your files in the gitignored `_gcs-upload/` folder at the repo root, using the same folder rule as the bucket (`_gcs-upload/en/audience-intelligence/web/brands/add-company/add-company-step-1.png`). Then run:
+
+```bash
+npm run upload:images -- --dry-run                    # preview, uploads nothing
+npm run upload:images                                 # upload everything (en + ar)
+npm run upload:images -- --locale=ar                  # one locale only
+npm run upload:images -- --doc=en/audience-intelligence/web/brands/add-company #specific
+```
+
+Requires the Google Cloud CLI, signed in with access to the bucket (`gcloud auth login`). The script:
+
+- Checks every file first (supported locale/service/platform, a matching `.md` doc, lowercase names without spaces, allowed file types) and uploads nothing if any check fails.
+- Skips files already in the bucket. If a file **changed**, it's skipped too, because the bucket has one URL for every branch and replacing it changes production immediately. Give the new version a new name (e.g. `-v2`) and update the link, or pass `--overwrite` if you really mean to replace it.
+- Warns about image links in the affected docs that point to files missing from the bucket.
 
 ---
 

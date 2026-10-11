@@ -1,2 +1,5 @@
 node_modules/
 .DS_Store
+# Local staging for images uploaded to GCS (never commit images)
+_gcs-upload/
+_diagram-src/
