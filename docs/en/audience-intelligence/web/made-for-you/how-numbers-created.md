@@ -259,6 +259,8 @@ This means your time series is a timeline of actual content, and any gap you see
 
 ### Overriding Dashboard Date Ranges
 
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/how-numbers-created/section-7.mp4" type="video/mp4"></video>
+
 You can lock individual charts to specific timeframes, so you can mix and match date ranges on a single dashboard:
 
 | Setting          | What the chart covers                                 |
@@ -296,6 +298,8 @@ If two items tie, they are sorted alphabetically or numerically, so your chart s
 
 ### How the "Other" Bar Works
 
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/how-numbers-created/section-8.mp4" type="video/mp4"></video>
+
 The "Other" bar doesn't just hide data; it keeps your analytics accurate.
 
 - It recalculates directly from the raw data, so unique counts (like total authors) and averages are never inflated.
@@ -313,6 +317,8 @@ The "Other" bar doesn't just hide data; it keeps your analytics accurate.
 For social post charts, you can click any bar to open a detailed list of the posts behind it. (This will expand to Google reviews, product reviews and conversations in the future.)
 
 ### What You See Is Exactly What Was Counted
+
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/made-for-you/how-numbers-created/section-9.mp4" type="video/mp4"></video>
 
 When you open a bar, you get an exact 1-to-1 match of the data behind that number. The detailed view inherits every filter, rule and date constraint applied to the chart.
 
