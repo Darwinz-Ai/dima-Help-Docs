@@ -209,7 +209,9 @@ This rule keeps your post metrics accurate instead of multiplying them by a busy
 
 Your Net Promoter Score (NPS) measures audience sentiment on an index from -100 to +100. The system calculates it by subtracting the share of negative feedback from the share of positive feedback:
 
-$$\text{NPS} = \left( \frac{\text{Positive} - \text{Negative}}{\text{Records with Sentiment}} \right) \times 100$$
+$$
+\text{NPS} = \left( \frac{\text{Positive} - \text{Negative}}{\text{Records with Sentiment}} \right) \times 100
+$$
 
 **Note:** NPS only uses records that have a sentiment. Any record without one is ignored entirely, so your score reflects real opinions rather than empty data points.
 
