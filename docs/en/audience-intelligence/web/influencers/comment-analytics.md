@@ -4,6 +4,7 @@ description: >-
   Learn how to see how people react to an influencer's posts about your brand,
   by analyzing the sentiment, emotion, topics and words in their comments.
 order: 4
+readingTime: 5
 ---
 
 # Influencer Reply Analytics

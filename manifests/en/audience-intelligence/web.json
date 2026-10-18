@@ -204,6 +204,13 @@
           "order": 3
         },
         {
+          "label": "Influencer Reply Analytics",
+          "slug": "influencers/comment-analytics",
+          "path": "en/audience-intelligence/web/influencers/comment-analytics.md",
+          "description": "Learn how to see how people react to an influencer's posts about your brand, by analyzing the sentiment, emotion, topics and words in their comments.",
+          "order": 4
+        },
+        {
           "label": "Influencer Impact Analytics",
           "slug": "influencers/impact-analysis",
           "path": "en/audience-intelligence/web/influencers/impact-analysis.md",

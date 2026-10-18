@@ -204,6 +204,13 @@
           "order": 3
         },
         {
+          "label": "تحليلات ردود المؤثرين",
+          "slug": "influencers/comment-analytics",
+          "path": "ar/audience-intelligence/web/influencers/comment-analytics.md",
+          "description": "تعرف على كيفية معرفة تفاعل الجمهور مع منشورات المؤثر عن علامتك التجارية، من خلال تحليل انطباع التعليقات ومشاعرها ومواضيعها وكلماتها.",
+          "order": 4
+        },
+        {
           "label": "تحليلات تأثير المؤثرين",
           "slug": "influencers/impact-analysis",
           "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
