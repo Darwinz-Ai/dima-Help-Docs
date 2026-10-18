@@ -1,9 +1,10 @@
 ---
 label: Filtering and Sorting Trends
 description: >-
-  Learn how to search, filter and sort the trends on the Explore tab, and how
-  to switch between countries.
+  Learn how to search, filter and sort the trends on the Explore tab, and how to
+  switch between countries.
 order: 3
+readingTime: 2
 ---
 
 # Filtering and Sorting Trends

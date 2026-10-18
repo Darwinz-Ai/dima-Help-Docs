@@ -4,6 +4,7 @@ description: >-
   Learn how to browse every trend from the last 24 hours, read what each trend
   card means, and dig into a trend's details.
 order: 2
+readingTime: 8
 ---
 
 # Exploring Trends

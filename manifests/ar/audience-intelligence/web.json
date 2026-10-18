@@ -298,6 +298,32 @@
           "order": 7
         }
       ]
+    },
+    {
+      "label": "Trend Analysis",
+      "items": [
+        {
+          "label": "قصص الترند",
+          "slug": "trend-analysis/story",
+          "path": "ar/audience-intelligence/web/trend-analysis/story.md",
+          "description": "تعرف على تحليل الاتجاهات وكيفية متابعة أبرز ترندات اليوم من خلال علامة تبويب القصة.",
+          "order": 1
+        },
+        {
+          "label": "استكشاف الترندات",
+          "slug": "trend-analysis/explore",
+          "path": "ar/audience-intelligence/web/trend-analysis/explore.md",
+          "description": "تعرف على كيفية تصفح جميع ترندات آخر 24 ساعة، وفهم ما تعنيه كل بطاقة ترند، والتعمق في تفاصيل أي ترند.",
+          "order": 2
+        },
+        {
+          "label": "فلترة الترندات وترتيبها",
+          "slug": "trend-analysis/filters",
+          "path": "ar/audience-intelligence/web/trend-analysis/filters.md",
+          "description": "تعرف على كيفية البحث في الترندات على علامة تبويب الاستكشاف وفلترتها وترتيبها، وكيفية التبديل بين الدول.",
+          "order": 3
+        }
+      ]
     }
   ]
 }

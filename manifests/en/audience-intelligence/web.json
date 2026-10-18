@@ -298,6 +298,32 @@
           "order": 7
         }
       ]
+    },
+    {
+      "label": "Trend Analysis",
+      "items": [
+        {
+          "label": "Trend Stories",
+          "slug": "trend-analysis/story",
+          "path": "en/audience-intelligence/web/trend-analysis/story.md",
+          "description": "Learn what Trend Analysis is and how to catch up on today's most interesting trends with the Story tab.",
+          "order": 1
+        },
+        {
+          "label": "Exploring Trends",
+          "slug": "trend-analysis/explore",
+          "path": "en/audience-intelligence/web/trend-analysis/explore.md",
+          "description": "Learn how to browse every trend from the last 24 hours, read what each trend card means, and dig into a trend's details.",
+          "order": 2
+        },
+        {
+          "label": "Filtering and Sorting Trends",
+          "slug": "trend-analysis/filters",
+          "path": "en/audience-intelligence/web/trend-analysis/filters.md",
+          "description": "Learn how to search, filter and sort the trends on the Explore tab, and how to switch between countries.",
+          "order": 3
+        }
+      ]
     }
   ]
 }

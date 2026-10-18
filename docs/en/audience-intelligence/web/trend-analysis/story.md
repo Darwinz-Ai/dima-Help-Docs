@@ -4,6 +4,7 @@ description: >-
   Learn what Trend Analysis is and how to catch up on today's most interesting
   trends with the Story tab.
 order: 1
+readingTime: 4
 ---
 
 # Catching Up with Trend Stories
