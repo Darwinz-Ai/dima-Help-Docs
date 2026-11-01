@@ -193,7 +193,7 @@
           "label": "Matched Influencers",
           "slug": "influencers/matched-influencers",
           "path": "en/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "Learn how to review your matched influencers, track their content, analyze risk assessments, and view posts about your brand.",
+          "description": "Learn how to review your matched influencers, track their content, analyze risk assessments, and view their posts and stories about your brand.",
           "order": 2
         },
         {
@@ -211,10 +211,17 @@
           "order": 4
         },
         {
+          "label": "Influencer Story Monitor",
+          "slug": "influencers/story-monitor",
+          "path": "en/audience-intelligence/web/influencers/story-monitor.md",
+          "description": "Learn how to watch your matched influencers' stories about your brand, browse and sort them in the Story Monitor, and save a story as a video or image.",
+          "order": 5
+        },
+        {
           "label": "Influencer Impact Analytics",
           "slug": "influencers/impact-analysis",
           "path": "en/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "Learn how to analyze influencer performance, compare platforms, and filter impact data.",
+          "description": "Learn how to measure the impact of your matched influencers' posts and stories, compare them side by side, and see which platforms and influencer sizes bring the most content.",
           "order": 19
         }
       ]

@@ -19,13 +19,15 @@ You can look at the comments across many posts at once, or at a single post's co
 
 ## 1. Opening Reply Analytics
 
-![Screenshot of a matched influencer card with the Posts About Me button highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/posts-about-me-button.png)
+![Screenshot of a matched influencer card with the Content Performance button highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/content-performance-button.png)
 
 1. Open the **Influencers** page from the main sidebar and go to **Matched Influencers**.
-2. On the influencer you want to analyze, click **Posts About Me**. This opens the influencer's posts about your company from the last 12 months.
-3. In the **Influencer Posts** menu, click **Reply Analytics**. Click **Monitor** to go back to the posts themselves.
+2. On the influencer you want to analyze, click **Content Performance**. This opens the influencer's posts about your company from the last 12 months.
+3. In the **Content Performance** menu, click **Reply Analytics**. Click **Post Monitor** to go back to the posts themselves.
 
-![Screenshot of the Reply Analytics page with the influencer list, the Influencer Posts menu, the page filters, the Comment filters bar and the charts labelled](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analytics-page.png)
+> **Note:** Reply Analytics only covers **posts**. Stories don't have public comments, so they aren't included. To watch an influencer's stories, use the **[Story Monitor](/en/guides/influencers/story-monitor)**.
+
+![Screenshot of the Reply Analytics page with the influencer list, the Content Performance menu, the page filters, the Comment filters bar and the charts labelled](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analytics-page.png)
 
 ### Switching influencers
 
@@ -45,9 +47,9 @@ The filters at the top of the page decide **which posts** are included. Reply An
 
 - **Search:** only include posts whose text contains your search.
 - **Date range:** only include posts from a period. It starts at the last 12 months. [Learn how to use the date filter here.](/en/guides/common/date-filter)
-- **Filter:** narrow the posts by their **Sentiment**, **Emotion** and **Platform** (General tab), and by **Influencers**, **Topic**, **Label** and **Type** (Content tab). Click **Apply** to update the page.
+- **Filter:** narrow the posts by their **Sentiment**, **Emotion** and **Platform** (General tab), and by **Topic**, **Label** and **Type** (Content tab). Click **Apply** to update the page.
 
-These filters are shared with the **Monitor** view, so you can switch between your posts and their comments without setting them up again.
+These filters are shared with the **Post Monitor** view, so you can switch between your posts and their comments without setting them up again.
 
 ---
 
@@ -63,7 +65,7 @@ The **Comment filters** bar above the charts filters the **comments themselves**
    - **Topic:** your company's topics. This dropdown only appears when your company has topics.
 2. Click **Apply** to update the charts. To clear the comment filters, click **Reset**.
 
-Your comment filters stay in place when you switch to **Monitor** and back.
+Your comment filters stay in place when you switch to **Post Monitor** and back.
 
 ![Diagram showing that the page filters choose the posts, the Comment filters choose comments on those posts, and the charts show the remaining comments](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analytics-filter-levels.png)
 
@@ -106,7 +108,7 @@ The **Comment Word Cloud** shows the words people use most in the comments. The 
 
 You can also check the comments on one post at a time:
 
-1. In the **Influencer Posts** menu, click **Monitor**.
+1. In the **Content Performance** menu, click **Post Monitor**.
 2. Click a post to open its **Post Details** panel.
 3. Under the post, the **Comment breakdown** shows:
    - **Sentiment:** how the post's comments split across positive, neutral and negative.
@@ -127,4 +129,4 @@ There are no comments that match your filters. Try widening the date range, clea
 It only appears when your company has topics set up. [Learn how to manage topics here.](/en/guides/manage/topics)
 
 **Can I analyze the comments of several influencers at once?**
-Yes. Click **Filter**, open the **Content** tab and pick several influencers under **Influencers**, then click **Apply**. If you clear the influencers there, the charts include all the influencers matched to your company.
+No. Reply Analytics looks at one influencer at a time. Pick another influencer from the list on the left to switch. To compare several influencers' content, use **[Influencer Impact Analytics](/en/guides/influencers/impact-analysis)**.

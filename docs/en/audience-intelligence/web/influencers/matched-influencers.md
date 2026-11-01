@@ -2,7 +2,7 @@
 label: Matched Influencers
 description: >-
   Learn how to review your matched influencers, track their content, analyze
-  risk assessments, and view posts about your brand.
+  risk assessments, and view their posts and stories about your brand.
 order: 2
 readingTime: 3
 ---
@@ -11,7 +11,7 @@ readingTime: 3
 
 <video controls=""><source src="https://dubble.so/media/video/0e28695e-5153-445d-82bb-272fd12b2f23" type="video/mp4"></video>
 
-The **Matched Influencers** tab displays all the creators from the general influencer pool that have been checked and matched against your company. Here, you can evaluate their brand fit, track their ongoing content, review detailed performance benchmarks, and see posts they have created about your brand.
+The **Matched Influencers** tab displays all the creators from the general influencer pool that have been checked and matched against your company. Here, you can evaluate their brand fit, track their ongoing content, review detailed performance benchmarks, and see the posts and stories they have created about your brand.
 
 ---
 
@@ -25,7 +25,9 @@ The **Matched Influencers** tab displays all the creators from the general influ
 
 3. Each matched influencer card displays a high-level summary along with two primary actions:
    - **Details:** Opens a dedicated, multi-tabbed analytics dashboard for that creator.
-   - **Posts About Me:** Displays all tracked posts created by that influencer that specifically mention or relate to your company.
+   - **Content Performance:** Displays all tracked posts and stories created by that influencer that specifically mention or relate to your company, in the **Post Monitor** and **Story Monitor**, along with **Reply Analytics** for their posts.
+
+4. When an influencer has recent stories about your company, a colorful ring appears around their picture. Click it to watch the stories right away. Once you've watched them, the ring turns grey. [Learn more about influencer stories here.](/en/guides/influencers/story-monitor)
 
 > **Note:** If your matched list is empty, you probably haven't checked or matched any influencers yet. [Learn how to match influencers here.](/en/guides/influencers/influencers-pool)
 
