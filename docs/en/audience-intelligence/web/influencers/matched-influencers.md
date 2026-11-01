@@ -9,7 +9,7 @@ readingTime: 3
 
 # Matched Influencers
 
-<video controls=""><source src="https://dubble.so/media/video/0e28695e-5153-445d-82bb-272fd12b2f23" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-influencers.mp4" type="video/mp4"></video>
 
 The **Matched Influencers** tab displays all the creators from the general influencer pool that have been checked and matched against your company. Here, you can evaluate their brand fit, track their ongoing content, review detailed performance benchmarks, and see the posts and stories they have created about your brand.
 
@@ -17,7 +17,7 @@ The **Matched Influencers** tab displays all the creators from the general influ
 
 ## 1. Accessing Your Matched List
 
-![Screenshot of the Influencers module with the Matched Influencers tab highlighted](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-list.png)
+![Screenshot of the Matched Influencers tab, with each influencer's Details and Content Performance buttons](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/matched-influencers/matched-list-v2.png)
 
 1. Navigate to the **Influencers** page using the main sidebar.
 

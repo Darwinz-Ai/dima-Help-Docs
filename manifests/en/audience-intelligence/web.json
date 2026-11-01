@@ -204,14 +204,14 @@
           "order": 3
         },
         {
-          "label": "Influencer Reply Analytics",
+          "label": "Reply Analytics",
           "slug": "influencers/comment-analytics",
           "path": "en/audience-intelligence/web/influencers/comment-analytics.md",
           "description": "Learn how to see how people react to an influencer's posts about your brand, by analyzing the sentiment, emotion, topics and words in their comments.",
           "order": 4
         },
         {
-          "label": "Influencer Story Monitor",
+          "label": "Story Monitor",
           "slug": "influencers/story-monitor",
           "path": "en/audience-intelligence/web/influencers/story-monitor.md",
           "description": "Learn how to watch your matched influencers' stories about your brand, browse and sort them in the Story Monitor, and save a story as a video or image.",

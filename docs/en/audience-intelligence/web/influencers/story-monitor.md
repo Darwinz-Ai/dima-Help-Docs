@@ -1,5 +1,5 @@
 ---
-label: Influencer Story Monitor
+label: Story Monitor
 description: >-
   Learn how to watch your matched influencers' stories about your brand, browse
   and sort them in the Story Monitor, and save a story as a video or image.
@@ -8,6 +8,8 @@ readingTime: 5
 ---
 
 # Influencer Story Monitor
+
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-monitor.mp4" type="video/mp4"></video>
 
 Influencers often mention your brand in **stories** as well as posts. Stories disappear after a day on social media, but dima keeps the ones about your company so you can watch them later.
 
@@ -23,7 +25,7 @@ The **Story Monitor** collects your matched influencers' stories about your comp
 2. On the influencer you want to check, click **Content Performance**.
 3. In the **Content Performance** menu, click **Story Monitor**. Click **Post Monitor** to go back to their posts, or **Reply Analytics** to see how people reacted to them.
 
-![Screenshot of the Story Monitor with the influencer list, the Content Performance menu, the recent stories strip and the story cards labelled](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-monitor-page.png)
+![Screenshot of the Story Monitor with the influencer list, the Content Performance menu, the recent stories strip and the story cards](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-monitor-page.png)
 
 The list on the left shows all the influencers matched to your company. Click another influencer to see their stories instead, or use the search field at the top of the list to find one.
 
@@ -33,9 +35,11 @@ The list on the left shows all the influencers matched to your company. Click an
 
 ## 2. Watching Recent Stories
 
-![Screenshot of the recent stories strip above the story cards, with an unwatched and a watched story ring](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/recent-stories-strip.png)
+![Screenshot of the recent stories strip, with each influencer's story ring, name and anticipated views](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/recent-stories-strip.png)
 
 The strip at the top of the Story Monitor shows the influencers with **recent stories**: stories posted in the last 24 hours. Each story stays in the strip for 24 hours after it was posted, just like on social media. After that, you can still find it in the story cards below.
+
+Under each influencer's name is the total **anticipated views** of their recent stories, explained in **Browsing All Stories** below.
 
 A colorful ring means there are stories you haven't watched yet. Once you've watched them, the ring turns grey.
 
@@ -43,7 +47,7 @@ A colorful ring means there are stories you haven't watched yet. Once you've wat
 
 Click an influencer in the strip to start watching. You can also click the ring around an influencer's picture on a story card, or on the **Matched Influencers** list (hover over it to see how many stories are waiting, e.g., _Watch 3 stories_).
 
-![Screenshot of the story player playing an influencer's video story, with the media description at the bottom and the save button at the top](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-player.png)
+![Screenshot of the story player showing an influencer's story, with the media description at the bottom and the pause and save buttons at the top](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-player.png)
 
 In the story player:
 
@@ -61,7 +65,7 @@ When there are no stories left to watch, dima lets you know you're all caught up
 
 ## 3. Browsing All Stories
 
-![Screenshot of the story cards in grid view, with the View settings and sort dropdowns open](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-cards.png)
+![Screenshot of the story cards in grid view, with the View settings dropdown open](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-cards.png)
 
 Below the strip, every story in your date range is shown as a card. Each card shows:
 
@@ -83,7 +87,7 @@ Use the buttons above the cards to change how they're shown:
 
 ## 4. Viewing a Story's Details
 
-![Screenshot of the Story Details panel showing the story with its playback controls and full media description](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-details.png)
+![Screenshot of the Story Details panel next to the story cards, showing the story and its full media description](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/story-details.png)
 
 Click a story card to open its **Story Details** panel. There, you can play the story with its controls and read its full media description. Click the card again, or close the panel, to go back.
 
@@ -97,7 +101,7 @@ The bar at the top of the page works the same way as in the **Post Monitor**:
 - **Date range:** only show stories from a period. [Learn how to use the date filter here.](/en/guides/common/date-filter)
 - **Filter:** narrow the stories by **Sentiment**, **Emotion** and **Platform** (General tab), and by **Topic** (Content tab). Click **Apply** to update the cards.
 
-![Screenshot of the filter panel's Content tab in the Story Monitor, with the posts-only note and the greyed-out Label and Type filters](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/posts-only-filters.png)
+![Screenshot of the filter panel's Content tab in the Story Monitor, with the posts-only note above the greyed-out Label and Type filters](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/story-monitor/posts-only-filter.png)
 
 > **Note:** **Label**, **Type**, **Groups** and **Own Pages** only apply to posts, so they are greyed out in the Story Monitor. To change them, go back to the **Post Monitor**.
 

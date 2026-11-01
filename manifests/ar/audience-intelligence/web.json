@@ -193,7 +193,7 @@
           "label": "المؤثّرون المتوافقون",
           "slug": "influencers/matched-influencers",
           "path": "ar/audience-intelligence/web/influencers/matched-influencers.md",
-          "description": "تعرف على كيفية مراجعة المؤثّرين المتوافقين معك، وتتبع محتواهم، وتحليل تقييمات المخاطر، وعرض المنشورات حول علامتك التجارية.",
+          "description": "تعرف على كيفية مراجعة المؤثّرين المتوافقين معك، وتتبع محتواهم، وتحليل تقييمات المخاطر، وعرض منشوراتهم وقصصهم حول علامتك التجارية.",
           "order": 2
         },
         {
@@ -211,10 +211,17 @@
           "order": 4
         },
         {
+          "label": "رصد قصص المؤثرين",
+          "slug": "influencers/story-monitor",
+          "path": "ar/audience-intelligence/web/influencers/story-monitor.md",
+          "description": "تعرف على كيفية مشاهدة قصص المؤثرين المتوافقين معك عن علامتك التجارية، وتصفحها وترتيبها في رصد القصص، وحفظ القصة كفيديو أو صورة.",
+          "order": 5
+        },
+        {
           "label": "تحليلات تأثير المؤثرين",
           "slug": "influencers/impact-analysis",
           "path": "ar/audience-intelligence/web/influencers/impact-analysis.md",
-          "description": "تعرف على كيفية تحليل أداء المؤثرين ومقارنة المنصات وتصفية بيانات التأثير.",
+          "description": "تعرف على كيفية قياس تأثير منشورات وقصص المؤثرين المتوافقين معك، ومقارنتهم جنبًا إلى جنب، ومعرفة المنصات وأحجام المؤثرين التي تجلب أكبر قدر من المحتوى.",
           "order": 19
         }
       ]

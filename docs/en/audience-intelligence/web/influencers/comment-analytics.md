@@ -1,5 +1,5 @@
 ---
-label: Influencer Reply Analytics
+label: Reply Analytics
 description: >-
   Learn how to see how people react to an influencer's posts about your brand,
   by analyzing the sentiment, emotion, topics and words in their comments.
@@ -9,7 +9,7 @@ readingTime: 5
 
 # Influencer Reply Analytics
 
-<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analysis-en.mp4" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analysis.mp4" type="video/mp4"></video>
 
 When an influencer posts about your brand, the comments under the post show how their audience actually reacted. **Reply Analytics** gathers the comments on an influencer's posts about your company and breaks them down by **sentiment**, **emotion**, **topic** and the **words** people use most.
 
@@ -27,7 +27,7 @@ You can look at the comments across many posts at once, or at a single post's co
 
 > **Note:** Reply Analytics only covers **posts**. Stories don't have public comments, so they aren't included. To watch an influencer's stories, use the **[Story Monitor](/en/guides/influencers/story-monitor)**.
 
-![Screenshot of the Reply Analytics page with the influencer list, the Content Performance menu, the page filters, the Comment filters bar and the charts labelled](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analytics-page.png)
+![Screenshot of the Reply Analytics page with the influencer list, the Content Performance menu, the page filters, the Comment filters bar and the charts](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/comment-analytics/comment-analytics-page-v2.png)
 
 ### Switching influencers
 

@@ -10,7 +10,7 @@ readingTime: 4
 
 # Influencer Impact Analytics
 
-<video controls=""><source src="https://dubble.so/media/video/acceddcd-358e-4c8b-b8a2-9a1cbf583176" type="video/mp4"></video>
+<video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/impact-analysis/impact-analytics.mp4" type="video/mp4"></video>
 
 The **Influencer Impact Analytics** page shows how much content your matched influencers have published about your company, both **posts** and **stories**, and how far it reached. Use it to see who is delivering, compare influencers side by side, and spot which platforms and influencer sizes bring the most content.
 
@@ -18,7 +18,7 @@ The **Influencer Impact Analytics** page shows how much content your matched inf
 
 ## 1. Opening Impact Analytics
 
-![Screenshot of the Influencer Impact Analytics page with the scorecards, the Influencer Performance table and the two content distribution cards labelled](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/impact-analysis/impact-dashboard.png)
+![Screenshot of the Influencer Impact Analytics page with the scorecards, the Influencer Performance table and the two content distribution cards](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/impact-analysis/impact-dashboard.png)
 
 1. Open the **Influencers** page from the main sidebar.
 2. Click **Influencer Impact Analytics**.
@@ -50,7 +50,7 @@ The **Influencer Performance** table lists each influencer with their follower c
 - **Posts:** the posts' **Views**, **Engagement** (likes, comments and shares) and **Count**.
 - **Stories:** the stories' **Est. Views** and **Count**.
 
-Under each count, dima shows how many of the pieces the influencer **authored** themselves and how many were a **collab**, where they were tagged as a collaborator on someone else's content.
+Under the posts count, dima shows how many of the posts the influencer **authored** themselves and how many were a **collab**, where they were tagged as a collaborator on someone else's post.
 
 Click an influencer's row to open their content in a new tab, where you can browse it in the **Post Monitor** and **Story Monitor**.
 
@@ -58,12 +58,12 @@ Click an influencer's row to open their content in a new tab, where you can brow
 
 ## 4. Seeing Where the Content Comes From
 
-![Screenshot of the Content by Platform and Content by Influencer Size cards with a row's tooltip open](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/impact-analysis/content-distribution.png)
+![Screenshot of the Content by Platform and Content by Influencer Size cards, with posts and stories shown in each bar](https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/influencers/impact-analysis/content-distribution.png)
 
 Two cards at the bottom break the content down, with **posts** and **stories** shown in different colors in each bar:
 
 - **Content by Platform:** how much content went out on each platform, such as Instagram, TikTok or YouTube.
-- **Content by Influencer Size:** how much content came from **Nano**, **Micro**, **Macro** and **Mega** influencers. Influencers dima hasn't sized yet are listed as **Pending**.
+- **Content by Influencer Size:** how much content came from **Nano**, **Micro**, **Mid**, **Macro** and **Mega** influencers. Influencers dima hasn't sized yet are listed as **Pending**.
 
 Each row shows how many influencers it covers and its share of all the content. Hover over a row to see its posts and stories counts and the influencers behind them. Click a row to open that content in a new tab.
 
