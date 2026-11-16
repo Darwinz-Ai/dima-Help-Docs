@@ -154,6 +154,39 @@
       ]
     },
     {
+      "label": "الظهور في الذكاء الاصطناعي",
+      "items": [
+        {
+          "label": "نظرة عامة على الظهور في الذكاء الاصطناعي",
+          "slug": "ai-visibility/overview",
+          "path": "ar/audience-intelligence/web/ai-visibility/overview.md",
+          "description": "تعرف على عدد المرات التي تذكر فيها محركات الذكاء الاصطناعي مثل ChatGPT وGemini شركتك، وكيف تقارن بمنافسيك، وما يجب فعله لتظهر أكثر.",
+          "order": 1
+        },
+        {
+          "label": "انطباع الذكاء الاصطناعي",
+          "slug": "ai-visibility/ai-perception",
+          "path": "ar/audience-intelligence/web/ai-visibility/ai-perception.md",
+          "description": "تعرف على كيفية وصف محركات الذكاء الاصطناعي لشركتك: انطباع إجاباتها، والدور الذي تؤديه فيها، وما تربطه بك، والمصادر التي تستشهد بها.",
+          "order": 2
+        },
+        {
+          "label": "اتجاهات الظهور في الذكاء الاصطناعي",
+          "slug": "ai-visibility/trends",
+          "path": "ar/audience-intelligence/web/ai-visibility/trends.md",
+          "description": "تعرف على كيفية متابعة ظهورك في الذكاء الاصطناعي شهرًا بعد شهر، ومقارنته بمنافسيك، ومعرفة الأشهر التي تحتاج إلى نظرة أدق.",
+          "order": 3
+        },
+        {
+          "label": "فلترة الظهور في الذكاء الاصطناعي",
+          "slug": "ai-visibility/filters",
+          "path": "ar/audience-intelligence/web/ai-visibility/filters.md",
+          "description": "تعرف على كيفية تحديد إجابات الذكاء الاصطناعي التي يتم احتسابها، حسب لغة السؤال ونوعه وموضوعه والشخصية.",
+          "order": 4
+        }
+      ]
+    },
+    {
       "label": "تحليل المحادثات",
       "items": [
         {

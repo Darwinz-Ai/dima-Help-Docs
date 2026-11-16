@@ -16,6 +16,7 @@ export const GROUP_ORDER = [
     "Monitor",
     "Made For You",
     "Trend Analysis",
+    "Ai Visibility",
     "Conversation Analysis",
     "Influencers",
     "Locations",
@@ -24,7 +25,12 @@ export const GROUP_ORDER = [
 ];
 
 export const GROUP_TRANSLATIONS: Record<string, Record<string, string>> = {
+    // Folder names that title-casing gets wrong
+    en: {
+        "Ai Visibility": "AI Visibility",
+    },
     ar: {
+        "Ai Visibility": "الظهور في الذكاء الاصطناعي",
         "Getting Started": "البدء",
         "Brands": "الجهات",
         "Common": "شائع",

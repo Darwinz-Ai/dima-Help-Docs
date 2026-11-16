@@ -3,3 +3,4 @@ node_modules/
 # Local staging for images uploaded to GCS (never commit images)
 _gcs-upload/
 _diagram-src/
+_media-originals/

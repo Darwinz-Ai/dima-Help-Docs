@@ -154,6 +154,39 @@
       ]
     },
     {
+      "label": "AI Visibility",
+      "items": [
+        {
+          "label": "AI Visibility Overview",
+          "slug": "ai-visibility/overview",
+          "path": "en/audience-intelligence/web/ai-visibility/overview.md",
+          "description": "Learn how often AI engines like ChatGPT and Gemini mention your brand, how you compare with your competitors, and what to do to show up more often.",
+          "order": 1
+        },
+        {
+          "label": "AI Perception",
+          "slug": "ai-visibility/ai-perception",
+          "path": "en/audience-intelligence/web/ai-visibility/ai-perception.md",
+          "description": "Learn how AI engines describe your brand: the sentiment of their answers, the part you play in them, what they associate you with, and the sources they cite.",
+          "order": 2
+        },
+        {
+          "label": "AI Visibility Trends",
+          "slug": "ai-visibility/trends",
+          "path": "en/audience-intelligence/web/ai-visibility/trends.md",
+          "description": "Learn how to follow your AI visibility month by month, compare it with your competitors, and spot the months that need a closer look.",
+          "order": 3
+        },
+        {
+          "label": "Filtering AI Visibility",
+          "slug": "ai-visibility/filters",
+          "path": "en/audience-intelligence/web/ai-visibility/filters.md",
+          "description": "Learn how to narrow down which AI answers are counted, by prompt language, prompt type, prompt topic and persona.",
+          "order": 4
+        }
+      ]
+    },
+    {
       "label": "Conversation Analysis",
       "items": [
         {
