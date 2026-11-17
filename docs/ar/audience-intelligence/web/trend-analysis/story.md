@@ -80,8 +80,8 @@ readingTime: 3
 
 ---
 
-## 5. القصص في صفحة الجهات
+## 5. القصص في الصفحة الرئيسية
 
 <video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/ar/audience-intelligence/web/trend-analysis/story/brands-page-stories.mp4" type="video/mp4"></video>
 
-تظهر قصص الترند نفسها أيضًا في [صفحة الجهات](/ar/brands)، لتتمكن من متابعتها دون مغادرتها. القصص التي شاهدتها مشتركة بين الصفحتين، فلن تشاهد القصة نفسها مرتين.
+تظهر قصص الترند نفسها أيضًا في [الصفحة الرئيسية](/ar/home)، لتتمكن من متابعتها دون مغادرتها. القصص التي شاهدتها مشتركة بين الصفحتين، فلن تشاهد القصة نفسها مرتين.

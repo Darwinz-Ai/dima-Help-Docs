@@ -16,19 +16,19 @@
       ]
     },
     {
-      "label": "Brands",
+      "label": "Home",
       "items": [
         {
-          "label": "Adding a Company",
-          "slug": "brands/add-company",
-          "path": "en/audience-intelligence/web/brands/add-company.md",
-          "description": "Learn how to define a brand or subject matter in dima to start monitoring social media posts.",
+          "label": "Adding a Tracker",
+          "slug": "home/add-tracker",
+          "path": "en/audience-intelligence/web/home/add-tracker.md",
+          "description": "Learn how to set up a tracker in dima to start following a brand, topic or industry on social media.",
           "order": 1
         },
         {
           "label": "Switching Brands",
-          "slug": "brands/switching-brands",
-          "path": "en/audience-intelligence/web/brands/switching-brands.md",
+          "slug": "home/switching-brands",
+          "path": "en/audience-intelligence/web/home/switching-brands.md",
           "description": "Learn how to quickly switch your active workspace to view data and reports for a different company.",
           "order": 999
         }

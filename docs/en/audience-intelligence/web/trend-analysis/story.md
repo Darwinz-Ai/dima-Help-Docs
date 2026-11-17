@@ -80,8 +80,8 @@ To dig deeper into a trend, click **Open in Explore**: dima switches to the Expl
 
 ---
 
-## 5. Stories on the Brands Page
+## 5. Stories on the Home Page
 
 <video controls=""><source src="https://storage.googleapis.com/mediamonitor/dimabothelp/images/en/audience-intelligence/web/trend-analysis/story/brands-page-stories.mp4" type="video/mp4"></video>
 
-The same trending stories also appear on the [Brands Page](/en/brands), so you can catch up without leaving it. Watched stories are shared between both pages, so you won't see the same story twice.
+The same trending stories also appear on the [Home page](/en/home), so you can catch up without leaving it. Watched stories are shared between both pages, so you won't see the same story twice.

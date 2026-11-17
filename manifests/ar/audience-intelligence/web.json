@@ -16,19 +16,19 @@
       ]
     },
     {
-      "label": "الجهات",
+      "label": "الرئيسية",
       "items": [
         {
-          "label": "إضافة شركة",
-          "slug": "brands/add-company",
-          "path": "ar/audience-intelligence/web/brands/add-company.md",
-          "description": "تعرف على كيفية تحديد علامة تجارية أو موضوع في ديما لبدء رصد منشورات وسائل التواصل الاجتماعي.",
+          "label": "إضافة متتبِّع",
+          "slug": "home/add-tracker",
+          "path": "ar/audience-intelligence/web/home/add-tracker.md",
+          "description": "تعرف على كيفية إعداد متتبِّع في ديما لبدء متابعة شركة أو موضوع أو قطاع على وسائل التواصل الاجتماعي.",
           "order": 1
         },
         {
           "label": "تبديل العلامات التجارية",
-          "slug": "brands/switching-brands",
-          "path": "ar/audience-intelligence/web/brands/switching-brands.md",
+          "slug": "home/switching-brands",
+          "path": "ar/audience-intelligence/web/home/switching-brands.md",
           "description": "تعرف على كيفية التبديل السريع لمساحة العمل النشطة الخاصة بك لعرض البيانات والتقارير لشركة مختلفة.",
           "order": 999
         }

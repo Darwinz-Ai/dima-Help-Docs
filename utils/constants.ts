@@ -11,7 +11,7 @@ export const MEDIA_PUBLIC_BASE_URL = `https://storage.googleapis.com/${GCS_BUCKE
 export const ALLOWED_MEDIA_EXTENSIONS = [".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg", ".mp4", ".webm"];
 export const GROUP_ORDER = [
     "Getting Started",
-    "Brands",
+    "Home",
     "Common",
     "Monitor",
     "Made For You",
@@ -32,7 +32,7 @@ export const GROUP_TRANSLATIONS: Record<string, Record<string, string>> = {
     ar: {
         "Ai Visibility": "الظهور في الذكاء الاصطناعي",
         "Getting Started": "البدء",
-        "Brands": "الجهات",
+        "Home": "الرئيسية",
         "Common": "شائع",
         "Monitor": "الرصد",
         "Manage": "الإدارة",
